@@ -1,4 +1,4 @@
-.PHONY: all build normalize upload status scrape conference clean install
+.PHONY: all build normalize upload status scrape process full clean install
 
 # Default: build JSON from latest data
 all: build
@@ -13,20 +13,36 @@ normalize:
 	python run.py
 
 # Build + upload to Google Drive
-upload: build
+upload:
 	python run.py --upload
 
 # Show conference coverage status
 status:
 	python run.py --status
 
-# Full pipeline: scrape → normalize → build → upload
-full:
-	python run.py --from-scrape --normalize --upload
+# Scrape one conference:  make scrape KEY=AEA
+scrape:
+	python run.py --scrape $(KEY)
 
-# Run pipeline for one conference: make conference KEY=AEA
-conference:
-	python run.py --conference $(KEY)
+# Scrape all conferences
+scrape-all:
+	python run.py --scrape-all
+
+# Process one conference (sheet + Drive):  make process KEY=AEA
+process:
+	python run.py --process $(KEY)
+
+# Process all conferences
+process-all:
+	python run.py --process-all
+
+# Full pipeline for one conference:  make full KEY=AEA
+full:
+	python run.py --full $(KEY)
+
+# Full pipeline for all conferences
+full-all:
+	python run.py --full-all
 
 # Install package in development mode
 install:
