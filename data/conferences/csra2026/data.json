@@ -1,0 +1,194 @@
+{
+  "conference": {
+    "name": "11th Bank of Finland and ESRB Joint Conference on AI and Systemic Risk Analytics",
+    "short_name": "CSRA",
+    "year": 2026,
+    "start_date": "2026-06-03",
+    "end_date": "2026-06-04",
+    "location": "Helsinki, Finland"
+  },
+  "scrape_metadata": {
+    "scraped_at": "2026-06-13T00:00:00Z",
+    "source_url": "https://www.suomenpankki.fi/en/money-and-banking/events/2026/ai-and-systemic-risk-analytics/",
+    "program_available": true,
+    "program_type": "web",
+    "errors": []
+  },
+  "sessions": [
+    {
+      "session_title": "Day 1 Opening & Welcome",
+      "date": "2026-06-03",
+      "time": "09:00",
+      "papers": [
+        {
+          "title": "Opening remarks",
+          "authors": [
+            "Olli Rehn (Governor, Bank of Finland)"
+          ],
+          "presenter": "Olli Rehn"
+        }
+      ]
+    },
+    {
+      "session_title": "Keynote 1: Generative AI for Economics and Finance",
+      "date": "2026-06-03",
+      "time": "09:30",
+      "papers": [
+        {
+          "title": "Generative AI for Economics and Finance Research",
+          "authors": [
+            "Anton Korinek (University of Virginia)"
+          ],
+          "presenter": "Anton Korinek"
+        }
+      ]
+    },
+    {
+      "session_title": "Session 1: AI and Financial Markets",
+      "date": "2026-06-03",
+      "time": "10:45",
+      "papers": [
+        {
+          "title": "When ChatGPT Stops Talking: Generative AI and Retail Herding",
+          "authors": [
+            "Xiaoxue He (Lancaster University)"
+          ],
+          "presenter": "Xiaoxue He"
+        },
+        {
+          "title": "Corporate AI Adoption and Employment: Evidence from Earnings Calls",
+          "authors": [
+            "Rice (Central Bank of Ireland)"
+          ],
+          "presenter": "Rice"
+        }
+      ]
+    },
+    {
+      "session_title": "Session 2: Financial Stability and AI",
+      "date": "2026-06-03",
+      "time": "13:30",
+      "papers": [
+        {
+          "title": "Financial Stability Implications of Generative AI",
+          "authors": [
+            "S.J. Lee (Federal Reserve Board)"
+          ],
+          "presenter": "S.J. Lee"
+        },
+        {
+          "title": "A SPOT in the dark: Using AI to assess financial stability risks",
+          "authors": [
+            "Kellner (ECB)"
+          ],
+          "presenter": "Kellner"
+        }
+      ]
+    },
+    {
+      "session_title": "Expert Talk",
+      "date": "2026-06-03",
+      "time": "15:00",
+      "papers": [
+        {
+          "title": "AI and financial system interdependencies",
+          "authors": [
+            "Paul Hiebert (Director, FSB)"
+          ],
+          "presenter": "Paul Hiebert"
+        }
+      ]
+    },
+    {
+      "session_title": "Session 3: Digital Finance and Crypto",
+      "date": "2026-06-04",
+      "time": "09:00",
+      "papers": [
+        {
+          "title": "Banking with Stablecoins",
+          "authors": [
+            "Agur (IMF)"
+          ],
+          "presenter": "Agur"
+        },
+        {
+          "title": "Tokenized Stocks",
+          "authors": [
+            "Rabetti",
+            "Zhang"
+          ],
+          "presenter": "Rabetti"
+        }
+      ]
+    },
+    {
+      "session_title": "Keynote 2: Systemic Risk in an Age of Uncertainty",
+      "date": "2026-06-04",
+      "time": "10:30",
+      "papers": [
+        {
+          "title": "Systemic risk in an age of uncertainty",
+          "authors": [
+            "Marja Nykänen (Deputy Governor, Bank of Finland)"
+          ],
+          "presenter": "Marja Nykänen"
+        }
+      ]
+    },
+    {
+      "session_title": "Session 4: AI and Banking",
+      "date": "2026-06-04",
+      "time": "11:30",
+      "papers": [
+        {
+          "title": "Artificial Intelligence and Risk-Taking in Banking",
+          "authors": [
+            "Nistor"
+          ],
+          "presenter": "Nistor"
+        }
+      ]
+    },
+    {
+      "session_title": "Panel: The Future of AI in Financial Regulation",
+      "date": "2026-06-04",
+      "time": "13:30",
+      "papers": []
+    },
+    {
+      "session_title": "Poster Session",
+      "date": "2026-06-04",
+      "time": "14:30",
+      "papers": [
+        {
+          "title": "AI and Climate Risk Assessment",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Machine Learning for Macroprudential Policy",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "NLP for Financial Stability Monitoring",
+          "authors": [],
+          "presenter": ""
+        }
+      ]
+    },
+    {
+      "session_title": "Closing Keynote",
+      "date": "2026-06-04",
+      "time": "15:30",
+      "papers": [
+        {
+          "title": "Closing remarks and future directions",
+          "authors": [],
+          "presenter": ""
+        }
+      ]
+    }
+  ],
+  "participants": []
+}

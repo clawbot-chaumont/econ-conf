@@ -1,0 +1,870 @@
+{
+  "conference": {
+    "name": "Royal Economic Society Annual Conference",
+    "short_name": "RES 2026",
+    "year": 2026,
+    "start_date": "2026-07-06",
+    "end_date": "2026-07-08",
+    "location": "Newcastle, United Kingdom",
+    "extras": {
+      "extras": {
+        "edition": "RES Annual Conference",
+        "venue": "Newcastle University",
+        "city": "Newcastle",
+        "country": "United Kingdom",
+        "website": "https://res.org.uk/event-listing/res-2026-annual-conference/",
+        "program_url": "https://virtual.oxfordabstracts.com/event/76093/program",
+        "organizer": "Royal Economic Society",
+        "description": "Annual conference of the Royal Economic Society.",
+        "extras": {
+          "keynote_speakers": [
+            "Sir Chris Pissarides (LSE) - Presidential Address",
+            "Patrick Kline (UC Berkeley) - Sargan Lecture",
+            "Ekaterina Zhuravskaya (PSE) - Economic Journal Lecture",
+            "Manasi Deshpande (University of Chicago) - Hahn Lecture",
+            "John Van Reenen (LSE/MIT) - Headline Lecture"
+          ]
+        }
+      }
+    }
+  },
+  "scrape_metadata": {
+    "scraped_at": "2026-06-13T07:56:28.597291+00:00",
+    "source_url": "https://res.org.uk/event-listing/res-2026-annual-conference/",
+    "program_url": "https://virtual.oxfordabstracts.com/event/76093/program",
+    "script_name": "scrape_all_v2.py",
+    "program_available": true,
+    "program_type": "web",
+    "notes": "Converted from RES archive: 123 sessions (keynotes + special sessions + general sessions). Paper titles within sessions require JS interaction on Oxford Abstracts.",
+    "errors": []
+  },
+  "sessions": [
+    {
+      "session_title": "Welcome to Conference: Professor Imran Rasul, RES Past-President",
+      "date": "2026-07-06",
+      "time": "10:45-11:00",
+      "papers": []
+    },
+    {
+      "session_title": "Presidential Address: Professor Sir Chris Pissarides",
+      "chair": "Professor Imran Rasul",
+      "date": "2026-07-06",
+      "time": "11:00-12:00",
+      "room": "Frederick Douglass Centre - Main Lecture Theatre (0.41)",
+      "papers": []
+    },
+    {
+      "session_title": "RES Sargan Lecture: Repairing Locally Misspecified GMM: An Empirical Bayes Approach",
+      "chair": "Professor Dennis Kristensen",
+      "date": "2026-07-07",
+      "time": "09:15-10:15",
+      "room": "Frederick Douglass Centre - Main Lecture Theatre (0.41)",
+      "papers": []
+    },
+    {
+      "session_title": "The Economic Journal Lecture: Internet and political outcomes",
+      "chair": "Associate Professor Damian Clarke",
+      "date": "2026-07-07",
+      "time": "16:15-17:15",
+      "room": "Frederick Douglass Centre - Main Lecture Theatre (0.41)",
+      "papers": []
+    },
+    {
+      "session_title": "The challenges and opportunities of leadership in Economics and the wider Economy",
+      "chair": "Professor Jo Swaffield",
+      "date": "2026-07-07",
+      "time": "17:15-18:15",
+      "room": "Frederick Douglass Centre - Main Lecture Theatre (0.41)",
+      "papers": []
+    },
+    {
+      "session_title": "RES Hahn Lecture: Designing the Social Safety Net",
+      "chair": "Professor Imran Rasul",
+      "date": "2026-07-08",
+      "time": "09:15-10:15",
+      "room": "Frederick Douglass Centre - Main Lecture Theatre (0.41)",
+      "papers": []
+    },
+    {
+      "session_title": "Productivity, Innovation, and the Future of Growth (RES Headline Lecture 2026)",
+      "chair": "Ms Frances Haque",
+      "date": "2026-07-08",
+      "time": "16:15-17:15",
+      "room": "Frederick Douglass Centre - Main Lecture Theatre (0.41)",
+      "papers": []
+    },
+    {
+      "session_title": "Special Session 1: How Norms, Transparency, and Infrastructure Shape Economic Behaviour",
+      "date": "2026-07-06",
+      "time": "14:30-15:45",
+      "papers": []
+    },
+    {
+      "session_title": "Special Session 2: Global Inequality",
+      "date": "2026-07-06",
+      "time": "14:30-15:45",
+      "papers": []
+    },
+    {
+      "session_title": "Special Session 3: Monetary Policy: New Tools in an Evolving Financial Landscape",
+      "date": "2026-07-06",
+      "time": "14:30-15:45",
+      "papers": []
+    },
+    {
+      "session_title": "Special Session 4: Pedagogy Review",
+      "date": "2026-07-06",
+      "time": "14:30-15:45",
+      "papers": []
+    },
+    {
+      "session_title": "Special Session 5: Transforming Working Lives — Evidence from Two ESRC Projects",
+      "date": "2026-07-06",
+      "time": "14:30-15:45",
+      "papers": []
+    },
+    {
+      "session_title": "Special Session 6: Econometrics Journal - Bayesian Econometrics",
+      "date": "2026-07-07",
+      "time": "10:30-11:45",
+      "papers": []
+    },
+    {
+      "session_title": "Special Session 7: The growth mission 12 months on: a research hackathon",
+      "date": "2026-07-07",
+      "time": "10:30-11:45",
+      "papers": []
+    },
+    {
+      "session_title": "Special Session 8: Behavioural and Experimental Economists UK (BEE-UK): Building a UK-wide Experimental Community",
+      "chair": "Dr Matteo Gallizzi; Dr Fabio Tufano",
+      "date": "2026-07-07",
+      "time": "10:30-11:45",
+      "papers": []
+    },
+    {
+      "session_title": "Special Session 9: A Conversation About Diversity: Priorities, Tools and the Economics Pipeline",
+      "date": "2026-07-07",
+      "time": "10:30-11:45",
+      "papers": []
+    },
+    {
+      "session_title": "Special Session 10: Economics of Football Regulation",
+      "chair": "Dr Luke Garrod",
+      "date": "2026-07-07",
+      "time": "10:30-11:45",
+      "papers": []
+    },
+    {
+      "session_title": "Special Session 11: The Economic Journal Special Session — Replicability in Economics – Experiences of Past and Current RES Data Editors",
+      "chair": "Associate Professor Damian Clarke",
+      "date": "2026-07-08",
+      "time": "10:30-11:45",
+      "papers": []
+    },
+    {
+      "session_title": "Special Session 12: Fiscal sustainability in the UK",
+      "chair": "Professor David Miles OBE",
+      "date": "2026-07-08",
+      "time": "10:30-11:45",
+      "papers": []
+    },
+    {
+      "session_title": "Special Session 13: The impact of migration on the UK economy",
+      "chair": "Dr John Morrow",
+      "date": "2026-07-08",
+      "time": "10:30-11:45",
+      "papers": []
+    },
+    {
+      "session_title": "Special Session 14: Expanding possibilities for economic research with linked administrative data",
+      "date": "2026-07-08",
+      "time": "10:30-11:45",
+      "papers": []
+    },
+    {
+      "session_title": "Special Session 15: Contributions to the Economics of Creativity. The origin of creatives and creative ideas: peer effects, family background, and the impact of Artificial Intelligence",
+      "chair": "Professor Giorgio Fazio",
+      "date": "2026-07-08",
+      "time": "10:30-11:45",
+      "papers": []
+    },
+    {
+      "session_title": "G09: General Economics",
+      "date": "2026-07-06",
+      "time": "12:15-13:30",
+      "room": "Frederick Douglass Centre: 1.18",
+      "papers": []
+    },
+    {
+      "session_title": "G13: Labour Economics 1",
+      "date": "2026-07-06",
+      "time": "12:15-13:30",
+      "room": "Urban Sciences Building: G.003",
+      "papers": []
+    },
+    {
+      "session_title": "G02: Development Economics 1",
+      "date": "2026-07-06",
+      "time": "12:15-13:30",
+      "room": "Frederick Douglass Centre: G.06",
+      "papers": []
+    },
+    {
+      "session_title": "S03: Econometrics (Speed Session)",
+      "chair": "Professor Mary S. Morgan",
+      "date": "2026-07-06",
+      "time": "12:15-13:30",
+      "room": "Business School (NUBS) 4.25",
+      "papers": []
+    },
+    {
+      "session_title": "S02: Development (Speed Session)",
+      "date": "2026-07-06",
+      "time": "12:15-13:30",
+      "room": "Business School (NUBS) 4.20",
+      "papers": []
+    },
+    {
+      "session_title": "G12: International Economics 1",
+      "date": "2026-07-06",
+      "time": "12:15-13:30",
+      "room": "Frederick Douglass Centre: 2.16",
+      "papers": []
+    },
+    {
+      "session_title": "G11: Industrial Organisation 1",
+      "date": "2026-07-06",
+      "time": "12:15-13:30",
+      "room": "Frederick Douglass Centre: 1.16",
+      "papers": []
+    },
+    {
+      "session_title": "G10: Health, Education, and Welfare 1",
+      "date": "2026-07-06",
+      "time": "12:15-13:30",
+      "room": "Frederick Douglass Centre: 1.17",
+      "papers": []
+    },
+    {
+      "session_title": "S01: Behavioural / Experimental / Culture (Speed Session)",
+      "date": "2026-07-06",
+      "time": "12:15-13:30",
+      "room": "Business School (NUBS): 4.06",
+      "papers": []
+    },
+    {
+      "session_title": "G03: Development Economics: Macro / Growth 1",
+      "date": "2026-07-06",
+      "time": "12:15-13:30",
+      "room": "Boardroom 3.41 (3rd floor) FDC Building",
+      "papers": []
+    },
+    {
+      "session_title": "G14: Macroeconomics 1",
+      "date": "2026-07-06",
+      "time": "12:15-13:30",
+      "room": "Frederick Douglass Centre: 2.14",
+      "papers": []
+    },
+    {
+      "session_title": "G05: Economic History",
+      "date": "2026-07-06",
+      "time": "12:15-13:30",
+      "room": "Frederick Douglass Centre: G.56",
+      "papers": []
+    },
+    {
+      "session_title": "G04: Econometrics 1",
+      "date": "2026-07-06",
+      "time": "12:15-13:30",
+      "room": "Business School (NUBS): 2.03",
+      "papers": []
+    },
+    {
+      "session_title": "G06: Economic Theory 1",
+      "date": "2026-07-06",
+      "time": "12:15-13:30",
+      "room": "Frederick Douglass Centre: 1.15",
+      "papers": []
+    },
+    {
+      "session_title": "G07: Environmental Economics 1",
+      "date": "2026-07-06",
+      "time": "12:15-13:30",
+      "room": "Frederick Douglass Centre: G.07",
+      "papers": []
+    },
+    {
+      "session_title": "G01: Behavioural / Experimental Economics 1",
+      "date": "2026-07-06",
+      "time": "12:15-13:30",
+      "room": "Urban Sciences Building: G.002",
+      "papers": []
+    },
+    {
+      "session_title": "G08: Finance 1",
+      "date": "2026-07-06",
+      "time": "12:15-13:30",
+      "room": "Urban Sciences Building: G.004",
+      "papers": []
+    },
+    {
+      "session_title": "Session 40",
+      "date": "2026-07-06",
+      "time": "12:15-13:30",
+      "room": "Frederick Douglass Centre: 2.14",
+      "papers": []
+    },
+    {
+      "session_title": "G25: Labour Economics 2",
+      "date": "2026-07-06",
+      "time": "16:15-17:30",
+      "room": "Frederick Douglass Centre: 1.18",
+      "papers": []
+    },
+    {
+      "session_title": "G26: Macroeconomics 2",
+      "date": "2026-07-06",
+      "time": "16:15-17:30",
+      "room": "Urban Sciences Building: G.003",
+      "papers": []
+    },
+    {
+      "session_title": "G16: Development Economics 2",
+      "date": "2026-07-06",
+      "time": "16:15-17:30",
+      "papers": []
+    },
+    {
+      "session_title": "G18: Econometrics 2",
+      "date": "2026-07-06",
+      "time": "16:15-17:30",
+      "papers": []
+    },
+    {
+      "session_title": "G19: Economic Theory 2",
+      "date": "2026-07-06",
+      "time": "16:15-17:30",
+      "papers": []
+    },
+    {
+      "session_title": "G20: Environmental Economics 2",
+      "date": "2026-07-06",
+      "time": "16:15-17:30",
+      "papers": []
+    },
+    {
+      "session_title": "G21: Finance 2",
+      "date": "2026-07-06",
+      "time": "16:15-17:30",
+      "papers": []
+    },
+    {
+      "session_title": "G22: Health, Education, and Welfare 2",
+      "date": "2026-07-06",
+      "time": "16:15-17:30",
+      "papers": []
+    },
+    {
+      "session_title": "G23: Industrial Organisation 2",
+      "date": "2026-07-06",
+      "time": "16:15-17:30",
+      "papers": []
+    },
+    {
+      "session_title": "G24: International Economics 2",
+      "date": "2026-07-06",
+      "time": "16:15-17:30",
+      "papers": []
+    },
+    {
+      "session_title": "S04: Economic Theory (Speed Session)",
+      "date": "2026-07-06",
+      "time": "16:15-17:30",
+      "papers": []
+    },
+    {
+      "session_title": "G27: Macroeconomics: Inflation and Macro Finance",
+      "date": "2026-07-06",
+      "time": "16:15-17:30",
+      "papers": []
+    },
+    {
+      "session_title": "G17: Development Economics: Macro / Growth 2",
+      "date": "2026-07-06",
+      "time": "16:15-17:30",
+      "papers": []
+    },
+    {
+      "session_title": "G28: Political Economy 1",
+      "date": "2026-07-06",
+      "time": "16:15-17:30",
+      "papers": []
+    },
+    {
+      "session_title": "S05: Finance (Speed Session)",
+      "date": "2026-07-06",
+      "time": "16:15-17:30",
+      "papers": []
+    },
+    {
+      "session_title": "S06: Health (Speed Session)",
+      "date": "2026-07-06",
+      "time": "16:15-17:30",
+      "papers": []
+    },
+    {
+      "session_title": "G15: Behavioural / Experimental Economics 2",
+      "date": "2026-07-06",
+      "time": "16:15-17:30",
+      "papers": []
+    },
+    {
+      "session_title": "G33: Financial Economics 1",
+      "date": "2026-07-07",
+      "time": "12:15-13:30",
+      "papers": []
+    },
+    {
+      "session_title": "S08: International Economics (Speed Session)",
+      "date": "2026-07-07",
+      "time": "12:15-13:30",
+      "papers": []
+    },
+    {
+      "session_title": "G32: Economic Theory 3",
+      "date": "2026-07-07",
+      "time": "12:15-13:30",
+      "papers": []
+    },
+    {
+      "session_title": "G37: Labour Economics 3",
+      "date": "2026-07-07",
+      "time": "12:15-13:30",
+      "papers": []
+    },
+    {
+      "session_title": "G39: Labour Economics: Wages and job search",
+      "date": "2026-07-07",
+      "time": "12:15-13:30",
+      "papers": []
+    },
+    {
+      "session_title": "G38: Labour Economics: Macro",
+      "date": "2026-07-07",
+      "time": "12:15-13:30",
+      "papers": []
+    },
+    {
+      "session_title": "G41: Macroeconomics: Business Cycles",
+      "date": "2026-07-07",
+      "time": "12:15-13:30",
+      "papers": []
+    },
+    {
+      "session_title": "G42: Political Economy 2",
+      "date": "2026-07-07",
+      "time": "12:15-13:30",
+      "papers": []
+    },
+    {
+      "session_title": "G29: Behavioural / Experimental Economics 3",
+      "date": "2026-07-07",
+      "time": "12:15-13:30",
+      "papers": []
+    },
+    {
+      "session_title": "G30: Development Economics 3",
+      "date": "2026-07-07",
+      "time": "12:15-13:30",
+      "papers": []
+    },
+    {
+      "session_title": "G34: Health, Education, and Welfare 3",
+      "date": "2026-07-07",
+      "time": "12:15-13:30",
+      "papers": []
+    },
+    {
+      "session_title": "G31: Development Economics: Gender 1",
+      "date": "2026-07-07",
+      "time": "12:15-13:30",
+      "papers": []
+    },
+    {
+      "session_title": "G35: Industrial Organisation 3",
+      "date": "2026-07-07",
+      "time": "12:15-13:30",
+      "papers": []
+    },
+    {
+      "session_title": "G40: Macroeconomics 3",
+      "date": "2026-07-07",
+      "time": "12:15-13:30",
+      "papers": []
+    },
+    {
+      "session_title": "S09: Labour Economics (Speed Session)",
+      "date": "2026-07-07",
+      "time": "12:15-13:30",
+      "papers": []
+    },
+    {
+      "session_title": "G36: International Economics 3",
+      "date": "2026-07-07",
+      "time": "12:15-13:30",
+      "papers": []
+    },
+    {
+      "session_title": "S07: Industrial Organisation / Public Economics (Speed Session)",
+      "date": "2026-07-07",
+      "time": "12:15-13:30",
+      "papers": []
+    },
+    {
+      "session_title": "G46: Financial Economics 2",
+      "date": "2026-07-07",
+      "time": "14:30-15:45",
+      "papers": []
+    },
+    {
+      "session_title": "G54: Political Economy 3",
+      "date": "2026-07-07",
+      "time": "14:30-15:45",
+      "papers": []
+    },
+    {
+      "session_title": "G53: Macroeconomics: Fiscal Policy and Heterogenous Agents",
+      "date": "2026-07-07",
+      "time": "14:30-15:45",
+      "papers": []
+    },
+    {
+      "session_title": "G52: Macroeconomics and Monetary Economics 1",
+      "date": "2026-07-07",
+      "time": "14:30-15:45",
+      "papers": []
+    },
+    {
+      "session_title": "G51: Macroeconomics 4",
+      "date": "2026-07-07",
+      "time": "14:30-15:45",
+      "papers": []
+    },
+    {
+      "session_title": "G49: Labour Economics 4",
+      "date": "2026-07-07",
+      "time": "14:30-15:45",
+      "papers": []
+    },
+    {
+      "session_title": "G48: Industrial Organisation 4",
+      "date": "2026-07-07",
+      "time": "14:30-15:45",
+      "papers": []
+    },
+    {
+      "session_title": "G50: Labour Economics: Migration",
+      "date": "2026-07-07",
+      "time": "14:30-15:45",
+      "papers": []
+    },
+    {
+      "session_title": "G47: Health, Education, and Welfare 4",
+      "date": "2026-07-07",
+      "time": "14:30-15:45",
+      "papers": []
+    },
+    {
+      "session_title": "G45: Development Economics: Gender 2",
+      "date": "2026-07-07",
+      "time": "14:30-15:45",
+      "papers": []
+    },
+    {
+      "session_title": "G43: Behavioural / Experimental Economics 4",
+      "date": "2026-07-07",
+      "time": "14:30-15:45",
+      "papers": []
+    },
+    {
+      "session_title": "G56: Urban, Rural, Regional, Real Estate 1",
+      "date": "2026-07-07",
+      "time": "14:30-15:45",
+      "papers": []
+    },
+    {
+      "session_title": "S10: Macroeconomics (Speed Session)",
+      "date": "2026-07-07",
+      "time": "14:30-15:45",
+      "papers": []
+    },
+    {
+      "session_title": "S11: Political Economics / Law (Speed Session)",
+      "date": "2026-07-07",
+      "time": "14:30-15:45",
+      "papers": []
+    },
+    {
+      "session_title": "G55: Public Economics 1",
+      "date": "2026-07-07",
+      "time": "14:30-15:45",
+      "papers": []
+    },
+    {
+      "session_title": "G44: Development Economics 4",
+      "date": "2026-07-07",
+      "time": "14:30-15:45",
+      "papers": []
+    },
+    {
+      "session_title": "S12: Public Economics (Speed Session)",
+      "date": "2026-07-07",
+      "time": "14:30-15:45",
+      "papers": []
+    },
+    {
+      "session_title": "G58: Development Economics 5",
+      "date": "2026-07-08",
+      "time": "12:15-13:30",
+      "papers": []
+    },
+    {
+      "session_title": "G57: Behavioural / Experimental Economics 5",
+      "date": "2026-07-08",
+      "time": "12:15-13:30",
+      "papers": []
+    },
+    {
+      "session_title": "G68: Political Economy: Voting and Institutions",
+      "date": "2026-07-08",
+      "time": "12:15-13:30",
+      "papers": []
+    },
+    {
+      "session_title": "G66: Public Economics: Pensions and Savings",
+      "date": "2026-07-08",
+      "time": "12:15-13:30",
+      "papers": []
+    },
+    {
+      "session_title": "S13: Development 2 (Speed Session)",
+      "date": "2026-07-08",
+      "time": "12:15-13:30",
+      "papers": []
+    },
+    {
+      "session_title": "G65: Macroeconomics and Monetary Economics 2",
+      "date": "2026-07-08",
+      "time": "12:15-13:30",
+      "papers": []
+    },
+    {
+      "session_title": "G70: Public Economics: Education",
+      "date": "2026-07-08",
+      "time": "12:15-13:30",
+      "papers": []
+    },
+    {
+      "session_title": "G69: Public Economics 2",
+      "date": "2026-07-08",
+      "time": "12:15-13:30",
+      "papers": []
+    },
+    {
+      "session_title": "G64: Labour Economics: Gender",
+      "date": "2026-07-08",
+      "time": "12:15-13:30",
+      "papers": []
+    },
+    {
+      "session_title": "G61: Financial Economics 3",
+      "date": "2026-07-08",
+      "time": "12:15-13:30",
+      "papers": []
+    },
+    {
+      "session_title": "G60: Economic Development 1",
+      "date": "2026-07-08",
+      "time": "12:15-13:30",
+      "papers": []
+    },
+    {
+      "session_title": "G59: Development Economics: Political Economy 1",
+      "date": "2026-07-08",
+      "time": "12:15-13:30",
+      "papers": []
+    },
+    {
+      "session_title": "S14: Financial Economics (Speed Session)",
+      "date": "2026-07-08",
+      "time": "12:15-13:30",
+      "papers": []
+    },
+    {
+      "session_title": "G63: Labour Economics: Family and Household Economics 1",
+      "date": "2026-07-08",
+      "time": "12:15-13:30",
+      "papers": []
+    },
+    {
+      "session_title": "G67: Macroeconomics: Growth",
+      "date": "2026-07-08",
+      "time": "12:15-13:30",
+      "papers": []
+    },
+    {
+      "session_title": "G62: Labour Economics 5",
+      "date": "2026-07-08",
+      "time": "12:15-13:30",
+      "papers": []
+    },
+    {
+      "session_title": "G75: Labour Economics: Income Distribution, Inequality and Labour Supply",
+      "date": "2026-07-08",
+      "time": "14:30-15:45",
+      "papers": []
+    },
+    {
+      "session_title": "G77: Law and Economics",
+      "date": "2026-07-08",
+      "time": "14:30-15:45",
+      "papers": []
+    },
+    {
+      "session_title": "G71: Development Economics: Political Economy 2",
+      "date": "2026-07-08",
+      "time": "14:30-15:45",
+      "papers": []
+    },
+    {
+      "session_title": "S15: Labour Economics 2 (Speed Session)",
+      "date": "2026-07-08",
+      "time": "14:30-15:45",
+      "papers": []
+    },
+    {
+      "session_title": "G82: Effort, Subsidies, Beliefs and AI",
+      "date": "2026-07-08",
+      "time": "14:30-15:45",
+      "papers": []
+    },
+    {
+      "session_title": "G81: Public Economics: Health",
+      "date": "2026-07-08",
+      "time": "14:30-15:45",
+      "papers": []
+    },
+    {
+      "session_title": "G79: Macroeconomics and Monetary Economics 3",
+      "date": "2026-07-08",
+      "time": "14:30-15:45",
+      "papers": []
+    },
+    {
+      "session_title": "G76: Labour Economics, Returns to Education, Unemployment and Gender",
+      "date": "2026-07-08",
+      "time": "14:30-15:45",
+      "papers": []
+    },
+    {
+      "session_title": "G74: Labour Economics: Programme Evaluation",
+      "date": "2026-07-08",
+      "time": "14:30-15:45",
+      "papers": []
+    },
+    {
+      "session_title": "S16: Macroeconomics 2 (Speed Session)",
+      "date": "2026-07-08",
+      "time": "14:30-15:45",
+      "papers": []
+    },
+    {
+      "session_title": "G78: Macroeconomics and Monetary Economics: Monetary Policy, Central Banking, and the Supply of Money and Credit",
+      "date": "2026-07-08",
+      "time": "14:30-15:45",
+      "papers": []
+    },
+    {
+      "session_title": "G80: Microeconomics",
+      "date": "2026-07-08",
+      "time": "14:30-15:45",
+      "papers": []
+    },
+    {
+      "session_title": "G72: Economic Development 2",
+      "date": "2026-07-08",
+      "time": "14:30-15:45",
+      "papers": []
+    },
+    {
+      "session_title": "G73: Labour Economics: Family and Household Economics 2",
+      "date": "2026-07-08",
+      "time": "14:30-15:45",
+      "papers": []
+    },
+    {
+      "session_title": "G83: Political Economics: Institutions and Lobbying",
+      "date": "2026-07-08",
+      "time": "14:30-15:45",
+      "papers": []
+    },
+    {
+      "session_title": "G84: Urban, Rural, Regional, Real Estate 2",
+      "date": "2026-07-08",
+      "time": "14:30-15:45",
+      "papers": []
+    }
+  ],
+  "participants": [
+    {
+      "name": "Christopher Pissarides",
+      "institution": "Regius Professor of Economics at the London School of Economics",
+      "is_presenter": true,
+      "papers": [
+        "Presidential Address: Professor Sir Chris Pissarides"
+      ]
+    },
+    {
+      "name": "Patrick Kline",
+      "institution": "Professor of Economics at UC Berkeley, National Bureau of Economic Research",
+      "is_presenter": true,
+      "papers": [
+        "RES Sargan Lecture: Repairing Locally Misspecified GMM: An Empirical Bayes Approach"
+      ]
+    },
+    {
+      "name": "Ekaterina Zhuravskaya",
+      "institution": "Professor of Economics at the Paris School of Economics, EHESS",
+      "is_presenter": true,
+      "papers": [
+        "The Economic Journal Lecture: Internet and political outcomes"
+      ]
+    },
+    {
+      "name": "Sarah Davidson (Carnegie UK); Professor Rachel Griffith (University of Manchester/IFS); Catherine L Mann (Bank of England); Jo Swaffield (University of Southampton)",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "The challenges and opportunities of leadership in Economics and the wider Economy"
+      ]
+    },
+    {
+      "name": "Manasi Deshpande",
+      "institution": "Associate Professor of Economics, University of Chicago, National Bureau of Economic Research",
+      "is_presenter": true,
+      "papers": [
+        "RES Hahn Lecture: Designing the Social Safety Net"
+      ]
+    },
+    {
+      "name": "John Van Reenen",
+      "institution": "London School of Economics, Massachusetts Institute for Technology (MIT)",
+      "is_presenter": true,
+      "papers": [
+        "Productivity, Innovation, and the Future of Growth (RES Headline Lecture 2026)"
+      ]
+    }
+  ]
+}

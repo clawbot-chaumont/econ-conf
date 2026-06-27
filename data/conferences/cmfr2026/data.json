@@ -1,0 +1,350 @@
+{
+  "conference": {
+    "name": "13th Annual Conference on Financial Market Regulation (CFMR)",
+    "short_name": "CMFR",
+    "year": 2026,
+    "start_date": "2026-05-07",
+    "end_date": "2026-05-08",
+    "location": "Washington DC, USA"
+  },
+  "scrape_metadata": {
+    "scraped_at": "2026-06-13T17:00:00",
+    "source_url": "https://www.conftool.org/cfmr2026/sessions.php",
+    "program_available": true,
+    "program_type": "web",
+    "errors": []
+  },
+  "sessions": [
+    {
+      "session_title": "Enforcement",
+      "chair": "Kayti Schumann-Foster, SEC",
+      "date": "2026-05-07",
+      "papers": [
+        {
+          "title": "Broken Windows Securities Enforcement",
+          "authors": [
+            "Nathan Herrmann"
+          ],
+          "presenter": "Nathan Herrmann"
+        },
+        {
+          "title": "Is Confidential Supervisory Information Material to Investors? Evaluating the Conflict between Banking and Securities Law",
+          "authors": [
+            "Peter Conti-Brown",
+            "Patrick Corrigan",
+            "Jeffery Zhang"
+          ],
+          "presenter": "Jeffery Zhang"
+        }
+      ]
+    },
+    {
+      "session_title": "Market Microstructure",
+      "chair": "Jonathan Sokobin, FINRA",
+      "date": "2026-05-07",
+      "papers": [
+        {
+          "title": "Does 0DTE Options Trading Increase Volatility?",
+          "authors": [
+            "Jonathan Brogaard",
+            "Jaehee Han",
+            "Peter Won"
+          ],
+          "presenter": "Peter Won"
+        },
+        {
+          "title": "Nocturnal Trading",
+          "authors": [
+            "Gregory Eaton",
+            "Andriy Shkilko",
+            "Ingrid Werner"
+          ],
+          "presenter": "Gregory Eaton"
+        }
+      ]
+    },
+    {
+      "session_title": "Corporate Finance",
+      "chair": "Paul Brockman, Lehigh University",
+      "date": "2026-05-08",
+      "papers": [
+        {
+          "title": "Cryptocurrency Regulation: Protective vs. Enabling Approaches",
+          "authors": [
+            "Jillian Grennan"
+          ],
+          "presenter": "Jillian Grennan"
+        },
+        {
+          "title": "Decentralized Voting in Mutual Fund Families",
+          "authors": [
+            "Roni Michaely",
+            "Matthew Ringgenberg",
+            "Silvina Rubio",
+            "Irene Yi"
+          ],
+          "presenter": "Matthew Ringgenberg"
+        }
+      ]
+    },
+    {
+      "session_title": "Financial Intermediation",
+      "chair": "Diana Knyazeva, SEC",
+      "date": "2026-05-08",
+      "papers": [
+        {
+          "title": "From Rating-Takers to Rating-Movers: Investors’ Influence on Corporate Loan Ratings",
+          "authors": [
+            "Han Xia",
+            "David Xu"
+          ],
+          "presenter": "David Xu"
+        },
+        {
+          "title": "Liquidity Flows to Bank-Affiliated Broker Dealers: Insights from Volumes and Prices",
+          "authors": [
+            "Jennie Bai",
+            "Erik Bostrom",
+            "Sebastian Infante",
+            "Victoria Ivashina"
+          ],
+          "presenter": "Sebastian Infante"
+        }
+      ]
+    },
+    {
+      "session_title": "Asset Management",
+      "chair": "Shuaiyu Chen, Univ of VA, Darden School of Business",
+      "date": "2026-05-08",
+      "papers": [
+        {
+          "title": "Active ETFs as Attention Assets: Retail Trading Meets Managed Funds",
+          "authors": [
+            "Da Huang",
+            "Vasudha Nair",
+            "Christopher Schwarz"
+          ],
+          "presenter": "Da Huang"
+        },
+        {
+          "title": "Asset Reclassification and Mutual Fund Flows",
+          "authors": [
+            "Nick Bollen",
+            "Veronika Pool, Alexey Vasilenko"
+          ],
+          "presenter": "Nick Bollen"
+        }
+      ]
+    }
+  ],
+  "participants": [
+    {
+      "name": "Andriy Shkilko",
+      "institution": "University of Georgia",
+      "is_presenter": false,
+      "papers": [
+        "Nocturnal Trading"
+      ]
+    },
+    {
+      "name": "Christopher Schwarz",
+      "institution": "University of California, Irvine, United States of America",
+      "is_presenter": false,
+      "papers": [
+        "Active ETFs as Attention Assets: Retail Trading Meets Managed Funds"
+      ]
+    },
+    {
+      "name": "Da Huang",
+      "institution": "Northeastern University",
+      "is_presenter": true,
+      "papers": [
+        "Active ETFs as Attention Assets: Retail Trading Meets Managed Funds"
+      ]
+    },
+    {
+      "name": "David Xu",
+      "institution": "Southern Methodist University, United States of America",
+      "is_presenter": true,
+      "papers": [
+        "From Rating-Takers to Rating-Movers: Investors’ Influence on Corporate Loan Ratings"
+      ]
+    },
+    {
+      "name": "Erik Bostrom",
+      "institution": "Federal Reserve Board",
+      "is_presenter": false,
+      "papers": [
+        "Liquidity Flows to Bank-Affiliated Broker Dealers: Insights from Volumes and Prices"
+      ]
+    },
+    {
+      "name": "Gregory Eaton",
+      "institution": "University of Georgia",
+      "is_presenter": true,
+      "papers": [
+        "Nocturnal Trading"
+      ]
+    },
+    {
+      "name": "Han Xia",
+      "institution": "University of Texas at Dallas",
+      "is_presenter": false,
+      "papers": [
+        "From Rating-Takers to Rating-Movers: Investors’ Influence on Corporate Loan Ratings"
+      ]
+    },
+    {
+      "name": "Ingrid Werner",
+      "institution": "The Ohio State University",
+      "is_presenter": false,
+      "papers": [
+        "Nocturnal Trading"
+      ]
+    },
+    {
+      "name": "Irene Yi",
+      "institution": "University of Toronto",
+      "is_presenter": false,
+      "papers": [
+        "Decentralized Voting in Mutual Fund Families"
+      ]
+    },
+    {
+      "name": "Jaehee Han",
+      "institution": "University of Utah",
+      "is_presenter": false,
+      "papers": [
+        "Does 0DTE Options Trading Increase Volatility?"
+      ]
+    },
+    {
+      "name": "Jeffery Zhang",
+      "institution": "University of Michigan",
+      "is_presenter": true,
+      "papers": [
+        "Is Confidential Supervisory Information Material to Investors? Evaluating the Conflict between Banking and Securities Law"
+      ]
+    },
+    {
+      "name": "Jennie Bai",
+      "institution": "Georgetown University",
+      "is_presenter": false,
+      "papers": [
+        "Liquidity Flows to Bank-Affiliated Broker Dealers: Insights from Volumes and Prices"
+      ]
+    },
+    {
+      "name": "Jillian Grennan",
+      "institution": "Emory University, United States of America",
+      "is_presenter": true,
+      "papers": [
+        "Cryptocurrency Regulation: Protective vs. Enabling Approaches"
+      ]
+    },
+    {
+      "name": "Jonathan Brogaard",
+      "institution": "University of Utah",
+      "is_presenter": false,
+      "papers": [
+        "Does 0DTE Options Trading Increase Volatility?"
+      ]
+    },
+    {
+      "name": "Matthew Ringgenberg",
+      "institution": "University of Utah",
+      "is_presenter": true,
+      "papers": [
+        "Decentralized Voting in Mutual Fund Families"
+      ]
+    },
+    {
+      "name": "Nathan Herrmann",
+      "institution": "University of Texas at Austin, United States of America",
+      "is_presenter": true,
+      "papers": [
+        "Broken Windows Securities Enforcement"
+      ]
+    },
+    {
+      "name": "Nick Bollen",
+      "institution": "Vanderbilt University, United States of America",
+      "is_presenter": true,
+      "papers": [
+        "Asset Reclassification and Mutual Fund Flows"
+      ]
+    },
+    {
+      "name": "Patrick Corrigan",
+      "institution": "University of Notre Dame",
+      "is_presenter": false,
+      "papers": [
+        "Is Confidential Supervisory Information Material to Investors? Evaluating the Conflict between Banking and Securities Law"
+      ]
+    },
+    {
+      "name": "Peter Conti-Brown",
+      "institution": "Wharton",
+      "is_presenter": false,
+      "papers": [
+        "Is Confidential Supervisory Information Material to Investors? Evaluating the Conflict between Banking and Securities Law"
+      ]
+    },
+    {
+      "name": "Peter Won",
+      "institution": "University of Utah",
+      "is_presenter": true,
+      "papers": [
+        "Does 0DTE Options Trading Increase Volatility?"
+      ]
+    },
+    {
+      "name": "Roni Michaely",
+      "institution": "University of Hong Kong",
+      "is_presenter": false,
+      "papers": [
+        "Decentralized Voting in Mutual Fund Families"
+      ]
+    },
+    {
+      "name": "Sebastian Infante",
+      "institution": "Federal Reserve Board",
+      "is_presenter": true,
+      "papers": [
+        "Liquidity Flows to Bank-Affiliated Broker Dealers: Insights from Volumes and Prices"
+      ]
+    },
+    {
+      "name": "Silvina Rubio",
+      "institution": "Nova School of Business Economics",
+      "is_presenter": false,
+      "papers": [
+        "Decentralized Voting in Mutual Fund Families"
+      ]
+    },
+    {
+      "name": "Vasudha Nair",
+      "institution": "University of Utah",
+      "is_presenter": false,
+      "papers": [
+        "Active ETFs as Attention Assets: Retail Trading Meets Managed Funds"
+      ]
+    },
+    {
+      "name": "Veronika Pool, Alexey Vasilenko",
+      "institution": "Vanderbilt University, United States of America",
+      "is_presenter": false,
+      "papers": [
+        "Asset Reclassification and Mutual Fund Flows"
+      ]
+    },
+    {
+      "name": "Victoria Ivashina",
+      "institution": "HBS",
+      "is_presenter": false,
+      "papers": [
+        "Liquidity Flows to Bank-Affiliated Broker Dealers: Insights from Volumes and Prices"
+      ]
+    }
+  ]
+}

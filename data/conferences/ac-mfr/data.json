@@ -1,0 +1,19 @@
+{
+  "conference": {
+    "name": "Annual Conference on Macro-Finance Research",
+    "short_name": "AC-MFR",
+    "year": 2026,
+    "start_date": "2026-10-09",
+    "end_date": "2026-10-09",
+    "location": "San Francisco, USA"
+  },
+  "scrape_metadata": {
+    "scraped_at": "2026-06-13T17:50:39.251049",
+    "source_url": "https://www.frbsf.org/news-and-media/events/conferences/2026/10/conference-on-macro-finance-research-2026/",
+    "program_available": false,
+    "program_type": "web",
+    "errors": []
+  },
+  "sessions": [],
+  "participants": []
+}

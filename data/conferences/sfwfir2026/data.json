@@ -1,0 +1,450 @@
+{
+  "conference": {
+    "name": "BSE Summer Forum Workshop on Financial Intermediation and Risk",
+    "short_name": "SFWFIR",
+    "year": 2026,
+    "start_date": "2026-06-04",
+    "end_date": "2026-06-05",
+    "location": "Barcelona, Spain"
+  },
+  "scrape_metadata": {
+    "scraped_at": "2026-06-13T21:26:49",
+    "source_url": "https://events.bse.eu/live/files/6394-sf2026-program-financial-intermediation-and-risk",
+    "program_available": true,
+    "program_type": "pdf",
+    "errors": []
+  },
+  "sessions": [
+    {
+      "session_title": "Session 1",
+      "date": "2026-06-04",
+      "time": "14:30 - 16:00",
+      "papers": [
+        {
+          "title": "Multilateral Contracting in Stage Financing",
+          "authors": [
+            "Paolo Fulghieri",
+            "Yunzhi Hu",
+            "Felipe Varas"
+          ],
+          "presenter": "Paolo Fulghieri"
+        },
+        {
+          "title": "Regulation and Intermediation in Over-the-Counter Markets",
+          "authors": [
+            "Nicole Fleskes"
+          ],
+          "presenter": "Nicole Fleskes"
+        }
+      ]
+    },
+    {
+      "session_title": "Session 2",
+      "date": "2026-06-04",
+      "time": "16:30 - 18:00",
+      "papers": [
+        {
+          "title": "The Fed Put and Bank Risk-Taking: Evidence from the Loan Book",
+          "authors": [
+            "Mete Kilic",
+            "Xudong An",
+            "Jan Harren",
+            "Saket Hegde",
+            "Rodney Ramcharan"
+          ],
+          "presenter": "Mete Kilic"
+        },
+        {
+          "title": "Common Lenders and Borrower Return Comovement",
+          "authors": [
+            "Christian Eufinger",
+            "Luca Lin",
+            "Valentina Raponi",
+            "Haorui Wang"
+          ],
+          "presenter": "Christian Eufinger"
+        }
+      ]
+    },
+    {
+      "session_title": "Session 3",
+      "date": "2026-06-05",
+      "time": "09:30 - 11:00",
+      "papers": [
+        {
+          "title": "Who Moves the Long End? The Dynamics of Bond Market Segmentation",
+          "authors": [
+            "Sitong Ding",
+            "Robert Czech"
+          ],
+          "presenter": "Sitong Ding"
+        },
+        {
+          "title": "Household Portfolio and Deposit Insurance: implications for the Supply of Safe Assets",
+          "authors": [
+            "Nicola Limodio",
+            "Pulak Ghosh",
+            "Nishant Vats"
+          ],
+          "presenter": "Nicola Limodio"
+        }
+      ]
+    },
+    {
+      "session_title": "Session 4",
+      "date": "2026-06-05",
+      "time": "11:30 - 13:00",
+      "papers": [
+        {
+          "title": "Financial Regulation and AI: A Faustian Bargain?",
+          "authors": [
+            "Antonio Coppola",
+            "Christopher Clayton"
+          ],
+          "presenter": "Antonio Coppola"
+        },
+        {
+          "title": "Liquidity Support Effects of the U.S. Treasury Buyback Program",
+          "authors": [
+            "Jing Zhou"
+          ],
+          "presenter": "Jing Zhou"
+        }
+      ]
+    },
+    {
+      "session_title": "Session 5",
+      "date": "2026-06-05",
+      "time": "14:30 - 16:00",
+      "papers": [
+        {
+          "title": "Uniform Pricing and Capital Allocation",
+          "authors": [
+            "Deniz Aydin",
+            "Ernest Liu",
+            "Janis Skrastins"
+          ],
+          "presenter": "Deniz Aydin"
+        },
+        {
+          "title": "Bills of Exchange in a Supply Chain",
+          "authors": [
+            "Piero Gottardi",
+            "Shengxing Zhang"
+          ],
+          "presenter": "Piero Gottardi"
+        }
+      ]
+    },
+    {
+      "session_title": "Session 6",
+      "date": "2026-06-05",
+      "time": "16:30 - 18:00",
+      "papers": [
+        {
+          "title": "Do Institutional Investors Trade on Covenant Violations?",
+          "authors": [
+            "Paulina Verhoff",
+            "Anthony Saunders",
+            "Sascha Steffen"
+          ],
+          "presenter": "Paulina Verhoff"
+        },
+        {
+          "title": "Whose Asset Sales Matter?",
+          "authors": [
+            "Jamie Coen",
+            "Rhys Bidder",
+            "Caterina Lepore",
+            "Laura Silvestri"
+          ],
+          "presenter": "Jamie Coen"
+        }
+      ]
+    }
+  ],
+  "participants": [
+    {
+      "name": "Anthony Saunders",
+      "institution": "",
+      "is_presenter": false,
+      "papers": [
+        "Do Institutional Investors Trade on Covenant Violations?"
+      ]
+    },
+    {
+      "name": "Antonio Coppola",
+      "institution": "Stanford Graduate School of Business",
+      "is_presenter": true,
+      "papers": [
+        "Financial Regulation and AI: A Faustian Bargain?"
+      ]
+    },
+    {
+      "name": "Björn Richter",
+      "institution": "Nova SBE, UPF and BSE",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Caterina Lepore",
+      "institution": "",
+      "is_presenter": false,
+      "papers": [
+        "Whose Asset Sales Matter?"
+      ]
+    },
+    {
+      "name": "Christian Eufinger",
+      "institution": "IESE Business School",
+      "is_presenter": true,
+      "papers": [
+        "Common Lenders and Borrower Return Comovement"
+      ]
+    },
+    {
+      "name": "Christopher Clayton",
+      "institution": "",
+      "is_presenter": false,
+      "papers": [
+        "Financial Regulation and AI: A Faustian Bargain?"
+      ]
+    },
+    {
+      "name": "Deniz Aydin",
+      "institution": "MIT",
+      "is_presenter": true,
+      "papers": [
+        "Uniform Pricing and Capital Allocation"
+      ]
+    },
+    {
+      "name": "Ernest Liu",
+      "institution": "",
+      "is_presenter": false,
+      "papers": [
+        "Uniform Pricing and Capital Allocation"
+      ]
+    },
+    {
+      "name": "Felipe Varas",
+      "institution": "",
+      "is_presenter": false,
+      "papers": [
+        "Multilateral Contracting in Stage Financing"
+      ]
+    },
+    {
+      "name": "Fred Malherbe",
+      "institution": "UCL and CEPR",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Gabriela Stockler",
+      "institution": "UPF and BSE",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Haorui Wang",
+      "institution": "",
+      "is_presenter": false,
+      "papers": [
+        "Common Lenders and Borrower Return Comovement"
+      ]
+    },
+    {
+      "name": "Jamie Coen",
+      "institution": "Imperial College London",
+      "is_presenter": true,
+      "papers": [
+        "Whose Asset Sales Matter?"
+      ]
+    },
+    {
+      "name": "Jan Harren",
+      "institution": "",
+      "is_presenter": false,
+      "papers": [
+        "The Fed Put and Bank Risk-Taking: Evidence from the Loan Book"
+      ]
+    },
+    {
+      "name": "Janis Skrastins",
+      "institution": "",
+      "is_presenter": false,
+      "papers": [
+        "Uniform Pricing and Capital Allocation"
+      ]
+    },
+    {
+      "name": "Jing Zhou",
+      "institution": "IMF",
+      "is_presenter": true,
+      "papers": [
+        "Liquidity Support Effects of the U.S. Treasury Buyback Program"
+      ]
+    },
+    {
+      "name": "Laura Silvestri",
+      "institution": "",
+      "is_presenter": false,
+      "papers": [
+        "Whose Asset Sales Matter?"
+      ]
+    },
+    {
+      "name": "Luca Lin",
+      "institution": "",
+      "is_presenter": false,
+      "papers": [
+        "Common Lenders and Borrower Return Comovement"
+      ]
+    },
+    {
+      "name": "Mete Kilic",
+      "institution": "USC Marshall",
+      "is_presenter": true,
+      "papers": [
+        "The Fed Put and Bank Risk-Taking: Evidence from the Loan Book"
+      ]
+    },
+    {
+      "name": "Nicola Limodio",
+      "institution": "Bocconi University",
+      "is_presenter": true,
+      "papers": [
+        "Household Portfolio and Deposit Insurance: implications for the Supply of Safe Assets"
+      ]
+    },
+    {
+      "name": "Nicole Fleskes",
+      "institution": "Rice University",
+      "is_presenter": true,
+      "papers": [
+        "Regulation and Intermediation in Over-the-Counter Markets"
+      ]
+    },
+    {
+      "name": "Nishant Vats",
+      "institution": "",
+      "is_presenter": false,
+      "papers": [
+        "Household Portfolio and Deposit Insurance: implications for the Supply of Safe Assets"
+      ]
+    },
+    {
+      "name": "Paolo Fulghieri",
+      "institution": "UNC Kenan-Flagler Business School",
+      "is_presenter": true,
+      "papers": [
+        "Multilateral Contracting in Stage Financing"
+      ]
+    },
+    {
+      "name": "Paulina Verhoff",
+      "institution": "Frankfurt School of Finance & Management",
+      "is_presenter": true,
+      "papers": [
+        "Do Institutional Investors Trade on Covenant Violations?"
+      ]
+    },
+    {
+      "name": "Piero Gottardi",
+      "institution": "University of Essex",
+      "is_presenter": true,
+      "papers": [
+        "Bills of Exchange in a Supply Chain"
+      ]
+    },
+    {
+      "name": "Pulak Ghosh",
+      "institution": "",
+      "is_presenter": false,
+      "papers": [
+        "Household Portfolio and Deposit Insurance: implications for the Supply of Safe Assets"
+      ]
+    },
+    {
+      "name": "Rhys Bidder",
+      "institution": "",
+      "is_presenter": false,
+      "papers": [
+        "Whose Asset Sales Matter?"
+      ]
+    },
+    {
+      "name": "Robert Czech",
+      "institution": "",
+      "is_presenter": false,
+      "papers": [
+        "Who Moves the Long End? The Dynamics of Bond Market Segmentation"
+      ]
+    },
+    {
+      "name": "Rodney Ramcharan",
+      "institution": "",
+      "is_presenter": false,
+      "papers": [
+        "The Fed Put and Bank Risk-Taking: Evidence from the Loan Book"
+      ]
+    },
+    {
+      "name": "Saket Hegde",
+      "institution": "",
+      "is_presenter": false,
+      "papers": [
+        "The Fed Put and Bank Risk-Taking: Evidence from the Loan Book"
+      ]
+    },
+    {
+      "name": "Sascha Steffen",
+      "institution": "",
+      "is_presenter": false,
+      "papers": [
+        "Do Institutional Investors Trade on Covenant Violations?"
+      ]
+    },
+    {
+      "name": "Shengxing Zhang",
+      "institution": "",
+      "is_presenter": false,
+      "papers": [
+        "Bills of Exchange in a Supply Chain"
+      ]
+    },
+    {
+      "name": "Sitong Ding",
+      "institution": "London School of Economics",
+      "is_presenter": true,
+      "papers": [
+        "Who Moves the Long End? The Dynamics of Bond Market Segmentation"
+      ]
+    },
+    {
+      "name": "Valentina Raponi",
+      "institution": "",
+      "is_presenter": false,
+      "papers": [
+        "Common Lenders and Borrower Return Comovement"
+      ]
+    },
+    {
+      "name": "Xudong An",
+      "institution": "",
+      "is_presenter": false,
+      "papers": [
+        "The Fed Put and Bank Risk-Taking: Evidence from the Loan Book"
+      ]
+    },
+    {
+      "name": "Yunzhi Hu",
+      "institution": "",
+      "is_presenter": false,
+      "papers": [
+        "Multilateral Contracting in Stage Financing"
+      ]
+    }
+  ]
+}

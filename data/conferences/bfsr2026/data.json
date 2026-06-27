@@ -1,0 +1,509 @@
+{
+  "conference": {
+    "name": "5th Bank of Italy, Bocconi University, EIEF and CEPR Conference on Financial Stability and Regulation",
+    "short_name": "BFSR 2026",
+    "year": 2026,
+    "start_date": "2026-03-23",
+    "end_date": "2026-03-24",
+    "location": "Rome, Italy",
+    "extras": {
+      "extras": {
+        "extras": {
+          "edition": "5th",
+          "venue": "Carlo Azeglio Ciampi Centre for Monetary and Financial Education, Banca d'Italia",
+          "city": "Rome",
+          "country": "Italy",
+          "website": "https://www.bancaditalia.it/media/agenda/2026-03-23_fifth-edition-of-the-conference-on-financial-stability-and-regulation/",
+          "program_url": "https://www.bancaditalia.it/media/agenda/convegni-2026/5th-BdI-Bocconi-EIEF-CEPR-program.pdf",
+          "organizer": "Banca d'Italia, Bocconi University – Baffi, EIEF, CEPR",
+          "description": "The conference brings together leading world scholars and policy-makers to discuss financial stability and regulation.",
+          "extras": {
+            "keynote_speaker": "Tano Santos (Columbia Business School and CEPR)",
+            "opening_remarks": "Chiara Scotti, Board Member, Banca d'Italia",
+            "program_committee": [
+              "Emilia Bonaccorsi di Patti (Banca d'Italia)",
+              "Elena Carletti (Bocconi University, CEPR)",
+              "Filippo De Marco (Bocconi University, CEPR)",
+              "Alessio De Vincenzo (Banca d'Italia)",
+              "Andrea Fabiani (Banca d'Italia)",
+              "Marco Pagano (University of Naples Federico II, EIEF, CEPR)",
+              "José Luis Peydró (LUISS, EIEF, CEPR)",
+              "Andrea Polo (LUISS, EIEF, CEPR)",
+              "Anatoli Segura (Banca d'Italia, CEPR)"
+            ]
+          }
+        }
+      }
+    }
+  },
+  "scrape_metadata": {
+    "scraped_at": "2026-06-13T07:56:37Z",
+    "source_url": "https://www.bancaditalia.it/media/agenda/2026-03-23_fifth-edition-of-the-conference-on-financial-stability-and-regulation/",
+    "program_url": "https://www.bancaditalia.it/media/agenda/convegni-2026/5th-BdI-Bocconi-EIEF-CEPR-program.pdf",
+    "script_name": "scrape_bfsr.py",
+    "program_available": true,
+    "program_type": "pdf",
+    "notes": "Program extracted from PDF. Sessions structured from PDF content.",
+    "errors": []
+  },
+  "sessions": [
+    {
+      "session_title": "Session I - Monetary Policy Transmission through Bank Balance Sheets",
+      "chair": "José Luis Peydró",
+      "date": "2026-03-23",
+      "time": "10:20 - 11:50",
+      "papers": [
+        {
+          "title": "Securities Losses and the Bank Collateral Channel of Monetary Transmission",
+          "authors": [
+            "Mariassunta Giannetti",
+            "Martina Jasova",
+            "Caterina Mendicino",
+            "Dominik Supera"
+          ],
+          "presenter": "Caterina Mendicino"
+        },
+        {
+          "title": "Quantitative Tightening: The Bank Liquidity-Duration Nexus",
+          "authors": [
+            "Matthieu Chavaz",
+            "Alba Patozi",
+            "Mo Wazzi"
+          ],
+          "presenter": "Matthieu Chavaz"
+        }
+      ]
+    },
+    {
+      "session_title": "Session II - Information, Platforms, and Algorithms in Credit Markets",
+      "chair": "Marco Pagano",
+      "date": "2026-03-23",
+      "time": "12:00 - 13:30",
+      "papers": [
+        {
+          "title": "Platform finance",
+          "authors": [
+            "Yingjie Huang"
+          ],
+          "presenter": "Yingjie Huang"
+        },
+        {
+          "title": "Black Box Credit Scoring and Data Sharing",
+          "authors": [
+            "Alessio Ozanne"
+          ],
+          "presenter": "Alessio Ozanne"
+        }
+      ]
+    },
+    {
+      "session_title": "Session III - Safe Asset Market Fragility, Dealers, and Central Bank Interventions",
+      "chair": "Enrico Perotti",
+      "date": "2026-03-23",
+      "time": "14:30 - 16:00",
+      "papers": [
+        {
+          "title": "Central Bank Balance Sheet and Treasury Market Disruptions",
+          "authors": [
+            "Adrien d'Avernas",
+            "Damon Petersen",
+            "Quentin Vandeweyver"
+          ],
+          "presenter": "Quentin Vandeweyver"
+        },
+        {
+          "title": "Dealers Information and Liquidity Crises in Safe Assets",
+          "authors": [
+            "Robert Czech",
+            "Win Monroe"
+          ],
+          "presenter": "Win Monroe"
+        }
+      ]
+    },
+    {
+      "session_title": "Session IV - Distressed Firms, Credit Misallocation, and Macroeconomic Trade-offs",
+      "chair": "Emilia Bonaccorsi di Patti",
+      "date": "2026-03-23",
+      "time": "16:30 - 18:00",
+      "papers": [
+        {
+          "title": "Extend-and-Pretend in the U.S. CRE Market",
+          "authors": [
+            "Matteo Crosignani",
+            "Saketh Prazad"
+          ],
+          "presenter": "Matteo Crosignani"
+        },
+        {
+          "title": "Stabilization vs. Growth",
+          "authors": [
+            "Miguel Faria-e-Castro",
+            "Pascal Paul",
+            "Juan M. Sánchez"
+          ],
+          "presenter": "Pascal Paul"
+        }
+      ]
+    },
+    {
+      "session_title": "Session V - Bank Regulation, Supervision, and Credit Allocation",
+      "chair": "Rafael Repullo",
+      "date": "2026-03-24",
+      "time": "09:30 - 11:00",
+      "papers": [
+        {
+          "title": "Mitigating the risks of deregulation: The role of supervisory attention",
+          "authors": [
+            "Elena Carletti",
+            "Filippo De Marco",
+            "Alberto Manconi",
+            "Isabella Wolfskeil"
+          ],
+          "presenter": "Alberto Manconi"
+        },
+        {
+          "title": "Supervisory-Driven Credit Reallocation",
+          "authors": [
+            "F. Fiordelisi",
+            "A. Maddaloni",
+            "David Marques Ibanez",
+            "Manju Puri",
+            "Francesco Saverio Stentella Lopes"
+          ],
+          "presenter": "A. Maddaloni"
+        }
+      ]
+    },
+    {
+      "session_title": "Session VI - Non-banks and Their Interconnections with Banks",
+      "chair": "Alessio De Vincenzo",
+      "date": "2026-03-24",
+      "time": "11:30 - 13:00",
+      "papers": [
+        {
+          "title": "The Value of Contingent Liquidity from Banks to Nonbank Lenders",
+          "authors": [
+            "Chi Xu"
+          ],
+          "presenter": "Chi Xu"
+        },
+        {
+          "title": "Life Insurers' Private Credit Investments and Annuity Market Share Capture",
+          "authors": [
+            "Ralf Meisenzhal",
+            "Jackson Overpeck",
+            "Andy Polacek"
+          ],
+          "presenter": "Ralf Meisenzhal"
+        }
+      ]
+    }
+  ],
+  "participants": [
+    {
+      "name": "Chiara Scotti",
+      "institution": "Banca d'Italia",
+      "is_presenter": true,
+      "papers": []
+    },
+    {
+      "name": "Tano Santos",
+      "institution": "Columbia Business School and CEPR",
+      "is_presenter": true,
+      "papers": []
+    },
+    {
+      "name": "Elena Carletti",
+      "institution": "Bocconi and CEPR",
+      "is_presenter": false,
+      "papers": [
+        "Mitigating the risks of deregulation: The role of supervisory attention"
+      ]
+    },
+    {
+      "name": "José Luis Peydró",
+      "institution": "LUISS, EIEF and CEPR",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Mariassunta Giannetti",
+      "institution": "Stockholm School of Economics and CEPR",
+      "is_presenter": false,
+      "papers": [
+        "Securities Losses and the Bank Collateral Channel of Monetary Transmission"
+      ]
+    },
+    {
+      "name": "Martina Jasova",
+      "institution": "Columbia University",
+      "is_presenter": false,
+      "papers": [
+        "Securities Losses and the Bank Collateral Channel of Monetary Transmission"
+      ]
+    },
+    {
+      "name": "Caterina Mendicino",
+      "institution": "European Central Bank",
+      "is_presenter": true,
+      "papers": [
+        "Securities Losses and the Bank Collateral Channel of Monetary Transmission"
+      ]
+    },
+    {
+      "name": "Dominik Supera",
+      "institution": "Columbia Business School",
+      "is_presenter": false,
+      "papers": [
+        "Securities Losses and the Bank Collateral Channel of Monetary Transmission"
+      ]
+    },
+    {
+      "name": "Matthieu Chavaz",
+      "institution": "Bank for International Settlements",
+      "is_presenter": true,
+      "papers": [
+        "Quantitative Tightening: The Bank Liquidity-Duration Nexus"
+      ]
+    },
+    {
+      "name": "Alba Patozi",
+      "institution": "Bank of England",
+      "is_presenter": false,
+      "papers": [
+        "Quantitative Tightening: The Bank Liquidity-Duration Nexus"
+      ]
+    },
+    {
+      "name": "Mo Wazzi",
+      "institution": "University of Oxford",
+      "is_presenter": false,
+      "papers": [
+        "Quantitative Tightening: The Bank Liquidity-Duration Nexus"
+      ]
+    },
+    {
+      "name": "Marco Pagano",
+      "institution": "University of Naples Federico II, EIEF and CEPR",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Yingjie Huang",
+      "institution": "University of Amsterdam",
+      "is_presenter": true,
+      "papers": [
+        "Platform finance"
+      ]
+    },
+    {
+      "name": "Alessio Ozanne",
+      "institution": "University of Vienna",
+      "is_presenter": true,
+      "papers": [
+        "Black Box Credit Scoring and Data Sharing"
+      ]
+    },
+    {
+      "name": "Enrico Perotti",
+      "institution": "University of Amsterdam and CEPR",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Adrien d'Avernas",
+      "institution": "Stockholm School of Economics and CEPR",
+      "is_presenter": false,
+      "papers": [
+        "Central Bank Balance Sheet and Treasury Market Disruptions"
+      ]
+    },
+    {
+      "name": "Damon Petersen",
+      "institution": "MIT",
+      "is_presenter": false,
+      "papers": [
+        "Central Bank Balance Sheet and Treasury Market Disruptions"
+      ]
+    },
+    {
+      "name": "Quentin Vandeweyver",
+      "institution": "Chicago Booth",
+      "is_presenter": true,
+      "papers": [
+        "Central Bank Balance Sheet and Treasury Market Disruptions"
+      ]
+    },
+    {
+      "name": "Robert Czech",
+      "institution": "Bank of England",
+      "is_presenter": false,
+      "papers": [
+        "Dealers Information and Liquidity Crises in Safe Assets"
+      ]
+    },
+    {
+      "name": "Win Monroe",
+      "institution": "Copenhagen Business School",
+      "is_presenter": true,
+      "papers": [
+        "Dealers Information and Liquidity Crises in Safe Assets"
+      ]
+    },
+    {
+      "name": "Emilia Bonaccorsi di Patti",
+      "institution": "Banca d'Italia",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Matteo Crosignani",
+      "institution": "Federal Reserve Bank of New York",
+      "is_presenter": true,
+      "papers": [
+        "Extend-and-Pretend in the U.S. CRE Market"
+      ]
+    },
+    {
+      "name": "Saketh Prazad",
+      "institution": "Harvard University",
+      "is_presenter": false,
+      "papers": [
+        "Extend-and-Pretend in the U.S. CRE Market"
+      ]
+    },
+    {
+      "name": "Miguel Faria-e-Castro",
+      "institution": "Federal Reserve Bank of Saint Louis",
+      "is_presenter": false,
+      "papers": [
+        "Stabilization vs. Growth"
+      ]
+    },
+    {
+      "name": "Pascal Paul",
+      "institution": "Federal Reserve Bank of San Francisco",
+      "is_presenter": true,
+      "papers": [
+        "Stabilization vs. Growth"
+      ]
+    },
+    {
+      "name": "Juan M. Sánchez",
+      "institution": "Federal Reserve Bank of Saint Louis",
+      "is_presenter": false,
+      "papers": [
+        "Stabilization vs. Growth"
+      ]
+    },
+    {
+      "name": "Rafael Repullo",
+      "institution": "CEMFI and CEPR",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Filippo De Marco",
+      "institution": "Bocconi and CEPR",
+      "is_presenter": false,
+      "papers": [
+        "Mitigating the risks of deregulation: The role of supervisory attention"
+      ]
+    },
+    {
+      "name": "Alberto Manconi",
+      "institution": "Bocconi and CEPR",
+      "is_presenter": true,
+      "papers": [
+        "Mitigating the risks of deregulation: The role of supervisory attention"
+      ]
+    },
+    {
+      "name": "Isabella Wolfskeil",
+      "institution": "Federal Reserve Board of Governors",
+      "is_presenter": false,
+      "papers": [
+        "Mitigating the risks of deregulation: The role of supervisory attention"
+      ]
+    },
+    {
+      "name": "F. Fiordelisi",
+      "institution": "University of Essex",
+      "is_presenter": false,
+      "papers": [
+        "Supervisory-Driven Credit Reallocation"
+      ]
+    },
+    {
+      "name": "A. Maddaloni",
+      "institution": "European Central Bank",
+      "is_presenter": true,
+      "papers": [
+        "Supervisory-Driven Credit Reallocation"
+      ]
+    },
+    {
+      "name": "David Marques Ibanez",
+      "institution": "European Central Bank",
+      "is_presenter": false,
+      "papers": [
+        "Supervisory-Driven Credit Reallocation"
+      ]
+    },
+    {
+      "name": "Manju Puri",
+      "institution": "Duke University (Fuqua School of Business)",
+      "is_presenter": false,
+      "papers": [
+        "Supervisory-Driven Credit Reallocation"
+      ]
+    },
+    {
+      "name": "Francesco Saverio Stentella Lopes",
+      "institution": "University of Roma Tre",
+      "is_presenter": false,
+      "papers": [
+        "Supervisory-Driven Credit Reallocation"
+      ]
+    },
+    {
+      "name": "Alessio De Vincenzo",
+      "institution": "Banca d'Italia",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Chi Xu",
+      "institution": "University of Pennsylvania - The Wharton School",
+      "is_presenter": true,
+      "papers": [
+        "The Value of Contingent Liquidity from Banks to Nonbank Lenders"
+      ]
+    },
+    {
+      "name": "Ralf Meisenzhal",
+      "institution": "Federal Reserve Bank of Chicago",
+      "is_presenter": true,
+      "papers": [
+        "Life Insurers' Private Credit Investments and Annuity Market Share Capture"
+      ]
+    },
+    {
+      "name": "Jackson Overpeck",
+      "institution": "Federal Reserve Bank of Chicago",
+      "is_presenter": false,
+      "papers": [
+        "Life Insurers' Private Credit Investments and Annuity Market Share Capture"
+      ]
+    },
+    {
+      "name": "Andy Polacek",
+      "institution": "Federal Reserve Bank of Chicago",
+      "is_presenter": false,
+      "papers": [
+        "Life Insurers' Private Credit Investments and Annuity Market Share Capture"
+      ]
+    }
+  ]
+}

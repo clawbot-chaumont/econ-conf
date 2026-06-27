@@ -1,0 +1,4639 @@
+{
+  "conference": {
+    "short_name": "RCEA 2026",
+    "year": 2026,
+    "start_date": "2026-05-25",
+    "end_date": "2026-05-27",
+    "location": "Madrid, Spain",
+    "name": "RCEA International Conference in Economics, Econometrics, and Finance"
+  },
+  "scrape_metadata": {
+    "scraped_at": "2026-06-13T11:48:20Z",
+    "source_url": "http://editorialexpress.com/conference/202_RCEA_ICEEF/program/202_RCEA_ICEEF.html",
+    "program_available": true,
+    "program_type": "web",
+    "notes": "56 paper sessions, 276 papers, 281 participants",
+    "errors": []
+  },
+  "sessions": [
+    {
+      "session_title": "CLIMATE AND ENERGY FINANCE CONFERENCE 1",
+      "date": "2026-05-25",
+      "time": "10:30 - 12:30",
+      "room": "Polavieja",
+      "papers": [
+        {
+          "title": "Valuation of a Carbon Capture Plant: a real options approach",
+          "authors": [
+            "Isabel Figuerola Ferretti"
+          ],
+          "presenter": "Isabel Figuerola Ferretti"
+        },
+        {
+          "title": "Market Stability, Political Intervention Risk, and the EU ETS: A Simplified Intertemporal Model",
+          "authors": [
+            "Iñaki Longarela"
+          ],
+          "presenter": "Iñaki Longarela"
+        },
+        {
+          "title": "Green investment, inequality and misallocation",
+          "authors": [
+            "Louis-Marie Harpedanne de Belleville"
+          ],
+          "presenter": "Louis-Marie Harpedanne de Belleville"
+        },
+        {
+          "title": "Distributional Effects of Natural Disasters on Banking Sector -Evidence from U.S. Banks",
+          "authors": [
+            "CY Choi"
+          ],
+          "presenter": "CY Choi"
+        },
+        {
+          "title": "Unpacking the Distributional Effects of the Energy Crisis: Lessons from the Iberian Electricity Market",
+          "authors": [
+            "Natalia Fabra"
+          ],
+          "presenter": "Natalia Fabra"
+        }
+      ]
+    },
+    {
+      "session_title": "CRIPTO AND MONEY MARKETS",
+      "date": "2026-05-25",
+      "time": "10:30 - 12:30",
+      "room": "O - 305",
+      "papers": [
+        {
+          "title": "Income inequality and bank funding fragility",
+          "authors": [
+            "Anni Isojaervi"
+          ],
+          "presenter": "Anni Isojaervi"
+        },
+        {
+          "title": "Convenience Has a Price - ATM Surcharges and Cash Demand",
+          "authors": [
+            "Krzysztof Wozniak"
+          ],
+          "presenter": "Krzysztof Wozniak"
+        },
+        {
+          "title": "Excess Liquidity and the Yield Curve",
+          "authors": [
+            "Andreea Liliana Vladu"
+          ],
+          "presenter": "Andreea Liliana Vladu"
+        },
+        {
+          "title": "Tests for No-Arbitrage in Cryptocurrency Markets",
+          "authors": [
+            "Razvan Sufana"
+          ],
+          "presenter": "Razvan Sufana"
+        },
+        {
+          "title": "Crypto Listens: Asymmetric Reactions to Text-based Signals in Central Bank Communications",
+          "authors": [
+            "David Tercero-Lucas"
+          ],
+          "presenter": "David Tercero-Lucas"
+        }
+      ]
+    },
+    {
+      "session_title": "EQUITY MARKETS AND PREDICTION",
+      "date": "2026-05-25",
+      "time": "10:30 - 12:30",
+      "room": "O - 304",
+      "papers": [
+        {
+          "title": "The bright side of circuit breakers",
+          "authors": [
+            "Miguel Ventura Flores"
+          ],
+          "presenter": "Miguel Ventura Flores"
+        },
+        {
+          "title": "Nonparametric Directional Forecasting in Equity Markets: Size, Conditional Patterns, and Economic Payoffs",
+          "authors": [
+            "Andrei Semenov"
+          ],
+          "presenter": "Andrei Semenov"
+        },
+        {
+          "title": "The Effect of AI Investment Announcements on Adopting Companies Abnormal Returns: A Critical Analysis of the UK Market",
+          "authors": [
+            "Zeynep Kurter"
+          ],
+          "presenter": "Zeynep Kurter"
+        },
+        {
+          "title": "Stock markets and Terrorism Unrest in Africa",
+          "authors": [
+            "Guillermo Llorente-Alvarez"
+          ],
+          "presenter": "Guillermo Llorente-Alvarez"
+        }
+      ]
+    },
+    {
+      "session_title": "FAMILY AND POPULATION ECONOMICS",
+      "date": "2026-05-25",
+      "time": "10:30 - 12:30",
+      "room": "O - 301",
+      "papers": [
+        {
+          "title": "Housing and Social Interactions",
+          "authors": [
+            "Mengying Song"
+          ],
+          "presenter": "Mengying Song"
+        },
+        {
+          "title": "Immigration, Social Norms, Violent Crime and Electoral Outcomes Evidence from Chile 2015 - 2024",
+          "authors": [
+            "Alejandro Micco"
+          ],
+          "presenter": "Alejandro Micco"
+        },
+        {
+          "title": "How New Half-Siblings Affect Child Support and Parent-Child Contact - Evidence from German Taxpayer Data",
+          "authors": [
+            "Marianna Schaubert"
+          ],
+          "presenter": "Marianna Schaubert"
+        },
+        {
+          "title": "Dynamic Ethnosizing and Dynamic Identity",
+          "authors": [
+            "Fausto Galli"
+          ],
+          "presenter": "Fausto Galli"
+        },
+        {
+          "title": "School Smoking Bans and Substance Use Spillovers: Evidence from Peer Environments",
+          "authors": [
+            "Henrike Alm"
+          ],
+          "presenter": "Henrike Alm"
+        }
+      ]
+    },
+    {
+      "session_title": "INDUSTRIAL ECONOMICS",
+      "date": "2026-05-25",
+      "time": "10:30 - 12:30",
+      "room": "O - 302",
+      "papers": [
+        {
+          "title": "How Subsidies Shape Innovation: The Dual Role of Quality and Market-Research in a Dynamic Real-Options Model",
+          "authors": [
+            "Diemo Dietrich"
+          ],
+          "presenter": "Diemo Dietrich"
+        },
+        {
+          "title": "Strategic Uncertainty, Compeition, and Asymmetric Pass-Through: Evidence from Electricity Markets",
+          "authors": [
+            "Harim Kim"
+          ],
+          "presenter": "Harim Kim"
+        },
+        {
+          "title": "Family managers and investment decisions",
+          "authors": [
+            "Xulia González"
+          ],
+          "presenter": "Xulia González"
+        },
+        {
+          "title": "Advocating Devils",
+          "authors": [
+            "Xin Gao"
+          ],
+          "presenter": "Xin Gao"
+        },
+        {
+          "title": "Dynamic Crowdfunding: Theory and Evidence",
+          "authors": [
+            "Kaio Dias"
+          ],
+          "presenter": "Kaio Dias"
+        }
+      ]
+    },
+    {
+      "session_title": "MACRO-FINANCIAL IMPACT OF CLIMATE CHANGE",
+      "date": "2026-05-25",
+      "time": "10:30 - 12:30",
+      "room": "O - 309",
+      "papers": [
+        {
+          "title": "Extreme Weather in Europe: Determinants and Economic Impact",
+          "authors": [
+            "Claudio Morana"
+          ],
+          "presenter": "Claudio Morana"
+        },
+        {
+          "title": "Extreme climate and natural disaster risk in financial markets: A CoES approach",
+          "authors": [
+            "Laura Garcia-Jorcano"
+          ],
+          "presenter": "Laura Garcia-Jorcano"
+        },
+        {
+          "title": "Natural disasters and inflation crises in Europe",
+          "authors": [
+            "Amétépé Egbétoké"
+          ],
+          "presenter": "Amétépé Egbétoké"
+        },
+        {
+          "title": "Output Growth and Inflation at Risk of Climate Shocks",
+          "authors": [
+            "Andrey Ramos"
+          ],
+          "presenter": "Andrey Ramos"
+        },
+        {
+          "title": "On the Carbon Footprint of Economic Surveys in the Age of Generative AI",
+          "authors": [
+            "Andres Alonso-Robisco"
+          ],
+          "presenter": "Andres Alonso-Robisco"
+        }
+      ]
+    },
+    {
+      "session_title": "MACROECONOMIC SHOCKS AND PROPAGATION",
+      "date": "2026-05-25",
+      "time": "10:30 - 12:50",
+      "room": "O - 310",
+      "papers": [
+        {
+          "title": "Identification or Propagation? Shock-Based Weak-IV Diagnostics and Bootstrap Inference for Instrumented VARs",
+          "authors": [
+            "Daniele Colombo"
+          ],
+          "presenter": "Daniele Colombo"
+        },
+        {
+          "title": "Simulations on Local Projections Panel Data",
+          "authors": [
+            "Alfonso Ugarte-Ruiz"
+          ],
+          "presenter": "Alfonso Ugarte-Ruiz"
+        },
+        {
+          "title": "Causality in Variance Beyond the First Horizon",
+          "authors": [
+            "Christina Christou"
+          ],
+          "presenter": "Christina Christou"
+        },
+        {
+          "title": "Measuring Salience in macroeconomic time series",
+          "authors": [
+            "Francesca Papagni"
+          ],
+          "presenter": "Francesca Papagni"
+        },
+        {
+          "title": "Scanning for Significance: False Discovery Control for Impulse Responses",
+          "authors": [
+            "Giorgi Nikolaishvili"
+          ],
+          "presenter": "Giorgi Nikolaishvili"
+        },
+        {
+          "title": "Implied Factors: The Linear Skeleton of Machine Learning Forecasts",
+          "authors": [
+            "Philippe Coulombe"
+          ],
+          "presenter": "Philippe Coulombe"
+        }
+      ]
+    },
+    {
+      "session_title": "MONETARY POLICY 1",
+      "date": "2026-05-25",
+      "time": "10:30 - 12:30",
+      "room": "O - 303",
+      "papers": [
+        {
+          "title": "Marginal Investors as a Guide for Monetary Policy: A Tale of Nominal and Real Risks",
+          "authors": [
+            "Anna Orlik"
+          ],
+          "presenter": "Anna Orlik"
+        },
+        {
+          "title": "The Heterogeneous Bank Lending Channel of Monetary Policy",
+          "authors": [
+            "Jorge Abad"
+          ],
+          "presenter": "Jorge Abad"
+        },
+        {
+          "title": "Small Talks and the Predictability of Monetary Policy Surprises",
+          "authors": [
+            "David Gauthier"
+          ],
+          "presenter": "David Gauthier"
+        },
+        {
+          "title": "Temperature and the U.S. Economy: From Demand to Supply-Side Effects?",
+          "authors": [
+            "Marta Rodriguez"
+          ],
+          "presenter": "Marta Rodriguez"
+        }
+      ]
+    },
+    {
+      "session_title": "TIME SERIES ECONOMETRICS WORKSHOP 1 - Factor Models and Quantile Regressions - Chair: Esther Ruiz (Universidad Carlos III Madrid)",
+      "date": "2026-05-25",
+      "time": "10:30 - 12:30",
+      "room": "Sala de Conferencias",
+      "papers": [
+        {
+          "title": "GLOBAL FACTORS FOR LOCAL SHOCKS IN A DATA-SCARCE ENVIRONMENT: WITH AN APPLICATION TO REGIONAL FISCAL MULTIPLIERS IN ITALY",
+          "authors": [
+            "Marco Mazzali"
+          ],
+          "presenter": "Marco Mazzali"
+        },
+        {
+          "title": "Testing the null hypothesis of panel cointegration with common factors",
+          "authors": [
+            "Josep Lluís Carrion-i-Silvestre"
+          ],
+          "presenter": "Josep Lluís Carrion-i-Silvestre"
+        },
+        {
+          "title": "Mean Square Errors of factors extracted using principal components, linear projections, and Kalman filter",
+          "authors": [
+            "Esther Ruiz"
+          ],
+          "presenter": "Esther Ruiz"
+        },
+        {
+          "title": "HAR Inference for Quantile Regression in Time Series",
+          "authors": [
+            "Jungbin Hwang"
+          ],
+          "presenter": "Jungbin Hwang"
+        },
+        {
+          "title": "Transport-based Estimation of Time-Varying Factor Models",
+          "authors": [
+            "Emilio Zanetti Chini"
+          ],
+          "presenter": "Emilio Zanetti Chini"
+        }
+      ]
+    },
+    {
+      "session_title": "CLIMATE AND DEVELOPMENT",
+      "date": "2026-05-25",
+      "time": "14:00 - 16:00",
+      "room": "O - 304",
+      "papers": [
+        {
+          "title": "The role of Institutional Quality in the Developmental Impact of Digital Financial Inclusion in Africa",
+          "authors": [
+            "Ruth Okhah"
+          ],
+          "presenter": "Ruth Okhah"
+        },
+        {
+          "title": "The Effect of Climate Risk on Agricultural Inputs Use of Western African Smallholders: A Panel Data Analysis through CRE–PPML",
+          "authors": [
+            "Marco Rogna"
+          ],
+          "presenter": "Marco Rogna"
+        },
+        {
+          "title": "Mobile phone adoption and deforestation in Peru: Evidence from spatial econometric models at the district and departmental levels",
+          "authors": [
+            "Luis Ledesma Goyzueta"
+          ],
+          "presenter": "Luis Ledesma Goyzueta"
+        },
+        {
+          "title": "Beyond Treaty Presence: Firm-Level Evidence of Tax Treaty Design and Investment in Developing Countries",
+          "authors": [
+            "Pranvera Shehaj"
+          ],
+          "presenter": "Pranvera Shehaj"
+        },
+        {
+          "title": "Deforestation without Development? The Agricultural Resource",
+          "authors": [
+            "Kilian Kamkar"
+          ],
+          "presenter": "Kilian Kamkar"
+        }
+      ]
+    },
+    {
+      "session_title": "CLIMATE AND ENERGY FINANCE CONFERENCE 2",
+      "date": "2026-05-25",
+      "time": "14:00 - 16:00",
+      "room": "Polavieja",
+      "papers": [
+        {
+          "title": "Institutional Investor Impact across Asset Classes: Exit, Voice and/or Conditional (Re)Financing",
+          "authors": [
+            "Fabiola Schneider"
+          ],
+          "presenter": "Fabiola Schneider"
+        },
+        {
+          "title": "From FinTech to Clean Energy: Green Finance as a Mediator, Natural Resources as a Lever",
+          "authors": [
+            "Alexandre Croutzet"
+          ],
+          "presenter": "Alexandre Croutzet"
+        },
+        {
+          "title": "Subsidies and Household Technology Adoption: Evidence from the Belgian Auto Market",
+          "authors": [
+            "Han Pham"
+          ],
+          "presenter": "Han Pham"
+        },
+        {
+          "title": "Do users respond to congestion pricing? Evidence on demand elasticity from managed lanes",
+          "authors": [
+            "Natalia Collado Van-Baumberghen"
+          ],
+          "presenter": "Natalia Collado Van-Baumberghen"
+        },
+        {
+          "title": "Beyond GDP at the Local Level: Spatial Dynamics of Municipal Well-being in Italy",
+          "authors": [
+            "Chiara Colamartino"
+          ],
+          "presenter": "Chiara Colamartino"
+        }
+      ]
+    },
+    {
+      "session_title": "FINANCIAL LEVERAGE AND REGULATION",
+      "date": "2026-05-25",
+      "time": "14:00 - 16:00",
+      "room": "O - 301",
+      "papers": [
+        {
+          "title": "Leverage and Financial Distress: A Meta-Analysis of Empirical Evidence",
+          "authors": [
+            "Ayaz Zeynalov"
+          ],
+          "presenter": "Ayaz Zeynalov"
+        },
+        {
+          "title": "Failure in the Margins: Local Exposure to Non-local Bank Distress",
+          "authors": [
+            "Sam Deegan"
+          ],
+          "presenter": "Sam Deegan"
+        },
+        {
+          "title": "Regulatory Divergence and Bank Capital Flows",
+          "authors": [
+            "Bryan Gutierrez"
+          ],
+          "presenter": "Bryan Gutierrez"
+        },
+        {
+          "title": "Robinhood’s Forced Liquidations",
+          "authors": [
+            "Pedro Garcia Ares"
+          ],
+          "presenter": "Pedro Garcia Ares"
+        },
+        {
+          "title": "Pricing Macro-Panic: Forecasting the Tails of Bond Risk Premia",
+          "authors": [
+            "Jiaxun Liu"
+          ],
+          "presenter": "Jiaxun Liu"
+        }
+      ]
+    },
+    {
+      "session_title": "FISCAL POLICY 1",
+      "date": "2026-05-25",
+      "time": "14:00 - 16:00",
+      "room": "O - 302",
+      "papers": [
+        {
+          "title": "Fiscal Shocks and Public Debt Dynamics in the European Union. New Evidence using Forecast-Error Identification",
+          "authors": [
+            "Karsten Staehr"
+          ],
+          "presenter": "Karsten Staehr"
+        },
+        {
+          "title": "Market discipline on fiscal policy: how banks’ sovereign debt holdings keep public debt in check",
+          "authors": [
+            "Peter Claeys"
+          ],
+          "presenter": "Peter Claeys"
+        },
+        {
+          "title": "Anatomy of French Fiscal Policy",
+          "authors": [
+            "Moaz Elsayed"
+          ],
+          "presenter": "Moaz Elsayed"
+        },
+        {
+          "title": "System-wide effects of sovereign bond market stress",
+          "authors": [
+            "Dennis Zander"
+          ],
+          "presenter": "Dennis Zander"
+        },
+        {
+          "title": "The Insurance Value of Transfers across the Business Cycle",
+          "authors": [
+            "Andrea Fratini"
+          ],
+          "presenter": "Andrea Fratini"
+        }
+      ]
+    },
+    {
+      "session_title": "LABOR ECONOMICS",
+      "date": "2026-05-25",
+      "time": "14:00 - 16:00",
+      "room": "O - 309",
+      "papers": [
+        {
+          "title": "Follow the leader: The effect of high-quality peers on turnover decisions",
+          "authors": [
+            "Marlon Francisco"
+          ],
+          "presenter": "Marlon Francisco"
+        },
+        {
+          "title": "Striking While the Iron Is Hot vs Steady Does It: Cyclical Fluctuations in Hours Worked and Welfare",
+          "authors": [
+            "Christian Jensen"
+          ],
+          "presenter": "Christian Jensen"
+        },
+        {
+          "title": "Beyond technical skills. Labour market returns to skills in tertiary vocational education using an LLM approach.",
+          "authors": [
+            "Federico Segato"
+          ],
+          "presenter": "Federico Segato"
+        },
+        {
+          "title": "The costs of exclusion: Refugee camps and local labour markets",
+          "authors": [
+            "Ioannis Laliotis"
+          ],
+          "presenter": "Ioannis Laliotis"
+        },
+        {
+          "title": "Financial Constraints: Labor Adjustment and Short-Time Work",
+          "authors": [
+            "Kristina Saveska"
+          ],
+          "presenter": "Kristina Saveska"
+        }
+      ]
+    },
+    {
+      "session_title": "MONETARY POLICY 2",
+      "date": "2026-05-25",
+      "time": "14:00 - 16:00",
+      "room": "O - 303",
+      "papers": [
+        {
+          "title": "The Role of Sovereign Wealth Funds in Shaping Monetary Policy Transmission",
+          "authors": [
+            "Nouf Bin Muqbel"
+          ],
+          "presenter": "Nouf Bin Muqbel"
+        },
+        {
+          "title": "The Effects of a Money-financed Fiscal Stimulus Without Irredeemability of Money",
+          "authors": [
+            "Eiji Okano"
+          ],
+          "presenter": "Eiji Okano"
+        },
+        {
+          "title": "Monetary Transmission to Firm-level R&D*",
+          "authors": [
+            "Ruslana Datsenko"
+          ],
+          "presenter": "Ruslana Datsenko"
+        },
+        {
+          "title": "Public sector interventions in the Bund market A repo market perspective",
+          "authors": [
+            "Miguel Ampudia"
+          ],
+          "presenter": "Miguel Ampudia"
+        },
+        {
+          "title": "Financial Inclusion, Credit Booms, and Financial Stability Risk",
+          "authors": [
+            "Adolfo Barajas"
+          ],
+          "presenter": "Adolfo Barajas"
+        }
+      ]
+    },
+    {
+      "session_title": "PRODUCTIVITY AND STRUCTURAL CHANGE",
+      "date": "2026-05-25",
+      "time": "14:00 - 16:00",
+      "room": "O - 310",
+      "papers": [
+        {
+          "title": "The demographic origins of premature deindustrialization",
+          "authors": [
+            "MARTA DOMINGUEZ JIMENEZ"
+          ],
+          "presenter": "MARTA DOMINGUEZ JIMENEZ"
+        },
+        {
+          "title": "Urbanization, Productivity Differences and Spatial Frictions",
+          "authors": [
+            "Calin Arcalean"
+          ],
+          "presenter": "Calin Arcalean"
+        },
+        {
+          "title": "Regional Productivity, Local Economic Capacity, and Health Trajectories among Older Adults in England",
+          "authors": [
+            "Daniele Patiti"
+          ],
+          "presenter": "Daniele Patiti"
+        },
+        {
+          "title": "Private Equity, Institutions, and Productivity",
+          "authors": [
+            "Sara Boni"
+          ],
+          "presenter": "Sara Boni"
+        },
+        {
+          "title": "Internal Migration Restrictions, Aggregate Productivity, and Spatial Growth",
+          "authors": [
+            "Tracy Xu"
+          ],
+          "presenter": "Tracy Xu"
+        }
+      ]
+    },
+    {
+      "session_title": "TIME SERIES ECONOMETRICS WORKSHOP 2 - Macroeconomic Time series - Chair: Gianni Amisano (Federal Reserve Board)",
+      "date": "2026-05-25",
+      "time": "14:00 - 16:00",
+      "room": "Sala de Conferencias",
+      "papers": [
+        {
+          "title": "Telltale Inflation Tails: Cross-Sectional Evidence from Disaggregated Prices",
+          "authors": [
+            "Andrea De Polis"
+          ],
+          "presenter": "Andrea De Polis"
+        },
+        {
+          "title": "Nowcasting GDP Growth for Kenya",
+          "authors": [
+            "Nikolay Danov"
+          ],
+          "presenter": "Nikolay Danov"
+        },
+        {
+          "title": "Inference for Macroeconomic Policy Counterfactuals",
+          "authors": [
+            "Utso Pal Mustafi"
+          ],
+          "presenter": "Utso Pal Mustafi"
+        },
+        {
+          "title": "Fixed-T Dynamic Spatial Panel Model with Common Shocks",
+          "authors": [
+            "Jesse Chen"
+          ],
+          "presenter": "Jesse Chen"
+        },
+        {
+          "title": "The Long Run in Exchange Rates, UIP and Durbin Regressions",
+          "authors": [
+            "Richard Baillie"
+          ],
+          "presenter": "Richard Baillie"
+        }
+      ]
+    },
+    {
+      "session_title": "ASSET PRICING",
+      "date": "2026-05-26",
+      "time": "10:30 - 12:30",
+      "room": "O - 305",
+      "papers": [
+        {
+          "title": "A No-Arbitrage Approach to Asset Pricing using Panel Data",
+          "authors": [
+            "João Issler"
+          ],
+          "presenter": "João Issler"
+        },
+        {
+          "title": "Hedge Fund Investment: Optimal Portfolios with Regime-Switching",
+          "authors": [
+            "Alfonso Valdesogo"
+          ],
+          "presenter": "Alfonso Valdesogo"
+        },
+        {
+          "title": "State-Dependent Asset Pricing Models",
+          "authors": [
+            "Elisa Ossola"
+          ],
+          "presenter": "Elisa Ossola"
+        },
+        {
+          "title": "Algorithms and Supracompetitive Prices in Electronic Markets: The Impact of Tick Size",
+          "authors": [
+            "Jose Penalva Zuasti"
+          ],
+          "presenter": "Jose Penalva Zuasti"
+        },
+        {
+          "title": "Factor Model Selection Using the ICAPM",
+          "authors": [
+            "Jeremias Huber"
+          ],
+          "presenter": "Jeremias Huber"
+        }
+      ]
+    },
+    {
+      "session_title": "BAYESIAN ECONOMETRICS WORKSHOP 1: Advances in Bayesian Modeling & Machine Learning",
+      "date": "2026-05-26",
+      "time": "10:30 - 12:30",
+      "room": "Polavieja",
+      "papers": [
+        {
+          "title": "AR-LD-BART: Autoregressive latent variable models with Bayesian Additive Regression Trees",
+          "authors": [
+            "Matteo Iacopini"
+          ],
+          "presenter": "Matteo Iacopini"
+        },
+        {
+          "title": "Coarsened Bayesian VARs -- Correcting BVARs for Incorrect Specification",
+          "authors": [
+            "Tobias Scheckel"
+          ],
+          "presenter": "Tobias Scheckel"
+        },
+        {
+          "title": "Nonlinear Autoregressive Models for Functional Time Series with Bayesian Additive Regression Trees",
+          "authors": [
+            "Eoghan O'Neill"
+          ],
+          "presenter": "Eoghan O'Neill"
+        },
+        {
+          "title": "Learning Nonlinear Factor Models with Unknown Monotone Links from Incomplete and Noisy Data",
+          "authors": [
+            "Ali Habibnia"
+          ],
+          "presenter": "Ali Habibnia"
+        },
+        {
+          "title": "Follow the Flow: Nonlinear Identification of Structural Shocks via Normalizing Flows with Sign Restrictions",
+          "authors": [
+            "Carlos Montes-Galdon"
+          ],
+          "presenter": "Carlos Montes-Galdon"
+        }
+      ]
+    },
+    {
+      "session_title": "CLIMATE AND ENERGY FINANCE CONFERENCE 3",
+      "date": "2026-05-26",
+      "time": "10:30 - 12:30",
+      "room": "O - 306",
+      "papers": [
+        {
+          "title": "The green premium in the European stock market",
+          "authors": [
+            "Silvia MUZZIOLI"
+          ],
+          "presenter": "Silvia MUZZIOLI"
+        },
+        {
+          "title": "Supply Chain Disruptions: the Propagation and Economic Costs of ESG Shocks",
+          "authors": [
+            "Vicente Bermejo"
+          ],
+          "presenter": "Vicente Bermejo"
+        },
+        {
+          "title": "The greenness of European Green Bonds",
+          "authors": [
+            "Paola Galfrascoli"
+          ],
+          "presenter": "Paola Galfrascoli"
+        },
+        {
+          "title": "Greener on the Other Side: Equilibrium Asset Prices in a Technological Transition",
+          "authors": [
+            "Fernando Zapatero"
+          ],
+          "presenter": "Fernando Zapatero"
+        },
+        {
+          "title": "Oil Firm Diversification Under Climate Risk: A Structural Model with Investment and Heterogeneity",
+          "authors": [
+            "Roderick McCrorie"
+          ],
+          "presenter": "Roderick McCrorie"
+        }
+      ]
+    },
+    {
+      "session_title": "CLIMATE ECONOMETRICS",
+      "date": "2026-05-26",
+      "time": "10:30 - 12:30",
+      "room": "O - 304",
+      "papers": [
+        {
+          "title": "FROM DISASTERS TO VOLATILITY: EXTREME CLIMATE EVENTS AND EUROPEAN FINANCIAL MARKETS",
+          "authors": [
+            "Alessandra Canepa"
+          ],
+          "presenter": "Alessandra Canepa"
+        },
+        {
+          "title": "Nonparametric Estimation and Testing of Nonlinear Temperature–Yield Relationships under Climate Change",
+          "authors": [
+            "Chaoyi Chen"
+          ],
+          "presenter": "Chaoyi Chen"
+        },
+        {
+          "title": "Threshold effects of CO₂ on Sea-Ice Volume: Empirical Evidence with Data from Global Circulation Models of the Arctic and Antarctic",
+          "authors": [
+            "Juan Rodríguez"
+          ],
+          "presenter": "Juan Rodríguez"
+        },
+        {
+          "title": "Modeling Long Memory in 67 Million Years of Cyclical Climate Trends: Anticipating Future Cycles",
+          "authors": [
+            "Alvaro Escribano"
+          ],
+          "presenter": "Alvaro Escribano"
+        },
+        {
+          "title": "Modeling Climate Heterogeneity via an Unconditional Quantile Vector Error Correction Approach",
+          "authors": [
+            "Maria Dolores Gadea"
+          ],
+          "presenter": "Maria Dolores Gadea"
+        }
+      ]
+    },
+    {
+      "session_title": "ECONOMETRIC METHODS AND APPLICATIONS",
+      "date": "2026-05-26",
+      "time": "10:30 - 12:30",
+      "room": "O - 301",
+      "papers": [
+        {
+          "title": "Virtue or Mirage? Complexity in Exchange Rate Prediction",
+          "authors": [
+            "Rehim Kilic"
+          ],
+          "presenter": "Rehim Kilic"
+        },
+        {
+          "title": "Unpleasant Thoughts on Using DiD in Economic Causal Inferences",
+          "authors": [
+            "Chang kon Choi"
+          ],
+          "presenter": "Chang kon Choi"
+        },
+        {
+          "title": "Likelihood and Order Selection for ARMA Dynamics in Panel Models with Interactive Effects",
+          "authors": [
+            "Pablo Mones"
+          ],
+          "presenter": "Pablo Mones"
+        },
+        {
+          "title": "Improved Estimation by Simulated Maximum Likelihood",
+          "authors": [
+            "Kirill Evdokimov"
+          ],
+          "presenter": "Kirill Evdokimov"
+        },
+        {
+          "title": "Sampling Frequency and Parameter Information Under Temporal Aggregation in Continuous-Time Macroeconomic Models",
+          "authors": [
+            "Nikolay Iskrev"
+          ],
+          "presenter": "Nikolay Iskrev"
+        }
+      ]
+    },
+    {
+      "session_title": "GREEN TRANSITION AND SUPPLY CHAINS",
+      "date": "2026-05-26",
+      "time": "10:30 - 12:30",
+      "room": "O - 302",
+      "papers": [
+        {
+          "title": "Measuring performance of investment strategies in ESG mutual funds. Evidence from fixed income flows to euro area.",
+          "authors": [
+            "Alberto Cagnazzo"
+          ],
+          "presenter": "Alberto Cagnazzo"
+        },
+        {
+          "title": "Forecasting the Price of Carbon with Macroeconomic and Financial variables",
+          "authors": [
+            "Elisabetta Mirto"
+          ],
+          "presenter": "Elisabetta Mirto"
+        },
+        {
+          "title": "Supply Chain Uncertainty: Pricing, Growth & Blockchains",
+          "authors": [
+            "Claudio Tebaldi"
+          ],
+          "presenter": "Claudio Tebaldi"
+        },
+        {
+          "title": "MEASURING DEMAND AND SUPPLY PRESSURES USING BUSINESS SURVEYS",
+          "authors": [
+            "Nataliia Ostapenko"
+          ],
+          "presenter": "Nataliia Ostapenko"
+        },
+        {
+          "title": "Transition Dynamics in Heterogeneous-Agent Models and the Distributional Consequences of Taxation",
+          "authors": [
+            "Alexandra Gutsch"
+          ],
+          "presenter": "Alexandra Gutsch"
+        }
+      ]
+    },
+    {
+      "session_title": "INTERNATIONAL ECONOMICS 1",
+      "date": "2026-05-26",
+      "time": "10:30 - 12:30",
+      "room": "O - 309",
+      "papers": [
+        {
+          "title": "International spillovers of fiscal news shocks",
+          "authors": [
+            "Grzegorz Wesołowski"
+          ],
+          "presenter": "Grzegorz Wesołowski"
+        },
+        {
+          "title": "More Data, Better Core Inflation? Evidence from CPI Disaggregation",
+          "authors": [
+            "Laure Simon"
+          ],
+          "presenter": "Laure Simon"
+        },
+        {
+          "title": "PPML Estimation of Structural Panel Gravity Models: Residual Analysis and Diagnostic Tests",
+          "authors": [
+            "Michael Pfaffermayr"
+          ],
+          "presenter": "Michael Pfaffermayr"
+        },
+        {
+          "title": "Absolute Advantage and Mutual Gains in Quantities",
+          "authors": [
+            "Ioannis Paraskevopoulos"
+          ],
+          "presenter": "Ioannis Paraskevopoulos"
+        },
+        {
+          "title": "A Structural Gravity Analysis of the Impact of Terrorism on Tourism",
+          "authors": [
+            "Rafael Llorca-Vivero"
+          ],
+          "presenter": "Rafael Llorca-Vivero"
+        }
+      ]
+    },
+    {
+      "session_title": "MONETARY POLICY 3",
+      "date": "2026-05-26",
+      "time": "10:30 - 12:30",
+      "room": "O - 303",
+      "papers": [
+        {
+          "title": "Do firms adjust their employment plans in response to monetary policy announcements? Evidence from German survey data",
+          "authors": [
+            "Tim Kovalenko"
+          ],
+          "presenter": "Tim Kovalenko"
+        },
+        {
+          "title": "Financial Constraints and Capital-Labor Substitution in Response to Monetary Policy",
+          "authors": [
+            "Hanna Onyshchenko"
+          ],
+          "presenter": "Hanna Onyshchenko"
+        },
+        {
+          "title": "Why doesn’t Quantitative Easing work in the same way everywhere? Evidence from the Covid-19 pandemic",
+          "authors": [
+            "Anna Carruthers"
+          ],
+          "presenter": "Anna Carruthers"
+        },
+        {
+          "title": "Limits to Monetary Policy: When Central Banks Diverge",
+          "authors": [
+            "Sofia Sanchez Alegre"
+          ],
+          "presenter": "Sofia Sanchez Alegre"
+        },
+        {
+          "title": "Interpreting the Interpreter: Can We Model Post-ECB Conference Volatility with LLM Agents?",
+          "authors": [
+            "Umberto Collodel"
+          ],
+          "presenter": "Umberto Collodel"
+        }
+      ]
+    },
+    {
+      "session_title": "POLITICAL ECONOMY",
+      "date": "2026-05-26",
+      "time": "10:30 - 12:30",
+      "room": "O - 310",
+      "papers": [
+        {
+          "title": "Taxing the Peasant, Exempting the Lord",
+          "authors": [
+            "Frode Martin Nordvik"
+          ],
+          "presenter": "Frode Martin Nordvik"
+        },
+        {
+          "title": "Does Inequality Undermine Redistribution? Evidence from Local School Finance",
+          "authors": [
+            "Ioana Schiopu"
+          ],
+          "presenter": "Ioana Schiopu"
+        },
+        {
+          "title": "Hear Me Out Lobbying Frames and Policy",
+          "authors": [
+            "Edgar Jimenez Bedolla"
+          ],
+          "presenter": "Edgar Jimenez Bedolla"
+        },
+        {
+          "title": "Forgiveness and crime dynamics: Empirical insights from the Catholic Great Jubilee of 2000 Event",
+          "authors": [
+            "Yulia Neleptchenko"
+          ],
+          "presenter": "Yulia Neleptchenko"
+        }
+      ]
+    },
+    {
+      "session_title": "TIME SERIES ECONOMETRICS WORKSHOP 3 - Filtering and Prediction - Chair: Daniel Gutknecht (Goethe University of Frankfurt)",
+      "date": "2026-05-26",
+      "time": "10:30 - 12:30",
+      "room": "Sala de Conferencias",
+      "papers": [
+        {
+          "title": "Two Gaussians, Too Many: A bootstrap-based approach to assess identifiability in non-Gaussian structural vector autoregressions",
+          "authors": [
+            "Paritosh Junare"
+          ],
+          "presenter": "Paritosh Junare"
+        },
+        {
+          "title": "A Statistical Dynamic Nonlinear Decomposition Model for the Environmental Kuznets Curve: a State-Space Approach",
+          "authors": [
+            "Carolina Garcia-Martos"
+          ],
+          "presenter": "Carolina Garcia-Martos"
+        },
+        {
+          "title": "Generative Predictive Distributions for Time Series",
+          "authors": [
+            "Jordi Llorens-Terrazas"
+          ],
+          "presenter": "Jordi Llorens-Terrazas"
+        },
+        {
+          "title": "How to catch a star? Reliability of filtering estimates in linear state space systems",
+          "authors": [
+            "Gianni Amisano"
+          ],
+          "presenter": "Gianni Amisano"
+        },
+        {
+          "title": "High-Dimensional Tests for Systemic Risk Measures",
+          "authors": [
+            "Daniel Gutknecht"
+          ],
+          "presenter": "Daniel Gutknecht"
+        }
+      ]
+    },
+    {
+      "session_title": "BANKING STABILITY",
+      "date": "2026-05-26",
+      "time": "16:30 - 18:30",
+      "room": "O - 305",
+      "papers": [
+        {
+          "title": "The state-contingent effect of changes in bank capital requirements",
+          "authors": [
+            "Federico Puglisi"
+          ],
+          "presenter": "Federico Puglisi"
+        },
+        {
+          "title": "The Economics of Capital Buffer Usability",
+          "authors": [
+            "Deepali Gautam"
+          ],
+          "presenter": "Deepali Gautam"
+        },
+        {
+          "title": "Cyber Incidents, Banking Stability and the Value of Supervisory Strictness",
+          "authors": [
+            "Ludovico Rossi"
+          ],
+          "presenter": "Ludovico Rossi"
+        },
+        {
+          "title": "When interest rate shock defies expectations: A precise methodology of stress testing for bond portfolios",
+          "authors": [
+            "Andrey Pankratov"
+          ],
+          "presenter": "Andrey Pankratov"
+        },
+        {
+          "title": "Safe Distance to Systemic Risk",
+          "authors": [
+            "Renzhi LIU"
+          ],
+          "presenter": "Renzhi LIU"
+        }
+      ]
+    },
+    {
+      "session_title": "BAYESIAN ECONOMETRICS WORKSHOP 2: Macroeconomic Policy & Structural Shocks",
+      "date": "2026-05-26",
+      "time": "16:30 - 18:30",
+      "room": "Polavieja",
+      "papers": [
+        {
+          "title": "Global Sectoral Supply Shocks, Inflation, and Monetary Policy",
+          "authors": [
+            "Magali Marx"
+          ],
+          "presenter": "Magali Marx"
+        },
+        {
+          "title": "The Anatomy of Monetary Policy Transmission: A Structural Decomposition",
+          "authors": [
+            "Enrico Wegner"
+          ],
+          "presenter": "Enrico Wegner"
+        },
+        {
+          "title": "Macroprudential Policy and Downside Risk: Regime-Dependent Effects of Capital Regulation",
+          "authors": [
+            "Katalin Julianna Varga"
+          ],
+          "presenter": "Katalin Julianna Varga"
+        },
+        {
+          "title": "Liquidity Shocks and the Real Economy",
+          "authors": [
+            "Garo Garabedian"
+          ],
+          "presenter": "Garo Garabedian"
+        },
+        {
+          "title": "The Macroeconomic Effects of Euro Area Macroprudential Policies: evidence from a narrative panel VAR",
+          "authors": [
+            "Gerhard Rünstler"
+          ],
+          "presenter": "Gerhard Rünstler"
+        }
+      ]
+    },
+    {
+      "session_title": "CLIMATE AND ENERGY FINANCE CONFERENCE 4",
+      "date": "2026-05-26",
+      "time": "16:30 - 18:30",
+      "room": "O - 306",
+      "papers": [
+        {
+          "title": "An iterative convergence procedure for electrification planning, regulation, and finance to achieve universal access",
+          "authors": [
+            "Santos Diaz Pastor"
+          ],
+          "presenter": "Santos Diaz Pastor"
+        },
+        {
+          "title": "Dynamic Effects of Supply and Demand on Electricity Prices during the Global Energy Crisis: Evidence from Japan",
+          "authors": [
+            "Yohei Yamamoto"
+          ],
+          "presenter": "Yohei Yamamoto"
+        },
+        {
+          "title": "Carbon tax on CO2 emissions from oil extraction: The special case of Norway.",
+          "authors": [
+            "Gracia Rahi"
+          ],
+          "presenter": "Gracia Rahi"
+        },
+        {
+          "title": "Carbon tax policies for the global economy",
+          "authors": [
+            "Miguel Casares"
+          ],
+          "presenter": "Miguel Casares"
+        },
+        {
+          "title": "ESG scores and the risk-adjusted performance of sustainable mutual funds: Worldwide divergence in seven key geographical areas",
+          "authors": [
+            "Natalia Cassinello"
+          ],
+          "presenter": "Natalia Cassinello"
+        }
+      ]
+    },
+    {
+      "session_title": "CLIMATE POLICY AND MACROFINANCIAL FLUCTUATIONS",
+      "date": "2026-05-26",
+      "time": "16:30 - 18:30",
+      "room": "O - 304",
+      "papers": [
+        {
+          "title": "Uncertain Climate Policy as a Source of Macro-Financial Shocks: Evidence from Carbon Futures Volatility",
+          "authors": [
+            "Serena Ionta"
+          ],
+          "presenter": "Serena Ionta"
+        },
+        {
+          "title": "Weather, Productivity and Work Reallocation: Evidence from UK Survey Interviewers",
+          "authors": [
+            "Paulo Morais"
+          ],
+          "presenter": "Paulo Morais"
+        },
+        {
+          "title": "European climate policy in the dynamic setting: A Functional principal component analysis model using weekly EU ETS Data",
+          "authors": [
+            "Massimiliano Mazzanti"
+          ],
+          "presenter": "Massimiliano Mazzanti"
+        },
+        {
+          "title": "The Macroeconomics of the Low-Carbon Transition: AI News, Bank Constraints, and Conditional Green Finance",
+          "authors": [
+            "Laurentiu Guinea"
+          ],
+          "presenter": "Laurentiu Guinea"
+        },
+        {
+          "title": "Is There Evidence of GHG Leakage? Insights from Production and Consumption-Based Accounting",
+          "authors": [
+            "Pınar Tat"
+          ],
+          "presenter": "Pınar Tat"
+        }
+      ]
+    },
+    {
+      "session_title": "COMMODITY SHOCKS AND THE MACROECONOMY",
+      "date": "2026-05-26",
+      "time": "16:30 - 18:30",
+      "room": "O - 301",
+      "papers": [
+        {
+          "title": "Fracking the Union? Oil Shocks and the Rise of U.S. Political Polarization",
+          "authors": [
+            "Rubens Morita"
+          ],
+          "presenter": "Rubens Morita"
+        },
+        {
+          "title": "Look-Though or Look Closer? Energy Shocks and Underlying Inflation in the Euro Area",
+          "authors": [
+            "Rosi Chankova"
+          ],
+          "presenter": "Rosi Chankova"
+        },
+        {
+          "title": "The macroeconomics of energy shocks",
+          "authors": [
+            "Umer Ameen"
+          ],
+          "presenter": "Umer Ameen"
+        },
+        {
+          "title": "Macroeconomic Effects of Commodity Price Uncertainty",
+          "authors": [
+            "Lorenzo Tonni"
+          ],
+          "presenter": "Lorenzo Tonni"
+        },
+        {
+          "title": "Quantifying Demand Shocks in the Green and Digital Transition",
+          "authors": [
+            "Marco Zoso"
+          ],
+          "presenter": "Marco Zoso"
+        }
+      ]
+    },
+    {
+      "session_title": "LABOR MARKET AND MACROECONOMIC DYNAMICS",
+      "date": "2026-05-26",
+      "time": "16:30 - 18:30",
+      "room": "O - 302",
+      "papers": [
+        {
+          "title": "Estimating NAIRU for Subgroups of Civilian Population With Flexible Fourier Form",
+          "authors": [
+            "Jing Li"
+          ],
+          "presenter": "Jing Li"
+        },
+        {
+          "title": "The Natural Rate of Interest in the Euro Area: Evidence from Inflation-Indexed Bonds",
+          "authors": [
+            "Jens Christensen"
+          ],
+          "presenter": "Jens Christensen"
+        },
+        {
+          "title": "Welfare Analysis of Labor Market Policies in a HANK–SAM Framework",
+          "authors": [
+            "Danila Smirnov"
+          ],
+          "presenter": "Danila Smirnov"
+        },
+        {
+          "title": "Labor Market Shortages and the Phillips Curve",
+          "authors": [
+            "Cristian Arcidiacono"
+          ],
+          "presenter": "Cristian Arcidiacono"
+        },
+        {
+          "title": "Reduced labor market dynamism? Monetary Policy and the Ins and Outs of Firm Employment",
+          "authors": [
+            "Ahmet Ali Taskin"
+          ],
+          "presenter": "Ahmet Ali Taskin"
+        }
+      ]
+    },
+    {
+      "session_title": "MACROECONOMETRICS",
+      "date": "2026-05-26",
+      "time": "16:30 - 18:30",
+      "room": "O - 309",
+      "papers": [
+        {
+          "title": "Unfolding Regional Business Cycles: Factor Models for Three-Way State-Level Tensors",
+          "authors": [
+            "Sebastian Fossati"
+          ],
+          "presenter": "Sebastian Fossati"
+        },
+        {
+          "title": "Estimating Macroeconomic Effects of Government Spending Shocks",
+          "authors": [
+            "Valerio Palagi"
+          ],
+          "presenter": "Valerio Palagi"
+        },
+        {
+          "title": "Measure matters and identification even more: unmasking the New Keynesian Phillips curve in the Euro Area",
+          "authors": [
+            "Federico Neri"
+          ],
+          "presenter": "Federico Neri"
+        },
+        {
+          "title": "A Shrinkage Factor-Augmented VAR for High-Dimensional Macro–Fiscal Dynamics",
+          "authors": [
+            "Dimitra Kyriakopoulou"
+          ],
+          "presenter": "Dimitra Kyriakopoulou"
+        },
+        {
+          "title": "Measuring Macroeconomic Stars with Scarring Effects",
+          "authors": [
+            "Manuel González-Astudillo"
+          ],
+          "presenter": "Manuel González-Astudillo"
+        }
+      ]
+    },
+    {
+      "session_title": "TECHNICAL CHANGE IN GREEN AND DIGITAL TRANSITION",
+      "date": "2026-05-26",
+      "time": "16:30 - 18:30",
+      "room": "O - 303",
+      "papers": [
+        {
+          "title": "The Solow model under localized technical change",
+          "authors": [
+            "Mehdi Senouci"
+          ],
+          "presenter": "Mehdi Senouci"
+        },
+        {
+          "title": "Automation and Jobs: Skill Requirements and Employment in EU",
+          "authors": [
+            "Orkhan Mammadov"
+          ],
+          "presenter": "Orkhan Mammadov"
+        },
+        {
+          "title": "Perceived AI Job Risk and Wellbeing",
+          "authors": [
+            "Ana Suárez Álvarez"
+          ],
+          "presenter": "Ana Suárez Álvarez"
+        },
+        {
+          "title": "Modern Technology Use at Work",
+          "authors": [
+            "Montserrat Vilalta-Bufi"
+          ],
+          "presenter": "Montserrat Vilalta-Bufi"
+        },
+        {
+          "title": "Beyond Green Jobs: how Climate change Policies reshape Skill demand",
+          "authors": [
+            "Angelica Bertucci"
+          ],
+          "presenter": "Angelica Bertucci"
+        }
+      ]
+    },
+    {
+      "session_title": "TIME SERIES ECONOMETRICS WORKSHOP 4 - Multivariate Models and Long Memory - Chair: Massimiliano Caporin (University of Padova)",
+      "date": "2026-05-26",
+      "time": "16:30 - 18:30",
+      "room": "Sala de Conferencias",
+      "papers": [
+        {
+          "title": "Long memory in the marginalized time series of a VAR revisited",
+          "authors": [
+            "Tomás del Barrio Castro"
+          ],
+          "presenter": "Tomás del Barrio Castro"
+        },
+        {
+          "title": "Multivariate GARCH and portfolio variance prediction: a forecast reconciliation perspective",
+          "authors": [
+            "Massimiliano Caporin"
+          ],
+          "presenter": "Massimiliano Caporin"
+        },
+        {
+          "title": "On the practical irrelevance of non-identifiability in VARMA models",
+          "authors": [
+            "Matteo Pelagatti"
+          ],
+          "presenter": "Matteo Pelagatti"
+        },
+        {
+          "title": "Testing the order of fractional integration when smooth deterministic trends are possibly present",
+          "authors": [
+            "Mustafa Kilinc"
+          ],
+          "presenter": "Mustafa Kilinc"
+        },
+        {
+          "title": "High Dimensional Generalised Penalised Least Squares",
+          "authors": [
+            "Katerina Chrysikou"
+          ],
+          "presenter": "Katerina Chrysikou"
+        }
+      ]
+    },
+    {
+      "session_title": "BAYESIAN ECONOMETRICS WORKSHOP 3: Volatility, Latent Factors & Financial Econometrics",
+      "date": "2026-05-27",
+      "time": "11:30 - 13:30",
+      "room": "Polavieja",
+      "papers": [
+        {
+          "title": "Stochastic dynamic correlations with exogenous shifts",
+          "authors": [
+            "Igor Ferreira Batista Martins"
+          ],
+          "presenter": "Igor Ferreira Batista Martins"
+        },
+        {
+          "title": "Estimating unrestricted spatial interdependence in panel spatial autoregressive models with latent common factors",
+          "authors": [
+            "Deborah Gefang"
+          ],
+          "presenter": "Deborah Gefang"
+        },
+        {
+          "title": "Infinite sparse factor stochastic volatility model",
+          "authors": [
+            "Martina Zaharieva"
+          ],
+          "presenter": "Martina Zaharieva"
+        },
+        {
+          "title": "Volume-driven time-of-day effects in intraday volatility models",
+          "authors": [
+            "Audrone Virbickaite"
+          ],
+          "presenter": "Audrone Virbickaite"
+        },
+        {
+          "title": "A Dynamic Factor Model for Level and Volatility",
+          "authors": [
+            "Sofia Velasco"
+          ],
+          "presenter": "Sofia Velasco"
+        }
+      ]
+    },
+    {
+      "session_title": "CLIMATE AND ENERGY FINANCE CONFERENCE 5",
+      "date": "2026-05-27",
+      "time": "11:30 - 13:30",
+      "room": "O - 306",
+      "papers": [
+        {
+          "title": "Energy prices, credit risk, and bank lending dynamics",
+          "authors": [
+            "Marco Giometti"
+          ],
+          "presenter": "Marco Giometti"
+        },
+        {
+          "title": "Climate Change As a New Source of Systemic Risk: European Banks and Climate Risk Exposure",
+          "authors": [
+            "Claudia Cannas"
+          ],
+          "presenter": "Claudia Cannas"
+        },
+        {
+          "title": "Under Pressure: Sovereign Debt Challenges in a Warming World",
+          "authors": [
+            "Caterina Seghini"
+          ],
+          "presenter": "Caterina Seghini"
+        },
+        {
+          "title": "Bivariate Weather Extremes and the US Economy",
+          "authors": [
+            "Konstantin Boss"
+          ],
+          "presenter": "Konstantin Boss"
+        },
+        {
+          "title": "Systemic_Risk_In_European_Electricity_Markets",
+          "authors": [
+            "jinteng wu"
+          ],
+          "presenter": "jinteng wu"
+        }
+      ]
+    },
+    {
+      "session_title": "CLIMATE AND ENERGY FINANCE CONFERENCE 6",
+      "date": "2026-05-27",
+      "time": "11:30 - 13:30",
+      "room": "O - 307",
+      "papers": [
+        {
+          "title": "Commodity Returns: Lost in Financialization",
+          "authors": [
+            "Massimiliano Bondatti"
+          ],
+          "presenter": "Massimiliano Bondatti"
+        },
+        {
+          "title": "Climate Anomalies, Food Commodity Prices and Consumer Inflation",
+          "authors": [
+            "Christina Anderl"
+          ],
+          "presenter": "Christina Anderl"
+        },
+        {
+          "title": "Beyond &quot;Greenflation&quot;: Heterogeneous Price Dynamics in Critical Mineral Markets Under the Energy Transition",
+          "authors": [
+            "Karine Borri"
+          ],
+          "presenter": "Karine Borri"
+        },
+        {
+          "title": "SLOW MOVING AND LATENT SYSTEMIC RISK: EVIDENCE FROM AGRICULTURAL COMMODITY NETWORKS",
+          "authors": [
+            "Polina Bulavko"
+          ],
+          "presenter": "Polina Bulavko"
+        },
+        {
+          "title": "Data Depth and Predictive Models in the Oil Market: An Adaptive Approach",
+          "authors": [
+            "Carlos Casarrubio"
+          ],
+          "presenter": "Carlos Casarrubio"
+        }
+      ]
+    },
+    {
+      "session_title": "ENERGY EFFICIENCY AND GREEN TRANSITION",
+      "date": "2026-05-27",
+      "time": "11:30 - 13:30",
+      "room": "O - 305",
+      "papers": [
+        {
+          "title": "From Coal to Green: Skills Pathways for Key Emerging Sectors in Just Transition Regions",
+          "authors": [
+            "Charalampos Agiropoulos"
+          ],
+          "presenter": "Charalampos Agiropoulos"
+        },
+        {
+          "title": "When Regulation Lags Markets: The Cost of Equity Gap in Regulated Energy Networks",
+          "authors": [
+            "Alexander Heiss"
+          ],
+          "presenter": "Alexander Heiss"
+        },
+        {
+          "title": "The Impact of the EU ETS on Sectoral CO2 emissions.",
+          "authors": [
+            "Àlex Sanz"
+          ],
+          "presenter": "Àlex Sanz"
+        },
+        {
+          "title": "Energy Efficiency, Investment Constraints, and GDP Growth in Net-Zero Transitions: Evidence from Vietnam",
+          "authors": [
+            "Christoph Schult"
+          ],
+          "presenter": "Christoph Schult"
+        },
+        {
+          "title": "The Role of Firms in Green Transition",
+          "authors": [
+            "Gulserim Ozcan"
+          ],
+          "presenter": "Gulserim Ozcan"
+        }
+      ]
+    },
+    {
+      "session_title": "FINANCIAL ECONOMETRICS",
+      "date": "2026-05-27",
+      "time": "11:30 - 13:30",
+      "room": "O - 304",
+      "papers": [
+        {
+          "title": "Monotonic polynomial GARCH model for conditional higher moments",
+          "authors": [
+            "Rouven Beiner"
+          ],
+          "presenter": "Rouven Beiner"
+        },
+        {
+          "title": "Rediscovering Price Discovery",
+          "authors": [
+            "Julien Ling"
+          ],
+          "presenter": "Julien Ling"
+        },
+        {
+          "title": "Estimation of Large Portfolios with High-Frequency Data",
+          "authors": [
+            "Ilze Kalnina"
+          ],
+          "presenter": "Ilze Kalnina"
+        },
+        {
+          "title": "ESG-Constrained Portfolio Optimization via Bayesian Optimization of Deep Reinforcement Learning Agents: A Soft-Hard Constraint Framework",
+          "authors": [
+            "Eduardo César Garrido-Merchán"
+          ],
+          "presenter": "Eduardo César Garrido-Merchán"
+        },
+        {
+          "title": "An Eigenvector-Based Ranking and Portfolio Construction Framework: An Opportunity-Advantage Approach",
+          "authors": [
+            "Angel Leon"
+          ],
+          "presenter": "Angel Leon"
+        }
+      ]
+    },
+    {
+      "session_title": "FISCAL POLICY 2",
+      "date": "2026-05-27",
+      "time": "11:30 - 13:30",
+      "room": "O - 302",
+      "papers": [
+        {
+          "title": "What are the causal links between fiscal and extternal sustainability in the EU? New time-varying evidence",
+          "authors": [
+            "António Afonso"
+          ],
+          "presenter": "António Afonso"
+        },
+        {
+          "title": "What drives fiscal partisanship? Evidence from Spanish local elections",
+          "authors": [
+            "Carlos Victoria-Lanzon"
+          ],
+          "presenter": "Carlos Victoria-Lanzon"
+        },
+        {
+          "title": "Can social pacts deliver successful fiscal consolidations?",
+          "authors": [
+            "Benedicta Marzinotto"
+          ],
+          "presenter": "Benedicta Marzinotto"
+        },
+        {
+          "title": "Sovereign Debt Dynamics in the Euro-Zone: The Differential Impact of a Common Currency",
+          "authors": [
+            "Luca Pegorari"
+          ],
+          "presenter": "Luca Pegorari"
+        },
+        {
+          "title": "Sovereign Bond Market Fragmentation and Monetary Policy in the Euro Area",
+          "authors": [
+            "Carl-Wolfram Horn"
+          ],
+          "presenter": "Carl-Wolfram Horn"
+        }
+      ]
+    },
+    {
+      "session_title": "GEOPOLITICAL RISK AND POLICIES",
+      "date": "2026-05-27",
+      "time": "11:30 - 13:30",
+      "room": "O - 301",
+      "papers": [
+        {
+          "title": "Geopolitics and the Price of Risk",
+          "authors": [
+            "Marcin Pietrzak"
+          ],
+          "presenter": "Marcin Pietrzak"
+        },
+        {
+          "title": "Market Efficiency and Geopolitical Policies: An Event Study of the Semiconductor Industry",
+          "authors": [
+            "Fatjon Kaja"
+          ],
+          "presenter": "Fatjon Kaja"
+        },
+        {
+          "title": "Geopolitical risk in financial markets: an analysis of commodity hedging and stock returns in Europe",
+          "authors": [
+            "Beatrice Bertelli"
+          ],
+          "presenter": "Beatrice Bertelli"
+        },
+        {
+          "title": "Georisk and systemic risk in Europe's financial system -- Unpacking transmission channels",
+          "authors": [
+            "Jelena Zivanovic"
+          ],
+          "presenter": "Jelena Zivanovic"
+        },
+        {
+          "title": "Optimal Lockdown Policy with Virus Mutation",
+          "authors": [
+            "Taisuke Nakata"
+          ],
+          "presenter": "Taisuke Nakata"
+        }
+      ]
+    },
+    {
+      "session_title": "HOUSING PRICES AND BOOMS",
+      "date": "2026-05-27",
+      "time": "11:30 - 13:30",
+      "room": "O - 309",
+      "papers": [
+        {
+          "title": "When Do Investors Buy Rental Properties? Insights From A Theoretical and Empirical Investigation of Housing Market Breakeven Vacancies",
+          "authors": [
+            "Zhongxia (Sam) Zhang"
+          ],
+          "presenter": "Zhongxia (Sam) Zhang"
+        },
+        {
+          "title": "Disentangling the drivers of exuberant house prices",
+          "authors": [
+            "Clemente Pinilla-Torremocha"
+          ],
+          "presenter": "Clemente Pinilla-Torremocha"
+        },
+        {
+          "title": "Credit-driven economy: A unified framework of segregated boom, asset inflation and monetary policy",
+          "authors": [
+            "Hitoshi Hayakawa"
+          ],
+          "presenter": "Hitoshi Hayakawa"
+        },
+        {
+          "title": "Soft lending standards, hard consequences: how housing booms undermine productive investment",
+          "authors": [
+            "Sangyup Choi"
+          ],
+          "presenter": "Sangyup Choi"
+        }
+      ]
+    },
+    {
+      "session_title": "INFLATION AND EXPECTATIONS",
+      "date": "2026-05-27",
+      "time": "11:30 - 13:30",
+      "room": "O - 310",
+      "papers": [
+        {
+          "title": "Inflation Plucking Cycles",
+          "authors": [
+            "Oskar Juul"
+          ],
+          "presenter": "Oskar Juul"
+        },
+        {
+          "title": "Speaking of Inflation: The Influence of Fed Speeches on Expectations",
+          "authors": [
+            "Eleonora Granziera"
+          ],
+          "presenter": "Eleonora Granziera"
+        },
+        {
+          "title": "Inflation Expectations and Wage Setting Under Collective Bargaining",
+          "authors": [
+            "Kristin Mjølnerød"
+          ],
+          "presenter": "Kristin Mjølnerød"
+        },
+        {
+          "title": "Unobserved Components with Stochastic Volatility and Volatility Responsiveness (UCSVVR)",
+          "authors": [
+            "Gabriel Arce-Alfaro"
+          ],
+          "presenter": "Gabriel Arce-Alfaro"
+        },
+        {
+          "title": "Chronic inflation and the costs of not addressing an upsurge in time",
+          "authors": [
+            "Joaquin Waldman"
+          ],
+          "presenter": "Joaquin Waldman"
+        }
+      ]
+    },
+    {
+      "session_title": "INTEREST RATES",
+      "date": "2026-05-27",
+      "time": "11:30 - 13:30",
+      "room": "O - 303",
+      "papers": [
+        {
+          "title": "Emergency Lending, Macroeconomic Conditions, and Bank Loan Spreads: Evidence from the Main Street Lending Program",
+          "authors": [
+            "Qichen Zhou"
+          ],
+          "presenter": "Qichen Zhou"
+        },
+        {
+          "title": "Information in (and not in) interest rates surveys",
+          "authors": [
+            "Adam Golinski"
+          ],
+          "presenter": "Adam Golinski"
+        },
+        {
+          "title": "Interest Rate Volatility and the Equity Term Structure",
+          "authors": [
+            "Alexandre Remiat"
+          ],
+          "presenter": "Alexandre Remiat"
+        },
+        {
+          "title": "Extreme Events in Corporate Bond Spreads",
+          "authors": [
+            "Anjeza Kadilli"
+          ],
+          "presenter": "Anjeza Kadilli"
+        }
+      ]
+    },
+    {
+      "session_title": "BAYESIAN ECONOMETRICS WORKSHOP 4: Prediction & Market Dynamics",
+      "date": "2026-05-27",
+      "time": "14:30 - 16:30",
+      "room": "O - 304",
+      "papers": [
+        {
+          "title": "External Validity as Prediction Hierarchical Modeling of Treatment Effect Heterogeneity",
+          "authors": [
+            "ANDRES RAMIREZ HASSAN"
+          ],
+          "presenter": "ANDRES RAMIREZ HASSAN"
+        },
+        {
+          "title": "A Bayesian Analysis of the Cox-Ingersoll-Ross Model",
+          "authors": [
+            "Lluc Puig Codina"
+          ],
+          "presenter": "Lluc Puig Codina"
+        },
+        {
+          "title": "Beyond Conditional Second Moments: Does Nonparametric Density Modelling Matter to Portfolio Allocation?",
+          "authors": [
+            "John Maheu"
+          ],
+          "presenter": "John Maheu"
+        },
+        {
+          "title": "Theory-based priors for the output gap",
+          "authors": [
+            "Andrea Renzetti"
+          ],
+          "presenter": "Andrea Renzetti"
+        },
+        {
+          "title": "Heterogeneous Peer Effects with Endogenous Network Formation",
+          "authors": [
+            "Santiago Montoya-Blandón"
+          ],
+          "presenter": "Santiago Montoya-Blandón"
+        }
+      ]
+    },
+    {
+      "session_title": "BAYESIAN ECONOMETRICS WORKSHOP 5: Advanced Identification and Shrinkage in Multivariate Time Series",
+      "date": "2026-05-27",
+      "time": "14:30 - 16:30",
+      "room": "Polavieja",
+      "papers": [
+        {
+          "title": "Misspecification-Robust Shrinkage and Selection for VAR Forecasts and IRFs",
+          "authors": [
+            "Oriol González-Casasús"
+          ],
+          "presenter": "Oriol González-Casasús"
+        },
+        {
+          "title": "Dynamic Consumer Demand at Large Scale",
+          "authors": [
+            "Anna Schmidt"
+          ],
+          "presenter": "Anna Schmidt"
+        },
+        {
+          "title": "Bayesian Markov-Switching Partial Reduced-Rank Regression",
+          "authors": [
+            "Maria Fernanda Pintado"
+          ],
+          "presenter": "Maria Fernanda Pintado"
+        },
+        {
+          "title": "A geometric approach to factor model identification",
+          "authors": [
+            "Sylvia Kaufmann"
+          ],
+          "presenter": "Sylvia Kaufmann"
+        },
+        {
+          "title": "Power Prior for VARs",
+          "authors": [
+            "Martin Fankhauser"
+          ],
+          "presenter": "Martin Fankhauser"
+        }
+      ]
+    },
+    {
+      "session_title": "CLIMATE AND ENERGY FINANCE CONFERENCE 7",
+      "date": "2026-05-27",
+      "time": "14:30 - 16:30",
+      "room": "O - 306",
+      "papers": [
+        {
+          "title": "From Climate to Economy: Understanding Climate Risks in the U.S. Market",
+          "authors": [
+            "Maria Francisca Carvalho"
+          ],
+          "presenter": "Maria Francisca Carvalho"
+        },
+        {
+          "title": "The Impact of Corporate ESG Performance on Stock Price Efficiency",
+          "authors": [
+            "Sinian Zheng"
+          ],
+          "presenter": "Sinian Zheng"
+        },
+        {
+          "title": "Multiscale Tail-Risk Connectedness between Carbon, Clean Energy and Agriculture: Evidence from Maximal Overlap Discrete Wavelet Transform and Extreme Value Theory",
+          "authors": [
+            "shaohua wu"
+          ],
+          "presenter": "shaohua wu"
+        },
+        {
+          "title": "Graded factors: a new approach to the cross-section of returns and risk",
+          "authors": [
+            "Jorge Merladet"
+          ],
+          "presenter": "Jorge Merladet"
+        },
+        {
+          "title": "Forecasting the Electricity Load Daily Peaks at Regional Level",
+          "authors": [
+            "Andrés Alonso"
+          ],
+          "presenter": "Andrés Alonso"
+        }
+      ]
+    },
+    {
+      "session_title": "CONSUMPTION AND PRECAUTIONARY SAVINGS",
+      "date": "2026-05-27",
+      "time": "14:30 - 16:30",
+      "room": "O - 305",
+      "papers": [
+        {
+          "title": "Identifying the Marginal Propensity to Consume",
+          "authors": [
+            "Marco D’Amico"
+          ],
+          "presenter": "Marco D’Amico"
+        },
+        {
+          "title": "The Role of Expenditure Risk in Household Wealth Dynamics",
+          "authors": [
+            "Luigi Maria Briglia"
+          ],
+          "presenter": "Luigi Maria Briglia"
+        },
+        {
+          "title": "Precautionary Saving under Ambiguity: Eﬀects on Wealth Inequality",
+          "authors": [
+            "Ana Santos"
+          ],
+          "presenter": "Ana Santos"
+        },
+        {
+          "title": "Consumption Dynamics and Welfare Implications under Diagnostic Expectations",
+          "authors": [
+            "Jinting Guo"
+          ],
+          "presenter": "Jinting Guo"
+        },
+        {
+          "title": "Do Non-Prudent Consumers Ever Engage in Precautionary Saving?",
+          "authors": [
+            "Luigi Ventura"
+          ],
+          "presenter": "Luigi Ventura"
+        }
+      ]
+    },
+    {
+      "session_title": "CORPORATE DYNAMICS",
+      "date": "2026-05-27",
+      "time": "14:30 - 16:30",
+      "room": "O - 301",
+      "papers": [
+        {
+          "title": "Dual Effects of Financial Constraints on Innovative Efficiency: Evidence from a Semiparametric Panel Model",
+          "authors": [
+            "Karine Borri"
+          ],
+          "presenter": "Karine Borri"
+        },
+        {
+          "title": "Shareholder Empowerment and Ownership Structure in a Free-Contracting Environment",
+          "authors": [
+            "Salvatore Miglietta"
+          ],
+          "presenter": "Salvatore Miglietta"
+        },
+        {
+          "title": "Heterogeneity of covenants and corporate financial behaviour",
+          "authors": [
+            "maria elena bontempi"
+          ],
+          "presenter": "maria elena bontempi"
+        },
+        {
+          "title": "Interest Rate Pass-Through to Euro Area Corporate Lending Rates: Does Asymmetry Matter?",
+          "authors": [
+            "Steve Billon"
+          ],
+          "presenter": "Steve Billon"
+        },
+        {
+          "title": "Three-phase modelling scheme based on data augmentation and its application to Loss given default (LGD) estimation",
+          "authors": [
+            "Paweł Kopciuszewski"
+          ],
+          "presenter": "Paweł Kopciuszewski"
+        }
+      ]
+    },
+    {
+      "session_title": "INDUSTRY AND FINANCIAL RISK",
+      "date": "2026-05-27",
+      "time": "14:30 - 16:30",
+      "room": "O - 302",
+      "papers": [
+        {
+          "title": "Does Biodiversity Risk Affect Financial Risk? Evidence from U.S. Firms.",
+          "authors": [
+            "Almudena García-Sanz"
+          ],
+          "presenter": "Almudena García-Sanz"
+        },
+        {
+          "title": "Valuation of Regulatory Risk on Pharmaceutical R&D",
+          "authors": [
+            "Teresa Corzo"
+          ],
+          "presenter": "Teresa Corzo"
+        },
+        {
+          "title": "Quantifying the Experience Premium in Solar Capital Costs",
+          "authors": [
+            "Robin Fischer"
+          ],
+          "presenter": "Robin Fischer"
+        },
+        {
+          "title": "Can Monitoring Curb Moral Hazard in Green Investments? Evidence from International Carbon Offset Program",
+          "authors": [
+            "Vikram Nanda"
+          ],
+          "presenter": "Vikram Nanda"
+        },
+        {
+          "title": "Bayesian Disaggregation of Subnational Institutional Quality: An Application to the 2020 Croatian Earthquakes",
+          "authors": [
+            "Ana Marija Filipas"
+          ],
+          "presenter": "Ana Marija Filipas"
+        }
+      ]
+    },
+    {
+      "session_title": "INTERNATIONAL ECONOMICS 2",
+      "date": "2026-05-27",
+      "time": "14:30 - 16:30",
+      "room": "O - 309",
+      "papers": [
+        {
+          "title": "When Men Work, Do Women Work? Sectoral Patterns of Intra- household Labor Supply in India",
+          "authors": [
+            "Meghna ."
+          ],
+          "presenter": "Meghna ."
+        },
+        {
+          "title": "Macroeconomic Consequences of the Spanish Transition to Democracy",
+          "authors": [
+            "Cristino Abril De Maya"
+          ],
+          "presenter": "Cristino Abril De Maya"
+        },
+        {
+          "title": "Capital Across Borders, Jobs at Home: The FDI-Unemployment Nexus in the OECD",
+          "authors": [
+            "Kaan Celebi"
+          ],
+          "presenter": "Kaan Celebi"
+        },
+        {
+          "title": "Payment Terms and Heterogeneous Shock Transmission in Production Networks",
+          "authors": [
+            "Felipe Leal"
+          ],
+          "presenter": "Felipe Leal"
+        },
+        {
+          "title": "The Integration Paradox: A Panel Data VAR Approach ot Business Cycle Asymmetries in the Andean Community (1990 - 2024)",
+          "authors": [
+            "Luis-Felipe Arizmendi"
+          ],
+          "presenter": "Luis-Felipe Arizmendi"
+        }
+      ]
+    },
+    {
+      "session_title": "MACROECONOMIC FLUCTUATIONS",
+      "date": "2026-05-27",
+      "time": "14:30 - 16:30",
+      "room": "O - 310",
+      "papers": [
+        {
+          "title": "What Did the Fed Really Say? Disentangling Policy and Information Spillovers to Global Equity Markets",
+          "authors": [
+            "João Fernandes"
+          ],
+          "presenter": "João Fernandes"
+        },
+        {
+          "title": "Banks and Monetary Policy in a Monetary Union: Empirical Evidence from the West African Economic and Monetary Union",
+          "authors": [
+            "Ahmad Hassan Ahmad"
+          ],
+          "presenter": "Ahmad Hassan Ahmad"
+        },
+        {
+          "title": "Exchange Rate Regime Ambiguity and Monetary Policy Uncertainty: A Multi-Method Consensus Framework",
+          "authors": [
+            "Luciano Silva"
+          ],
+          "presenter": "Luciano Silva"
+        },
+        {
+          "title": "Fiscal Policy at the Effective Lower Bound",
+          "authors": [
+            "Pakpicha Pathompituknukoon"
+          ],
+          "presenter": "Pakpicha Pathompituknukoon"
+        },
+        {
+          "title": "Are External Shocks Enough to Explain Macroeconomic Fluctuations in Small Open Economies?",
+          "authors": [
+            "Diego Gonzales"
+          ],
+          "presenter": "Diego Gonzales"
+        }
+      ]
+    },
+    {
+      "session_title": "MACROECONOMIC SHOCKS",
+      "date": "2026-05-27",
+      "time": "14:30 - 16:30",
+      "room": "O - 303",
+      "papers": [
+        {
+          "title": "Asymmetric Spillovers of idiosyncratic cycles in the European Union: Core-Periphery and Old-New Members Analysis",
+          "authors": [
+            "Aránzazu de Juan Fernández"
+          ],
+          "presenter": "Aránzazu de Juan Fernández"
+        },
+        {
+          "title": "The Transmission of Foreign Economic Surprises",
+          "authors": [
+            "Julio Ortiz"
+          ],
+          "presenter": "Julio Ortiz"
+        },
+        {
+          "title": "Exporting inflation",
+          "authors": [
+            "Mauricio Stern"
+          ],
+          "presenter": "Mauricio Stern"
+        },
+        {
+          "title": "Fiscal Shocks and Financial Risk",
+          "authors": [
+            "Benedikt Kolb"
+          ],
+          "presenter": "Benedikt Kolb"
+        },
+        {
+          "title": "Fiscal Policy and Financial Markets: Do Revenue and Spending Shocks Matter Differently?",
+          "authors": [
+            "Alessandra Centinaio"
+          ],
+          "presenter": "Alessandra Centinaio"
+        }
+      ]
+    },
+    {
+      "session_title": "NATURAL RESOURCE AND BRICS",
+      "date": "2026-05-27",
+      "time": "14:30 - 16:30",
+      "room": "O - 307",
+      "papers": [
+        {
+          "title": "Environmental Policy, Household Heterogeneity, and Macroeconomic Fluctuations",
+          "authors": [
+            "Harun Nasir"
+          ],
+          "presenter": "Harun Nasir"
+        },
+        {
+          "title": "Agree to Disagree: Robust Yield Prediction for Indian Farms using a weighted Multi-MLMs, Multifold Framework, using NSSO Data",
+          "authors": [
+            "Sukanya Mukherjee"
+          ],
+          "presenter": "Sukanya Mukherjee"
+        },
+        {
+          "title": "Global Temperature Shocks and U.S. Food Price Inflation",
+          "authors": [
+            "Mohamad Karaki"
+          ],
+          "presenter": "Mohamad Karaki"
+        },
+        {
+          "title": "Awareness, Infrastructure, and Rare Adoption: Evidence on Microgrids from Rural India",
+          "authors": [
+            "Srikant Shaw"
+          ],
+          "presenter": "Srikant Shaw"
+        },
+        {
+          "title": "The Trade-Off Between Fossil Fuels and Renewable Ethanol: Evidence from Brazil’s Fuel Market",
+          "authors": [
+            "Emerson Marçal"
+          ],
+          "presenter": "Emerson Marçal"
+        }
+      ]
+    }
+  ],
+  "participants": [
+    {
+      "name": "Adam Golinski",
+      "institution": "Banque de France",
+      "is_presenter": true,
+      "papers": [
+        "Information in (and not in) interest rates surveys"
+      ]
+    },
+    {
+      "name": "Adolfo Barajas",
+      "institution": "International Monetary Fund",
+      "is_presenter": true,
+      "papers": [
+        "Financial Inclusion, Credit Booms, and Financial Stability Risk"
+      ]
+    },
+    {
+      "name": "Ahmad Hassan Ahmad",
+      "institution": "Loughborough University",
+      "is_presenter": true,
+      "papers": [
+        "Banks and Monetary Policy in a Monetary Union: Empirical Evidence from the West African Economic and Monetary Union"
+      ]
+    },
+    {
+      "name": "Ahmet Ali Taskin",
+      "institution": "Institute for Employment Research (IAB)",
+      "is_presenter": true,
+      "papers": [
+        "Reduced labor market dynamism? Monetary Policy and the Ins and Outs of Firm Employment"
+      ]
+    },
+    {
+      "name": "Alberto Cagnazzo",
+      "institution": "LUISS University",
+      "is_presenter": true,
+      "papers": [
+        "Measuring performance of investment strategies in ESG mutual funds. Evidence from fixed income flows to euro area."
+      ]
+    },
+    {
+      "name": "Alejandro Micco",
+      "institution": "University of Chile",
+      "is_presenter": true,
+      "papers": [
+        "Immigration, Social Norms, Violent Crime and Electoral Outcomes Evidence from Chile 2015 - 2024"
+      ]
+    },
+    {
+      "name": "Alessandra Canepa",
+      "institution": "Turin University",
+      "is_presenter": true,
+      "papers": [
+        "FROM DISASTERS TO VOLATILITY: EXTREME CLIMATE EVENTS AND EUROPEAN FINANCIAL MARKETS"
+      ]
+    },
+    {
+      "name": "Alessandra Centinaio",
+      "institution": "LIUC Università Cattaneo",
+      "is_presenter": true,
+      "papers": [
+        "Fiscal Policy and Financial Markets: Do Revenue and Spending Shocks Matter Differently?"
+      ]
+    },
+    {
+      "name": "Alexander Heiss",
+      "institution": "TUM",
+      "is_presenter": true,
+      "papers": [
+        "When Regulation Lags Markets: The Cost of Equity Gap in Regulated Energy Networks"
+      ]
+    },
+    {
+      "name": "Alexandra Gutsch",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Transition Dynamics in Heterogeneous-Agent Models and the Distributional Consequences of Taxation"
+      ]
+    },
+    {
+      "name": "Alexandre Croutzet",
+      "institution": "UQAM",
+      "is_presenter": true,
+      "papers": [
+        "From FinTech to Clean Energy: Green Finance as a Mediator, Natural Resources as a Lever"
+      ]
+    },
+    {
+      "name": "Alexandre Remiat",
+      "institution": "Kanopy-AM",
+      "is_presenter": true,
+      "papers": [
+        "Interest Rate Volatility and the Equity Term Structure"
+      ]
+    },
+    {
+      "name": "Alfonso Ugarte-Ruiz",
+      "institution": "BBVA",
+      "is_presenter": true,
+      "papers": [
+        "Simulations on Local Projections Panel Data"
+      ]
+    },
+    {
+      "name": "Alfonso Valdesogo",
+      "institution": "Universitat de les Illes Balears",
+      "is_presenter": true,
+      "papers": [
+        "Hedge Fund Investment: Optimal Portfolios with Regime-Switching"
+      ]
+    },
+    {
+      "name": "Ali Habibnia",
+      "institution": "Virginia Tech",
+      "is_presenter": true,
+      "papers": [
+        "Learning Nonlinear Factor Models with Unknown Monotone Links from Incomplete and Noisy Data"
+      ]
+    },
+    {
+      "name": "Almudena García-Sanz",
+      "institution": "Complutense University of Madrid",
+      "is_presenter": true,
+      "papers": [
+        "Does Biodiversity Risk Affect Financial Risk? Evidence from U.S. Firms."
+      ]
+    },
+    {
+      "name": "Alvaro Escribano",
+      "institution": "Universidad Carlos III de Madrid",
+      "is_presenter": true,
+      "papers": [
+        "Modeling Long Memory in 67 Million Years of Cyclical Climate Trends: Anticipating Future Cycles"
+      ]
+    },
+    {
+      "name": "Amétépé Egbétoké",
+      "institution": "University of Picardie Jules Verne",
+      "is_presenter": true,
+      "papers": [
+        "Natural disasters and inflation crises in Europe"
+      ]
+    },
+    {
+      "name": "Ana Marija Filipas",
+      "institution": "Faculty of Economics and Business, University of Rijeka / School of Economics and Business, University of Ljubljana",
+      "is_presenter": true,
+      "papers": [
+        "Bayesian Disaggregation of Subnational Institutional Quality: An Application to the 2020 Croatian Earthquakes"
+      ]
+    },
+    {
+      "name": "Ana Santos",
+      "institution": "Adam Smith Business School University of Glasgow",
+      "is_presenter": true,
+      "papers": [
+        "Precautionary Saving under Ambiguity: Eﬀects on Wealth Inequality"
+      ]
+    },
+    {
+      "name": "Ana Suárez Álvarez",
+      "institution": "University of Oviedo",
+      "is_presenter": true,
+      "papers": [
+        "Perceived AI Job Risk and Wellbeing"
+      ]
+    },
+    {
+      "name": "Andrea De Polis",
+      "institution": "Banco de España",
+      "is_presenter": true,
+      "papers": [
+        "Telltale Inflation Tails: Cross-Sectional Evidence from Disaggregated Prices"
+      ]
+    },
+    {
+      "name": "Andrea Fratini",
+      "institution": "Sapienza University of Rome",
+      "is_presenter": true,
+      "papers": [
+        "The Insurance Value of Transfers across the Business Cycle"
+      ]
+    },
+    {
+      "name": "Andrea Renzetti",
+      "institution": "Bank of England; Bocconi University",
+      "is_presenter": true,
+      "papers": [
+        "Theory-based priors for the output gap"
+      ]
+    },
+    {
+      "name": "Andreea Liliana Vladu",
+      "institution": "European Central Bank",
+      "is_presenter": true,
+      "papers": [
+        "Excess Liquidity and the Yield Curve"
+      ]
+    },
+    {
+      "name": "Andrei Semenov",
+      "institution": "York University",
+      "is_presenter": true,
+      "papers": [
+        "Nonparametric Directional Forecasting in Equity Markets: Size, Conditional Patterns, and Economic Payoffs"
+      ]
+    },
+    {
+      "name": "Andres Alonso-Robisco",
+      "institution": "Banco de España",
+      "is_presenter": true,
+      "papers": [
+        "On the Carbon Footprint of Economic Surveys in the Age of Generative AI"
+      ]
+    },
+    {
+      "name": "ANDRES RAMIREZ HASSAN",
+      "institution": "Universidad EAFIT",
+      "is_presenter": true,
+      "papers": [
+        "External Validity as Prediction Hierarchical Modeling of Treatment Effect Heterogeneity"
+      ]
+    },
+    {
+      "name": "Andrey Pankratov",
+      "institution": "Université Laval",
+      "is_presenter": true,
+      "papers": [
+        "When interest rate shock defies expectations: A precise methodology of stress testing for bond portfolios"
+      ]
+    },
+    {
+      "name": "Andrey Ramos",
+      "institution": "Bank of Spain",
+      "is_presenter": true,
+      "papers": [
+        "Output Growth and Inflation at Risk of Climate Shocks"
+      ]
+    },
+    {
+      "name": "Andrés Alonso",
+      "institution": "Universidad Carlos III de Madrid",
+      "is_presenter": true,
+      "papers": [
+        "Forecasting the Electricity Load Daily Peaks at Regional Level"
+      ]
+    },
+    {
+      "name": "Angel Leon",
+      "institution": "Universidad de Alicante",
+      "is_presenter": true,
+      "papers": [
+        "An Eigenvector-Based Ranking and Portfolio Construction Framework: An Opportunity-Advantage Approach"
+      ]
+    },
+    {
+      "name": "Angelica Bertucci",
+      "institution": "Università di Pavia",
+      "is_presenter": true,
+      "papers": [
+        "Beyond Green Jobs: how Climate change Policies reshape Skill demand"
+      ]
+    },
+    {
+      "name": "Anjeza Kadilli",
+      "institution": "University of Applied Sciences of Western Switzerland, Geneva",
+      "is_presenter": true,
+      "papers": [
+        "Extreme Events in Corporate Bond Spreads"
+      ]
+    },
+    {
+      "name": "Anna Carruthers",
+      "institution": "University of Oxford/Bank of England",
+      "is_presenter": true,
+      "papers": [
+        "Why doesn’t Quantitative Easing work in the same way everywhere? Evidence from the Covid-19 pandemic"
+      ]
+    },
+    {
+      "name": "Anna Orlik",
+      "institution": "Federal Reserve Board of Governors",
+      "is_presenter": true,
+      "papers": [
+        "Marginal Investors as a Guide for Monetary Policy: A Tale of Nominal and Real Risks"
+      ]
+    },
+    {
+      "name": "Anna Schmidt",
+      "institution": "Heinrich Heine University Düsseldorf",
+      "is_presenter": true,
+      "papers": [
+        "Dynamic Consumer Demand at Large Scale"
+      ]
+    },
+    {
+      "name": "Anni Isojaervi",
+      "institution": "Federal Reserve Board",
+      "is_presenter": true,
+      "papers": [
+        "Income inequality and bank funding fragility"
+      ]
+    },
+    {
+      "name": "António Afonso",
+      "institution": "ISEG-ULisboa",
+      "is_presenter": true,
+      "papers": [
+        "What are the causal links between fiscal and extternal sustainability in the EU? New time-varying evidence"
+      ]
+    },
+    {
+      "name": "Aránzazu de Juan Fernández",
+      "institution": "Universidad Autónoma de Madrid",
+      "is_presenter": true,
+      "papers": [
+        "Asymmetric Spillovers of idiosyncratic cycles in the European Union: Core-Periphery and Old-New Members Analysis"
+      ]
+    },
+    {
+      "name": "Audrone Virbickaite",
+      "institution": "CUNEF Universidad",
+      "is_presenter": true,
+      "papers": [
+        "Volume-driven time-of-day effects in intraday volatility models"
+      ]
+    },
+    {
+      "name": "Ayaz Zeynalov",
+      "institution": "Prague University of Economics and Business",
+      "is_presenter": true,
+      "papers": [
+        "Leverage and Financial Distress: A Meta-Analysis of Empirical Evidence"
+      ]
+    },
+    {
+      "name": "Beatrice Bertelli",
+      "institution": "University of Modena and Reggio Emilia",
+      "is_presenter": true,
+      "papers": [
+        "Geopolitical risk in financial markets: an analysis of commodity hedging and stock returns in Europe"
+      ]
+    },
+    {
+      "name": "Benedicta Marzinotto",
+      "institution": "Johns Hopkins University",
+      "is_presenter": true,
+      "papers": [
+        "Can social pacts deliver successful fiscal consolidations?"
+      ]
+    },
+    {
+      "name": "Benedikt Kolb",
+      "institution": "Deutsche Bundesbank",
+      "is_presenter": true,
+      "papers": [
+        "Fiscal Shocks and Financial Risk"
+      ]
+    },
+    {
+      "name": "Bryan Gutierrez",
+      "institution": "University of Minnesota",
+      "is_presenter": true,
+      "papers": [
+        "Regulatory Divergence and Bank Capital Flows"
+      ]
+    },
+    {
+      "name": "Byeongseon Seo",
+      "institution": "Korea University",
+      "is_presenter": true,
+      "papers": []
+    },
+    {
+      "name": "Calin Arcalean",
+      "institution": "ESADE Business School",
+      "is_presenter": true,
+      "papers": [
+        "Urbanization, Productivity Differences and Spatial Frictions"
+      ]
+    },
+    {
+      "name": "Carl-Wolfram Horn",
+      "institution": "Frankfurt School of Finance & Management",
+      "is_presenter": true,
+      "papers": [
+        "Sovereign Bond Market Fragmentation and Monetary Policy in the Euro Area"
+      ]
+    },
+    {
+      "name": "Carlos Casarrubio",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Data Depth and Predictive Models in the Oil Market: An Adaptive Approach"
+      ]
+    },
+    {
+      "name": "Carlos Montes-Galdon",
+      "institution": "European Central Bank",
+      "is_presenter": true,
+      "papers": [
+        "Follow the Flow: Nonlinear Identification of Structural Shocks via Normalizing Flows with Sign Restrictions"
+      ]
+    },
+    {
+      "name": "Carlos Victoria-Lanzon",
+      "institution": "Universidad Complutense de Madrid",
+      "is_presenter": true,
+      "papers": [
+        "What drives fiscal partisanship? Evidence from Spanish local elections"
+      ]
+    },
+    {
+      "name": "Carolina Garcia-Martos",
+      "institution": "Universidad Politecnica de Madrid, Spain",
+      "is_presenter": true,
+      "papers": [
+        "A Statistical Dynamic Nonlinear Decomposition Model for the Environmental Kuznets Curve: a State-Space Approach"
+      ]
+    },
+    {
+      "name": "Caterina Seghini",
+      "institution": "Banque de France",
+      "is_presenter": true,
+      "papers": [
+        "Under Pressure: Sovereign Debt Challenges in a Warming World"
+      ]
+    },
+    {
+      "name": "Chang kon Choi",
+      "institution": "Chonbuk National University",
+      "is_presenter": true,
+      "papers": [
+        "Unpleasant Thoughts on Using DiD in Economic Causal Inferences"
+      ]
+    },
+    {
+      "name": "Chaoyi Chen",
+      "institution": "Central Bank of Hungary",
+      "is_presenter": true,
+      "papers": [
+        "Nonparametric Estimation and Testing of Nonlinear Temperature–Yield Relationships under Climate Change"
+      ]
+    },
+    {
+      "name": "Charalampos Agiropoulos",
+      "institution": "University of Piraeus",
+      "is_presenter": true,
+      "papers": [
+        "From Coal to Green: Skills Pathways for Key Emerging Sectors in Just Transition Regions"
+      ]
+    },
+    {
+      "name": "Chiara Colamartino",
+      "institution": "Università LUM",
+      "is_presenter": true,
+      "papers": [
+        "Beyond GDP at the Local Level: Spatial Dynamics of Municipal Well-being in Italy"
+      ]
+    },
+    {
+      "name": "Christian Jensen",
+      "institution": "University of South Carolina",
+      "is_presenter": true,
+      "papers": [
+        "Striking While the Iron Is Hot vs Steady Does It: Cyclical Fluctuations in Hours Worked and Welfare"
+      ]
+    },
+    {
+      "name": "Christina Anderl",
+      "institution": "Bank of England",
+      "is_presenter": true,
+      "papers": [
+        "Climate Anomalies, Food Commodity Prices and Consumer Inflation"
+      ]
+    },
+    {
+      "name": "Christina Christou",
+      "institution": "Open University of Cyprus",
+      "is_presenter": true,
+      "papers": [
+        "Causality in Variance Beyond the First Horizon"
+      ]
+    },
+    {
+      "name": "Christoph Schult",
+      "institution": "Halle Institute for Economic Research (IWH)",
+      "is_presenter": true,
+      "papers": [
+        "Energy Efficiency, Investment Constraints, and GDP Growth in Net-Zero Transitions: Evidence from Vietnam"
+      ]
+    },
+    {
+      "name": "Claudia Cannas",
+      "institution": "Università Cattolica del Sacro Cuore",
+      "is_presenter": true,
+      "papers": [
+        "Climate Change As a New Source of Systemic Risk: European Banks and Climate Risk Exposure"
+      ]
+    },
+    {
+      "name": "Claudio Morana",
+      "institution": "Università di Milano-Bicocca",
+      "is_presenter": true,
+      "papers": [
+        "Extreme Weather in Europe: Determinants and Economic Impact"
+      ]
+    },
+    {
+      "name": "Claudio Tebaldi",
+      "institution": "Universita' Commerciale L. Bocconi",
+      "is_presenter": true,
+      "papers": [
+        "Supply Chain Uncertainty: Pricing, Growth & Blockchains"
+      ]
+    },
+    {
+      "name": "Clemente Pinilla-Torremocha",
+      "institution": "Bank of England, and European Research University",
+      "is_presenter": true,
+      "papers": [
+        "Disentangling the drivers of exuberant house prices"
+      ]
+    },
+    {
+      "name": "Cristian Arcidiacono",
+      "institution": "University of Bern",
+      "is_presenter": true,
+      "papers": [
+        "Labor Market Shortages and the Phillips Curve"
+      ]
+    },
+    {
+      "name": "Cristino Abril De Maya",
+      "institution": "State University of New York at Binghamton",
+      "is_presenter": true,
+      "papers": [
+        "Macroeconomic Consequences of the Spanish Transition to Democracy"
+      ]
+    },
+    {
+      "name": "CY Choi",
+      "institution": "The University of Texas at Arlington",
+      "is_presenter": true,
+      "papers": [
+        "Distributional Effects of Natural Disasters on Banking Sector -Evidence from U.S. Banks"
+      ]
+    },
+    {
+      "name": "Daniel Gutknecht",
+      "institution": "Goethe University Frankfurt",
+      "is_presenter": true,
+      "papers": [
+        "High-Dimensional Tests for Systemic Risk Measures"
+      ]
+    },
+    {
+      "name": "Daniele Colombo",
+      "institution": "London Business School",
+      "is_presenter": true,
+      "papers": [
+        "Identification or Propagation? Shock-Based Weak-IV Diagnostics and Bootstrap Inference for Instrumented VARs"
+      ]
+    },
+    {
+      "name": "Daniele Patiti",
+      "institution": "King's college London",
+      "is_presenter": true,
+      "papers": [
+        "Regional Productivity, Local Economic Capacity, and Health Trajectories among Older Adults in England"
+      ]
+    },
+    {
+      "name": "Danila Smirnov",
+      "institution": "International Monetary Fund",
+      "is_presenter": true,
+      "papers": [
+        "Welfare Analysis of Labor Market Policies in a HANK–SAM Framework"
+      ]
+    },
+    {
+      "name": "David Gauthier",
+      "institution": "Banque de France",
+      "is_presenter": true,
+      "papers": [
+        "Small Talks and the Predictability of Monetary Policy Surprises"
+      ]
+    },
+    {
+      "name": "David Tercero-Lucas",
+      "institution": "ICADE, Comillas Pontifical University",
+      "is_presenter": true,
+      "papers": [
+        "Crypto Listens: Asymmetric Reactions to Text-based Signals in Central Bank Communications"
+      ]
+    },
+    {
+      "name": "Deborah Gefang",
+      "institution": "University of Leicester",
+      "is_presenter": true,
+      "papers": [
+        "Estimating unrestricted spatial interdependence in panel spatial autoregressive models with latent common factors"
+      ]
+    },
+    {
+      "name": "Deepali Gautam",
+      "institution": "IMF",
+      "is_presenter": true,
+      "papers": [
+        "The Economics of Capital Buffer Usability"
+      ]
+    },
+    {
+      "name": "Dennis Zander",
+      "institution": "University of Warwick/European Central Bank",
+      "is_presenter": true,
+      "papers": [
+        "System-wide effects of sovereign bond market stress"
+      ]
+    },
+    {
+      "name": "Diego Gonzales",
+      "institution": "MEF",
+      "is_presenter": true,
+      "papers": [
+        "Are External Shocks Enough to Explain Macroeconomic Fluctuations in Small Open Economies?"
+      ]
+    },
+    {
+      "name": "Diemo Dietrich",
+      "institution": "University of Greifswald",
+      "is_presenter": true,
+      "papers": [
+        "How Subsidies Shape Innovation: The Dual Role of Quality and Market-Research in a Dynamic Real-Options Model"
+      ]
+    },
+    {
+      "name": "Dimitra Kyriakopoulou",
+      "institution": "National Kapodistrian University of Athens",
+      "is_presenter": true,
+      "papers": [
+        "A Shrinkage Factor-Augmented VAR for High-Dimensional Macro–Fiscal Dynamics"
+      ]
+    },
+    {
+      "name": "Edgar Jimenez Bedolla",
+      "institution": "Paris Dauphine-PSL University",
+      "is_presenter": true,
+      "papers": [
+        "Hear Me Out Lobbying Frames and Policy"
+      ]
+    },
+    {
+      "name": "Eduardo César Garrido-Merchán",
+      "institution": "Universidad Pontificia Comillas (IIT)",
+      "is_presenter": true,
+      "papers": [
+        "ESG-Constrained Portfolio Optimization via Bayesian Optimization of Deep Reinforcement Learning Agents: A Soft-Hard Constraint Framework"
+      ]
+    },
+    {
+      "name": "Eiji Okano",
+      "institution": "Nagoya City University",
+      "is_presenter": true,
+      "papers": [
+        "The Effects of a Money-financed Fiscal Stimulus Without Irredeemability of Money"
+      ]
+    },
+    {
+      "name": "Eleonora Granziera",
+      "institution": "Norges Bank",
+      "is_presenter": true,
+      "papers": [
+        "Speaking of Inflation: The Influence of Fed Speeches on Expectations"
+      ]
+    },
+    {
+      "name": "Elisa Ossola",
+      "institution": "Università di Milano-Bicocca",
+      "is_presenter": true,
+      "papers": [
+        "State-Dependent Asset Pricing Models"
+      ]
+    },
+    {
+      "name": "Elisabetta Mirto",
+      "institution": "Study Center Gerzensee",
+      "is_presenter": true,
+      "papers": [
+        "Forecasting the Price of Carbon with Macroeconomic and Financial variables"
+      ]
+    },
+    {
+      "name": "Emerson Marçal",
+      "institution": "CEMAP-EESP-FGV and CSSA-Mackenzie",
+      "is_presenter": true,
+      "papers": [
+        "The Trade-Off Between Fossil Fuels and Renewable Ethanol: Evidence from Brazil’s Fuel Market"
+      ]
+    },
+    {
+      "name": "Emilio Zanetti Chini",
+      "institution": "University of Bergamo",
+      "is_presenter": true,
+      "papers": [
+        "Transport-based Estimation of Time-Varying Factor Models"
+      ]
+    },
+    {
+      "name": "Enrico Wegner",
+      "institution": "Maastricht University",
+      "is_presenter": true,
+      "papers": [
+        "The Anatomy of Monetary Policy Transmission: A Structural Decomposition"
+      ]
+    },
+    {
+      "name": "Eoghan O'Neill",
+      "institution": "University College Dublin",
+      "is_presenter": true,
+      "papers": [
+        "Nonlinear Autoregressive Models for Functional Time Series with Bayesian Additive Regression Trees"
+      ]
+    },
+    {
+      "name": "Esther Ruiz",
+      "institution": "Universidad Carlos III de Madrid",
+      "is_presenter": true,
+      "papers": [
+        "Mean Square Errors of factors extracted using principal components, linear projections, and Kalman filter"
+      ]
+    },
+    {
+      "name": "Fabiola Schneider",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Institutional Investor Impact across Asset Classes: Exit, Voice and/or Conditional (Re)Financing"
+      ]
+    },
+    {
+      "name": "Fatjon Kaja",
+      "institution": "Goethe University Frankfurt",
+      "is_presenter": true,
+      "papers": [
+        "Market Efficiency and Geopolitical Policies: An Event Study of the Semiconductor Industry"
+      ]
+    },
+    {
+      "name": "Fausto Galli",
+      "institution": "University of Salerno",
+      "is_presenter": true,
+      "papers": [
+        "Dynamic Ethnosizing and Dynamic Identity"
+      ]
+    },
+    {
+      "name": "Federico Neri",
+      "institution": "University of Bologna",
+      "is_presenter": true,
+      "papers": [
+        "Measure matters and identification even more: unmasking the New Keynesian Phillips curve in the Euro Area"
+      ]
+    },
+    {
+      "name": "Federico Puglisi",
+      "institution": "Bank of Italy",
+      "is_presenter": true,
+      "papers": [
+        "The state-contingent effect of changes in bank capital requirements"
+      ]
+    },
+    {
+      "name": "Federico Segato",
+      "institution": "Università Degli Studi di Bergamo",
+      "is_presenter": true,
+      "papers": [
+        "Beyond technical skills. Labour market returns to skills in tertiary vocational education using an LLM approach."
+      ]
+    },
+    {
+      "name": "Felipe Leal",
+      "institution": "UCLA",
+      "is_presenter": true,
+      "papers": [
+        "Payment Terms and Heterogeneous Shock Transmission in Production Networks"
+      ]
+    },
+    {
+      "name": "Fernando Zapatero",
+      "institution": "Boston University",
+      "is_presenter": true,
+      "papers": [
+        "Greener on the Other Side: Equilibrium Asset Prices in a Technological Transition"
+      ]
+    },
+    {
+      "name": "Francesca Papagni",
+      "institution": "University of Bergamo",
+      "is_presenter": true,
+      "papers": [
+        "Measuring Salience in macroeconomic time series"
+      ]
+    },
+    {
+      "name": "Frode Martin Nordvik",
+      "institution": "Kristiania University College",
+      "is_presenter": true,
+      "papers": [
+        "Taxing the Peasant, Exempting the Lord"
+      ]
+    },
+    {
+      "name": "Gabriel Arce-Alfaro",
+      "institution": "Central Bank of Ireland",
+      "is_presenter": true,
+      "papers": [
+        "Unobserved Components with Stochastic Volatility and Volatility Responsiveness (UCSVVR)"
+      ]
+    },
+    {
+      "name": "Garo Garabedian",
+      "institution": "Central Bank of Ireland, Ghent University",
+      "is_presenter": true,
+      "papers": [
+        "Liquidity Shocks and the Real Economy"
+      ]
+    },
+    {
+      "name": "Gerhard Rünstler",
+      "institution": "European Central Bank",
+      "is_presenter": true,
+      "papers": [
+        "The Macroeconomic Effects of Euro Area Macroprudential Policies: evidence from a narrative panel VAR"
+      ]
+    },
+    {
+      "name": "Gianni Amisano",
+      "institution": "Federal Reserve Board",
+      "is_presenter": true,
+      "papers": [
+        "How to catch a star? Reliability of filtering estimates in linear state space systems"
+      ]
+    },
+    {
+      "name": "Giorgi Nikolaishvili",
+      "institution": "Wake Forest University",
+      "is_presenter": true,
+      "papers": [
+        "Scanning for Significance: False Discovery Control for Impulse Responses"
+      ]
+    },
+    {
+      "name": "Giovanni Ballarin",
+      "institution": "University of St. Gallen",
+      "is_presenter": true,
+      "papers": []
+    },
+    {
+      "name": "Gracia Rahi",
+      "institution": "Université Clermont Auvergne, CNRS, IRD, CERDI, F-63000 Clermont-Ferrand",
+      "is_presenter": true,
+      "papers": [
+        "Carbon tax on CO2 emissions from oil extraction: The special case of Norway."
+      ]
+    },
+    {
+      "name": "Grzegorz Wesołowski",
+      "institution": "University of Warsaw",
+      "is_presenter": true,
+      "papers": [
+        "International spillovers of fiscal news shocks"
+      ]
+    },
+    {
+      "name": "Guillermo Llorente-Alvarez",
+      "institution": "Universidad Autonoma de Madrid",
+      "is_presenter": true,
+      "papers": [
+        "Stock markets and Terrorism Unrest in Africa"
+      ]
+    },
+    {
+      "name": "Gulserim Ozcan",
+      "institution": "OECD",
+      "is_presenter": true,
+      "papers": [
+        "The Role of Firms in Green Transition"
+      ]
+    },
+    {
+      "name": "Han Pham",
+      "institution": "University Of Luxembourg",
+      "is_presenter": true,
+      "papers": [
+        "Subsidies and Household Technology Adoption: Evidence from the Belgian Auto Market"
+      ]
+    },
+    {
+      "name": "Hanna Onyshchenko",
+      "institution": "Bank of England",
+      "is_presenter": true,
+      "papers": [
+        "Financial Constraints and Capital-Labor Substitution in Response to Monetary Policy"
+      ]
+    },
+    {
+      "name": "Harim Kim",
+      "institution": "University of Connecticut",
+      "is_presenter": true,
+      "papers": [
+        "Strategic Uncertainty, Compeition, and Asymmetric Pass-Through: Evidence from Electricity Markets"
+      ]
+    },
+    {
+      "name": "Harun Nasir",
+      "institution": "Zonguldak Bulent Ecevit University",
+      "is_presenter": true,
+      "papers": [
+        "Environmental Policy, Household Heterogeneity, and Macroeconomic Fluctuations"
+      ]
+    },
+    {
+      "name": "Henrike Alm",
+      "institution": "Justus-Liebig-Universität Gießen",
+      "is_presenter": true,
+      "papers": [
+        "School Smoking Bans and Substance Use Spillovers: Evidence from Peer Environments"
+      ]
+    },
+    {
+      "name": "Hitoshi Hayakawa",
+      "institution": "Hokkaido University",
+      "is_presenter": true,
+      "papers": [
+        "Credit-driven economy: A unified framework of segregated boom, asset inflation and monetary policy"
+      ]
+    },
+    {
+      "name": "Igor Ferreira Batista Martins",
+      "institution": "Örebro university",
+      "is_presenter": true,
+      "papers": [
+        "Stochastic dynamic correlations with exogenous shifts"
+      ]
+    },
+    {
+      "name": "Ilze Kalnina",
+      "institution": "North Carolina State University",
+      "is_presenter": true,
+      "papers": [
+        "Estimation of Large Portfolios with High-Frequency Data"
+      ]
+    },
+    {
+      "name": "Ioana Schiopu",
+      "institution": "ESADE Business School",
+      "is_presenter": true,
+      "papers": [
+        "Does Inequality Undermine Redistribution? Evidence from Local School Finance"
+      ]
+    },
+    {
+      "name": "Ioannis Laliotis",
+      "institution": "University of Patras",
+      "is_presenter": true,
+      "papers": [
+        "The costs of exclusion: Refugee camps and local labour markets"
+      ]
+    },
+    {
+      "name": "Ioannis Paraskevopoulos",
+      "institution": "ICADE, University Pontificia Comillas",
+      "is_presenter": true,
+      "papers": [
+        "Absolute Advantage and Mutual Gains in Quantities"
+      ]
+    },
+    {
+      "name": "Isabel Figuerola Ferretti",
+      "institution": "ICADE",
+      "is_presenter": true,
+      "papers": [
+        "Valuation of a Carbon Capture Plant: a real options approach"
+      ]
+    },
+    {
+      "name": "Iñaki Longarela",
+      "institution": "Stockholm University",
+      "is_presenter": true,
+      "papers": [
+        "Market Stability, Political Intervention Risk, and the EU ETS: A Simplified Intertemporal Model"
+      ]
+    },
+    {
+      "name": "Jelena Zivanovic",
+      "institution": "European Stability Mechanism",
+      "is_presenter": true,
+      "papers": [
+        "Georisk and systemic risk in Europe's financial system -- Unpacking transmission channels"
+      ]
+    },
+    {
+      "name": "Jens Christensen",
+      "institution": "Federal Reserve Bank of San Francisco",
+      "is_presenter": true,
+      "papers": [
+        "The Natural Rate of Interest in the Euro Area: Evidence from Inflation-Indexed Bonds"
+      ]
+    },
+    {
+      "name": "Jeremias Huber",
+      "institution": "IFC/World Bank",
+      "is_presenter": true,
+      "papers": [
+        "Factor Model Selection Using the ICAPM"
+      ]
+    },
+    {
+      "name": "Jesse Chen",
+      "institution": "Columbia University",
+      "is_presenter": true,
+      "papers": [
+        "Fixed-T Dynamic Spatial Panel Model with Common Shocks"
+      ]
+    },
+    {
+      "name": "Jiaxun Liu",
+      "institution": "Universitat Pompeu Fabra",
+      "is_presenter": true,
+      "papers": [
+        "Pricing Macro-Panic: Forecasting the Tails of Bond Risk Premia"
+      ]
+    },
+    {
+      "name": "Jing Li",
+      "institution": "Miami University",
+      "is_presenter": true,
+      "papers": [
+        "Estimating NAIRU for Subgroups of Civilian Population With Flexible Fourier Form"
+      ]
+    },
+    {
+      "name": "jinteng wu",
+      "institution": "university paris-dauphine-PSL",
+      "is_presenter": true,
+      "papers": [
+        "Systemic_Risk_In_European_Electricity_Markets"
+      ]
+    },
+    {
+      "name": "Jinting Guo",
+      "institution": "Goethe University Frankfurt",
+      "is_presenter": true,
+      "papers": [
+        "Consumption Dynamics and Welfare Implications under Diagnostic Expectations"
+      ]
+    },
+    {
+      "name": "Joaquin Waldman",
+      "institution": "Universidad de Buenos Aires",
+      "is_presenter": true,
+      "papers": [
+        "Chronic inflation and the costs of not addressing an upsurge in time"
+      ]
+    },
+    {
+      "name": "John Maheu",
+      "institution": "McMaster",
+      "is_presenter": true,
+      "papers": [
+        "Beyond Conditional Second Moments: Does Nonparametric Density Modelling Matter to Portfolio Allocation?"
+      ]
+    },
+    {
+      "name": "Jordi Llorens-Terrazas",
+      "institution": "Universidad Carlos III de Madrid",
+      "is_presenter": true,
+      "papers": [
+        "Generative Predictive Distributions for Time Series"
+      ]
+    },
+    {
+      "name": "Jorge Abad",
+      "institution": "Banco de España",
+      "is_presenter": true,
+      "papers": [
+        "The Heterogeneous Bank Lending Channel of Monetary Policy"
+      ]
+    },
+    {
+      "name": "Jorge Merladet",
+      "institution": "Universidad Pontificia comillas",
+      "is_presenter": true,
+      "papers": [
+        "Graded factors: a new approach to the cross-section of returns and risk"
+      ]
+    },
+    {
+      "name": "Jose Penalva Zuasti",
+      "institution": "Universidad Carlos III",
+      "is_presenter": true,
+      "papers": [
+        "Algorithms and Supracompetitive Prices in Electronic Markets: The Impact of Tick Size"
+      ]
+    },
+    {
+      "name": "Josep Lluís Carrion-i-Silvestre",
+      "institution": "University of Barcelona",
+      "is_presenter": true,
+      "papers": [
+        "Testing the null hypothesis of panel cointegration with common factors"
+      ]
+    },
+    {
+      "name": "João Fernandes",
+      "institution": "Luiz de Queiroz College of Agriculture, University of São Paulo ESALQ/USP",
+      "is_presenter": true,
+      "papers": [
+        "What Did the Fed Really Say? Disentangling Policy and Information Spillovers to Global Equity Markets"
+      ]
+    },
+    {
+      "name": "João Issler",
+      "institution": "Getulio Vargas Foundation",
+      "is_presenter": true,
+      "papers": [
+        "A No-Arbitrage Approach to Asset Pricing using Panel Data"
+      ]
+    },
+    {
+      "name": "Juan Rodríguez",
+      "institution": "OMIE",
+      "is_presenter": true,
+      "papers": [
+        "Threshold effects of CO₂ on Sea-Ice Volume: Empirical Evidence with Data from Global Circulation Models of the Arctic and Antarctic"
+      ]
+    },
+    {
+      "name": "Julien Ling",
+      "institution": "Collège de France",
+      "is_presenter": true,
+      "papers": [
+        "Rediscovering Price Discovery"
+      ]
+    },
+    {
+      "name": "Julio Ortiz",
+      "institution": "Federal Reserve Board",
+      "is_presenter": true,
+      "papers": [
+        "The Transmission of Foreign Economic Surprises"
+      ]
+    },
+    {
+      "name": "Jungbin Hwang",
+      "institution": "University of Connecticut",
+      "is_presenter": true,
+      "papers": [
+        "HAR Inference for Quantile Regression in Time Series"
+      ]
+    },
+    {
+      "name": "Kaan Celebi",
+      "institution": "University of Technology Chemnitz",
+      "is_presenter": true,
+      "papers": [
+        "Capital Across Borders, Jobs at Home: The FDI-Unemployment Nexus in the OECD"
+      ]
+    },
+    {
+      "name": "Kaio Dias",
+      "institution": "Duke University",
+      "is_presenter": true,
+      "papers": [
+        "Dynamic Crowdfunding: Theory and Evidence"
+      ]
+    },
+    {
+      "name": "Karine Borri",
+      "institution": "University of São Paulo",
+      "is_presenter": true,
+      "papers": [
+        "Beyond &quot;Greenflation&quot;: Heterogeneous Price Dynamics in Critical Mineral Markets Under the Energy Transition",
+        "Dual Effects of Financial Constraints on Innovative Efficiency: Evidence from a Semiparametric Panel Model"
+      ]
+    },
+    {
+      "name": "Karsten Staehr",
+      "institution": "Bank of Estonia; Tallinn University of Technology",
+      "is_presenter": true,
+      "papers": [
+        "Fiscal Shocks and Public Debt Dynamics in the European Union. New Evidence using Forecast-Error Identification"
+      ]
+    },
+    {
+      "name": "Katalin Julianna Varga",
+      "institution": "MNB",
+      "is_presenter": true,
+      "papers": [
+        "Macroprudential Policy and Downside Risk: Regime-Dependent Effects of Capital Regulation"
+      ]
+    },
+    {
+      "name": "Katerina Chrysikou",
+      "institution": "University of Leicester",
+      "is_presenter": true,
+      "papers": [
+        "High Dimensional Generalised Penalised Least Squares"
+      ]
+    },
+    {
+      "name": "Kilian Kamkar",
+      "institution": "University of Cambridge",
+      "is_presenter": true,
+      "papers": [
+        "Deforestation without Development? The Agricultural Resource"
+      ]
+    },
+    {
+      "name": "Kirill Evdokimov",
+      "institution": "Universitat Pompeu Fabra",
+      "is_presenter": true,
+      "papers": [
+        "Improved Estimation by Simulated Maximum Likelihood"
+      ]
+    },
+    {
+      "name": "Konstantin Boss",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Bivariate Weather Extremes and the US Economy"
+      ]
+    },
+    {
+      "name": "Kristin Mjølnerød",
+      "institution": "Norges Bank",
+      "is_presenter": true,
+      "papers": [
+        "Inflation Expectations and Wage Setting Under Collective Bargaining"
+      ]
+    },
+    {
+      "name": "Kristina Saveska",
+      "institution": "Friedrich-Alexander-Universität Erlangen-Nürnberg",
+      "is_presenter": true,
+      "papers": [
+        "Financial Constraints: Labor Adjustment and Short-Time Work"
+      ]
+    },
+    {
+      "name": "Krzysztof Wozniak",
+      "institution": "Board of Governors of the Federal Reserve System",
+      "is_presenter": true,
+      "papers": [
+        "Convenience Has a Price - ATM Surcharges and Cash Demand"
+      ]
+    },
+    {
+      "name": "Laura Garcia-Jorcano",
+      "institution": "Universidad de Castilla-La Mancha",
+      "is_presenter": true,
+      "papers": [
+        "Extreme climate and natural disaster risk in financial markets: A CoES approach"
+      ]
+    },
+    {
+      "name": "Laure Simon",
+      "institution": "Bank of Canada",
+      "is_presenter": true,
+      "papers": [
+        "More Data, Better Core Inflation? Evidence from CPI Disaggregation"
+      ]
+    },
+    {
+      "name": "Laurentiu Guinea",
+      "institution": "Universidad Complutense de Madrid",
+      "is_presenter": true,
+      "papers": [
+        "The Macroeconomics of the Low-Carbon Transition: AI News, Bank Constraints, and Conditional Green Finance"
+      ]
+    },
+    {
+      "name": "Lluc Puig Codina",
+      "institution": "University of Alicante",
+      "is_presenter": true,
+      "papers": [
+        "A Bayesian Analysis of the Cox-Ingersoll-Ross Model"
+      ]
+    },
+    {
+      "name": "Lorenzo Tonni",
+      "institution": "University of Milan",
+      "is_presenter": true,
+      "papers": [
+        "Macroeconomic Effects of Commodity Price Uncertainty"
+      ]
+    },
+    {
+      "name": "Louis-Marie Harpedanne de Belleville",
+      "institution": "Paris School of Economics",
+      "is_presenter": true,
+      "papers": [
+        "Green investment, inequality and misallocation"
+      ]
+    },
+    {
+      "name": "Luca Pegorari",
+      "institution": "Karlsruher Institut für Technologie (KIT)",
+      "is_presenter": true,
+      "papers": [
+        "Sovereign Debt Dynamics in the Euro-Zone: The Differential Impact of a Common Currency"
+      ]
+    },
+    {
+      "name": "Luciano Silva",
+      "institution": "Pontificia Universidad Católica del Perú",
+      "is_presenter": true,
+      "papers": [
+        "Exchange Rate Regime Ambiguity and Monetary Policy Uncertainty: A Multi-Method Consensus Framework"
+      ]
+    },
+    {
+      "name": "Ludovico Rossi",
+      "institution": "CUNEF Universidad",
+      "is_presenter": true,
+      "papers": [
+        "Cyber Incidents, Banking Stability and the Value of Supervisory Strictness"
+      ]
+    },
+    {
+      "name": "Luigi Maria Briglia",
+      "institution": "University of Tübingen",
+      "is_presenter": true,
+      "papers": [
+        "The Role of Expenditure Risk in Household Wealth Dynamics"
+      ]
+    },
+    {
+      "name": "Luigi Ventura",
+      "institution": "Sapienza, University Rome",
+      "is_presenter": true,
+      "papers": [
+        "Do Non-Prudent Consumers Ever Engage in Precautionary Saving?"
+      ]
+    },
+    {
+      "name": "Luis Ledesma Goyzueta",
+      "institution": "Universitat Autònoma de Barcelona",
+      "is_presenter": true,
+      "papers": [
+        "Mobile phone adoption and deforestation in Peru: Evidence from spatial econometric models at the district and departmental levels"
+      ]
+    },
+    {
+      "name": "Luis-Felipe Arizmendi",
+      "institution": "Universidad Pontificia Comillas",
+      "is_presenter": true,
+      "papers": [
+        "The Integration Paradox: A Panel Data VAR Approach ot Business Cycle Asymmetries in the Andean Community (1990 - 2024)"
+      ]
+    },
+    {
+      "name": "Lukas Bauer",
+      "institution": "University of Freiburg",
+      "is_presenter": true,
+      "papers": []
+    },
+    {
+      "name": "Magali Marx",
+      "institution": "banque de france",
+      "is_presenter": true,
+      "papers": [
+        "Global Sectoral Supply Shocks, Inflation, and Monetary Policy"
+      ]
+    },
+    {
+      "name": "Manuel González-Astudillo",
+      "institution": "Board of Governors of the Federal Reserv",
+      "is_presenter": true,
+      "papers": [
+        "Measuring Macroeconomic Stars with Scarring Effects"
+      ]
+    },
+    {
+      "name": "Marcin Pietrzak",
+      "institution": "Institute of Economic Sciences, Polish Academy of Sciences",
+      "is_presenter": true,
+      "papers": [
+        "Geopolitics and the Price of Risk"
+      ]
+    },
+    {
+      "name": "Marco D’Amico",
+      "institution": "Uppsala University",
+      "is_presenter": true,
+      "papers": [
+        "Identifying the Marginal Propensity to Consume"
+      ]
+    },
+    {
+      "name": "Marco Giometti",
+      "institution": "Universidad Carlos III de Madrid",
+      "is_presenter": true,
+      "papers": [
+        "Energy prices, credit risk, and bank lending dynamics"
+      ]
+    },
+    {
+      "name": "Marco Mazzali",
+      "institution": "Università di Bologna",
+      "is_presenter": true,
+      "papers": [
+        "GLOBAL FACTORS FOR LOCAL SHOCKS IN A DATA-SCARCE ENVIRONMENT: WITH AN APPLICATION TO REGIONAL FISCAL MULTIPLIERS IN ITALY"
+      ]
+    },
+    {
+      "name": "Marco Rogna",
+      "institution": "European Commission Joint Research Centre",
+      "is_presenter": true,
+      "papers": [
+        "The Effect of Climate Risk on Agricultural Inputs Use of Western African Smallholders: A Panel Data Analysis through CRE–PPML"
+      ]
+    },
+    {
+      "name": "Marco Zoso",
+      "institution": "University of Milan-Bicocca and FEEM",
+      "is_presenter": true,
+      "papers": [
+        "Quantifying Demand Shocks in the Green and Digital Transition"
+      ]
+    },
+    {
+      "name": "Maria Dolores Gadea",
+      "institution": "University of Zaragoza",
+      "is_presenter": true,
+      "papers": [
+        "Modeling Climate Heterogeneity via an Unconditional Quantile Vector Error Correction Approach"
+      ]
+    },
+    {
+      "name": "maria elena bontempi",
+      "institution": "University of Bologna",
+      "is_presenter": true,
+      "papers": [
+        "Heterogeneity of covenants and corporate financial behaviour"
+      ]
+    },
+    {
+      "name": "Maria Fernanda Pintado",
+      "institution": "CUNEF Universidad",
+      "is_presenter": true,
+      "papers": [
+        "Bayesian Markov-Switching Partial Reduced-Rank Regression"
+      ]
+    },
+    {
+      "name": "Maria Francisca Carvalho",
+      "institution": "Lancaster University",
+      "is_presenter": true,
+      "papers": [
+        "From Climate to Economy: Understanding Climate Risks in the U.S. Market"
+      ]
+    },
+    {
+      "name": "Marianna Schaubert",
+      "institution": "Fraunhofer Institute",
+      "is_presenter": true,
+      "papers": [
+        "How New Half-Siblings Affect Child Support and Parent-Child Contact - Evidence from German Taxpayer Data"
+      ]
+    },
+    {
+      "name": "Marlon Francisco",
+      "institution": "Nova School of Business and Economics",
+      "is_presenter": true,
+      "papers": [
+        "Follow the leader: The effect of high-quality peers on turnover decisions"
+      ]
+    },
+    {
+      "name": "MARTA DOMINGUEZ JIMENEZ",
+      "institution": "CEMFI",
+      "is_presenter": true,
+      "papers": [
+        "The demographic origins of premature deindustrialization"
+      ]
+    },
+    {
+      "name": "Marta Rodriguez",
+      "institution": "Bank of Spain",
+      "is_presenter": true,
+      "papers": [
+        "Temperature and the U.S. Economy: From Demand to Supply-Side Effects?"
+      ]
+    },
+    {
+      "name": "Martin Fankhauser",
+      "institution": "Bocconi University",
+      "is_presenter": true,
+      "papers": [
+        "Power Prior for VARs"
+      ]
+    },
+    {
+      "name": "Martin Sola",
+      "institution": "Universidad Torcuato di Tella",
+      "is_presenter": true,
+      "papers": []
+    },
+    {
+      "name": "Martina Zaharieva",
+      "institution": "CUNEF Universidad",
+      "is_presenter": true,
+      "papers": [
+        "Infinite sparse factor stochastic volatility model"
+      ]
+    },
+    {
+      "name": "Massimiliano Bondatti",
+      "institution": "CUNEF Universidad",
+      "is_presenter": true,
+      "papers": [
+        "Commodity Returns: Lost in Financialization"
+      ]
+    },
+    {
+      "name": "Massimiliano Caporin",
+      "institution": "University of Padova",
+      "is_presenter": true,
+      "papers": [
+        "Multivariate GARCH and portfolio variance prediction: a forecast reconciliation perspective"
+      ]
+    },
+    {
+      "name": "Massimiliano Mazzanti",
+      "institution": "SEEDS e Università di Ferrara",
+      "is_presenter": true,
+      "papers": [
+        "European climate policy in the dynamic setting: A Functional principal component analysis model using weekly EU ETS Data"
+      ]
+    },
+    {
+      "name": "Matteo Iacopini",
+      "institution": "Luiss University",
+      "is_presenter": true,
+      "papers": [
+        "AR-LD-BART: Autoregressive latent variable models with Bayesian Additive Regression Trees"
+      ]
+    },
+    {
+      "name": "Matteo Pelagatti",
+      "institution": "Università di Milano-Bicocca",
+      "is_presenter": true,
+      "papers": [
+        "On the practical irrelevance of non-identifiability in VARMA models"
+      ]
+    },
+    {
+      "name": "Mauricio Stern",
+      "institution": "Bank of Mexico",
+      "is_presenter": true,
+      "papers": [
+        "Exporting inflation"
+      ]
+    },
+    {
+      "name": "Meghna .",
+      "institution": "Indian Institute of Technology Indore",
+      "is_presenter": true,
+      "papers": [
+        "When Men Work, Do Women Work? Sectoral Patterns of Intra- household Labor Supply in India"
+      ]
+    },
+    {
+      "name": "Mehdi Senouci",
+      "institution": "CentraleSupelec/Université Paris-Saclay",
+      "is_presenter": true,
+      "papers": [
+        "The Solow model under localized technical change"
+      ]
+    },
+    {
+      "name": "Mengying Song",
+      "institution": "University of Southampton",
+      "is_presenter": true,
+      "papers": [
+        "Housing and Social Interactions"
+      ]
+    },
+    {
+      "name": "Michael Pfaffermayr",
+      "institution": "University of Innsbruck",
+      "is_presenter": true,
+      "papers": [
+        "PPML Estimation of Structural Panel Gravity Models: Residual Analysis and Diagnostic Tests"
+      ]
+    },
+    {
+      "name": "Miguel Ampudia",
+      "institution": "ECB",
+      "is_presenter": true,
+      "papers": [
+        "Public sector interventions in the Bund market A repo market perspective"
+      ]
+    },
+    {
+      "name": "Miguel Casares",
+      "institution": "Universidad Publica de Navarra",
+      "is_presenter": true,
+      "papers": [
+        "Carbon tax policies for the global economy"
+      ]
+    },
+    {
+      "name": "Miguel Ventura Flores",
+      "institution": "Ca Foscari University",
+      "is_presenter": true,
+      "papers": [
+        "The bright side of circuit breakers"
+      ]
+    },
+    {
+      "name": "Moaz Elsayed",
+      "institution": "Banque de France",
+      "is_presenter": true,
+      "papers": [
+        "Anatomy of French Fiscal Policy"
+      ]
+    },
+    {
+      "name": "Mohamad Karaki",
+      "institution": "Lebanese American University",
+      "is_presenter": true,
+      "papers": [
+        "Global Temperature Shocks and U.S. Food Price Inflation"
+      ]
+    },
+    {
+      "name": "Montserrat Vilalta-Bufi",
+      "institution": "Universitat de Barcelona",
+      "is_presenter": true,
+      "papers": [
+        "Modern Technology Use at Work"
+      ]
+    },
+    {
+      "name": "Mustafa Kilinc",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Testing the order of fractional integration when smooth deterministic trends are possibly present"
+      ]
+    },
+    {
+      "name": "Natalia Cassinello",
+      "institution": "universidad pontificia comillas",
+      "is_presenter": true,
+      "papers": [
+        "ESG scores and the risk-adjusted performance of sustainable mutual funds: Worldwide divergence in seven key geographical areas"
+      ]
+    },
+    {
+      "name": "Natalia Collado Van-Baumberghen",
+      "institution": "Universidad Pontificia Comillas",
+      "is_presenter": true,
+      "papers": [
+        "Do users respond to congestion pricing? Evidence on demand elasticity from managed lanes"
+      ]
+    },
+    {
+      "name": "Natalia Fabra",
+      "institution": "CEMFI",
+      "is_presenter": true,
+      "papers": [
+        "Unpacking the Distributional Effects of the Energy Crisis: Lessons from the Iberian Electricity Market"
+      ]
+    },
+    {
+      "name": "Nataliia Ostapenko",
+      "institution": "National Bank of Slovakia",
+      "is_presenter": true,
+      "papers": [
+        "MEASURING DEMAND AND SUPPLY PRESSURES USING BUSINESS SURVEYS"
+      ]
+    },
+    {
+      "name": "Nikolay Danov",
+      "institution": "International Monetary Fund",
+      "is_presenter": true,
+      "papers": [
+        "Nowcasting GDP Growth for Kenya"
+      ]
+    },
+    {
+      "name": "Nikolay Iskrev",
+      "institution": "Bank of Portugal",
+      "is_presenter": true,
+      "papers": [
+        "Sampling Frequency and Parameter Information Under Temporal Aggregation in Continuous-Time Macroeconomic Models"
+      ]
+    },
+    {
+      "name": "Nouf Bin Muqbel",
+      "institution": "University of Leeds",
+      "is_presenter": true,
+      "papers": [
+        "The Role of Sovereign Wealth Funds in Shaping Monetary Policy Transmission"
+      ]
+    },
+    {
+      "name": "Oriol González-Casasús",
+      "institution": "Universitat Pompeu Fabra",
+      "is_presenter": true,
+      "papers": [
+        "Misspecification-Robust Shrinkage and Selection for VAR Forecasts and IRFs"
+      ]
+    },
+    {
+      "name": "Orkhan Mammadov",
+      "institution": "Prague University of Economics and Business",
+      "is_presenter": true,
+      "papers": [
+        "Automation and Jobs: Skill Requirements and Employment in EU"
+      ]
+    },
+    {
+      "name": "Oskar Juul",
+      "institution": "Copenhagen Business School",
+      "is_presenter": true,
+      "papers": [
+        "Inflation Plucking Cycles"
+      ]
+    },
+    {
+      "name": "Pablo Mones",
+      "institution": "Columbia University",
+      "is_presenter": true,
+      "papers": [
+        "Likelihood and Order Selection for ARMA Dynamics in Panel Models with Interactive Effects"
+      ]
+    },
+    {
+      "name": "Pakpicha Pathompituknukoon",
+      "institution": "Kasetsart University",
+      "is_presenter": true,
+      "papers": [
+        "Fiscal Policy at the Effective Lower Bound"
+      ]
+    },
+    {
+      "name": "Paola Galfrascoli",
+      "institution": "University of Milano-Bicocca",
+      "is_presenter": true,
+      "papers": [
+        "The greenness of European Green Bonds"
+      ]
+    },
+    {
+      "name": "Paritosh Junare",
+      "institution": "Università di Bologna",
+      "is_presenter": true,
+      "papers": [
+        "Two Gaussians, Too Many: A bootstrap-based approach to assess identifiability in non-Gaussian structural vector autoregressions"
+      ]
+    },
+    {
+      "name": "Paulo Morais",
+      "institution": "University of Essex",
+      "is_presenter": true,
+      "papers": [
+        "Weather, Productivity and Work Reallocation: Evidence from UK Survey Interviewers"
+      ]
+    },
+    {
+      "name": "Paweł Kopciuszewski",
+      "institution": "ING HUBS Poland",
+      "is_presenter": true,
+      "papers": [
+        "Three-phase modelling scheme based on data augmentation and its application to Loss given default (LGD) estimation"
+      ]
+    },
+    {
+      "name": "Pedro Garcia Ares",
+      "institution": "Instituto Tecnológico Autónomo de México",
+      "is_presenter": true,
+      "papers": [
+        "Robinhood’s Forced Liquidations"
+      ]
+    },
+    {
+      "name": "Peter Claeys",
+      "institution": "Universidad Pontificia Comillas",
+      "is_presenter": true,
+      "papers": [
+        "Market discipline on fiscal policy: how banks’ sovereign debt holdings keep public debt in check"
+      ]
+    },
+    {
+      "name": "Philippe Coulombe",
+      "institution": "ESG-UQAM",
+      "is_presenter": true,
+      "papers": [
+        "Implied Factors: The Linear Skeleton of Machine Learning Forecasts"
+      ]
+    },
+    {
+      "name": "Polina Bulavko",
+      "institution": "Université Paris Dauphine-PSL",
+      "is_presenter": true,
+      "papers": [
+        "SLOW MOVING AND LATENT SYSTEMIC RISK: EVIDENCE FROM AGRICULTURAL COMMODITY NETWORKS"
+      ]
+    },
+    {
+      "name": "Pranvera Shehaj",
+      "institution": "Freie Universität Berlin",
+      "is_presenter": true,
+      "papers": [
+        "Beyond Treaty Presence: Firm-Level Evidence of Tax Treaty Design and Investment in Developing Countries"
+      ]
+    },
+    {
+      "name": "Pınar Tat",
+      "institution": "Gebze Technical University",
+      "is_presenter": true,
+      "papers": [
+        "Is There Evidence of GHG Leakage? Insights from Production and Consumption-Based Accounting"
+      ]
+    },
+    {
+      "name": "Qichen Zhou",
+      "institution": "Nanjing University",
+      "is_presenter": true,
+      "papers": [
+        "Emergency Lending, Macroeconomic Conditions, and Bank Loan Spreads: Evidence from the Main Street Lending Program"
+      ]
+    },
+    {
+      "name": "Rafael Llorca-Vivero",
+      "institution": "Universidad de Valencia",
+      "is_presenter": true,
+      "papers": [
+        "A Structural Gravity Analysis of the Impact of Terrorism on Tourism"
+      ]
+    },
+    {
+      "name": "Razvan Sufana",
+      "institution": "York University",
+      "is_presenter": true,
+      "papers": [
+        "Tests for No-Arbitrage in Cryptocurrency Markets"
+      ]
+    },
+    {
+      "name": "Rehim Kilic",
+      "institution": "FRB",
+      "is_presenter": true,
+      "papers": [
+        "Virtue or Mirage? Complexity in Exchange Rate Prediction"
+      ]
+    },
+    {
+      "name": "Renzhi LIU",
+      "institution": "University Paris Dauphine-PSL",
+      "is_presenter": true,
+      "papers": [
+        "Safe Distance to Systemic Risk"
+      ]
+    },
+    {
+      "name": "Richard Baillie",
+      "institution": "King's College & Michigan State University",
+      "is_presenter": true,
+      "papers": [
+        "The Long Run in Exchange Rates, UIP and Durbin Regressions"
+      ]
+    },
+    {
+      "name": "Robin Fischer",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Quantifying the Experience Premium in Solar Capital Costs"
+      ]
+    },
+    {
+      "name": "Roderick McCrorie",
+      "institution": "University of St Andrews",
+      "is_presenter": true,
+      "papers": [
+        "Oil Firm Diversification Under Climate Risk: A Structural Model with Investment and Heterogeneity"
+      ]
+    },
+    {
+      "name": "Rosi Chankova",
+      "institution": "Bank of England",
+      "is_presenter": true,
+      "papers": [
+        "Look-Though or Look Closer? Energy Shocks and Underlying Inflation in the Euro Area"
+      ]
+    },
+    {
+      "name": "Rouven Beiner",
+      "institution": "Leipzig University",
+      "is_presenter": true,
+      "papers": [
+        "Monotonic polynomial GARCH model for conditional higher moments"
+      ]
+    },
+    {
+      "name": "Rubens Morita",
+      "institution": "University of Exeter",
+      "is_presenter": true,
+      "papers": [
+        "Fracking the Union? Oil Shocks and the Rise of U.S. Political Polarization"
+      ]
+    },
+    {
+      "name": "Ruslana Datsenko",
+      "institution": "Bank of England",
+      "is_presenter": true,
+      "papers": [
+        "Monetary Transmission to Firm-level R&D*"
+      ]
+    },
+    {
+      "name": "Ruth Okhah",
+      "institution": "Keele University",
+      "is_presenter": true,
+      "papers": [
+        "The role of Institutional Quality in the Developmental Impact of Digital Financial Inclusion in Africa"
+      ]
+    },
+    {
+      "name": "Salvatore Miglietta",
+      "institution": "BI Norwegian Business School",
+      "is_presenter": true,
+      "papers": [
+        "Shareholder Empowerment and Ownership Structure in a Free-Contracting Environment"
+      ]
+    },
+    {
+      "name": "Sam Deegan",
+      "institution": "University College Dublin",
+      "is_presenter": true,
+      "papers": [
+        "Failure in the Margins: Local Exposure to Non-local Bank Distress"
+      ]
+    },
+    {
+      "name": "Sangyup Choi",
+      "institution": "Yonsei University",
+      "is_presenter": true,
+      "papers": [
+        "Soft lending standards, hard consequences: how housing booms undermine productive investment"
+      ]
+    },
+    {
+      "name": "Santiago Montoya-Blandón",
+      "institution": "University of Glasgow",
+      "is_presenter": true,
+      "papers": [
+        "Heterogeneous Peer Effects with Endogenous Network Formation"
+      ]
+    },
+    {
+      "name": "Santos Diaz Pastor",
+      "institution": "MIT Energy Initiative & Institute for Research in Technology",
+      "is_presenter": true,
+      "papers": [
+        "An iterative convergence procedure for electrification planning, regulation, and finance to achieve universal access"
+      ]
+    },
+    {
+      "name": "Sara Boni",
+      "institution": "Technical University of Munich",
+      "is_presenter": true,
+      "papers": [
+        "Private Equity, Institutions, and Productivity"
+      ]
+    },
+    {
+      "name": "Sebastian Fossati",
+      "institution": "University of Alberta",
+      "is_presenter": true,
+      "papers": [
+        "Unfolding Regional Business Cycles: Factor Models for Three-Way State-Level Tensors"
+      ]
+    },
+    {
+      "name": "Seokki Hong",
+      "institution": "Bank of England",
+      "is_presenter": true,
+      "papers": []
+    },
+    {
+      "name": "Serena Ionta",
+      "institution": "Bocconi University",
+      "is_presenter": true,
+      "papers": [
+        "Uncertain Climate Policy as a Source of Macro-Financial Shocks: Evidence from Carbon Futures Volatility"
+      ]
+    },
+    {
+      "name": "shaohua wu",
+      "institution": "Loughborough University",
+      "is_presenter": true,
+      "papers": [
+        "Multiscale Tail-Risk Connectedness between Carbon, Clean Energy and Agriculture: Evidence from Maximal Overlap Discrete Wavelet Transform and Extreme Value Theory"
+      ]
+    },
+    {
+      "name": "Silvia MUZZIOLI",
+      "institution": "University of Modena and Reggio Emilia",
+      "is_presenter": true,
+      "papers": [
+        "The green premium in the European stock market"
+      ]
+    },
+    {
+      "name": "Sinian Zheng",
+      "institution": "University College Dublin",
+      "is_presenter": true,
+      "papers": [
+        "The Impact of Corporate ESG Performance on Stock Price Efficiency"
+      ]
+    },
+    {
+      "name": "So Jin Lee",
+      "institution": "CUNEF Universidad",
+      "is_presenter": true,
+      "papers": []
+    },
+    {
+      "name": "Sofia Sanchez Alegre",
+      "institution": "Universidad Carlos III de Madrid",
+      "is_presenter": true,
+      "papers": [
+        "Limits to Monetary Policy: When Central Banks Diverge"
+      ]
+    },
+    {
+      "name": "Sofia Velasco",
+      "institution": "Banco de España",
+      "is_presenter": true,
+      "papers": [
+        "A Dynamic Factor Model for Level and Volatility"
+      ]
+    },
+    {
+      "name": "Srikant Shaw",
+      "institution": "Indian Institute of Technology Madras",
+      "is_presenter": true,
+      "papers": [
+        "Awareness, Infrastructure, and Rare Adoption: Evidence on Microgrids from Rural India"
+      ]
+    },
+    {
+      "name": "Steve Billon",
+      "institution": "University of Strasbourg",
+      "is_presenter": true,
+      "papers": [
+        "Interest Rate Pass-Through to Euro Area Corporate Lending Rates: Does Asymmetry Matter?"
+      ]
+    },
+    {
+      "name": "Sukanya Mukherjee",
+      "institution": "Institute of Economics Research in Halle (Saale)",
+      "is_presenter": true,
+      "papers": [
+        "Agree to Disagree: Robust Yield Prediction for Indian Farms using a weighted Multi-MLMs, Multifold Framework, using NSSO Data"
+      ]
+    },
+    {
+      "name": "Sylvia Kaufmann",
+      "institution": "Study Center Gerzensee and University of",
+      "is_presenter": true,
+      "papers": [
+        "A geometric approach to factor model identification"
+      ]
+    },
+    {
+      "name": "Taisuke Nakata",
+      "institution": "University of Tokyo",
+      "is_presenter": true,
+      "papers": [
+        "Optimal Lockdown Policy with Virus Mutation"
+      ]
+    },
+    {
+      "name": "Teresa Corzo",
+      "institution": "Universidad Pontificia Comillas",
+      "is_presenter": true,
+      "papers": [
+        "Valuation of Regulatory Risk on Pharmaceutical R&D"
+      ]
+    },
+    {
+      "name": "Tim Kovalenko",
+      "institution": "Institute for Employment Research",
+      "is_presenter": true,
+      "papers": [
+        "Do firms adjust their employment plans in response to monetary policy announcements? Evidence from German survey data"
+      ]
+    },
+    {
+      "name": "Tobias Scheckel",
+      "institution": "Salzburg University",
+      "is_presenter": true,
+      "papers": [
+        "Coarsened Bayesian VARs -- Correcting BVARs for Incorrect Specification"
+      ]
+    },
+    {
+      "name": "Tomás del Barrio Castro",
+      "institution": "University of the Balearic Islands",
+      "is_presenter": true,
+      "papers": [
+        "Long memory in the marginalized time series of a VAR revisited"
+      ]
+    },
+    {
+      "name": "Tracy Xu",
+      "institution": "Georgetown University",
+      "is_presenter": true,
+      "papers": [
+        "Internal Migration Restrictions, Aggregate Productivity, and Spatial Growth"
+      ]
+    },
+    {
+      "name": "Umberto Collodel",
+      "institution": "Central Bank of Malta",
+      "is_presenter": true,
+      "papers": [
+        "Interpreting the Interpreter: Can We Model Post-ECB Conference Volatility with LLM Agents?"
+      ]
+    },
+    {
+      "name": "Umer Ameen",
+      "institution": "Birkbeck, University of London",
+      "is_presenter": true,
+      "papers": [
+        "The macroeconomics of energy shocks"
+      ]
+    },
+    {
+      "name": "Utso Pal Mustafi",
+      "institution": "Frankfurt School of Finance & Management",
+      "is_presenter": true,
+      "papers": [
+        "Inference for Macroeconomic Policy Counterfactuals"
+      ]
+    },
+    {
+      "name": "Valerio Palagi",
+      "institution": "Università degli studi di Torino & Collegio Carlo Alberto",
+      "is_presenter": true,
+      "papers": [
+        "Estimating Macroeconomic Effects of Government Spending Shocks"
+      ]
+    },
+    {
+      "name": "Vicente Bermejo",
+      "institution": "ESADE Business School",
+      "is_presenter": true,
+      "papers": [
+        "Supply Chain Disruptions: the Propagation and Economic Costs of ESG Shocks"
+      ]
+    },
+    {
+      "name": "Vikram Nanda",
+      "institution": "University of Texas at Dallas",
+      "is_presenter": true,
+      "papers": [
+        "Can Monitoring Curb Moral Hazard in Green Investments? Evidence from International Carbon Offset Program"
+      ]
+    },
+    {
+      "name": "Xin Gao",
+      "institution": "University of Birmingham",
+      "is_presenter": true,
+      "papers": [
+        "Advocating Devils"
+      ]
+    },
+    {
+      "name": "Xulia González",
+      "institution": "University of Vigo",
+      "is_presenter": true,
+      "papers": [
+        "Family managers and investment decisions"
+      ]
+    },
+    {
+      "name": "Yohei Yamamoto",
+      "institution": "Hitotsubashi University",
+      "is_presenter": true,
+      "papers": [
+        "Dynamic Effects of Supply and Demand on Electricity Prices during the Global Energy Crisis: Evidence from Japan"
+      ]
+    },
+    {
+      "name": "Yulia Neleptchenko",
+      "institution": "University of Haifa",
+      "is_presenter": true,
+      "papers": [
+        "Forgiveness and crime dynamics: Empirical insights from the Catholic Great Jubilee of 2000 Event"
+      ]
+    },
+    {
+      "name": "Zeynep Kurter",
+      "institution": "Warwick University",
+      "is_presenter": true,
+      "papers": [
+        "The Effect of AI Investment Announcements on Adopting Companies Abnormal Returns: A Critical Analysis of the UK Market"
+      ]
+    },
+    {
+      "name": "Zhongxia (Sam) Zhang",
+      "institution": "International Monetary Fund",
+      "is_presenter": true,
+      "papers": [
+        "When Do Investors Buy Rental Properties? Insights From A Theoretical and Empirical Investigation of Housing Market Breakeven Vacancies"
+      ]
+    },
+    {
+      "name": "Àlex Sanz",
+      "institution": "Universitat Autònoma de Barcelona",
+      "is_presenter": true,
+      "papers": [
+        "The Impact of the EU ETS on Sectoral CO2 emissions."
+      ]
+    }
+  ]
+}

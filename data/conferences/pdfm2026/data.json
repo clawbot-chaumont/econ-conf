@@ -1,0 +1,19 @@
+{
+  "conference": {
+    "name": "Paris December Finance Meeting",
+    "short_name": "PDFM",
+    "year": 2026,
+    "start_date": "2026-12-17",
+    "end_date": "2026-12-18",
+    "location": "Paris, France"
+  },
+  "scrape_metadata": {
+    "scraped_at": "2026-06-13T17:49:00.548018",
+    "source_url": "https://www.paris-december.eu/",
+    "program_available": false,
+    "program_type": "web",
+    "errors": []
+  },
+  "sessions": [],
+  "participants": []
+}

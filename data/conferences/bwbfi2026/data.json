@@ -1,0 +1,388 @@
+{
+  "conference": {
+    "name": "9th Bristol Workshop on Banking and Financial Intermediation (BWBFI 2026)",
+    "short_name": "BWBFI",
+    "year": 2026,
+    "start_date": "2026-06-11",
+    "end_date": "2026-06-12",
+    "location": "Bristol, United Kingdom"
+  },
+  "scrape_metadata": {
+    "scraped_at": "2026-06-13T07:46:33.663460",
+    "source_url": "https://sites.google.com/view/banking-workshop",
+    "program_available": true,
+    "program_type": "web",
+    "errors": [],
+    "notes": "4 sessions, 8 papers, 37 participants"
+  },
+  "sessions": [
+    {
+      "session_title": "Session 1",
+      "chair": "Klaus Schaeck",
+      "papers": [
+        {
+          "title": "The Value of Bank Examiners: Evidence from the Great Depression",
+          "authors": [
+            "Haelim Anderson",
+            "Edward T. Kim"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Mortgage Liquidity Shocks and Corporate Lending: Evidence from Household-Initiated Bank Balance Sheet Adjustment",
+          "authors": [
+            "Sumit Agarwal",
+            "Sergio Mayordomo",
+            "Maria Rodriguez-Moreno"
+          ],
+          "presenter": ""
+        }
+      ]
+    },
+    {
+      "session_title": "Session 2",
+      "chair": "Tobias Dieler",
+      "papers": [
+        {
+          "title": "Bailout bifurcation",
+          "authors": [
+            "Wolf Wagner",
+            "Jing Zeng"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Banking deregulation and credit, revisited",
+          "authors": [
+            "Toni Ahnert",
+            "Anne Beck",
+            "Sebastian Doeer"
+          ],
+          "presenter": ""
+        }
+      ]
+    },
+    {
+      "session_title": "Session 3",
+      "chair": "Karen Khachatryan",
+      "papers": [
+        {
+          "title": "Hand-to-Mouth Banks: Deposit Inflows and the Marginal Propensity to Lend",
+          "authors": [
+            "Felix Corell"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Information Sharing Regimes and Financial Inclusion",
+          "authors": [
+            "Fritz Foley",
+            "Agustin Hurtado",
+            "Andres Liberman",
+            "Alberto Sepulveda"
+          ],
+          "presenter": ""
+        }
+      ]
+    },
+    {
+      "session_title": "Session 4",
+      "chair": "Min Park",
+      "papers": [
+        {
+          "title": "How to stop a bank run: The 2023 banking turmoil and the Bank Term Funding Program",
+          "authors": [
+            "David Glancy",
+            "Felicia Ionescu",
+            "Elizabeth Klee",
+            "Antonis Kotidis",
+            "Michael Siemer",
+            "Andrei Zlate"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Trust in Banks and Borrower Behavior",
+          "authors": [
+            "Samuel Chang",
+            "Rimmy E. Tomy",
+            "Jizhou Wang"
+          ],
+          "presenter": ""
+        }
+      ]
+    }
+  ],
+  "participants": [
+    {
+      "name": "Klaus Schaeck",
+      "institution": "University of Bristol Business School",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Trang Nguyen",
+      "institution": "University of Bristol Business School",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Tobias Dieler",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Karen Khachatryan",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Min Park",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Haelim Anderson",
+      "institution": "Andersen Institute for Finance and Economics",
+      "is_presenter": true,
+      "papers": [
+        "The Value of Bank Examiners: Evidence from the Great Depression"
+      ]
+    },
+    {
+      "name": "Edward T. Kim",
+      "institution": "University of Michigan",
+      "is_presenter": true,
+      "papers": [
+        "The Value of Bank Examiners: Evidence from the Great Depression"
+      ]
+    },
+    {
+      "name": "Sumit Agarwal",
+      "institution": "NUS",
+      "is_presenter": true,
+      "papers": [
+        "Mortgage Liquidity Shocks and Corporate Lending: Evidence from Household-Initiated Bank Balance Sheet Adjustment"
+      ]
+    },
+    {
+      "name": "Sergio Mayordomo",
+      "institution": "Banco de Espana",
+      "is_presenter": true,
+      "papers": [
+        "Mortgage Liquidity Shocks and Corporate Lending: Evidence from Household-Initiated Bank Balance Sheet Adjustment"
+      ]
+    },
+    {
+      "name": "Maria Rodriguez-Moreno",
+      "institution": "Banco de Espana",
+      "is_presenter": true,
+      "papers": [
+        "Mortgage Liquidity Shocks and Corporate Lending: Evidence from Household-Initiated Bank Balance Sheet Adjustment"
+      ]
+    },
+    {
+      "name": "Wolf Wagner",
+      "institution": "Erasmus University and CEPR",
+      "is_presenter": true,
+      "papers": [
+        "Bailout bifurcation"
+      ]
+    },
+    {
+      "name": "Jing Zeng",
+      "institution": "University of Bonn and CEPR",
+      "is_presenter": true,
+      "papers": [
+        "Bailout bifurcation"
+      ]
+    },
+    {
+      "name": "Toni Ahnert",
+      "institution": "ECB & CEPR",
+      "is_presenter": true,
+      "papers": [
+        "Banking deregulation and credit, revisited"
+      ]
+    },
+    {
+      "name": "Anne Beck",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Banking deregulation and credit, revisited"
+      ]
+    },
+    {
+      "name": "Sebastian Doeer",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Banking deregulation and credit, revisited"
+      ]
+    },
+    {
+      "name": "Felix Corell",
+      "institution": "VU Amsterdam",
+      "is_presenter": true,
+      "papers": [
+        "Hand-to-Mouth Banks: Deposit Inflows and the Marginal Propensity to Lend"
+      ]
+    },
+    {
+      "name": "Fritz Foley",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Information Sharing Regimes and Financial Inclusion"
+      ]
+    },
+    {
+      "name": "Agustin Hurtado",
+      "institution": "University of Maryland",
+      "is_presenter": true,
+      "papers": [
+        "Information Sharing Regimes and Financial Inclusion"
+      ]
+    },
+    {
+      "name": "Andres Liberman",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Information Sharing Regimes and Financial Inclusion"
+      ]
+    },
+    {
+      "name": "Alberto Sepulveda",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Information Sharing Regimes and Financial Inclusion"
+      ]
+    },
+    {
+      "name": "David Glancy",
+      "institution": "Federal Reserve Board",
+      "is_presenter": true,
+      "papers": [
+        "How to stop a bank run: The 2023 banking turmoil and the Bank Term Funding Program"
+      ]
+    },
+    {
+      "name": "Felicia Ionescu",
+      "institution": "Federal Reserve Board",
+      "is_presenter": true,
+      "papers": [
+        "How to stop a bank run: The 2023 banking turmoil and the Bank Term Funding Program"
+      ]
+    },
+    {
+      "name": "Elizabeth Klee",
+      "institution": "Federal Reserve Board",
+      "is_presenter": true,
+      "papers": [
+        "How to stop a bank run: The 2023 banking turmoil and the Bank Term Funding Program"
+      ]
+    },
+    {
+      "name": "Antonis Kotidis",
+      "institution": "Federal Reserve Board",
+      "is_presenter": true,
+      "papers": [
+        "How to stop a bank run: The 2023 banking turmoil and the Bank Term Funding Program"
+      ]
+    },
+    {
+      "name": "Michael Siemer",
+      "institution": "Federal Reserve Board",
+      "is_presenter": true,
+      "papers": [
+        "How to stop a bank run: The 2023 banking turmoil and the Bank Term Funding Program"
+      ]
+    },
+    {
+      "name": "Andrei Zlate",
+      "institution": "Federal Reserve Board",
+      "is_presenter": true,
+      "papers": [
+        "How to stop a bank run: The 2023 banking turmoil and the Bank Term Funding Program"
+      ]
+    },
+    {
+      "name": "Samuel Chang",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Trust in Banks and Borrower Behavior"
+      ]
+    },
+    {
+      "name": "Rimmy E. Tomy",
+      "institution": "University of Chicago",
+      "is_presenter": true,
+      "papers": [
+        "Trust in Banks and Borrower Behavior"
+      ]
+    },
+    {
+      "name": "Jizhou Wang",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Trust in Banks and Borrower Behavior"
+      ]
+    },
+    {
+      "name": "Aakriti Mathur",
+      "institution": "Bank of England",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Seongjin Park",
+      "institution": "NTU",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Tamas Vadasz",
+      "institution": "KU Leuven",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Elizaveta Sizova",
+      "institution": "NHH",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Carola Mueller",
+      "institution": "Banco de Espana",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Vahid Saadi",
+      "institution": "University of Liverpool",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Clement Mazet-Sonilhac",
+      "institution": "Bocconi University",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Oana Peia",
+      "institution": "UCD",
+      "is_presenter": false,
+      "papers": []
+    }
+  ]
+}

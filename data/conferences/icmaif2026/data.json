@@ -1,0 +1,6655 @@
+{
+  "conference": {
+    "name": "International Conference on Macroeconomic Analysis and International Finance",
+    "short_name": "ICMAIF 2026",
+    "year": 2026,
+    "start_date": "2026-05-27",
+    "end_date": "2026-05-30",
+    "location": "Rethymno, Crete, Greece",
+    "extras": {
+      "extras": {
+        "edition": "30th",
+        "venue": "University of Crete",
+        "organizer": "University of Crete, Department of Economics",
+        "website": "https://icmaif.soc.uoc.gr/",
+        "extras": {
+          "keynote_speakers": [
+            "Steven J. Davis (Hoover Institution)",
+            "Timothy Taylor (Journal of Economic Perspectives)",
+            "Stavros Panageas (UCLA)",
+            "Mark Spiegel (FRBSF)"
+          ],
+          "associated_journals": [
+            "Journal of International Money and Finance",
+            "Journal of Financial Stability",
+            "Oxford Economic Papers",
+            "Journal of Forecasting"
+          ],
+          "ecb_participants": 18
+        }
+      }
+    }
+  },
+  "scrape_metadata": {
+    "scraped_at": "2026-06-13T11:48:20.363684+00:00",
+    "source_url": "https://icmaif.soc.uoc.gr/conference-program/",
+    "program_url": "https://icmaif.soc.uoc.gr/wp-content/uploads/2026/06/Final-Programme-2026-v8.pdf",
+    "program_available": true,
+    "program_type": "pdf",
+    "notes": "47 sessions, 353 papers from Final Program PDF.",
+    "errors": []
+  },
+  "sessions": [
+    {
+      "session_title": "Parallel Session 1A: Macroeconomic Theory and Policy I",
+      "chair": "Sylwia Radomska",
+      "time": "14:00-16:00",
+      "room": "Lecture Room A",
+      "papers": [
+        {
+          "title": "Distributional Dynamics",
+          "authors": [
+            "Luis Calderon",
+            "Christian Bayer",
+            "Un",
+            "Ma"
+          ],
+          "presenter": "Luis Calderon"
+        },
+        {
+          "title": "Real-Time Assessment of Regional Economic Activity in Russia Using a Dynamic Factor Model",
+          "authors": [
+            "HS",
+            "E",
+            "Un"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "The fiscal sources of euro area inflation through the lens of the Bernanke-Blanchard model",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Nederlandsche Bank)",
+          "authors": [
+            "Mariana Montserrat Cerra Pacheco",
+            "Ce",
+            "Ba",
+            "Po",
+            "DS",
+            "GE",
+            "OL",
+            "G-",
+            "NK",
+            "Im"
+          ],
+          "presenter": "Mariana Montserrat Cerra Pacheco"
+        },
+        {
+          "title": "in the Euro area",
+          "authors": [
+            "Sylwia Radomska",
+            "Joanna Tyrowicz",
+            "Ma",
+            "Un",
+            "Re",
+            "GR",
+            "AP",
+            "E)"
+          ],
+          "presenter": "Sylwia Radomska"
+        }
+      ]
+    },
+    {
+      "session_title": "Parallel Session 1B: Banking and Finance I",
+      "chair": "Federico D'Amario",
+      "time": "14:00-16:00",
+      "room": "Lecture Room B",
+      "papers": [
+        {
+          "title": "Do Bank Stress Tests Constrain Growth? Evidence from Quasi-Random Exposure to Capital Regulation",
+          "authors": [
+            "De",
+            "Un",
+            "Co",
+            "Du",
+            "Wh",
+            "SM",
+            "Es",
+            "Lo",
+            "Ba",
+            "Ap",
+            "Be",
+            "Ac",
+            "Fi",
+            "Eu"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Florian Horky (Slovak National Bank; Zeppelin University)",
+          "authors": [
+            "Jan Klacso"
+          ],
+          "presenter": "Jan Klacso"
+        },
+        {
+          "title": "National Bank)",
+          "authors": [
+            "Jarko Fidrmuc"
+          ],
+          "presenter": "Jarko Fidrmuc"
+        },
+        {
+          "title": "Bridging the Gap: How Banks’ Maturity Mismatch Shapes Monetary Policy Transmission",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "(Universidad Carlos III de Madrid)",
+          "authors": [
+            "Lorenzo Ferrante"
+          ],
+          "presenter": "Lorenzo Ferrante"
+        },
+        {
+          "title": "The Economic Effects of Shocks to Bank Capital Regulation: Evidence from the United Kingdom",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "D'Amario (Bank of England)",
+          "authors": [
+            "Sebastian de-Ramon",
+            "William B. Francis"
+          ],
+          "presenter": "Sebastian de-Ramon"
+        }
+      ]
+    },
+    {
+      "session_title": "Parallel Session 1C: Inflation I",
+      "time": "14:00-16:00",
+      "room": "Lecture Room C",
+      "papers": [
+        {
+          "title": "A Chicken-and-Egg Problem: Profits and Inflation after COVID-19",
+          "authors": [
+            "Al"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "The Great Inflation and the neo-Fisher effect - a revisit of Uribe (2022)",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Göttingen)",
+          "authors": [
+            "Lasse Trienens"
+          ],
+          "presenter": "Lasse Trienens"
+        },
+        {
+          "title": "Shaping Inflation Attention through Inequality",
+          "authors": [
+            "Francesco Ferlaino"
+          ],
+          "presenter": "Francesco Ferlaino"
+        },
+        {
+          "title": "(Sapienza - University of Rome)",
+          "authors": [
+            "Giovanni Di Bartolomeo"
+          ],
+          "presenter": "Giovanni Di Bartolomeo"
+        },
+        {
+          "title": "Inflation",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "University; Bank of Greece)",
+          "authors": [
+            "Georgia Pavlou"
+          ],
+          "presenter": "Georgia Pavlou"
+        }
+      ]
+    },
+    {
+      "session_title": "Parallel Session 1D: Labor Market, Gender and Inequality I",
+      "chair": "Jacopo Cimadomo",
+      "time": "14:00-16:00",
+      "room": "Lecture Room D",
+      "papers": [
+        {
+          "title": "Monetary Policy and Labour Income Inequality: A Regional Approach",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Czech National Bank)",
+          "authors": [
+            "Adam Gersl"
+          ],
+          "presenter": "Adam Gersl"
+        },
+        {
+          "title": "Inequality falls",
+          "authors": [
+            "He",
+            "Un",
+            "Du"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Ideas",
+          "authors": [
+            "Andrea Colciago"
+          ],
+          "presenter": "Andrea Colciago"
+        },
+        {
+          "title": "Timo Haber (De Nederlandsche Bank)",
+          "authors": [
+            "Rajssa Mechelli"
+          ],
+          "presenter": "Rajssa Mechelli"
+        },
+        {
+          "title": "Aging and the Wealth of Labor",
+          "authors": [
+            "Mirko Abbritti"
+          ],
+          "presenter": "Mirko Abbritti"
+        },
+        {
+          "title": "Bank)",
+          "authors": [
+            "Agostino Consolo"
+          ],
+          "presenter": "Agostino Consolo"
+        }
+      ]
+    },
+    {
+      "session_title": "Parallel Session 1E: European Economics I",
+      "chair": "Mirko Licchetta",
+      "time": "14:00-16:00",
+      "room": "Lecture Room E",
+      "papers": [
+        {
+          "title": "Looser",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Central Bank)",
+          "authors": [
+            "Giulia Martorana",
+            "Eu",
+            "Ce",
+            "Ba"
+          ],
+          "presenter": "Giulia Martorana"
+        },
+        {
+          "title": "Implementing borrower-based measures in the EU: the role of institutional frameworks",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "(European Central Bank)",
+          "authors": [
+            "Giovanna Milone"
+          ],
+          "presenter": "Giovanna Milone"
+        },
+        {
+          "title": "Central Bank)",
+          "authors": [
+            "Radu Popa"
+          ],
+          "presenter": "Radu Popa"
+        },
+        {
+          "title": "Financial Stress Dynamics in European Economies: A Wavelet Coherence Analysis",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Business School)",
+          "authors": [
+            "Alexandros Tsioutsios"
+          ],
+          "presenter": "Alexandros Tsioutsios"
+        },
+        {
+          "title": "GDP per capita convergence in the euro area and the EU: A national and regional perspective",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "(DG ECFIN)",
+          "authors": [
+            "Mattozzi Giovanni",
+            "Pasquale D'Apice",
+            "Co"
+          ],
+          "presenter": "Mattozzi Giovanni"
+        }
+      ]
+    },
+    {
+      "session_title": "Parallel Session 2A: Monetary Theory and Policy I",
+      "chair": "Stephanos Papadamou",
+      "time": "16:30-18:30",
+      "room": "Lecture Room A",
+      "papers": [
+        {
+          "title": "Unconventional Monetary Policy and Bank-Type Resilience in Germany in a Regime-Switching Model",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Pfeifer (University of Leipzig)",
+          "authors": [
+            "Karl-Friedrich Israel"
+          ],
+          "presenter": "Karl-Friedrich Israel"
+        },
+        {
+          "title": "Management)",
+          "authors": [
+            "Benjamin Treitz"
+          ],
+          "presenter": "Benjamin Treitz"
+        },
+        {
+          "title": "Fed Forward Guidance and Inflation Uncertainty: The Role of Asymmetric Tail Risk",
+          "authors": [
+            "In",
+            "Un"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Monetary Regime Asymmetries and the QE Transmission Mechanism in the EU: Capital Outflows and AssetPrice Dynamics",
+          "authors": [
+            "Stefan Stojkov",
+            "Emilija Beker Pucar",
+            "Se",
+            "Un",
+            "No",
+            "Sa"
+          ],
+          "presenter": "Stefan Stojkov"
+        },
+        {
+          "title": "Mapping the Evolution of Unconventional Monetary Policy: A Bibliometric and Network Analysis",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Kazanas (Aristotle University of Thessaloniki)",
+          "authors": [
+            "Stephanos Papadamou"
+          ],
+          "presenter": "Stephanos Papadamou"
+        },
+        {
+          "title": "Kaimakamis",
+          "authors": [
+            "Ioannis-Christos"
+          ],
+          "presenter": "Ioannis-Christos"
+        }
+      ]
+    },
+    {
+      "session_title": "Parallel Session 2B: FinTech and Digital Currency",
+      "chair": "Nikiforos T. Laopodis",
+      "time": "16:30-18:30",
+      "room": "Lecture Room B",
+      "papers": [
+        {
+          "title": "Market Performance and the Hidden Mechanics of the Crypto Token Industry",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "School",
+          "authors": [
+            "Lo"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Network Structure and Regulatory Enforcement in Cryptocurrency Markets",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "University of Technology)",
+          "authors": [
+            "Demetris Koursaros"
+          ],
+          "presenter": "Demetris Koursaros"
+        },
+        {
+          "title": "University of Technology)",
+          "authors": [
+            "Roni Michaely"
+          ],
+          "presenter": "Roni Michaely"
+        },
+        {
+          "title": "Designing for Trust: Institutional",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "(National Bank of Slovakia)",
+          "authors": [
+            "Andrej Cupak",
+            "Jan Klacso"
+          ],
+          "presenter": "Andrej Cupak"
+        },
+        {
+          "title": "Stefan Rychtarik (National Bank of Slovakia)",
+          "authors": [
+            "Daniel Hajdiak"
+          ],
+          "presenter": "Daniel Hajdiak"
+        },
+        {
+          "title": "Cryptocurrencies",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Peloponnese)",
+          "authors": [
+            "Nektarios Aslanidis",
+            "Aurelio F. Bariviera",
+            "Ge",
+            "P.",
+            "Ko",
+            "At",
+            "Un",
+            "Ec",
+            "Bu"
+          ],
+          "presenter": "Nektarios Aslanidis"
+        }
+      ]
+    },
+    {
+      "session_title": "Parallel Session 2C: Fiscal Policy I",
+      "chair": "Ansgar Rannenberg",
+      "time": "16:30-18:30",
+      "room": "Lecture Room C",
+      "papers": [
+        {
+          "title": "Fiscal Policy and Sectoral Spillovers in Open Economy HANK",
+          "authors": [
+            "Charles de Beauffort",
+            "An",
+            "Ra",
+            "Eu",
+            "Ce",
+            "Ba"
+          ],
+          "presenter": "Charles de Beauffort"
+        },
+        {
+          "title": "Fiscal Policy and Financial Markets: Do Revenue and Spending Shocks Matter Differently?",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "(LIUC Università Cattaneo)",
+          "authors": [
+            "Fausto Pacicco"
+          ],
+          "presenter": "Fausto Pacicco"
+        },
+        {
+          "title": "Cattaneo)",
+          "authors": [
+            "Massimiliano Serati"
+          ],
+          "presenter": "Massimiliano Serati"
+        },
+        {
+          "title": "Insurance",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Economics)",
+          "authors": [
+            "Marcos Poplawski-Ribeiro",
+            "Fu"
+          ],
+          "presenter": "Marcos Poplawski-Ribeiro"
+        },
+        {
+          "title": "Forward guidance and fiscal rules in HANK",
+          "authors": [
+            "Ansgar Rannenberg"
+          ],
+          "presenter": "Ansgar Rannenberg"
+        }
+      ]
+    },
+    {
+      "session_title": "Parallel Session 2D: Climate Risk",
+      "chair": "Fabio Parla",
+      "time": "16:30-18:30",
+      "room": "Lecture Room D",
+      "papers": [
+        {
+          "title": "The Dynamic Effect of Climate News on Financial Markets: Evidence from France",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Université)",
+          "authors": [
+            "Samuel Ligonnière"
+          ],
+          "presenter": "Samuel Ligonnière"
+        },
+        {
+          "title": "Misfortunes Never Come Singly: Managing the Risk of Chain Disasters",
+          "authors": [
+            "Aleksey Minabutdinov"
+          ],
+          "presenter": "Aleksey Minabutdinov"
+        },
+        {
+          "title": "Alexandra Brausmann (University of Vienna)",
+          "authors": [
+            "Lucas Bretschger"
+          ],
+          "presenter": "Lucas Bretschger"
+        },
+        {
+          "title": "Climate-Related Communication of Central Banks and Bank Risk",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "University of Iași and Institute for Economic Forecasting",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "University of Iași and National Institute for Economic Research",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Flood risk and credit market conditions for Italian SMEs",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Cefin)",
+          "authors": [
+            "Fabio Parla"
+          ],
+          "presenter": "Fabio Parla"
+        }
+      ]
+    },
+    {
+      "session_title": "Parallel Session 2E: Financial Economics I",
+      "chair": "Gene Ambrocio",
+      "time": "16:30-18:30",
+      "room": "Lecture Room E",
+      "papers": [
+        {
+          "title": "How Effective is the Ban on Naked CDS?",
+          "authors": [
+            "Xinxuan Liu",
+            "Mario Pascoa"
+          ],
+          "presenter": "Xinxuan Liu"
+        },
+        {
+          "title": "The Term Structure of Commodity Futures Prices as a Predictor of Economic Activity",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Karadimitropoulou (University of Piraeus)",
+          "authors": [
+            "Marcos Poplawski‑Ribeiro",
+            "Tr",
+            "Au",
+            "Bu",
+            "Sc"
+          ],
+          "presenter": "Marcos Poplawski‑Ribeiro"
+        },
+        {
+          "title": "The Crash–Payout Policy Nexus",
+          "authors": [
+            "Dimitris Anastasiou"
+          ],
+          "presenter": "Dimitris Anastasiou"
+        },
+        {
+          "title": "Michairinas (Athens University of Economics and Business)",
+          "authors": [
+            "Bu",
+            "Py",
+            "Di",
+            "Fo",
+            "In",
+            "Ow",
+            "St",
+            "Re",
+            "Se",
+            "Gl",
+            "Fi"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Cycle",
+          "authors": [
+            "Gene Ambrocio",
+            "Dien Giau Bui",
+            "Iftekhar Hasan",
+            "Ch",
+            "Yu",
+            "Li",
+            "Na",
+            "Ya",
+            "Mi",
+            "Tu",
+            "Un"
+          ],
+          "presenter": "Gene Ambrocio"
+        }
+      ]
+    },
+    {
+      "session_title": "Parallel Session 3A: Inflation II",
+      "chair": "William Witheridge",
+      "papers": [
+        {
+          "title": "HANK Model",
+          "authors": [
+            "Ulrike Neyer"
+          ],
+          "presenter": "Ulrike Neyer"
+        },
+        {
+          "title": "Düsseldorf)",
+          "authors": [
+            "Alexandra Stevens"
+          ],
+          "presenter": "Alexandra Stevens"
+        },
+        {
+          "title": "Inflation Persistence Before and After the 2021-2023 Surge",
+          "authors": [
+            "Emanuele Franceschi"
+          ],
+          "presenter": "Emanuele Franceschi"
+        },
+        {
+          "title": "Macro-financial Effects of Monetary Policy Surprises: Does Inflation Composition Matter?",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "(University of Crete)",
+          "authors": [
+            "Nikolaos Giannellis"
+          ],
+          "presenter": "Nikolaos Giannellis"
+        },
+        {
+          "title": "The Inflation Consequences of Political Intervention in Monetary Policy",
+          "authors": [
+            "Ma"
+          ],
+          "presenter": ""
+        }
+      ]
+    },
+    {
+      "session_title": "Parallel Session 3B: Fiscal Policy IΙ",
+      "chair": "Matthias Schön",
+      "papers": [
+        {
+          "title": "Redistributing through Seigniorage: The Case of South Africa",
+          "authors": [
+            "Yoseph Getachew"
+          ],
+          "presenter": "Yoseph Getachew"
+        },
+        {
+          "title": "Nyemwererai Matshaka (University of Pretoria)",
+          "authors": [
+            "Nicola Viegi"
+          ],
+          "presenter": "Nicola Viegi"
+        },
+        {
+          "title": "Fiscal Reaction Functions and Debt Sustainability in the Euro Area: A Panel Data Analysis",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Amélie (University of Strasbourg)",
+          "authors": [
+            "Thanassis Kazanas",
+            "Ar",
+            "Un",
+            "Th"
+          ],
+          "presenter": "Thanassis Kazanas"
+        },
+        {
+          "title": "Fiscal risks and consolidations",
+          "authors": [
+            "Francesco Frangiamore"
+          ],
+          "presenter": "Francesco Frangiamore"
+        },
+        {
+          "title": "Monetary Fund; University of Palermo; CEPR; RCEA)",
+          "authors": [
+            "Domenico Giannone"
+          ],
+          "presenter": "Domenico Giannone"
+        },
+        {
+          "title": "Kisat (International Monetary Fund)",
+          "authors": [
+            "Pietro Pizzuto"
+          ],
+          "presenter": "Pietro Pizzuto"
+        },
+        {
+          "title": "Taxing Capital",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Bundesbank)",
+          "authors": [
+            "Nikolai Stähler"
+          ],
+          "presenter": "Nikolai Stähler"
+        }
+      ]
+    },
+    {
+      "session_title": "Parallel Session 3C: Machine Learning & Forecasting",
+      "chair": "Michele Lenza",
+      "papers": [
+        {
+          "title": "Machine Learning Meets Budget: Forecasting German Government Expenditure Components",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "(Deutsche Bundesbank",
+          "authors": [
+            "Natascha Hinterlang",
+            "De",
+            "Bu"
+          ],
+          "presenter": "Natascha Hinterlang"
+        },
+        {
+          "title": "Forecasting household consumption in Russia: Machine learning and time-series approaches",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "(Bank of Russia",
+          "authors": [
+            "Fo",
+            "Er",
+            "Ge",
+            "GD",
+            "P:",
+            "Ca",
+            "Ma",
+            "Le",
+            "Re",
+            "Ap",
+            "Im"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Forecast Accuracy?",
+          "authors": [
+            "Dominik Maltritz",
+            "Vincent Roschy"
+          ],
+          "presenter": "Dominik Maltritz"
+        },
+        {
+          "title": "Forecasting wages with machine learning",
+          "authors": [
+            "Michele Lenza",
+            "Eu",
+            "Ce",
+            "Ba"
+          ],
+          "presenter": "Michele Lenza"
+        }
+      ]
+    },
+    {
+      "session_title": "Parallel Session 3D: Financial Stress and Stability",
+      "chair": "Maria-Eleni Agoraki",
+      "papers": [
+        {
+          "title": "Examining the Impact of Climate Change on Financial Stability: Evidence from Panel LPs",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "(University of Crete)",
+          "authors": [
+            "Nikolaos Giannellis"
+          ],
+          "presenter": "Nikolaos Giannellis"
+        },
+        {
+          "title": "AI and Financial Stability",
+          "authors": [
+            "Francisco Nadal De Simone"
+          ],
+          "presenter": "Francisco Nadal De Simone"
+        },
+        {
+          "title": "Cross-Country Transmission of Financial Stress: Evidence from a Global Panel",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Palermo)",
+          "authors": [
+            "Davide Furceri",
+            "Francesco Scianna"
+          ],
+          "presenter": "Davide Furceri"
+        },
+        {
+          "title": "Natural Disasters and Discouraged SMEs",
+          "authors": [
+            "Maria-Eleni Agoraki"
+          ],
+          "presenter": "Maria-Eleni Agoraki"
+        },
+        {
+          "title": "Anastasiou (Athens University of Economics and Business)",
+          "authors": [
+            "Antonis Ballis"
+          ],
+          "presenter": "Antonis Ballis"
+        },
+        {
+          "title": "Chrysanthakopoulos (University of Patras)",
+          "authors": [
+            "Christos Kallandranis"
+          ],
+          "presenter": "Christos Kallandranis"
+        }
+      ]
+    },
+    {
+      "session_title": "Parallel Session 3E: International Finance I",
+      "chair": "Georgios Georgiadis",
+      "time": "11:00-11:30",
+      "papers": [
+        {
+          "title": "Behavior of Czech Firms",
+          "authors": [
+            "Volha Audzei",
+            "Michal Franta"
+          ],
+          "presenter": "Volha Audzei"
+        },
+        {
+          "title": "Tilting the Balance Towards Equity: Capital Controls and the Structure of External Liabilities",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "(International Monetary Fund)",
+          "authors": [
+            "Wenjie Li"
+          ],
+          "presenter": "Wenjie Li"
+        },
+        {
+          "title": "Global Financial Cycles",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Petr Jakubík (Charles University)",
+          "authors": [
+            "Saida Teleu",
+            "Matěj Kořínek"
+          ],
+          "presenter": "Saida Teleu"
+        },
+        {
+          "title": "From Brussels to Bangkok: How Investment Funds Transmit Financial Spillovers",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "(European Central Bank)",
+          "authors": [
+            "Katharina Cera",
+            "Georgios Georgiadis",
+            "Ch",
+            "Ka",
+            "Eu",
+            "Ce",
+            "Ba"
+          ],
+          "presenter": "Katharina Cera"
+        }
+      ]
+    },
+    {
+      "session_title": "Parallel Session 4A: Exchange Rate Economics I",
+      "chair": "Stephen G. Hall",
+      "time": "11:30-13:30",
+      "room": "Lecture Room A",
+      "papers": [
+        {
+          "title": "Global Exchange Rate Uncertainty",
+          "authors": [
+            "Joscha Beckmann",
+            "Fr"
+          ],
+          "presenter": "Joscha Beckmann"
+        },
+        {
+          "title": "Learning Across Countries: Real Exchange Rates",
+          "authors": [
+            "John Devereux"
+          ],
+          "presenter": "John Devereux"
+        },
+        {
+          "title": "Gerald P. Dwyer (Clemson University)",
+          "authors": [
+            "James R. Lothian"
+          ],
+          "presenter": "James R. Lothian"
+        },
+        {
+          "title": "Oil Price Uncertainty and Exchange Rates",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Economic Analysis)",
+          "authors": [
+            "Aikaterini Karadimitropoulou"
+          ],
+          "presenter": "Aikaterini Karadimitropoulou"
+        },
+        {
+          "title": "Monetary Fund)",
+          "authors": [
+            "Athanasios Triantafyllou"
+          ],
+          "presenter": "Athanasios Triantafyllou"
+        },
+        {
+          "title": "On the Dynamics of Purchasing Power Parity",
+          "authors": [
+            "Stephen G. Hall (Leicester University;"
+          ],
+          "presenter": "Stephen G. Hall (Leicester University;"
+        },
+        {
+          "title": "of Pretoria)",
+          "authors": [
+            "George S. Tavlas"
+          ],
+          "presenter": "George S. Tavlas"
+        }
+      ]
+    },
+    {
+      "session_title": "Parallel Session 4B: Financial Markets I",
+      "chair": "Eduardo Maqui",
+      "time": "11:30-13:30",
+      "room": "Lecture Room B",
+      "papers": [
+        {
+          "title": "Identification using Prices of Gold and Oil",
+          "authors": [
+            "Timo Bettendorf"
+          ],
+          "presenter": "Timo Bettendorf"
+        },
+        {
+          "title": "Revisiting Fundamentals of the European Gas Market: The Role of Supply Substitution",
+          "authors": [
+            "Un",
+            "Al"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Financial Deregulation",
+          "authors": [
+            "Andreas Hefti",
+            "Li",
+            "Ha",
+            "Zu",
+            "UZ",
+            "H)"
+          ],
+          "presenter": "Andreas Hefti"
+        },
+        {
+          "title": "Market-based finance is no island: Volatility spillovers across non-banks",
+          "authors": [
+            "Ma",
+            "Ba",
+            "En"
+          ],
+          "presenter": ""
+        }
+      ]
+    },
+    {
+      "session_title": "Parallel Session 4C: Investment, Productivity and Growth",
+      "chair": "Francesca Vinci",
+      "time": "11:30-13:30",
+      "room": "Lecture Room C",
+      "papers": [
+        {
+          "title": "Decoding Growth in Small Open Economies",
+          "authors": [
+            "Petri Kuosmanen",
+            "Va"
+          ],
+          "presenter": "Petri Kuosmanen"
+        },
+        {
+          "title": "Spillovers",
+          "authors": [
+            "Alice Albonico",
+            "Marco Guerzoni"
+          ],
+          "presenter": "Alice Albonico"
+        },
+        {
+          "title": "Human Capital Without Returns? Burnout as a Productivity Wedge in Income Generation",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "(University of Piraeus)",
+          "authors": [
+            "Eleftheria Stergiopoulou"
+          ],
+          "presenter": "Eleftheria Stergiopoulou"
+        },
+        {
+          "title": "Unlocking Growth? EU investment programmes and firm performance",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Bank)",
+          "authors": [
+            "Daniel Kapp",
+            "Francesca Vinci",
+            "Un",
+            "Po",
+            "Fa",
+            "Ba",
+            "Sc",
+            "Ec"
+          ],
+          "presenter": "Daniel Kapp"
+        }
+      ]
+    },
+    {
+      "session_title": "Parallel Session 4D: Financial Econometrics I",
+      "chair": "Martin Mandler",
+      "time": "11:30-13:30",
+      "room": "Lecture Room D",
+      "papers": [
+        {
+          "title": "Micro-based SVAR Identification",
+          "authors": [
+            "Maximilian Schröder",
+            "Un",
+            "Ro",
+            "Fo"
+          ],
+          "presenter": "Maximilian Schröder"
+        },
+        {
+          "title": "GARCH models",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Business)",
+          "authors": [
+            "Marta Małecka",
+            "Wr",
+            "Un",
+            "Ec",
+            "Bu"
+          ],
+          "presenter": "Marta Małecka"
+        },
+        {
+          "title": "It Takes Two To Tango: Relative Valuation and Volatility Forecasting in Precious Metals Markets",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Štefan (Masaryk University; Slovak Academy of Sciencies)",
+          "authors": [
+            "Todorova Neda",
+            "Ma",
+            "Un",
+            "Ze",
+            "SV",
+            "AR"
+          ],
+          "presenter": "Todorova Neda"
+        },
+        {
+          "title": "approach and applications",
+          "authors": [
+            "Martin Mandler",
+            "Michael Scharnagl"
+          ],
+          "presenter": "Martin Mandler"
+        }
+      ]
+    },
+    {
+      "session_title": "Parallel Session 4E: Monetary Theory and Policy II",
+      "chair": "Annalisa Ferrando",
+      "time": "11:30-13:30",
+      "room": "Lecture Room E",
+      "papers": [
+        {
+          "title": "Monetary policy announcements and sacrifice ratios",
+          "authors": [
+            "Gene Ambrocio"
+          ],
+          "presenter": "Gene Ambrocio"
+        },
+        {
+          "title": "Finland)",
+          "authors": [
+            "Nigel McClung"
+          ],
+          "presenter": "Nigel McClung"
+        },
+        {
+          "title": "Federal Reserve shocks: Which securities really flow?",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "University)",
+          "authors": [
+            "Szczerbowicz Urszula",
+            "Schmidt Julia"
+          ],
+          "presenter": "Szczerbowicz Urszula"
+        },
+        {
+          "title": "Assessing the Effects of Monetary Shocks on Macroeconomic Stars: A SMUC-IV Framework",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "University)",
+          "authors": [
+            "Changhan Hou",
+            "Jan Prüser"
+          ],
+          "presenter": "Changhan Hou"
+        },
+        {
+          "title": "The cost channel of monetary policy: evidence from euro area firm-level survey data",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "(European Central Bank)",
+          "authors": [
+            "Annalisa Ferrando",
+            "Sofia Gori",
+            "Ra",
+            "Eu",
+            "Ce",
+            "Ba",
+            "Lu"
+          ],
+          "presenter": "Annalisa Ferrando"
+        }
+      ]
+    },
+    {
+      "session_title": "Parallel Session 5A: Macroprudential Policy I",
+      "chair": "Jaunius Karmelavicius",
+      "time": "14:30-16:30",
+      "room": "Lecture Room A",
+      "papers": [
+        {
+          "title": "using a parsimonious agent-based framework",
+          "authors": [
+            "Enrico Minnella",
+            "Ana Pereira",
+            "Eu",
+            "Te",
+            "Jo",
+            "Vi",
+            "In",
+            "Ce",
+            "Ba"
+          ],
+          "presenter": "Enrico Minnella"
+        },
+        {
+          "title": "Networked UK Housing Markets: Implications for Systemic Risk and Macroprudential Design",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "(University of Alicante)",
+          "authors": [
+            "Alberto Perez-Bernabeu"
+          ],
+          "presenter": "Alberto Perez-Bernabeu"
+        },
+        {
+          "title": "Bank Performance Under Biodiversity Risk",
+          "authors": [
+            "Iiro Alikärri",
+            "Jy"
+          ],
+          "presenter": "Iiro Alikärri"
+        },
+        {
+          "title": "Household Behavior under Macroprudential Borrower-Based Measures",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Monetary Fund)",
+          "authors": [
+            "Julia Otten"
+          ],
+          "presenter": "Julia Otten"
+        }
+      ]
+    },
+    {
+      "session_title": "Parallel Session 5B: Currency Markets",
+      "chair": "Harald Sander",
+      "time": "14:30-16:30",
+      "room": "Lecture Room B",
+      "papers": [
+        {
+          "title": "The Determinants of International Currency Reserve Shares",
+          "authors": [
+            "Un",
+            "At"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Uncertainty Spillovers and Trade Currencies: Export-Invoicing Evidence from a Global Panel",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "(University of Palermo)",
+          "authors": [
+            "Davide Furceri"
+          ],
+          "presenter": "Davide Furceri"
+        },
+        {
+          "title": "Pizzuto (University of Palermo)",
+          "authors": [
+            "Khatereh Yarveisi"
+          ],
+          "presenter": "Khatereh Yarveisi"
+        },
+        {
+          "title": "Central Bank SwapNetworks and Currency Composition During Global Crises",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "School)",
+          "authors": [
+            "Haithem Awijen",
+            "Wael Louhichi",
+            "IN",
+            "SE",
+            "EC",
+            "Gr",
+            "Ec"
+          ],
+          "presenter": "Haithem Awijen"
+        },
+        {
+          "title": "The Global Dollar Cycle and the Gravity of Finance and Trade",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "University)",
+          "authors": [
+            "Stefanie Kleimeier"
+          ],
+          "presenter": "Stefanie Kleimeier"
+        }
+      ]
+    },
+    {
+      "session_title": "Parallel Session 5C: Banking and Finance II",
+      "chair": "Małgorzata Pawłowska",
+      "time": "14:30-16:30",
+      "room": "Lecture Room C",
+      "papers": [
+        {
+          "title": "Do capital requirements and their international differences affect banks' profitability?",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "(Deutsche Bundesbank)",
+          "authors": [
+            "Axel Loeffler",
+            "Patrick Sigel"
+          ],
+          "presenter": "Axel Loeffler"
+        },
+        {
+          "title": "Beyond financing: Effects of changes in bank relationships on client-firms",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Amsterdam and CEPR",
+          "authors": [
+            "Razvan Vlahu"
+          ],
+          "presenter": "Razvan Vlahu"
+        },
+        {
+          "title": "University Rotterdam",
+          "authors": [
+            "A",
+            "Co",
+            "Re",
+            "Wo",
+            "On",
+            "Ba",
+            "Su",
+            "Tr",
+            "Th",
+            "Le",
+            "In"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Monetary Fund/World Bank FSAP",
+          "authors": [
+            "Alessandro Santoni"
+          ],
+          "presenter": "Alessandro Santoni"
+        },
+        {
+          "title": "Central Bank)",
+          "authors": [
+            "Roberta Nesti"
+          ],
+          "presenter": "Roberta Nesti"
+        },
+        {
+          "title": "Artificial Intelligence and Bank Profitability: Opportunities and Risks",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "School of Economics)",
+          "authors": [
+            "Piotr Mazur",
+            "Ec",
+            "Bu"
+          ],
+          "presenter": "Piotr Mazur"
+        }
+      ]
+    },
+    {
+      "session_title": "Parallel Session 5D: Labor Market, Gender and Inequality II",
+      "chair": "Svatopluk Kapounek",
+      "time": "14:30-16:30",
+      "room": "Lecture Room D",
+      "papers": [
+        {
+          "title": "Do Pay Transparency Laws Reduce the Gender Wage Gap? Insights from a Meta-Analysis",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "(Institute of Economic Studies",
+          "authors": [
+            "Un"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Public Attention to Gender Equality and Stock Market Returns",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "De Vinci Research Center)",
+          "authors": [
+            "Jonathan Peillex"
+          ],
+          "presenter": "Jonathan Peillex"
+        },
+        {
+          "title": "Amenities and Wages over the Business Cycle: Dynamics and Gender Implications",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "for Employment Research",
+          "authors": [
+            "Er",
+            "Nü"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Beyond Gender Quotas: Determinants of Women's Participation in European Corporate Boards",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "(European Research University)",
+          "authors": [
+            "Michal Fridrich",
+            "Un",
+            "Br"
+          ],
+          "presenter": "Michal Fridrich"
+        }
+      ]
+    },
+    {
+      "session_title": "Parallel Session 5E: Central Banking I",
+      "chair": "George S. Tavlas",
+      "time": "16:30-17:00",
+      "papers": [
+        {
+          "title": "Central bank reserves and banks’ portfolio rebalancing in the euro area",
+          "authors": [
+            "Athanasios Lampousis ("
+          ],
+          "presenter": "Athanasios Lampousis ("
+        },
+        {
+          "title": "Greece)",
+          "authors": [
+            "Petros Migiakis"
+          ],
+          "presenter": "Petros Migiakis"
+        },
+        {
+          "title": "Political Pressure on The Fed – Is This Time Different?",
+          "authors": [
+            "Karau",
+            "De",
+            "Bu"
+          ],
+          "presenter": "Karau"
+        },
+        {
+          "title": "Complexity in Monetary Policy Communications",
+          "authors": [
+            "Frederico Mira Godinho"
+          ],
+          "presenter": "Frederico Mira Godinho"
+        },
+        {
+          "title": "The Dynamics of Central Banks’ Reserves under High Uncertainty",
+          "authors": [
+            "Deborah Defang"
+          ],
+          "presenter": "Deborah Defang"
+        },
+        {
+          "title": "Stephen G. Hall (Leicester University; Bank of Greece; University of Pretoria)",
+          "authors": [
+            "George S. Tavlas ("
+          ],
+          "presenter": "George S. Tavlas ("
+        },
+        {
+          "title": "Hoover Institution",
+          "authors": [],
+          "presenter": ""
+        }
+      ]
+    },
+    {
+      "session_title": "Parallel Session 6A: Banking and Financial Stress I",
+      "chair": "Peter Albrecht",
+      "time": "17:00-19:00",
+      "room": "Lecture Room A",
+      "papers": [
+        {
+          "title": "Policy Uncertainty and Banks’ Lending Behavior",
+          "authors": [
+            "Sheida Teimouri",
+            "Ta",
+            "Un",
+            "Wi",
+            "La",
+            "Cr"
+          ],
+          "presenter": "Sheida Teimouri"
+        },
+        {
+          "title": "Supply Chain Risk and Firm Financial Stability",
+          "authors": [
+            "Konstantina K. Agoraki"
+          ],
+          "presenter": "Konstantina K. Agoraki"
+        },
+        {
+          "title": "Agoraki (University of the Peloponnese)",
+          "authors": [
+            "Maria Giaka",
+            "Al",
+            "Gr",
+            "Bu",
+            "Sc",
+            "Am"
+          ],
+          "presenter": "Maria Giaka"
+        },
+        {
+          "title": "Mortgage loan rates and the defaults of variable rate mortgages",
+          "authors": [
+            "Barbara Jarmulska"
+          ],
+          "presenter": "Barbara Jarmulska"
+        },
+        {
+          "title": "Emil Bandoni (Central Bank of Ireland and University College Dublin)",
+          "authors": [
+            "Friederike Fourné"
+          ],
+          "presenter": "Friederike Fourné"
+        },
+        {
+          "title": "Lending Activity Patterns among Central and Eastern European Banks",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Mendel University)",
+          "authors": [
+            "Svatopluk Kapounek",
+            "Peter Albrecht"
+          ],
+          "presenter": "Svatopluk Kapounek"
+        },
+        {
+          "title": "(Mendel University)",
+          "authors": [
+            "Martin Stachon"
+          ],
+          "presenter": "Martin Stachon"
+        }
+      ]
+    },
+    {
+      "session_title": "Parallel Session 6B: Macroeconomic Forecasting I",
+      "chair": "Kari Heimonen",
+      "time": "17:00-19:00",
+      "room": "Lecture Room C",
+      "papers": [
+        {
+          "title": "A Novel Global Learning Framework for Forecasting Economic Growth in the Eurozone",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "(National and Kapodistrian University of Athens)",
+          "authors": [
+            "Georgios Angelopoulos (University of West Attica &"
+          ],
+          "presenter": "Georgios Angelopoulos (University of West Attica &"
+        },
+        {
+          "title": "Greece)",
+          "authors": [
+            "Zacharias Bragoudakis",
+            "Dimitrios Dimitriou",
+            "In",
+            "Fo",
+            "La",
+            "Mo",
+            "A",
+            "Re",
+            "Ti",
+            "Ev",
+            "Ag",
+            "Ce",
+            "Ba",
+            "Pr"
+          ],
+          "presenter": "Zacharias Bragoudakis"
+        },
+        {
+          "title": "Krystian Jaworski (SGH Warsaw School of Economics)",
+          "authors": [
+            "Adam Wałach"
+          ],
+          "presenter": "Adam Wałach"
+        },
+        {
+          "title": "Density nowcasts for U.S. GDP by probabilistic neural networks",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Technology and Economics)",
+          "authors": [
+            "Hadházi"
+          ],
+          "presenter": "Hadházi"
+        },
+        {
+          "title": "Does Money Help Forecast Nominal GDP in Deep Learning Models?",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Reserve Bank of Dallas)",
+          "authors": [
+            "Kenean Yamane Kejela",
+            "Pa",
+            "Se",
+            "C:",
+            "Fi",
+            "Ma",
+            "II"
+          ],
+          "presenter": "Kenean Yamane Kejela"
+        },
+        {
+          "title": "Stock Market Dynamics in the RBC Framework",
+          "authors": [
+            "Arthur Galichère"
+          ],
+          "presenter": "Arthur Galichère"
+        },
+        {
+          "title": "Stock Price Crash Risk and the Managerial Rhetoric Mechanism: Evidence from R&D Narrative Disclosure in 10K filings",
+          "authors": [
+            "Panayiotis C. Andreou"
+          ],
+          "presenter": "Panayiotis C. Andreou"
+        },
+        {
+          "title": "Technology)",
+          "authors": [
+            "Marina Magidou"
+          ],
+          "presenter": "Marina Magidou"
+        },
+        {
+          "title": "Stock Market Accounting",
+          "authors": [
+            "Ioannis Koutsonikolis"
+          ],
+          "presenter": "Ioannis Koutsonikolis"
+        },
+        {
+          "title": "Political Business Cycles and Equity Markets: Evidence from EU Member States",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Jyväskylä)",
+          "authors": [
+            "Jussi Leskinen"
+          ],
+          "presenter": "Jussi Leskinen"
+        }
+      ]
+    },
+    {
+      "session_title": "Parallel Session 6D: Environmental, Social and Governance",
+      "chair": "Pawel Kliber",
+      "time": "17:00-19:00",
+      "room": "Lecture Room D",
+      "papers": [
+        {
+          "title": "Oil Prices and Global Activity in a General Equilibrium Model with Dynamic Elasticities",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "(UNamur)",
+          "authors": [
+            "Jolan Mohimont"
+          ],
+          "presenter": "Jolan Mohimont"
+        },
+        {
+          "title": "Is There a Resource Curse in the US and Canada: Evidence from the Shale Revolution",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "(California State University Long Beach)",
+          "authors": [
+            "Florian Horky",
+            "Un",
+            "Fr",
+            "Do",
+            "Cr",
+            "Ra",
+            "Ag",
+            "In",
+            "ES",
+            "G",
+            "Di",
+            "Ev",
+            "Mo",
+            "Fi"
+          ],
+          "presenter": "Florian Horky"
+        },
+        {
+          "title": "Action",
+          "authors": [
+            "Sylwia Frydrych",
+            "Bu"
+          ],
+          "presenter": "Sylwia Frydrych"
+        },
+        {
+          "title": "ESG Scores as a Buffer Against Credit Rating Downgrades: Evidence from European Corporate Issuers",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Kliber (Poznan University of Economics and Business)",
+          "authors": [
+            "Sylwia Frydrych"
+          ],
+          "presenter": "Sylwia Frydrych"
+        }
+      ]
+    },
+    {
+      "session_title": "Parallel Session 6E: Crisis and Uncertainty",
+      "chair": "Paolo D’Imperio",
+      "time": "17:00-19:00",
+      "room": "Lecture Room E",
+      "papers": [
+        {
+          "title": "Northern insights: Geopolitical risk from Finnish news media",
+          "authors": [
+            "Joni Heikkinen"
+          ],
+          "presenter": "Joni Heikkinen"
+        },
+        {
+          "title": "(Bank of Finland)",
+          "authors": [
+            "Zuzana Fungacova",
+            "Eeva Kerola"
+          ],
+          "presenter": "Zuzana Fungacova"
+        },
+        {
+          "title": "Finland)",
+          "authors": [
+            "Anni Norring"
+          ],
+          "presenter": "Anni Norring"
+        },
+        {
+          "title": "Measuring Geoconomic Tension: A Large-Language-Model Approach for the Euro Area",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "(European Central Bank)",
+          "authors": [
+            "Raffaele Prioriello",
+            "Agha Durrani",
+            "Po",
+            "Au",
+            "Pr",
+            "Co",
+            "Ev",
+            "So",
+            "Me",
+            "Ec"
+          ],
+          "presenter": "Raffaele Prioriello"
+        },
+        {
+          "title": "Uncertainty",
+          "authors": [
+            "Nikolaos Antonakakis"
+          ],
+          "presenter": "Nikolaos Antonakakis"
+        },
+        {
+          "title": "Channels of risk sharing in times of crisis: Evidence from European Households",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Central Bank",
+          "authors": [
+            "Eleonora Pierucc",
+            "Un",
+            "Ro"
+          ],
+          "presenter": "Eleonora Pierucc"
+        }
+      ]
+    },
+    {
+      "session_title": "Parallel Session 7A: Monetary Theory and Policy III",
+      "chair": "Tatiana Shelovanova",
+      "papers": [
+        {
+          "title": "Commitment vs Credibility: Macroeconomic Effects of Climate Policy Uncertainty",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Nederlandsche Bank; University of Oxford)",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Amsterdam)",
+          "authors": [
+            "Jasper de Winter"
+          ],
+          "presenter": "Jasper de Winter"
+        },
+        {
+          "title": "High-frequency identification of multidimensional monetary policy surprises for Russia",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "(Bank of Russia)",
+          "authors": [
+            "Konstantin Buryak",
+            "Vadim Grishchenko"
+          ],
+          "presenter": "Konstantin Buryak"
+        },
+        {
+          "title": "Do Lending Standards Matter for Non-Financial Corporate Credit? Evidence from Albania",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "(Charles University & Joint Vienna Institute)",
+          "authors": [
+            "Lorena Skufi",
+            "Adam Gersl"
+          ],
+          "presenter": "Lorena Skufi"
+        },
+        {
+          "title": "Estimation of the monetary policy transmission of the Bank of Russia by the Local Projections method",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Grishchenko (Bank of Russia)",
+          "authors": [
+            "Tatiana Shelovanova"
+          ],
+          "presenter": "Tatiana Shelovanova"
+        }
+      ]
+    },
+    {
+      "session_title": "Parallel Session 7B: Banking and Financial Stress II",
+      "chair": "Paul McNelis",
+      "papers": [
+        {
+          "title": "Risk Propagation in the European Banking System: Amplification Effects from NBFIs and Market Risks",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Valderrama (International Monetary Fund)",
+          "authors": [
+            "Richard Varghese"
+          ],
+          "presenter": "Richard Varghese"
+        },
+        {
+          "title": "Contagion of Affinity: Predicting CDS Spikes in Global Systemically Important Banks",
+          "authors": [
+            "Zu",
+            "Un",
+            "Ap",
+            "Sc"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Heterogeneous Bank Failures and Type-Specific Early-Warning Rules: Evidence from 1863-2024",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Awijen (INSEEC Grande Ecole Paris)",
+          "authors": [
+            "Maria-Eleni K. Agoraki"
+          ],
+          "presenter": "Maria-Eleni K. Agoraki"
+        },
+        {
+          "title": "Financial Contagion in China",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Economic and Social Research",
+          "authors": [
+            "Jennifer T. Lai",
+            "Mc",
+            "Ne",
+            "Bo",
+            "Co"
+          ],
+          "presenter": "Jennifer T. Lai"
+        }
+      ]
+    },
+    {
+      "session_title": "Parallel Session 7C: International Finance II",
+      "chair": "Marius Jäger",
+      "papers": [
+        {
+          "title": "Tariffs across the supply chain",
+          "authors": [
+            "Nicolò Gnocato"
+          ],
+          "presenter": "Nicolò Gnocato"
+        },
+        {
+          "title": "Central Bank)",
+          "authors": [
+            "Giovanni Stamato"
+          ],
+          "presenter": "Giovanni Stamato"
+        },
+        {
+          "title": "Trade Restrictions",
+          "authors": [
+            "Francesco Scianna"
+          ],
+          "presenter": "Francesco Scianna"
+        },
+        {
+          "title": "Furceri (International Monetary Fund; University of Palermo; CEPR; RCEA)",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Toronto; Bruegel; CEPR)",
+          "authors": [
+            "Hites Ahir",
+            "Luca Bettarelli",
+            "Fr",
+            "Un",
+            "Pa"
+          ],
+          "presenter": "Hites Ahir"
+        },
+        {
+          "title": "The determinants of the BRICS countries’ exports to the BRICS+ group",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Applied Sciences)",
+          "authors": [
+            "Ronald Wittenzellner"
+          ],
+          "presenter": "Ronald Wittenzellner"
+        },
+        {
+          "title": "America First? The Macroeconomic Implications of Punitive Tariffs in a Production Network Model",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "(Deutsche Bundesbank)",
+          "authors": [
+            "Natascha Hinterlang",
+            "Marius Jäger",
+            "Nikolai Stähler"
+          ],
+          "presenter": "Natascha Hinterlang"
+        }
+      ]
+    },
+    {
+      "session_title": "Parallel Session 7D: Macroeconomic Forecasting II",
+      "chair": "Sercan Eraslan",
+      "papers": [
+        {
+          "title": "Unrestricted MIDAS Approach",
+          "authors": [
+            "Michael John Meyer",
+            "Vi",
+            "Un",
+            "Pr"
+          ],
+          "presenter": "Michael John Meyer"
+        },
+        {
+          "title": "Real-Time Macroeconomic Forecasting with Time Series Foundation Models",
+          "authors": [
+            "Tim Dass"
+          ],
+          "presenter": "Tim Dass"
+        },
+        {
+          "title": "Simon Racheter (University of Bern)",
+          "authors": [
+            "Rolf Scheufele",
+            "Yannic Stucki"
+          ],
+          "presenter": "Rolf Scheufele"
+        },
+        {
+          "title": "Christoph Winter (Swiss National Bank)",
+          "authors": [
+            "Alessandra Vollmer"
+          ],
+          "presenter": "Alessandra Vollmer"
+        },
+        {
+          "title": "Diagnosing Structural Forecast Errors: A Neural Network Framework for DSGE Models",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "University of Milan Bicocca)",
+          "authors": [
+            "Alice Albonico",
+            "Ce",
+            "Ba"
+          ],
+          "presenter": "Alice Albonico"
+        },
+        {
+          "title": "Forecasting economic activity with central bank narrative",
+          "authors": [
+            "Sercan Eraslan",
+            "Eniko GaborToth"
+          ],
+          "presenter": "Sercan Eraslan"
+        }
+      ]
+    },
+    {
+      "session_title": "Parallel Session 7E: Currency Risk and Credit Volatility",
+      "chair": "George S.Tavlas",
+      "time": "15:30-16:00",
+      "papers": [
+        {
+          "title": "Breaking the Link: Risk",
+          "authors": [
+            "Robert Lindahl",
+            "St",
+            "Li",
+            "Un"
+          ],
+          "presenter": "Robert Lindahl"
+        },
+        {
+          "title": "Currency Risk",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Amin Sadeghi (University of Jyväskylä)",
+          "authors": [
+            "Heikki Lehkonen",
+            "Jy"
+          ],
+          "presenter": "Heikki Lehkonen"
+        },
+        {
+          "title": "The Impact of Natural Disasters on Syndicated Lending: Evidence from Europe",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Amsterdam)",
+          "authors": [
+            "Massimo Giuliodori"
+          ],
+          "presenter": "Massimo Giuliodori"
+        },
+        {
+          "title": "Protectionist U.S. Trade Policies and the Cross-Section of Emerging Market Currency Returns",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "(Ruhr University Bochum)",
+          "authors": [
+            "Stefan Eichler",
+            "KE",
+            "YN",
+            "OT",
+            "E",
+            "SP",
+            "EE",
+            "CH",
+            "TH",
+            "UN",
+            "IV",
+            "ER",
+            "SI",
+            "TY",
+            "OF",
+            "CR",
+            "ET",
+            "I",
+            "PL",
+            "EN",
+            "AR",
+            "Y",
+            "SE",
+            "SS",
+            "IO",
+            "Ti",
+            "Ta",
+            "Jo",
+            "Ec",
+            "Pe",
+            "Ar",
+            "Ju",
+            "Re",
+            "Ba",
+            "Ex",
+            "Be",
+            "Tr",
+            "BA",
+            "NK",
+            "GR",
+            "CE",
+            "St",
+            "J.",
+            "Da",
+            "Ho",
+            "In",
+            "Un",
+            "Wh",
+            "Ma"
+          ],
+          "presenter": "Stefan Eichler"
+        }
+      ]
+    },
+    {
+      "session_title": "Parallel Session 8A: Exchange Rate Economics II",
+      "chair": "Hareem Fatima",
+      "time": "16:00-18:00",
+      "room": "Lecture Room A",
+      "papers": [
+        {
+          "title": "Global and Regional Currency Factors: A Case of Central European Exchange Rates",
+          "authors": [
+            "Na",
+            "Ba"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "The Central Bank of Russia’s Strategic FX Policy Response to the 2022 Financial Sanctions",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Tauriainen (University of Jyväskylä)",
+          "authors": [
+            "Juha Junttila"
+          ],
+          "presenter": "Juha Junttila"
+        },
+        {
+          "title": "The Two Fixings for the Chinese Yuan: Central Bank vs. Market",
+          "authors": [
+            "Qisi Zhang",
+            "Fr",
+            "Gh",
+            "Un"
+          ],
+          "presenter": "Qisi Zhang"
+        },
+        {
+          "title": "Communication Confounds: The Case of Brexit",
+          "authors": [
+            "Hareem Fatima",
+            "Un",
+            "Po",
+            "Co"
+          ],
+          "presenter": "Hareem Fatima"
+        }
+      ]
+    },
+    {
+      "session_title": "Parallel Session 8B: Macroeconomic Theory and Policy II",
+      "chair": "Dimitrios Bakas",
+      "time": "16:00-18:00",
+      "room": "Lecture Room B",
+      "papers": [
+        {
+          "title": "House of Cards or Rock Solid? Shadow Economy Empirical Identification with D(S)GE",
+          "authors": [
+            "Wa",
+            "Sc",
+            "Ec",
+            "Fi",
+            "Co",
+            "Po"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Short-Run and Long-Run News: Evidence from Giant Commodity Discoveries",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Surrey)",
+          "authors": [
+            "Jean-Paul L’Huillier",
+            "Laure Simon"
+          ],
+          "presenter": "Jean-Paul L’Huillier"
+        },
+        {
+          "title": "Uncertainty and the Demand for Cash: Robust Inference with Missing High-Frequency GDP Data",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "(University of Economics in Katowice)",
+          "authors": [
+            "Jacek Pietrucha"
+          ],
+          "presenter": "Jacek Pietrucha"
+        },
+        {
+          "title": "Uncertainty Shocks and Economic Activity: A Meta-Analysis",
+          "authors": [
+            "Dimitrios Bakas"
+          ],
+          "presenter": "Dimitrios Bakas"
+        },
+        {
+          "title": "Krzysztof Beck (Lazarski University)",
+          "authors": [
+            "Karen Jackson"
+          ],
+          "presenter": "Karen Jackson"
+        },
+        {
+          "title": "Portsmouth)",
+          "authors": [
+            "Valeryia Yersh"
+          ],
+          "presenter": "Valeryia Yersh"
+        }
+      ]
+    },
+    {
+      "session_title": "Parallel Session 8C: Macroprudential Policy II",
+      "chair": "Jolan Mohimont",
+      "time": "16:00-18:00",
+      "room": "Lecture Room C",
+      "papers": [
+        {
+          "title": "Martin Saldias (Banco de Portugal)",
+          "authors": [
+            "Daniel Maas",
+            "Po"
+          ],
+          "presenter": "Daniel Maas"
+        },
+        {
+          "title": "Macroprudential Policy",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "(Charles University)",
+          "authors": [
+            "Zuzana Metelakova"
+          ],
+          "presenter": "Zuzana Metelakova"
+        },
+        {
+          "title": "Macroprudential Policy and Firm Leverage: Theory and Evidence from China",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "(University of Sussex)",
+          "authors": [
+            "Zhongfei Chen",
+            "Kexin Li"
+          ],
+          "presenter": "Zhongfei Chen"
+        },
+        {
+          "title": "Are Sector-Specific Bank Capital Requirements Still Useful? Evidence from a DSGE Model",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "(National Bank of Belgium)",
+          "authors": [
+            "Thomas Lejeune"
+          ],
+          "presenter": "Thomas Lejeune"
+        }
+      ]
+    },
+    {
+      "session_title": "Parallel Session 8D: Fiscal Policy II",
+      "chair": "Davide Furceri",
+      "time": "16:00-18:00",
+      "room": "Lecture Room D",
+      "papers": [
+        {
+          "title": "Fiscal policy shocks and financial stability",
+          "authors": [
+            "Nikolay Hristov"
+          ],
+          "presenter": "Nikolay Hristov"
+        },
+        {
+          "title": "(Munich University of Applied Sciences and CESifo)",
+          "authors": [
+            "Benedikt Kolb"
+          ],
+          "presenter": "Benedikt Kolb"
+        },
+        {
+          "title": "Spending on the frontline: The macroeconomic implications of rising defence expenditure",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "(Central Bank of Ireland)",
+          "authors": [
+            "Matija Lozej",
+            "Di",
+            "Fr",
+            "Sa",
+            "Ga"
+          ],
+          "presenter": "Matija Lozej"
+        },
+        {
+          "title": "Monetary–Fiscal Interactions and the Liquidity Channel of Debt Sustainability",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "University of Rome)",
+          "authors": [
+            "Matteo Gatto"
+          ],
+          "presenter": "Matteo Gatto"
+        },
+        {
+          "title": "of Rome)",
+          "authors": [
+            "Pascal Meichtry"
+          ],
+          "presenter": "Pascal Meichtry"
+        },
+        {
+          "title": "Domestic and Spillover Effects of EU Defense Spending",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "of Palermo; CEPR; RCEA)",
+          "authors": [
+            "Pedro Juarros",
+            "Saurabh Mishra"
+          ],
+          "presenter": "Pedro Juarros"
+        },
+        {
+          "title": "(International Monetary Fund)",
+          "authors": [
+            "Ana Sofia Pessoa",
+            "In",
+            "Mo",
+            "Fu"
+          ],
+          "presenter": "Ana Sofia Pessoa"
+        }
+      ]
+    },
+    {
+      "session_title": "Parallel Session 8E: European Economics II",
+      "chair": "Luca Onorante",
+      "time": "16:00-18:00",
+      "room": "Lecture Room E",
+      "papers": [
+        {
+          "title": "Monetary Policy Effectiveness in the Euro Area: A Cross-Country Analysis with Vector Autoregressions",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Kazmin (Corvinus University of Budapest)",
+          "authors": [
+            "Ec",
+            "Re",
+            "St"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Is monetary policy transmission heterogeneous across euro area countries and time? A reassessment",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Bénassy-Quéré (Banque de France)",
+          "authors": [
+            "Matthieu Bussière",
+            "Thaïs Masseï",
+            "Sa",
+            "Gu",
+            "Ba",
+            "Fr",
+            "Eu",
+            "Ce"
+          ],
+          "presenter": "Matthieu Bussière"
+        },
+        {
+          "title": "Monetary Integration and Structural Change in a Small Open Economy: Evidence from Slovakia",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "(National Bank of Slovakia)",
+          "authors": [
+            "Gregor von Schweinitz"
+          ],
+          "presenter": "Gregor von Schweinitz"
+        },
+        {
+          "title": "Online Social Interaction and the European Macroeconomy",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Commission)",
+          "authors": [
+            "Luigi Longo",
+            "Konstantin Boss"
+          ],
+          "presenter": "Luigi Longo"
+        }
+      ]
+    },
+    {
+      "session_title": "Parallel Session 9A: Macroprudential Policy III",
+      "chair": "Martin Hodula",
+      "papers": [
+        {
+          "title": "Macroprudential Policy Spillovers and Banks Profitability",
+          "authors": [
+            "Ernest Owusu Boakye",
+            "He",
+            "Un",
+            "Jy",
+            "Ho",
+            "ES",
+            "G",
+            "Ev"
+          ],
+          "presenter": "Ernest Owusu Boakye"
+        },
+        {
+          "title": "lending networks",
+          "authors": [
+            "Geyao Zhang"
+          ],
+          "presenter": "Geyao Zhang"
+        },
+        {
+          "title": "Resilience and Distributional Effects of Borrower-Based Macroprudential Policies: Evidence from a CrossCountry Micro-Macro Simulation",
+          "authors": [
+            "Stelios Giannoulakis"
+          ],
+          "presenter": "Stelios Giannoulakis"
+        },
+        {
+          "title": "Forletta (European Central Bank)",
+          "authors": [
+            "Marco Gross",
+            "In",
+            "Wh",
+            "Mo",
+            "Ma",
+            "Po",
+            "Ti",
+            "To",
+            "Ev",
+            "Cz"
+          ],
+          "presenter": "Marco Gross"
+        },
+        {
+          "title": "Martin Hodula (Czech National Bank)",
+          "authors": [
+            "Simona Malovaná",
+            "Lukáš Pfeifer"
+          ],
+          "presenter": "Simona Malovaná"
+        }
+      ]
+    },
+    {
+      "session_title": "Parallel Session 9B: Financial Economics II",
+      "chair": "Eric Offner",
+      "papers": [
+        {
+          "title": "The Interaction of Capital Constraints and Financial Volatility",
+          "authors": [
+            "Giacomo Cattelan"
+          ],
+          "presenter": "Giacomo Cattelan"
+        },
+        {
+          "title": "The time-varying impact of risky bond supply on zero-coupon yields",
+          "authors": [
+            "Harri Turunen"
+          ],
+          "presenter": "Harri Turunen"
+        },
+        {
+          "title": "European insolvency law and firm leverage",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "University)",
+          "authors": [
+            "Fien van Solinge"
+          ],
+          "presenter": "Fien van Solinge"
+        },
+        {
+          "title": "Equity Duration and Monetary Policy",
+          "authors": [
+            "Eric Offner"
+          ],
+          "presenter": "Eric Offner"
+        }
+      ]
+    },
+    {
+      "session_title": "Parallel Session 9C: Inflation III",
+      "chair": "Julia Krotova",
+      "papers": [
+        {
+          "title": "Short-term Inflation Projections: The new BoG’STIP model",
+          "authors": [
+            "Zacharias Bragoudakis"
+          ],
+          "presenter": "Zacharias Bragoudakis"
+        },
+        {
+          "title": "Karakitsios (Bank of Greece)",
+          "authors": [
+            "Evangelia Kasimati"
+          ],
+          "presenter": "Evangelia Kasimati"
+        },
+        {
+          "title": "Business Cycle Fluctuations during the German Hyperinflation",
+          "authors": [
+            "Mathias Cammerlander"
+          ],
+          "presenter": "Mathias Cammerlander"
+        },
+        {
+          "title": "Can LLMs Mimic Household Surveys?: From Representative Agents to Population Distributions",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "(University Duisburg-Essen)",
+          "authors": [
+            "Moritz Pfeifer"
+          ],
+          "presenter": "Moritz Pfeifer"
+        },
+        {
+          "title": "Implied inflation expectations",
+          "authors": [
+            "Julia Krotova",
+            "Henry Penikas"
+          ],
+          "presenter": "Julia Krotova"
+        }
+      ]
+    },
+    {
+      "session_title": "Parallel Session 9D: Exchange Rate Economics III",
+      "chair": "Georgios Kouretas",
+      "papers": [
+        {
+          "title": "FX Debt and Optimal Exchange Rate Hedging",
+          "authors": [
+            "Laura Alfaro"
+          ],
+          "presenter": "Laura Alfaro"
+        },
+        {
+          "title": "(Bank for International Settlements)",
+          "authors": [
+            "Bryan Hardy"
+          ],
+          "presenter": "Bryan Hardy"
+        },
+        {
+          "title": "How U.S. Price Conflict Shapes Global Exchange Rates?",
+          "authors": [
+            "Yassine Bakkar"
+          ],
+          "presenter": "Yassine Bakkar"
+        },
+        {
+          "title": "Jabeur (Lyon Catholic University",
+          "authors": [
+            "Leila Hedhili Zaier",
+            "Un",
+            "Pe",
+            "Di",
+            "Bo",
+            "Fi"
+          ],
+          "presenter": "Leila Hedhili Zaier"
+        },
+        {
+          "title": "Distributional Effects of Exchange Rate Depreciations",
+          "authors": [
+            "Boris Fisera",
+            "Ze",
+            "Un"
+          ],
+          "presenter": "Boris Fisera"
+        },
+        {
+          "title": "Do geopolitical risks raise or lower exchange rates? Asymmetries under crises periods",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "(Athens University of Economics and Business)",
+          "authors": [
+            "Georgios Kouretas"
+          ],
+          "presenter": "Georgios Kouretas"
+        }
+      ]
+    },
+    {
+      "session_title": "Parallel Session 9E: Central Banking II",
+      "chair": "Anisa Tiza Mimun",
+      "time": "16:00-18:00",
+      "room": "Lecture Room A",
+      "papers": [
+        {
+          "title": "Dynamic Interactions Between the Federal Reserve and European Central Banks",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "American College of Greece)",
+          "authors": [
+            "Rupayan Gupta",
+            "In",
+            "Se",
+            "Th",
+            "Ba",
+            "Gr"
+          ],
+          "presenter": "Rupayan Gupta"
+        },
+        {
+          "title": "What's the story? The media channel of monetary policy transmission to the public",
+          "authors": [
+            "Be",
+            "Mo",
+            "Po",
+            "Im",
+            "Ti",
+            "Hi",
+            "Ex",
+            "Li",
+            "Co",
+            "Ba",
+            "Pr",
+            "Ce"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Banks' Losses",
+          "authors": [
+            "Ulrike Neyer",
+            "Dü",
+            "Th",
+            "Ef",
+            "Ce",
+            "Ba",
+            "Co",
+            "Fo",
+            "Fi",
+            "Ma",
+            "An"
+          ],
+          "presenter": "Ulrike Neyer"
+        },
+        {
+          "title": "Forecasts",
+          "authors": [
+            "Pontsho Mathebula",
+            "Nicola Viegi",
+            "KE",
+            "YN",
+            "OT",
+            "E",
+            "SP",
+            "EE",
+            "CH",
+            "TH",
+            "EU",
+            "RO",
+            "BA",
+            "NK",
+            "PL",
+            "EN",
+            "AR",
+            "Y",
+            "SE",
+            "SS",
+            "IO",
+            "St",
+            "Pa",
+            "UC",
+            "LA",
+            "Th",
+            "In",
+            "UN",
+            "IV",
+            "ER",
+            "SI",
+            "TY",
+            "OF",
+            "CR",
+            "ET",
+            "II",
+            "Ma",
+            "Sp",
+            "Fe",
+            "Re",
+            "Ba",
+            "Sa",
+            "Fr",
+            "Op",
+            "Fo",
+            "Ex",
+            "Fi",
+            "De",
+            "Se",
+            "A:",
+            "Mo",
+            "Po"
+          ],
+          "presenter": "Pontsho Mathebula"
+        },
+        {
+          "title": "The Transmission of Monetary Policy Shocks in the Government Bond Secondary Market",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "(University of Padova)",
+          "authors": [
+            "Luciano Greco",
+            "Eleonora Turato"
+          ],
+          "presenter": "Luciano Greco"
+        },
+        {
+          "title": "Durable Goods Demand and Monetary Policy Transmission in a Monetary Union",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "(Université Laval)",
+          "authors": [
+            "Gimet",
+            "Ai",
+            "Ma",
+            "Sc",
+            "Ec"
+          ],
+          "presenter": "Gimet"
+        },
+        {
+          "title": "Conventional monetary policy across the wealth distribution: the Maltese case",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Bank of Malta)",
+          "authors": [
+            "Germano Ruisi"
+          ],
+          "presenter": "Germano Ruisi"
+        },
+        {
+          "title": "The effects of monetary policy on banks and non-banks in times of stress",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Bank)",
+          "authors": [
+            "Matthias Sydow",
+            "Gabor Fukker"
+          ],
+          "presenter": "Matthias Sydow"
+        }
+      ]
+    },
+    {
+      "session_title": "Parallel Session 10B: Banking and Finance III",
+      "chair": "Ellen Ryan",
+      "time": "16:00-18:00",
+      "room": "Lecture Room B",
+      "papers": [
+        {
+          "title": "The Role of Loan Supply and Demand Dynamics in Housing Loan Expansion and Housing Price Cycles",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Oikarinen (University of Oulu)",
+          "authors": [
+            "Vance Martin"
+          ],
+          "presenter": "Vance Martin"
+        },
+        {
+          "title": "Are SWF official mandate informative ? Evidence from behavioural clustering across economic regimes",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Schraverus (CeReFiM - NaXys)",
+          "authors": [
+            "Jean-Yves Gnabo"
+          ],
+          "presenter": "Jean-Yves Gnabo"
+        },
+        {
+          "title": "Rapid Monetary Transmission: High-Frequency Evidence from the UK",
+          "authors": [
+            "Lennart Brandt"
+          ],
+          "presenter": "Lennart Brandt"
+        },
+        {
+          "title": "Johannes Fischer (Deutsche Bundesbank)",
+          "authors": [
+            "Carl-Wolfram Horn"
+          ],
+          "presenter": "Carl-Wolfram Horn"
+        },
+        {
+          "title": "Miranda-Agrippino (Oxford and CEPR)",
+          "authors": [
+            "Filippo Pallotti"
+          ],
+          "presenter": "Filippo Pallotti"
+        },
+        {
+          "title": "Asset prices",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Central Bank)",
+          "authors": [
+            "Barbara Jarmulska",
+            "Ellen Ryan"
+          ],
+          "presenter": "Barbara Jarmulska"
+        }
+      ]
+    },
+    {
+      "session_title": "Parallel Session 10C: Financial Econometrics II",
+      "chair": "Sebastian Stöckl",
+      "time": "16:00-18:00",
+      "room": "Lecture Room C",
+      "papers": [
+        {
+          "title": "Modeling Financial Contagion as a Self-Exciting Point Process",
+          "authors": [
+            "Luca Persia",
+            "Tr",
+            "Co",
+            "Ma",
+            "En",
+            "Un",
+            "De",
+            "Le",
+            "So",
+            "Ti"
+          ],
+          "presenter": "Luca Persia"
+        },
+        {
+          "title": "Economics and Finance",
+          "authors": [
+            "Aleksey Minabutdinov"
+          ],
+          "presenter": "Aleksey Minabutdinov"
+        },
+        {
+          "title": "From Financial Stability to Real Investment: The Confidence Channel of Macroprudential Policy",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Anastasiou (Athens University of Economics and Business)",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Business)",
+          "authors": [
+            "Stelios Giannoulakis"
+          ],
+          "presenter": "Stelios Giannoulakis"
+        },
+        {
+          "title": "Risk-Adjusting Forecasts for Increased Portfolio Performance",
+          "authors": [
+            "Sebastian Stöckl"
+          ],
+          "presenter": "Sebastian Stöckl"
+        },
+        {
+          "title": "Lukas Salcher (University of Liechtenstein)",
+          "authors": [
+            "Michael Hanke"
+          ],
+          "presenter": "Michael Hanke"
+        }
+      ]
+    },
+    {
+      "session_title": "Parallel Session 10D: Green Economy",
+      "chair": "Roman Kraussl",
+      "time": "16:00-18:00",
+      "room": "Lecture Room D",
+      "papers": [
+        {
+          "title": "The Macro-Regional Effects of Green Public Funds",
+          "authors": [
+            "Carolin Nerlich",
+            "Fr",
+            "Sa",
+            "An",
+            "Sc",
+            "Ad",
+            "St"
+          ],
+          "presenter": "Carolin Nerlich"
+        },
+        {
+          "title": "Firm-Level Determinants of Green Bond Issuance in a Global",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Ayachi (University of Namur; CeReFiM)",
+          "authors": [
+            "Jean-Yves Gnabo",
+            "Na",
+            "Ce",
+            "Re",
+            "Fi",
+            "M)"
+          ],
+          "presenter": "Jean-Yves Gnabo"
+        },
+        {
+          "title": "Green investment",
+          "authors": [
+            "Sc",
+            "Ec"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "The Sustainable Impact of Green Bonds",
+          "authors": [
+            "Emanuele Chini"
+          ],
+          "presenter": "Emanuele Chini"
+        },
+        {
+          "title": "Business School",
+          "authors": [
+            "Andre Lucas",
+            "St",
+            "Un",
+            "Lu"
+          ],
+          "presenter": "Andre Lucas"
+        }
+      ]
+    }
+  ],
+  "participants": [
+    {
+      "name": "Luis Calderon",
+      "institution": "University of Bonn",
+      "is_presenter": true,
+      "papers": [
+        "Distributional Dynamics"
+      ]
+    },
+    {
+      "name": "Christian Bayer",
+      "institution": "University of Bonn",
+      "is_presenter": true,
+      "papers": [
+        "Distributional Dynamics"
+      ]
+    },
+    {
+      "name": "Un",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Distributional Dynamics",
+        "Real-Time Assessment of Regional Economic Activity in Russia Using a Dynamic Factor Model",
+        "in the Euro area",
+        "Do Bank Stress Tests Constrain Growth? Evidence from Quasi-Random Exposure to Capital Regulation",
+        "Inequality falls",
+        "Fed Forward Guidance and Inflation Uncertainty: The Role of Asymmetric Tail Risk",
+        "Monetary Regime Asymmetries and the QE Transmission Mechanism in the EU: Capital Outflows and AssetPrice Dynamics",
+        "Peloponnese)",
+        "Cycle",
+        "Amélie (University of Strasbourg)",
+        "Revisiting Fundamentals of the European Gas Market: The Role of Supply Substitution",
+        "Bank)",
+        "Micro-based SVAR Identification",
+        "Business)",
+        "Štefan (Masaryk University; Slovak Academy of Sciencies)",
+        "The Determinants of International Currency Reserve Shares",
+        "(Institute of Economic Studies",
+        "(European Research University)",
+        "Policy Uncertainty and Banks’ Lending Behavior",
+        "(California State University Long Beach)",
+        "Central Bank",
+        "Contagion of Affinity: Predicting CDS Spikes in Global Systemically Important Banks",
+        "Toronto; Bruegel; CEPR)",
+        "Unrestricted MIDAS Approach",
+        "Breaking the Link: Risk",
+        "(Ruhr University Bochum)",
+        "The Two Fixings for the Chinese Yuan: Central Bank vs. Market",
+        "Communication Confounds: The Case of Brexit",
+        "Macroprudential Policy Spillovers and Banks Profitability",
+        "Jabeur (Lyon Catholic University",
+        "Distributional Effects of Exchange Rate Depreciations",
+        "Forecasts",
+        "Modeling Financial Contagion as a Self-Exciting Point Process",
+        "Business School"
+      ]
+    },
+    {
+      "name": "Ma",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Distributional Dynamics",
+        "in the Euro area",
+        "The Inflation Consequences of Political Intervention in Monetary Policy",
+        "(Bank of Russia",
+        "Market-based finance is no island: Volatility spillovers across non-banks",
+        "Štefan (Masaryk University; Slovak Academy of Sciencies)",
+        "Reserve Bank of Dallas)",
+        "(Ruhr University Bochum)",
+        "Forletta (European Central Bank)",
+        "Banks' Losses",
+        "Forecasts",
+        "(Université Laval)",
+        "Modeling Financial Contagion as a Self-Exciting Point Process"
+      ]
+    },
+    {
+      "name": "HS",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Real-Time Assessment of Regional Economic Activity in Russia Using a Dynamic Factor Model"
+      ]
+    },
+    {
+      "name": "E",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Real-Time Assessment of Regional Economic Activity in Russia Using a Dynamic Factor Model",
+        "(Ruhr University Bochum)",
+        "Forecasts"
+      ]
+    },
+    {
+      "name": "Mariana Montserrat Cerra Pacheco",
+      "institution": "European Central Bank",
+      "is_presenter": true,
+      "papers": [
+        "Nederlandsche Bank)"
+      ]
+    },
+    {
+      "name": "Ce",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Nederlandsche Bank)",
+        "Central Bank)",
+        "Fiscal Policy and Sectoral Spillovers in Open Economy HANK",
+        "Forecasting wages with machine learning",
+        "(European Central Bank)",
+        "using a parsimonious agent-based framework",
+        "Greece)",
+        "University of Milan Bicocca)",
+        "(Ruhr University Bochum)",
+        "Bénassy-Quéré (Banque de France)",
+        "What's the story? The media channel of monetary policy transmission to the public",
+        "Banks' Losses",
+        "Ayachi (University of Namur; CeReFiM)"
+      ]
+    },
+    {
+      "name": "Ba",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Nederlandsche Bank)",
+        "Do Bank Stress Tests Constrain Growth? Evidence from Quasi-Random Exposure to Capital Regulation",
+        "Central Bank)",
+        "Fiscal Policy and Sectoral Spillovers in Open Economy HANK",
+        "Forecasting wages with machine learning",
+        "(European Central Bank)",
+        "Market-based finance is no island: Volatility spillovers across non-banks",
+        "Bank)",
+        "using a parsimonious agent-based framework",
+        "University Rotterdam",
+        "Greece)",
+        "University of Milan Bicocca)",
+        "(Ruhr University Bochum)",
+        "Global and Regional Currency Factors: A Case of Central European Exchange Rates",
+        "Bénassy-Quéré (Banque de France)",
+        "American College of Greece)",
+        "What's the story? The media channel of monetary policy transmission to the public",
+        "Banks' Losses",
+        "Forecasts"
+      ]
+    },
+    {
+      "name": "Po",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Nederlandsche Bank)",
+        "Bank)",
+        "(European Central Bank)",
+        "Communication Confounds: The Case of Brexit",
+        "House of Cards or Rock Solid? Shadow Economy Empirical Identification with D(S)GE",
+        "Martin Saldias (Banco de Portugal)",
+        "Forletta (European Central Bank)",
+        "What's the story? The media channel of monetary policy transmission to the public",
+        "Forecasts"
+      ]
+    },
+    {
+      "name": "DS",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Nederlandsche Bank)"
+      ]
+    },
+    {
+      "name": "GE",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Nederlandsche Bank)",
+        "Peloponnese)",
+        "(Bank of Russia"
+      ]
+    },
+    {
+      "name": "OL",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Nederlandsche Bank)"
+      ]
+    },
+    {
+      "name": "G-",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Nederlandsche Bank)"
+      ]
+    },
+    {
+      "name": "NK",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Nederlandsche Bank)",
+        "(Ruhr University Bochum)",
+        "Forecasts"
+      ]
+    },
+    {
+      "name": "Im",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Nederlandsche Bank)",
+        "(Bank of Russia",
+        "What's the story? The media channel of monetary policy transmission to the public"
+      ]
+    },
+    {
+      "name": "Sylwia Radomska",
+      "institution": "Polish Academy of Sciences and GRAPE",
+      "is_presenter": true,
+      "papers": [
+        "in the Euro area"
+      ]
+    },
+    {
+      "name": "Joanna Tyrowicz",
+      "institution": "GRAPE",
+      "is_presenter": true,
+      "papers": [
+        "in the Euro area"
+      ]
+    },
+    {
+      "name": "Re",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "in the Euro area",
+        "Michairinas (Athens University of Economics and Business)",
+        "(Bank of Russia",
+        "University Rotterdam",
+        "Greece)",
+        "(Ruhr University Bochum)",
+        "Kazmin (Corvinus University of Budapest)",
+        "Forecasts",
+        "Ayachi (University of Namur; CeReFiM)"
+      ]
+    },
+    {
+      "name": "GR",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "in the Euro area",
+        "School)",
+        "Agoraki (University of the Peloponnese)",
+        "(Ruhr University Bochum)",
+        "American College of Greece)"
+      ]
+    },
+    {
+      "name": "AP",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "in the Euro area",
+        "Do Bank Stress Tests Constrain Growth? Evidence from Quasi-Random Exposure to Capital Regulation",
+        "(Bank of Russia",
+        "Contagion of Affinity: Predicting CDS Spikes in Global Systemically Important Banks"
+      ]
+    },
+    {
+      "name": "E)",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "in the Euro area"
+      ]
+    },
+    {
+      "name": "De",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Do Bank Stress Tests Constrain Growth? Evidence from Quasi-Random Exposure to Capital Regulation",
+        "(Deutsche Bundesbank",
+        "Political Pressure on The Fed – Is This Time Different?",
+        "Forecasts",
+        "Modeling Financial Contagion as a Self-Exciting Point Process"
+      ]
+    },
+    {
+      "name": "Co",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Do Bank Stress Tests Constrain Growth? Evidence from Quasi-Random Exposure to Capital Regulation",
+        "(DG ECFIN)",
+        "University Rotterdam",
+        "(European Central Bank)",
+        "Economic and Social Research",
+        "Communication Confounds: The Case of Brexit",
+        "House of Cards or Rock Solid? Shadow Economy Empirical Identification with D(S)GE",
+        "What's the story? The media channel of monetary policy transmission to the public",
+        "Banks' Losses",
+        "Modeling Financial Contagion as a Self-Exciting Point Process"
+      ]
+    },
+    {
+      "name": "Du",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Do Bank Stress Tests Constrain Growth? Evidence from Quasi-Random Exposure to Capital Regulation",
+        "Inequality falls"
+      ]
+    },
+    {
+      "name": "Wh",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Do Bank Stress Tests Constrain Growth? Evidence from Quasi-Random Exposure to Capital Regulation",
+        "(Ruhr University Bochum)",
+        "Forletta (European Central Bank)"
+      ]
+    },
+    {
+      "name": "SM",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Do Bank Stress Tests Constrain Growth? Evidence from Quasi-Random Exposure to Capital Regulation"
+      ]
+    },
+    {
+      "name": "Es",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Do Bank Stress Tests Constrain Growth? Evidence from Quasi-Random Exposure to Capital Regulation",
+        "(California State University Long Beach)",
+        "Macroprudential Policy Spillovers and Banks Profitability"
+      ]
+    },
+    {
+      "name": "Lo",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Do Bank Stress Tests Constrain Growth? Evidence from Quasi-Random Exposure to Capital Regulation",
+        "School"
+      ]
+    },
+    {
+      "name": "Be",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Do Bank Stress Tests Constrain Growth? Evidence from Quasi-Random Exposure to Capital Regulation",
+        "(Ruhr University Bochum)",
+        "What's the story? The media channel of monetary policy transmission to the public"
+      ]
+    },
+    {
+      "name": "Ac",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Do Bank Stress Tests Constrain Growth? Evidence from Quasi-Random Exposure to Capital Regulation"
+      ]
+    },
+    {
+      "name": "Fi",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Do Bank Stress Tests Constrain Growth? Evidence from Quasi-Random Exposure to Capital Regulation",
+        "Michairinas (Athens University of Economics and Business)",
+        "Reserve Bank of Dallas)",
+        "(California State University Long Beach)",
+        "House of Cards or Rock Solid? Shadow Economy Empirical Identification with D(S)GE",
+        "Jabeur (Lyon Catholic University",
+        "Banks' Losses",
+        "Forecasts",
+        "Ayachi (University of Namur; CeReFiM)"
+      ]
+    },
+    {
+      "name": "Eu",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Do Bank Stress Tests Constrain Growth? Evidence from Quasi-Random Exposure to Capital Regulation",
+        "Central Bank)",
+        "Fiscal Policy and Sectoral Spillovers in Open Economy HANK",
+        "Forecasting wages with machine learning",
+        "(European Central Bank)",
+        "using a parsimonious agent-based framework",
+        "Bénassy-Quéré (Banque de France)",
+        "Forecasts"
+      ]
+    },
+    {
+      "name": "Jan Klacso",
+      "institution": "Slovak National Bank",
+      "is_presenter": true,
+      "papers": [
+        "Florian Horky (Slovak National Bank; Zeppelin University)",
+        "(National Bank of Slovakia)"
+      ]
+    },
+    {
+      "name": "Jarko Fidrmuc",
+      "institution": "Zeppelin University",
+      "is_presenter": true,
+      "papers": [
+        "National Bank)"
+      ]
+    },
+    {
+      "name": "Lorenzo Ferrante",
+      "institution": "European Central Bank; University of Zurich",
+      "is_presenter": true,
+      "papers": [
+        "(Universidad Carlos III de Madrid)"
+      ]
+    },
+    {
+      "name": "Sebastian de-Ramon",
+      "institution": "Bank of England",
+      "is_presenter": true,
+      "papers": [
+        "D'Amario (Bank of England)"
+      ]
+    },
+    {
+      "name": "William B. Francis",
+      "institution": "Bank of England",
+      "is_presenter": true,
+      "papers": [
+        "D'Amario (Bank of England)"
+      ]
+    },
+    {
+      "name": "Al",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "A Chicken-and-Egg Problem: Profits and Inflation after COVID-19",
+        "Revisiting Fundamentals of the European Gas Market: The Role of Supply Substitution",
+        "Agoraki (University of the Peloponnese)"
+      ]
+    },
+    {
+      "name": "Lasse Trienens",
+      "institution": "University of Göttingen",
+      "is_presenter": true,
+      "papers": [
+        "Göttingen)"
+      ]
+    },
+    {
+      "name": "Francesco Ferlaino",
+      "institution": "University of Salerno",
+      "is_presenter": true,
+      "papers": [
+        "Shaping Inflation Attention through Inequality"
+      ]
+    },
+    {
+      "name": "Giovanni Di Bartolomeo",
+      "institution": "Sapienza - University of Rome",
+      "is_presenter": true,
+      "papers": [
+        "(Sapienza - University of Rome)"
+      ]
+    },
+    {
+      "name": "Georgia Pavlou",
+      "institution": "Bank of Greece",
+      "is_presenter": true,
+      "papers": [
+        "University; Bank of Greece)"
+      ]
+    },
+    {
+      "name": "Adam Gersl",
+      "institution": "Charles University",
+      "is_presenter": true,
+      "papers": [
+        "Czech National Bank)",
+        "(Charles University & Joint Vienna Institute)"
+      ]
+    },
+    {
+      "name": "He",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Inequality falls",
+        "Macroprudential Policy Spillovers and Banks Profitability"
+      ]
+    },
+    {
+      "name": "Andrea Colciago",
+      "institution": "University of Milano–Bicocca and De Nederlandsche Bank",
+      "is_presenter": true,
+      "papers": [
+        "Ideas"
+      ]
+    },
+    {
+      "name": "Rajssa Mechelli",
+      "institution": "University of Oxford",
+      "is_presenter": true,
+      "papers": [
+        "Timo Haber (De Nederlandsche Bank)"
+      ]
+    },
+    {
+      "name": "Mirko Abbritti",
+      "institution": "University of Navarra",
+      "is_presenter": true,
+      "papers": [
+        "Aging and the Wealth of Labor"
+      ]
+    },
+    {
+      "name": "Agostino Consolo",
+      "institution": "European Central Bank",
+      "is_presenter": true,
+      "papers": [
+        "Bank)"
+      ]
+    },
+    {
+      "name": "Giulia Martorana",
+      "institution": "European Central Bank and Università Cattolica del Sacro Cuore",
+      "is_presenter": true,
+      "papers": [
+        "Central Bank)"
+      ]
+    },
+    {
+      "name": "Giovanna Milone",
+      "institution": "Center for Monetary and Financial Studies",
+      "is_presenter": true,
+      "papers": [
+        "(European Central Bank)"
+      ]
+    },
+    {
+      "name": "Radu Popa",
+      "institution": "European Central Bank",
+      "is_presenter": true,
+      "papers": [
+        "Central Bank)"
+      ]
+    },
+    {
+      "name": "Alexandros Tsioutsios",
+      "institution": "National and Kapodistrian University of Athens",
+      "is_presenter": true,
+      "papers": [
+        "Business School)"
+      ]
+    },
+    {
+      "name": "Mattozzi Giovanni",
+      "institution": "DG ECFIN",
+      "is_presenter": true,
+      "papers": [
+        "(DG ECFIN)"
+      ]
+    },
+    {
+      "name": "Pasquale D'Apice",
+      "institution": "DG REGIO",
+      "is_presenter": true,
+      "papers": [
+        "(DG ECFIN)"
+      ]
+    },
+    {
+      "name": "Karl-Friedrich Israel",
+      "institution": "Université Catholique de l'Ouest",
+      "is_presenter": true,
+      "papers": [
+        "Pfeifer (University of Leipzig)"
+      ]
+    },
+    {
+      "name": "Benjamin Treitz",
+      "institution": "BNP Parisbas",
+      "is_presenter": true,
+      "papers": [
+        "Management)"
+      ]
+    },
+    {
+      "name": "In",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Fed Forward Guidance and Inflation Uncertainty: The Role of Asymmetric Tail Risk",
+        "Michairinas (Athens University of Economics and Business)",
+        "using a parsimonious agent-based framework",
+        "School)",
+        "University Rotterdam",
+        "Greece)",
+        "(California State University Long Beach)",
+        "(Ruhr University Bochum)",
+        "(International Monetary Fund)",
+        "Forletta (European Central Bank)",
+        "American College of Greece)",
+        "Forecasts"
+      ]
+    },
+    {
+      "name": "Stefan Stojkov",
+      "institution": "University of Novi Sad",
+      "is_presenter": true,
+      "papers": [
+        "Monetary Regime Asymmetries and the QE Transmission Mechanism in the EU: Capital Outflows and AssetPrice Dynamics"
+      ]
+    },
+    {
+      "name": "Emilija Beker Pucar",
+      "institution": "University of Novi Sad",
+      "is_presenter": true,
+      "papers": [
+        "Monetary Regime Asymmetries and the QE Transmission Mechanism in the EU: Capital Outflows and AssetPrice Dynamics"
+      ]
+    },
+    {
+      "name": "Se",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Monetary Regime Asymmetries and the QE Transmission Mechanism in the EU: Capital Outflows and AssetPrice Dynamics",
+        "Michairinas (Athens University of Economics and Business)",
+        "School)",
+        "Reserve Bank of Dallas)",
+        "(Ruhr University Bochum)",
+        "American College of Greece)",
+        "Forecasts"
+      ]
+    },
+    {
+      "name": "No",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Monetary Regime Asymmetries and the QE Transmission Mechanism in the EU: Capital Outflows and AssetPrice Dynamics"
+      ]
+    },
+    {
+      "name": "Sa",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Monetary Regime Asymmetries and the QE Transmission Mechanism in the EU: Capital Outflows and AssetPrice Dynamics",
+        "(Central Bank of Ireland)",
+        "Bénassy-Quéré (Banque de France)",
+        "Forecasts",
+        "The Macro-Regional Effects of Green Public Funds"
+      ]
+    },
+    {
+      "name": "Stephanos Papadamou",
+      "institution": "Aristotle University of Thessaloniki",
+      "is_presenter": true,
+      "papers": [
+        "Kazanas (Aristotle University of Thessaloniki)"
+      ]
+    },
+    {
+      "name": "Ioannis-Christos",
+      "institution": "University of Thessaly",
+      "is_presenter": true,
+      "papers": [
+        "Kaimakamis"
+      ]
+    },
+    {
+      "name": "Demetris Koursaros",
+      "institution": "Cyprus University of Technology",
+      "is_presenter": true,
+      "papers": [
+        "University of Technology)"
+      ]
+    },
+    {
+      "name": "Roni Michaely",
+      "institution": "University of Hong Kong",
+      "is_presenter": true,
+      "papers": [
+        "University of Technology)"
+      ]
+    },
+    {
+      "name": "Andrej Cupak",
+      "institution": "National Bank of Slovakia",
+      "is_presenter": true,
+      "papers": [
+        "(National Bank of Slovakia)"
+      ]
+    },
+    {
+      "name": "Daniel Hajdiak",
+      "institution": "National Bank of Slovakia",
+      "is_presenter": true,
+      "papers": [
+        "Stefan Rychtarik (National Bank of Slovakia)"
+      ]
+    },
+    {
+      "name": "Nektarios Aslanidis",
+      "institution": "Universitat Rovira i Virgili",
+      "is_presenter": true,
+      "papers": [
+        "Peloponnese)"
+      ]
+    },
+    {
+      "name": "Aurelio F. Bariviera",
+      "institution": "Universitat Rovira i Virgili",
+      "is_presenter": true,
+      "papers": [
+        "Peloponnese)"
+      ]
+    },
+    {
+      "name": "P.",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Peloponnese)"
+      ]
+    },
+    {
+      "name": "Ko",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Peloponnese)"
+      ]
+    },
+    {
+      "name": "At",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Peloponnese)",
+        "The Determinants of International Currency Reserve Shares"
+      ]
+    },
+    {
+      "name": "Ec",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Peloponnese)",
+        "Bank)",
+        "Business)",
+        "School)",
+        "School of Economics)",
+        "(European Central Bank)",
+        "(Ruhr University Bochum)",
+        "House of Cards or Rock Solid? Shadow Economy Empirical Identification with D(S)GE",
+        "Kazmin (Corvinus University of Budapest)",
+        "(Université Laval)",
+        "Green investment"
+      ]
+    },
+    {
+      "name": "Bu",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Peloponnese)",
+        "Karadimitropoulou (University of Piraeus)",
+        "Michairinas (Athens University of Economics and Business)",
+        "(Deutsche Bundesbank",
+        "Business)",
+        "School of Economics)",
+        "Political Pressure on The Fed – Is This Time Different?",
+        "Agoraki (University of the Peloponnese)",
+        "Action"
+      ]
+    },
+    {
+      "name": "Charles de Beauffort",
+      "institution": "National Bank of Belgium",
+      "is_presenter": true,
+      "papers": [
+        "Fiscal Policy and Sectoral Spillovers in Open Economy HANK"
+      ]
+    },
+    {
+      "name": "An",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Fiscal Policy and Sectoral Spillovers in Open Economy HANK",
+        "Banks' Losses",
+        "The Macro-Regional Effects of Green Public Funds"
+      ]
+    },
+    {
+      "name": "Ra",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Fiscal Policy and Sectoral Spillovers in Open Economy HANK",
+        "(European Central Bank)",
+        "(California State University Long Beach)"
+      ]
+    },
+    {
+      "name": "Fausto Pacicco",
+      "institution": "LIUC Università Cattaneo",
+      "is_presenter": true,
+      "papers": [
+        "(LIUC Università Cattaneo)"
+      ]
+    },
+    {
+      "name": "Massimiliano Serati",
+      "institution": "LIUC Università Cattaneo",
+      "is_presenter": true,
+      "papers": [
+        "Cattaneo)"
+      ]
+    },
+    {
+      "name": "Marcos Poplawski-Ribeiro",
+      "institution": "International Monetary Fund",
+      "is_presenter": true,
+      "papers": [
+        "Economics)"
+      ]
+    },
+    {
+      "name": "Fu",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Economics)",
+        "(International Monetary Fund)"
+      ]
+    },
+    {
+      "name": "Ansgar Rannenberg",
+      "institution": "European Central Bank",
+      "is_presenter": true,
+      "papers": [
+        "Forward guidance and fiscal rules in HANK"
+      ]
+    },
+    {
+      "name": "Samuel Ligonnière",
+      "institution": "University of Evry Paris-Saclay",
+      "is_presenter": true,
+      "papers": [
+        "Université)"
+      ]
+    },
+    {
+      "name": "Aleksey Minabutdinov",
+      "institution": "ETH Zurich",
+      "is_presenter": true,
+      "papers": [
+        "Misfortunes Never Come Singly: Managing the Risk of Chain Disasters",
+        "Economics and Finance"
+      ]
+    },
+    {
+      "name": "Lucas Bretschger",
+      "institution": "ETH Zurich",
+      "is_presenter": true,
+      "papers": [
+        "Alexandra Brausmann (University of Vienna)"
+      ]
+    },
+    {
+      "name": "Fabio Parla",
+      "institution": "University of Palermo",
+      "is_presenter": true,
+      "papers": [
+        "Cefin)"
+      ]
+    },
+    {
+      "name": "Xinxuan Liu",
+      "institution": "University of Surrey",
+      "is_presenter": true,
+      "papers": [
+        "How Effective is the Ban on Naked CDS?"
+      ]
+    },
+    {
+      "name": "Mario Pascoa",
+      "institution": "University of Surrey",
+      "is_presenter": true,
+      "papers": [
+        "How Effective is the Ban on Naked CDS?"
+      ]
+    },
+    {
+      "name": "Marcos Poplawski‑Ribeiro",
+      "institution": "International Monetary Fund",
+      "is_presenter": true,
+      "papers": [
+        "Karadimitropoulou (University of Piraeus)"
+      ]
+    },
+    {
+      "name": "Tr",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Karadimitropoulou (University of Piraeus)",
+        "University Rotterdam",
+        "(Ruhr University Bochum)",
+        "Modeling Financial Contagion as a Self-Exciting Point Process"
+      ]
+    },
+    {
+      "name": "Au",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Karadimitropoulou (University of Piraeus)",
+        "(European Central Bank)"
+      ]
+    },
+    {
+      "name": "Sc",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Karadimitropoulou (University of Piraeus)",
+        "Bank)",
+        "Agoraki (University of the Peloponnese)",
+        "Contagion of Affinity: Predicting CDS Spikes in Global Systemically Important Banks",
+        "House of Cards or Rock Solid? Shadow Economy Empirical Identification with D(S)GE",
+        "(Université Laval)",
+        "The Macro-Regional Effects of Green Public Funds",
+        "Green investment"
+      ]
+    },
+    {
+      "name": "Dimitris Anastasiou",
+      "institution": "Athens University of Economics and Business",
+      "is_presenter": true,
+      "papers": [
+        "The Crash–Payout Policy Nexus"
+      ]
+    },
+    {
+      "name": "Py",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Michairinas (Athens University of Economics and Business)"
+      ]
+    },
+    {
+      "name": "Di",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Michairinas (Athens University of Economics and Business)",
+        "(California State University Long Beach)",
+        "(Central Bank of Ireland)",
+        "Jabeur (Lyon Catholic University"
+      ]
+    },
+    {
+      "name": "Fo",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Michairinas (Athens University of Economics and Business)",
+        "(Bank of Russia",
+        "Micro-based SVAR Identification",
+        "Greece)",
+        "Banks' Losses",
+        "Forecasts"
+      ]
+    },
+    {
+      "name": "Ow",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Michairinas (Athens University of Economics and Business)"
+      ]
+    },
+    {
+      "name": "St",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Michairinas (Athens University of Economics and Business)",
+        "Breaking the Link: Risk",
+        "(Ruhr University Bochum)",
+        "Kazmin (Corvinus University of Budapest)",
+        "Forecasts",
+        "The Macro-Regional Effects of Green Public Funds",
+        "Business School"
+      ]
+    },
+    {
+      "name": "Gl",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Michairinas (Athens University of Economics and Business)"
+      ]
+    },
+    {
+      "name": "Gene Ambrocio",
+      "institution": "Bank of Finland",
+      "is_presenter": true,
+      "papers": [
+        "Cycle",
+        "Monetary policy announcements and sacrifice ratios"
+      ]
+    },
+    {
+      "name": "Dien Giau Bui",
+      "institution": "Yuan Ze University",
+      "is_presenter": true,
+      "papers": [
+        "Cycle"
+      ]
+    },
+    {
+      "name": "Iftekhar Hasan",
+      "institution": "Fordham University",
+      "is_presenter": true,
+      "papers": [
+        "Cycle"
+      ]
+    },
+    {
+      "name": "Ch",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Cycle",
+        "(European Central Bank)",
+        "(Ruhr University Bochum)",
+        "Forecasts"
+      ]
+    },
+    {
+      "name": "Yu",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Cycle"
+      ]
+    },
+    {
+      "name": "Li",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Cycle",
+        "Financial Deregulation",
+        "Breaking the Link: Risk",
+        "What's the story? The media channel of monetary policy transmission to the public"
+      ]
+    },
+    {
+      "name": "Na",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Cycle",
+        "Global and Regional Currency Factors: A Case of Central European Exchange Rates",
+        "Ayachi (University of Namur; CeReFiM)"
+      ]
+    },
+    {
+      "name": "Ya",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Cycle"
+      ]
+    },
+    {
+      "name": "Mi",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Cycle"
+      ]
+    },
+    {
+      "name": "Tu",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Cycle"
+      ]
+    },
+    {
+      "name": "Ulrike Neyer",
+      "institution": "Heinrich-Heine University Düsseldorf",
+      "is_presenter": true,
+      "papers": [
+        "HANK Model",
+        "Banks' Losses"
+      ]
+    },
+    {
+      "name": "Alexandra Stevens",
+      "institution": "Heinrich-Heine University Düsseldorf",
+      "is_presenter": true,
+      "papers": [
+        "Düsseldorf)"
+      ]
+    },
+    {
+      "name": "Emanuele Franceschi",
+      "institution": "European Central Bank",
+      "is_presenter": true,
+      "papers": [
+        "Inflation Persistence Before and After the 2021-2023 Surge"
+      ]
+    },
+    {
+      "name": "Nikolaos Giannellis",
+      "institution": "University of Crete",
+      "is_presenter": true,
+      "papers": [
+        "(University of Crete)"
+      ]
+    },
+    {
+      "name": "Yoseph Getachew",
+      "institution": "University of Pretoria",
+      "is_presenter": true,
+      "papers": [
+        "Redistributing through Seigniorage: The Case of South Africa"
+      ]
+    },
+    {
+      "name": "Nicola Viegi",
+      "institution": "University of Pretoria",
+      "is_presenter": true,
+      "papers": [
+        "Nyemwererai Matshaka (University of Pretoria)",
+        "Forecasts"
+      ]
+    },
+    {
+      "name": "Thanassis Kazanas",
+      "institution": "Aristotle University of Thessaloniki",
+      "is_presenter": true,
+      "papers": [
+        "Amélie (University of Strasbourg)"
+      ]
+    },
+    {
+      "name": "Ar",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Amélie (University of Strasbourg)",
+        "Štefan (Masaryk University; Slovak Academy of Sciencies)",
+        "(Ruhr University Bochum)",
+        "Forecasts"
+      ]
+    },
+    {
+      "name": "Th",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Amélie (University of Strasbourg)",
+        "University Rotterdam",
+        "(Ruhr University Bochum)",
+        "American College of Greece)",
+        "Banks' Losses",
+        "Forecasts"
+      ]
+    },
+    {
+      "name": "Francesco Frangiamore",
+      "institution": "University of Palermo",
+      "is_presenter": true,
+      "papers": [
+        "Fiscal risks and consolidations"
+      ]
+    },
+    {
+      "name": "Domenico Giannone",
+      "institution": "Johns Hopkins University; CEPR",
+      "is_presenter": true,
+      "papers": [
+        "Monetary Fund; University of Palermo; CEPR; RCEA)"
+      ]
+    },
+    {
+      "name": "Pietro Pizzuto",
+      "institution": "University of Palermo",
+      "is_presenter": true,
+      "papers": [
+        "Kisat (International Monetary Fund)"
+      ]
+    },
+    {
+      "name": "Nikolai Stähler",
+      "institution": "Deutsche Bundesbank",
+      "is_presenter": true,
+      "papers": [
+        "Bundesbank)",
+        "(Deutsche Bundesbank)"
+      ]
+    },
+    {
+      "name": "Natascha Hinterlang",
+      "institution": "Deutsche Bundesbank",
+      "is_presenter": true,
+      "papers": [
+        "(Deutsche Bundesbank",
+        "(Deutsche Bundesbank)"
+      ]
+    },
+    {
+      "name": "Er",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "(Bank of Russia",
+        "for Employment Research",
+        "(Ruhr University Bochum)",
+        "Forecasts"
+      ]
+    },
+    {
+      "name": "GD",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "(Bank of Russia"
+      ]
+    },
+    {
+      "name": "P:",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "(Bank of Russia"
+      ]
+    },
+    {
+      "name": "Ca",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "(Bank of Russia"
+      ]
+    },
+    {
+      "name": "Le",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "(Bank of Russia",
+        "University Rotterdam",
+        "Modeling Financial Contagion as a Self-Exciting Point Process"
+      ]
+    },
+    {
+      "name": "Dominik Maltritz",
+      "institution": "University of Erfurt",
+      "is_presenter": true,
+      "papers": [
+        "Forecast Accuracy?"
+      ]
+    },
+    {
+      "name": "Vincent Roschy",
+      "institution": "University of Erfurt",
+      "is_presenter": true,
+      "papers": [
+        "Forecast Accuracy?"
+      ]
+    },
+    {
+      "name": "Michele Lenza",
+      "institution": "European Central Bank and CEPR",
+      "is_presenter": true,
+      "papers": [
+        "Forecasting wages with machine learning"
+      ]
+    },
+    {
+      "name": "Francisco Nadal De Simone",
+      "institution": "UBI Business School",
+      "is_presenter": true,
+      "papers": [
+        "AI and Financial Stability"
+      ]
+    },
+    {
+      "name": "Davide Furceri",
+      "institution": "International Monetary Fund",
+      "is_presenter": true,
+      "papers": [
+        "Palermo)",
+        "(University of Palermo)"
+      ]
+    },
+    {
+      "name": "Francesco Scianna",
+      "institution": "University of Palermo",
+      "is_presenter": true,
+      "papers": [
+        "Palermo)",
+        "Trade Restrictions"
+      ]
+    },
+    {
+      "name": "Maria-Eleni Agoraki",
+      "institution": "University of the Peloponnese",
+      "is_presenter": true,
+      "papers": [
+        "Natural Disasters and Discouraged SMEs"
+      ]
+    },
+    {
+      "name": "Antonis Ballis",
+      "institution": "Aston University",
+      "is_presenter": true,
+      "papers": [
+        "Anastasiou (Athens University of Economics and Business)"
+      ]
+    },
+    {
+      "name": "Christos Kallandranis",
+      "institution": "University of West Attica",
+      "is_presenter": true,
+      "papers": [
+        "Chrysanthakopoulos (University of Patras)"
+      ]
+    },
+    {
+      "name": "Volha Audzei",
+      "institution": "Czech National Bank",
+      "is_presenter": true,
+      "papers": [
+        "Behavior of Czech Firms"
+      ]
+    },
+    {
+      "name": "Michal Franta",
+      "institution": "Czech National Bank",
+      "is_presenter": true,
+      "papers": [
+        "Behavior of Czech Firms"
+      ]
+    },
+    {
+      "name": "Wenjie Li",
+      "institution": "International Monetary Fund",
+      "is_presenter": true,
+      "papers": [
+        "(International Monetary Fund)"
+      ]
+    },
+    {
+      "name": "Saida Teleu",
+      "institution": "Charles University",
+      "is_presenter": true,
+      "papers": [
+        "Petr Jakubík (Charles University)"
+      ]
+    },
+    {
+      "name": "Matěj Kořínek",
+      "institution": "Charles University",
+      "is_presenter": true,
+      "papers": [
+        "Petr Jakubík (Charles University)"
+      ]
+    },
+    {
+      "name": "Katharina Cera",
+      "institution": "European Central Bank",
+      "is_presenter": true,
+      "papers": [
+        "(European Central Bank)"
+      ]
+    },
+    {
+      "name": "Georgios Georgiadis",
+      "institution": "European Central Bank",
+      "is_presenter": true,
+      "papers": [
+        "(European Central Bank)"
+      ]
+    },
+    {
+      "name": "Ka",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "(European Central Bank)"
+      ]
+    },
+    {
+      "name": "Joscha Beckmann",
+      "institution": "Fernuniversität Hagen",
+      "is_presenter": true,
+      "papers": [
+        "Global Exchange Rate Uncertainty"
+      ]
+    },
+    {
+      "name": "Fr",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Global Exchange Rate Uncertainty",
+        "(California State University Long Beach)",
+        "Toronto; Bruegel; CEPR)",
+        "The Two Fixings for the Chinese Yuan: Central Bank vs. Market",
+        "(Central Bank of Ireland)",
+        "Bénassy-Quéré (Banque de France)",
+        "Forecasts",
+        "The Macro-Regional Effects of Green Public Funds"
+      ]
+    },
+    {
+      "name": "John Devereux",
+      "institution": "Queens College, City University of New York",
+      "is_presenter": true,
+      "papers": [
+        "Learning Across Countries: Real Exchange Rates"
+      ]
+    },
+    {
+      "name": "James R. Lothian",
+      "institution": "Fordham University",
+      "is_presenter": true,
+      "papers": [
+        "Gerald P. Dwyer (Clemson University)"
+      ]
+    },
+    {
+      "name": "Aikaterini Karadimitropoulou",
+      "institution": "University of Piraeus",
+      "is_presenter": true,
+      "papers": [
+        "Economic Analysis)"
+      ]
+    },
+    {
+      "name": "Athanasios Triantafyllou",
+      "institution": "Audencia Business School",
+      "is_presenter": true,
+      "papers": [
+        "Monetary Fund)"
+      ]
+    },
+    {
+      "name": "Stephen G. Hall (Leicester University;",
+      "institution": "Bank of",
+      "is_presenter": true,
+      "papers": [
+        "On the Dynamics of Purchasing Power Parity"
+      ]
+    },
+    {
+      "name": "George S. Tavlas",
+      "institution": "Bank of Greece; Hoover Institution, Stanford University",
+      "is_presenter": true,
+      "papers": [
+        "of Pretoria)"
+      ]
+    },
+    {
+      "name": "Timo Bettendorf",
+      "institution": "Deutsche Bundesbank",
+      "is_presenter": true,
+      "papers": [
+        "Identification using Prices of Gold and Oil"
+      ]
+    },
+    {
+      "name": "Andreas Hefti",
+      "institution": "Zurich ZHAW; Zurich UZH",
+      "is_presenter": true,
+      "papers": [
+        "Financial Deregulation"
+      ]
+    },
+    {
+      "name": "Ha",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Financial Deregulation"
+      ]
+    },
+    {
+      "name": "Zu",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Financial Deregulation",
+        "Contagion of Affinity: Predicting CDS Spikes in Global Systemically Important Banks"
+      ]
+    },
+    {
+      "name": "UZ",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Financial Deregulation"
+      ]
+    },
+    {
+      "name": "H)",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Financial Deregulation"
+      ]
+    },
+    {
+      "name": "En",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Market-based finance is no island: Volatility spillovers across non-banks",
+        "(Ruhr University Bochum)",
+        "Forecasts",
+        "Modeling Financial Contagion as a Self-Exciting Point Process"
+      ]
+    },
+    {
+      "name": "Petri Kuosmanen",
+      "institution": "University of Vaasa",
+      "is_presenter": true,
+      "papers": [
+        "Decoding Growth in Small Open Economies"
+      ]
+    },
+    {
+      "name": "Va",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Decoding Growth in Small Open Economies"
+      ]
+    },
+    {
+      "name": "Alice Albonico",
+      "institution": "University of Milano Bicocca",
+      "is_presenter": true,
+      "papers": [
+        "Spillovers",
+        "University of Milan Bicocca)"
+      ]
+    },
+    {
+      "name": "Marco Guerzoni",
+      "institution": "University of Milano - Bicocca",
+      "is_presenter": true,
+      "papers": [
+        "Spillovers"
+      ]
+    },
+    {
+      "name": "Eleftheria Stergiopoulou",
+      "institution": "University of Piraeus",
+      "is_presenter": true,
+      "papers": [
+        "(University of Piraeus)"
+      ]
+    },
+    {
+      "name": "Daniel Kapp",
+      "institution": "European Central Bank",
+      "is_presenter": true,
+      "papers": [
+        "Bank)"
+      ]
+    },
+    {
+      "name": "Francesca Vinci",
+      "institution": "European Central Bank",
+      "is_presenter": true,
+      "papers": [
+        "Bank)"
+      ]
+    },
+    {
+      "name": "Fa",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Bank)"
+      ]
+    },
+    {
+      "name": "Maximilian Schröder",
+      "institution": "European Central Bank",
+      "is_presenter": true,
+      "papers": [
+        "Micro-based SVAR Identification"
+      ]
+    },
+    {
+      "name": "Ro",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Micro-based SVAR Identification",
+        "Central Bank",
+        "Forecasts"
+      ]
+    },
+    {
+      "name": "Marta Małecka",
+      "institution": "University of Łódź; Prague University of Economics and Business",
+      "is_presenter": true,
+      "papers": [
+        "Business)"
+      ]
+    },
+    {
+      "name": "Wr",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Business)"
+      ]
+    },
+    {
+      "name": "Todorova Neda",
+      "institution": "Griffith University",
+      "is_presenter": true,
+      "papers": [
+        "Štefan (Masaryk University; Slovak Academy of Sciencies)"
+      ]
+    },
+    {
+      "name": "Ze",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Štefan (Masaryk University; Slovak Academy of Sciencies)",
+        "Distributional Effects of Exchange Rate Depreciations"
+      ]
+    },
+    {
+      "name": "SV",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Štefan (Masaryk University; Slovak Academy of Sciencies)"
+      ]
+    },
+    {
+      "name": "Martin Mandler",
+      "institution": "Deutsche Bundesbank",
+      "is_presenter": true,
+      "papers": [
+        "approach and applications"
+      ]
+    },
+    {
+      "name": "Michael Scharnagl",
+      "institution": "Deutsche Bundesbank",
+      "is_presenter": true,
+      "papers": [
+        "approach and applications"
+      ]
+    },
+    {
+      "name": "Nigel McClung",
+      "institution": "Bank of Finland",
+      "is_presenter": true,
+      "papers": [
+        "Finland)"
+      ]
+    },
+    {
+      "name": "Szczerbowicz Urszula",
+      "institution": "Skema Business School",
+      "is_presenter": true,
+      "papers": [
+        "University)"
+      ]
+    },
+    {
+      "name": "Schmidt Julia",
+      "institution": "Banque de France",
+      "is_presenter": true,
+      "papers": [
+        "University)"
+      ]
+    },
+    {
+      "name": "Changhan Hou",
+      "institution": "Hunan University",
+      "is_presenter": true,
+      "papers": [
+        "University)"
+      ]
+    },
+    {
+      "name": "Jan Prüser",
+      "institution": "TU Dortmund",
+      "is_presenter": true,
+      "papers": [
+        "University)"
+      ]
+    },
+    {
+      "name": "Annalisa Ferrando",
+      "institution": "European Central Bank",
+      "is_presenter": true,
+      "papers": [
+        "(European Central Bank)"
+      ]
+    },
+    {
+      "name": "Sofia Gori",
+      "institution": "European Central Bank",
+      "is_presenter": true,
+      "papers": [
+        "(European Central Bank)"
+      ]
+    },
+    {
+      "name": "Lu",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "(European Central Bank)",
+        "Business School"
+      ]
+    },
+    {
+      "name": "Enrico Minnella",
+      "institution": "Bank of England",
+      "is_presenter": true,
+      "papers": [
+        "using a parsimonious agent-based framework"
+      ]
+    },
+    {
+      "name": "Ana Pereira",
+      "institution": "Bank of England",
+      "is_presenter": true,
+      "papers": [
+        "using a parsimonious agent-based framework"
+      ]
+    },
+    {
+      "name": "Te",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "using a parsimonious agent-based framework"
+      ]
+    },
+    {
+      "name": "Jo",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "using a parsimonious agent-based framework",
+        "(Ruhr University Bochum)"
+      ]
+    },
+    {
+      "name": "Vi",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "using a parsimonious agent-based framework",
+        "Unrestricted MIDAS Approach"
+      ]
+    },
+    {
+      "name": "Alberto Perez-Bernabeu",
+      "institution": "University of Alicante",
+      "is_presenter": true,
+      "papers": [
+        "(University of Alicante)"
+      ]
+    },
+    {
+      "name": "Iiro Alikärri",
+      "institution": "University of Jyväskylä",
+      "is_presenter": true,
+      "papers": [
+        "Bank Performance Under Biodiversity Risk"
+      ]
+    },
+    {
+      "name": "Jy",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Bank Performance Under Biodiversity Risk",
+        "Amin Sadeghi (University of Jyväskylä)",
+        "Macroprudential Policy Spillovers and Banks Profitability"
+      ]
+    },
+    {
+      "name": "Julia Otten",
+      "institution": "International Monetary Fund",
+      "is_presenter": true,
+      "papers": [
+        "Monetary Fund)"
+      ]
+    },
+    {
+      "name": "Khatereh Yarveisi",
+      "institution": "University of Palermo",
+      "is_presenter": true,
+      "papers": [
+        "Pizzuto (University of Palermo)"
+      ]
+    },
+    {
+      "name": "Haithem Awijen",
+      "institution": "INSEEC BBA Business School",
+      "is_presenter": true,
+      "papers": [
+        "School)"
+      ]
+    },
+    {
+      "name": "Wael Louhichi",
+      "institution": "Alfaical University",
+      "is_presenter": true,
+      "papers": [
+        "School)"
+      ]
+    },
+    {
+      "name": "Stefanie Kleimeier",
+      "institution": "Maastricht University & University of Stellenbosch Business School",
+      "is_presenter": true,
+      "papers": [
+        "University)"
+      ]
+    },
+    {
+      "name": "Axel Loeffler",
+      "institution": "Deutsche Bundesbank",
+      "is_presenter": true,
+      "papers": [
+        "(Deutsche Bundesbank)"
+      ]
+    },
+    {
+      "name": "Patrick Sigel",
+      "institution": "Deutsche Bundesbank",
+      "is_presenter": true,
+      "papers": [
+        "(Deutsche Bundesbank)"
+      ]
+    },
+    {
+      "name": "Razvan Vlahu",
+      "institution": "Dutch Central Bank",
+      "is_presenter": true,
+      "papers": [
+        "Amsterdam and CEPR"
+      ]
+    },
+    {
+      "name": "A",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "University Rotterdam",
+        "Greece)"
+      ]
+    },
+    {
+      "name": "Wo",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "University Rotterdam"
+      ]
+    },
+    {
+      "name": "On",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "University Rotterdam"
+      ]
+    },
+    {
+      "name": "Su",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "University Rotterdam"
+      ]
+    },
+    {
+      "name": "Alessandro Santoni",
+      "institution": "European Central Bank",
+      "is_presenter": true,
+      "papers": [
+        "Monetary Fund/World Bank FSAP"
+      ]
+    },
+    {
+      "name": "Roberta Nesti",
+      "institution": "European Central Bank",
+      "is_presenter": true,
+      "papers": [
+        "Central Bank)"
+      ]
+    },
+    {
+      "name": "Piotr Mazur",
+      "institution": "SGH Warsaw School of Economics",
+      "is_presenter": true,
+      "papers": [
+        "School of Economics)"
+      ]
+    },
+    {
+      "name": "Jonathan Peillex",
+      "institution": "ICD Business School",
+      "is_presenter": true,
+      "papers": [
+        "De Vinci Research Center)"
+      ]
+    },
+    {
+      "name": "Nü",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "for Employment Research"
+      ]
+    },
+    {
+      "name": "Michal Fridrich",
+      "institution": "European Research University",
+      "is_presenter": true,
+      "papers": [
+        "(European Research University)"
+      ]
+    },
+    {
+      "name": "Br",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "(European Research University)"
+      ]
+    },
+    {
+      "name": "Athanasios Lampousis (",
+      "institution": "Bank of",
+      "is_presenter": true,
+      "papers": [
+        "Central bank reserves and banks’ portfolio rebalancing in the euro area"
+      ]
+    },
+    {
+      "name": "Petros Migiakis",
+      "institution": "Bank of Greece",
+      "is_presenter": true,
+      "papers": [
+        "Greece)"
+      ]
+    },
+    {
+      "name": "Karau",
+      "institution": "Deutsche Bundesbank",
+      "is_presenter": true,
+      "papers": [
+        "Political Pressure on The Fed – Is This Time Different?"
+      ]
+    },
+    {
+      "name": "Frederico Mira Godinho",
+      "institution": "Bank of Portugal",
+      "is_presenter": true,
+      "papers": [
+        "Complexity in Monetary Policy Communications"
+      ]
+    },
+    {
+      "name": "Deborah Defang",
+      "institution": "Leicester University",
+      "is_presenter": true,
+      "papers": [
+        "The Dynamics of Central Banks’ Reserves under High Uncertainty"
+      ]
+    },
+    {
+      "name": "George S. Tavlas (",
+      "institution": "Bank of",
+      "is_presenter": true,
+      "papers": [
+        "Stephen G. Hall (Leicester University; Bank of Greece; University of Pretoria)"
+      ]
+    },
+    {
+      "name": "Sheida Teimouri",
+      "institution": "University of Wisconsin–La Crosse",
+      "is_presenter": true,
+      "papers": [
+        "Policy Uncertainty and Banks’ Lending Behavior"
+      ]
+    },
+    {
+      "name": "Ta",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Policy Uncertainty and Banks’ Lending Behavior",
+        "(Ruhr University Bochum)"
+      ]
+    },
+    {
+      "name": "Wi",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Policy Uncertainty and Banks’ Lending Behavior"
+      ]
+    },
+    {
+      "name": "La",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Policy Uncertainty and Banks’ Lending Behavior",
+        "Greece)",
+        "Forecasts"
+      ]
+    },
+    {
+      "name": "Cr",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Policy Uncertainty and Banks’ Lending Behavior",
+        "(California State University Long Beach)",
+        "(Ruhr University Bochum)",
+        "Forecasts"
+      ]
+    },
+    {
+      "name": "Konstantina K. Agoraki",
+      "institution": "University of Piraeus",
+      "is_presenter": true,
+      "papers": [
+        "Supply Chain Risk and Firm Financial Stability"
+      ]
+    },
+    {
+      "name": "Maria Giaka",
+      "institution": "The American College of Greece",
+      "is_presenter": true,
+      "papers": [
+        "Agoraki (University of the Peloponnese)"
+      ]
+    },
+    {
+      "name": "Am",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Agoraki (University of the Peloponnese)"
+      ]
+    },
+    {
+      "name": "Barbara Jarmulska",
+      "institution": "European Central Bank",
+      "is_presenter": true,
+      "papers": [
+        "Mortgage loan rates and the defaults of variable rate mortgages",
+        "Central Bank)"
+      ]
+    },
+    {
+      "name": "Friederike Fourné",
+      "institution": "ifo Institute Munich",
+      "is_presenter": true,
+      "papers": [
+        "Emil Bandoni (Central Bank of Ireland and University College Dublin)"
+      ]
+    },
+    {
+      "name": "Svatopluk Kapounek",
+      "institution": "Mendel University",
+      "is_presenter": true,
+      "papers": [
+        "Mendel University)"
+      ]
+    },
+    {
+      "name": "Peter Albrecht",
+      "institution": "Mendel University",
+      "is_presenter": true,
+      "papers": [
+        "Mendel University)"
+      ]
+    },
+    {
+      "name": "Martin Stachon",
+      "institution": "Mendel University",
+      "is_presenter": true,
+      "papers": [
+        "(Mendel University)"
+      ]
+    },
+    {
+      "name": "Georgios Angelopoulos (University of West Attica &",
+      "institution": "Bank of",
+      "is_presenter": true,
+      "papers": [
+        "(National and Kapodistrian University of Athens)"
+      ]
+    },
+    {
+      "name": "Zacharias Bragoudakis",
+      "institution": "Bank of Greece",
+      "is_presenter": true,
+      "papers": [
+        "Greece)",
+        "Short-term Inflation Projections: The new BoG’STIP model"
+      ]
+    },
+    {
+      "name": "Dimitrios Dimitriou",
+      "institution": "University of West Attica",
+      "is_presenter": true,
+      "papers": [
+        "Greece)"
+      ]
+    },
+    {
+      "name": "Mo",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Greece)",
+        "(California State University Long Beach)",
+        "(International Monetary Fund)",
+        "Forletta (European Central Bank)",
+        "What's the story? The media channel of monetary policy transmission to the public",
+        "Forecasts"
+      ]
+    },
+    {
+      "name": "Ti",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Greece)",
+        "(Ruhr University Bochum)",
+        "Forletta (European Central Bank)",
+        "What's the story? The media channel of monetary policy transmission to the public",
+        "Modeling Financial Contagion as a Self-Exciting Point Process"
+      ]
+    },
+    {
+      "name": "Ev",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Greece)",
+        "(California State University Long Beach)",
+        "(European Central Bank)",
+        "Macroprudential Policy Spillovers and Banks Profitability",
+        "Forletta (European Central Bank)"
+      ]
+    },
+    {
+      "name": "Ag",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Greece)",
+        "(California State University Long Beach)"
+      ]
+    },
+    {
+      "name": "Pr",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Greece)",
+        "(European Central Bank)",
+        "Unrestricted MIDAS Approach",
+        "What's the story? The media channel of monetary policy transmission to the public"
+      ]
+    },
+    {
+      "name": "Adam Wałach",
+      "institution": "SGH Warsaw School of Economics",
+      "is_presenter": true,
+      "papers": [
+        "Krystian Jaworski (SGH Warsaw School of Economics)"
+      ]
+    },
+    {
+      "name": "Hadházi",
+      "institution": "Budapest University of Technology and Economics",
+      "is_presenter": true,
+      "papers": [
+        "Technology and Economics)"
+      ]
+    },
+    {
+      "name": "Kenean Yamane Kejela",
+      "institution": "Google",
+      "is_presenter": true,
+      "papers": [
+        "Reserve Bank of Dallas)"
+      ]
+    },
+    {
+      "name": "Pa",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Reserve Bank of Dallas)",
+        "Toronto; Bruegel; CEPR)",
+        "Forecasts"
+      ]
+    },
+    {
+      "name": "C:",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Reserve Bank of Dallas)"
+      ]
+    },
+    {
+      "name": "II",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Reserve Bank of Dallas)",
+        "Forecasts"
+      ]
+    },
+    {
+      "name": "Arthur Galichère",
+      "institution": "University of Warwick",
+      "is_presenter": true,
+      "papers": [
+        "Stock Market Dynamics in the RBC Framework"
+      ]
+    },
+    {
+      "name": "Panayiotis C. Andreou",
+      "institution": "Cyprus University of Technology",
+      "is_presenter": true,
+      "papers": [
+        "Stock Price Crash Risk and the Managerial Rhetoric Mechanism: Evidence from R&D Narrative Disclosure in 10K filings"
+      ]
+    },
+    {
+      "name": "Marina Magidou",
+      "institution": "Open University of Cyprus",
+      "is_presenter": true,
+      "papers": [
+        "Technology)"
+      ]
+    },
+    {
+      "name": "Ioannis Koutsonikolis",
+      "institution": "University of Minnesota",
+      "is_presenter": true,
+      "papers": [
+        "Stock Market Accounting"
+      ]
+    },
+    {
+      "name": "Jussi Leskinen",
+      "institution": "University of Jyväskylä",
+      "is_presenter": true,
+      "papers": [
+        "Jyväskylä)"
+      ]
+    },
+    {
+      "name": "Jolan Mohimont",
+      "institution": "National Bank of Belgium",
+      "is_presenter": true,
+      "papers": [
+        "(UNamur)"
+      ]
+    },
+    {
+      "name": "Florian Horky",
+      "institution": "National Bank of Slovakia",
+      "is_presenter": true,
+      "papers": [
+        "(California State University Long Beach)"
+      ]
+    },
+    {
+      "name": "Do",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "(California State University Long Beach)"
+      ]
+    },
+    {
+      "name": "G",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "(California State University Long Beach)",
+        "Macroprudential Policy Spillovers and Banks Profitability"
+      ]
+    },
+    {
+      "name": "Sylwia Frydrych",
+      "institution": "Warsaw School of Economics",
+      "is_presenter": true,
+      "papers": [
+        "Action",
+        "Kliber (Poznan University of Economics and Business)"
+      ]
+    },
+    {
+      "name": "Joni Heikkinen",
+      "institution": "Bank of Finland",
+      "is_presenter": true,
+      "papers": [
+        "Northern insights: Geopolitical risk from Finnish news media"
+      ]
+    },
+    {
+      "name": "Zuzana Fungacova",
+      "institution": "Bank of Finland",
+      "is_presenter": true,
+      "papers": [
+        "(Bank of Finland)"
+      ]
+    },
+    {
+      "name": "Eeva Kerola",
+      "institution": "Bank of Finland",
+      "is_presenter": true,
+      "papers": [
+        "(Bank of Finland)"
+      ]
+    },
+    {
+      "name": "Anni Norring",
+      "institution": "Bank of Finland",
+      "is_presenter": true,
+      "papers": [
+        "Finland)"
+      ]
+    },
+    {
+      "name": "Raffaele Prioriello",
+      "institution": "European Central Bank",
+      "is_presenter": true,
+      "papers": [
+        "(European Central Bank)"
+      ]
+    },
+    {
+      "name": "Agha Durrani",
+      "institution": "European Central Bank",
+      "is_presenter": true,
+      "papers": [
+        "(European Central Bank)"
+      ]
+    },
+    {
+      "name": "So",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "(European Central Bank)",
+        "Modeling Financial Contagion as a Self-Exciting Point Process"
+      ]
+    },
+    {
+      "name": "Me",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "(European Central Bank)"
+      ]
+    },
+    {
+      "name": "Nikolaos Antonakakis",
+      "institution": "University of Nicosia",
+      "is_presenter": true,
+      "papers": [
+        "Uncertainty"
+      ]
+    },
+    {
+      "name": "Eleonora Pierucc",
+      "institution": "Roma Tre University",
+      "is_presenter": true,
+      "papers": [
+        "Central Bank"
+      ]
+    },
+    {
+      "name": "Jasper de Winter",
+      "institution": "De Nederlandsche Bank",
+      "is_presenter": true,
+      "papers": [
+        "Amsterdam)"
+      ]
+    },
+    {
+      "name": "Konstantin Buryak",
+      "institution": "Bank of Russia",
+      "is_presenter": true,
+      "papers": [
+        "(Bank of Russia)"
+      ]
+    },
+    {
+      "name": "Vadim Grishchenko",
+      "institution": "Bank of Russia",
+      "is_presenter": true,
+      "papers": [
+        "(Bank of Russia)"
+      ]
+    },
+    {
+      "name": "Lorena Skufi",
+      "institution": "Bank of Albania",
+      "is_presenter": true,
+      "papers": [
+        "(Charles University & Joint Vienna Institute)"
+      ]
+    },
+    {
+      "name": "Tatiana Shelovanova",
+      "institution": "Bank of Russia; Higher School of Economics",
+      "is_presenter": true,
+      "papers": [
+        "Grishchenko (Bank of Russia)"
+      ]
+    },
+    {
+      "name": "Richard Varghese",
+      "institution": "International Monetary Fund",
+      "is_presenter": true,
+      "papers": [
+        "Valderrama (International Monetary Fund)"
+      ]
+    },
+    {
+      "name": "Maria-Eleni K. Agoraki",
+      "institution": "University of the Peloponnese",
+      "is_presenter": true,
+      "papers": [
+        "Awijen (INSEEC Grande Ecole Paris)"
+      ]
+    },
+    {
+      "name": "Jennifer T. Lai",
+      "institution": "Guangdong University of Foreign Studies",
+      "is_presenter": true,
+      "papers": [
+        "Economic and Social Research"
+      ]
+    },
+    {
+      "name": "Mc",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Economic and Social Research"
+      ]
+    },
+    {
+      "name": "Ne",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Economic and Social Research"
+      ]
+    },
+    {
+      "name": "Bo",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Economic and Social Research",
+        "Jabeur (Lyon Catholic University"
+      ]
+    },
+    {
+      "name": "Nicolò Gnocato",
+      "institution": "European Central Bank",
+      "is_presenter": true,
+      "papers": [
+        "Tariffs across the supply chain"
+      ]
+    },
+    {
+      "name": "Giovanni Stamato",
+      "institution": "Central Bank of Malta",
+      "is_presenter": true,
+      "papers": [
+        "Central Bank)"
+      ]
+    },
+    {
+      "name": "Hites Ahir",
+      "institution": "International Monetary Fund",
+      "is_presenter": true,
+      "papers": [
+        "Toronto; Bruegel; CEPR)"
+      ]
+    },
+    {
+      "name": "Luca Bettarelli",
+      "institution": "University of Palermo",
+      "is_presenter": true,
+      "papers": [
+        "Toronto; Bruegel; CEPR)"
+      ]
+    },
+    {
+      "name": "Ronald Wittenzellner",
+      "institution": "Munich University of Applied Sciences",
+      "is_presenter": true,
+      "papers": [
+        "Applied Sciences)"
+      ]
+    },
+    {
+      "name": "Marius Jäger",
+      "institution": "Deutsche Bundesbank; AlbertLudwigs-Universität Freiburg",
+      "is_presenter": true,
+      "papers": [
+        "(Deutsche Bundesbank)"
+      ]
+    },
+    {
+      "name": "Michael John Meyer",
+      "institution": "University of Pretoria, and Stellenbosch University",
+      "is_presenter": true,
+      "papers": [
+        "Unrestricted MIDAS Approach"
+      ]
+    },
+    {
+      "name": "Tim Dass",
+      "institution": "Columbia University",
+      "is_presenter": true,
+      "papers": [
+        "Real-Time Macroeconomic Forecasting with Time Series Foundation Models"
+      ]
+    },
+    {
+      "name": "Rolf Scheufele",
+      "institution": "Swiss National Bank",
+      "is_presenter": true,
+      "papers": [
+        "Simon Racheter (University of Bern)"
+      ]
+    },
+    {
+      "name": "Yannic Stucki",
+      "institution": "Swiss National Bank",
+      "is_presenter": true,
+      "papers": [
+        "Simon Racheter (University of Bern)"
+      ]
+    },
+    {
+      "name": "Alessandra Vollmer",
+      "institution": "Swiss National Bank",
+      "is_presenter": true,
+      "papers": [
+        "Christoph Winter (Swiss National Bank)"
+      ]
+    },
+    {
+      "name": "Sercan Eraslan",
+      "institution": "Deutsche Bundesbank",
+      "is_presenter": true,
+      "papers": [
+        "Forecasting economic activity with central bank narrative"
+      ]
+    },
+    {
+      "name": "Eniko GaborToth",
+      "institution": "Bank for International Settlements Innovation Hub",
+      "is_presenter": true,
+      "papers": [
+        "Forecasting economic activity with central bank narrative"
+      ]
+    },
+    {
+      "name": "Robert Lindahl",
+      "institution": "Linköping University",
+      "is_presenter": true,
+      "papers": [
+        "Breaking the Link: Risk"
+      ]
+    },
+    {
+      "name": "Heikki Lehkonen",
+      "institution": "University of Jyväskylä",
+      "is_presenter": true,
+      "papers": [
+        "Amin Sadeghi (University of Jyväskylä)"
+      ]
+    },
+    {
+      "name": "Massimo Giuliodori",
+      "institution": "University of Amsterdam",
+      "is_presenter": true,
+      "papers": [
+        "Amsterdam)"
+      ]
+    },
+    {
+      "name": "Stefan Eichler",
+      "institution": "TU Dresden",
+      "is_presenter": true,
+      "papers": [
+        "(Ruhr University Bochum)"
+      ]
+    },
+    {
+      "name": "KE",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "(Ruhr University Bochum)",
+        "Forecasts"
+      ]
+    },
+    {
+      "name": "YN",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "(Ruhr University Bochum)",
+        "Forecasts"
+      ]
+    },
+    {
+      "name": "OT",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "(Ruhr University Bochum)",
+        "Forecasts"
+      ]
+    },
+    {
+      "name": "SP",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "(Ruhr University Bochum)",
+        "Forecasts"
+      ]
+    },
+    {
+      "name": "EE",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "(Ruhr University Bochum)",
+        "Forecasts"
+      ]
+    },
+    {
+      "name": "IV",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "(Ruhr University Bochum)",
+        "Forecasts"
+      ]
+    },
+    {
+      "name": "SI",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "(Ruhr University Bochum)",
+        "Forecasts"
+      ]
+    },
+    {
+      "name": "TY",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "(Ruhr University Bochum)",
+        "Forecasts"
+      ]
+    },
+    {
+      "name": "OF",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "(Ruhr University Bochum)",
+        "Forecasts"
+      ]
+    },
+    {
+      "name": "ET",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "(Ruhr University Bochum)",
+        "Forecasts"
+      ]
+    },
+    {
+      "name": "I",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "(Ruhr University Bochum)"
+      ]
+    },
+    {
+      "name": "PL",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "(Ruhr University Bochum)",
+        "Forecasts"
+      ]
+    },
+    {
+      "name": "Y",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "(Ruhr University Bochum)",
+        "Forecasts"
+      ]
+    },
+    {
+      "name": "SS",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "(Ruhr University Bochum)",
+        "Forecasts"
+      ]
+    },
+    {
+      "name": "IO",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "(Ruhr University Bochum)",
+        "Forecasts"
+      ]
+    },
+    {
+      "name": "Pe",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "(Ruhr University Bochum)",
+        "Jabeur (Lyon Catholic University"
+      ]
+    },
+    {
+      "name": "Ju",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "(Ruhr University Bochum)"
+      ]
+    },
+    {
+      "name": "Ex",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "(Ruhr University Bochum)",
+        "What's the story? The media channel of monetary policy transmission to the public",
+        "Forecasts"
+      ]
+    },
+    {
+      "name": "J.",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "(Ruhr University Bochum)"
+      ]
+    },
+    {
+      "name": "Da",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "(Ruhr University Bochum)"
+      ]
+    },
+    {
+      "name": "Ho",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "(Ruhr University Bochum)",
+        "Macroprudential Policy Spillovers and Banks Profitability"
+      ]
+    },
+    {
+      "name": "Juha Junttila",
+      "institution": "Oulu Business School",
+      "is_presenter": true,
+      "papers": [
+        "Tauriainen (University of Jyväskylä)"
+      ]
+    },
+    {
+      "name": "Qisi Zhang",
+      "institution": "Ghent University",
+      "is_presenter": true,
+      "papers": [
+        "The Two Fixings for the Chinese Yuan: Central Bank vs. Market"
+      ]
+    },
+    {
+      "name": "Gh",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "The Two Fixings for the Chinese Yuan: Central Bank vs. Market"
+      ]
+    },
+    {
+      "name": "Hareem Fatima",
+      "institution": "Universidad Pontificia Comillas",
+      "is_presenter": true,
+      "papers": [
+        "Communication Confounds: The Case of Brexit"
+      ]
+    },
+    {
+      "name": "Wa",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "House of Cards or Rock Solid? Shadow Economy Empirical Identification with D(S)GE"
+      ]
+    },
+    {
+      "name": "Jean-Paul L’Huillier",
+      "institution": "Brandeis University",
+      "is_presenter": true,
+      "papers": [
+        "Surrey)"
+      ]
+    },
+    {
+      "name": "Laure Simon",
+      "institution": "Bank of Canada",
+      "is_presenter": true,
+      "papers": [
+        "Surrey)"
+      ]
+    },
+    {
+      "name": "Jacek Pietrucha",
+      "institution": "University of Economics in Katowice",
+      "is_presenter": true,
+      "papers": [
+        "(University of Economics in Katowice)"
+      ]
+    },
+    {
+      "name": "Dimitrios Bakas",
+      "institution": "Nottingham Trent University",
+      "is_presenter": true,
+      "papers": [
+        "Uncertainty Shocks and Economic Activity: A Meta-Analysis"
+      ]
+    },
+    {
+      "name": "Karen Jackson",
+      "institution": "University of Westminster",
+      "is_presenter": true,
+      "papers": [
+        "Krzysztof Beck (Lazarski University)"
+      ]
+    },
+    {
+      "name": "Valeryia Yersh",
+      "institution": "Lazarski University",
+      "is_presenter": true,
+      "papers": [
+        "Portsmouth)"
+      ]
+    },
+    {
+      "name": "Daniel Maas",
+      "institution": "Oesterreichische Nationalbank",
+      "is_presenter": true,
+      "papers": [
+        "Martin Saldias (Banco de Portugal)"
+      ]
+    },
+    {
+      "name": "Zuzana Metelakova",
+      "institution": "Charles University",
+      "is_presenter": true,
+      "papers": [
+        "(Charles University)"
+      ]
+    },
+    {
+      "name": "Zhongfei Chen",
+      "institution": "Jinan University",
+      "is_presenter": true,
+      "papers": [
+        "(University of Sussex)"
+      ]
+    },
+    {
+      "name": "Kexin Li",
+      "institution": "Peking University",
+      "is_presenter": true,
+      "papers": [
+        "(University of Sussex)"
+      ]
+    },
+    {
+      "name": "Thomas Lejeune",
+      "institution": "National Bank of Belgium",
+      "is_presenter": true,
+      "papers": [
+        "(National Bank of Belgium)"
+      ]
+    },
+    {
+      "name": "Nikolay Hristov",
+      "institution": "Deutsche Bundesbank and CESifo",
+      "is_presenter": true,
+      "papers": [
+        "Fiscal policy shocks and financial stability"
+      ]
+    },
+    {
+      "name": "Benedikt Kolb",
+      "institution": "Deutsche Bundesbank",
+      "is_presenter": true,
+      "papers": [
+        "(Munich University of Applied Sciences and CESifo)"
+      ]
+    },
+    {
+      "name": "Matija Lozej",
+      "institution": "Central Bank of Ireland",
+      "is_presenter": true,
+      "papers": [
+        "(Central Bank of Ireland)"
+      ]
+    },
+    {
+      "name": "Ga",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "(Central Bank of Ireland)"
+      ]
+    },
+    {
+      "name": "Matteo Gatto",
+      "institution": "Sapienza University of Rome",
+      "is_presenter": true,
+      "papers": [
+        "University of Rome)"
+      ]
+    },
+    {
+      "name": "Pascal Meichtry",
+      "institution": "Banque de France",
+      "is_presenter": true,
+      "papers": [
+        "of Rome)"
+      ]
+    },
+    {
+      "name": "Pedro Juarros",
+      "institution": "International Monetary Fund",
+      "is_presenter": true,
+      "papers": [
+        "of Palermo; CEPR; RCEA)"
+      ]
+    },
+    {
+      "name": "Saurabh Mishra",
+      "institution": "Taiyo",
+      "is_presenter": true,
+      "papers": [
+        "of Palermo; CEPR; RCEA)"
+      ]
+    },
+    {
+      "name": "Ana Sofia Pessoa",
+      "institution": "International Monetary Fund",
+      "is_presenter": true,
+      "papers": [
+        "(International Monetary Fund)"
+      ]
+    },
+    {
+      "name": "Matthieu Bussière",
+      "institution": "Banque de France",
+      "is_presenter": true,
+      "papers": [
+        "Bénassy-Quéré (Banque de France)"
+      ]
+    },
+    {
+      "name": "Thaïs Masseï",
+      "institution": "Banque de France",
+      "is_presenter": true,
+      "papers": [
+        "Bénassy-Quéré (Banque de France)"
+      ]
+    },
+    {
+      "name": "Gu",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Bénassy-Quéré (Banque de France)"
+      ]
+    },
+    {
+      "name": "Gregor von Schweinitz",
+      "institution": "Corvinus University",
+      "is_presenter": true,
+      "papers": [
+        "(National Bank of Slovakia)"
+      ]
+    },
+    {
+      "name": "Luigi Longo",
+      "institution": "Joint Research Centre - European Commission",
+      "is_presenter": true,
+      "papers": [
+        "Commission)"
+      ]
+    },
+    {
+      "name": "Konstantin Boss",
+      "institution": "Joint Research Centre European Commission",
+      "is_presenter": true,
+      "papers": [
+        "Commission)"
+      ]
+    },
+    {
+      "name": "Ernest Owusu Boakye",
+      "institution": "University of Jyväskylä",
+      "is_presenter": true,
+      "papers": [
+        "Macroprudential Policy Spillovers and Banks Profitability"
+      ]
+    },
+    {
+      "name": "Geyao Zhang",
+      "institution": "University of Leeds",
+      "is_presenter": true,
+      "papers": [
+        "lending networks"
+      ]
+    },
+    {
+      "name": "Stelios Giannoulakis",
+      "institution": "Athens University of Economics and Business",
+      "is_presenter": true,
+      "papers": [
+        "Resilience and Distributional Effects of Borrower-Based Macroprudential Policies: Evidence from a CrossCountry Micro-Macro Simulation",
+        "Business)"
+      ]
+    },
+    {
+      "name": "Marco Gross",
+      "institution": "International Monetary Fund",
+      "is_presenter": true,
+      "papers": [
+        "Forletta (European Central Bank)"
+      ]
+    },
+    {
+      "name": "To",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Forletta (European Central Bank)"
+      ]
+    },
+    {
+      "name": "Cz",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Forletta (European Central Bank)"
+      ]
+    },
+    {
+      "name": "Simona Malovaná",
+      "institution": "Czech National Bank",
+      "is_presenter": true,
+      "papers": [
+        "Martin Hodula (Czech National Bank)"
+      ]
+    },
+    {
+      "name": "Lukáš Pfeifer",
+      "institution": "Czech National Bank",
+      "is_presenter": true,
+      "papers": [
+        "Martin Hodula (Czech National Bank)"
+      ]
+    },
+    {
+      "name": "Giacomo Cattelan",
+      "institution": "University of St Andrews",
+      "is_presenter": true,
+      "papers": [
+        "The Interaction of Capital Constraints and Financial Volatility"
+      ]
+    },
+    {
+      "name": "Harri Turunen",
+      "institution": "Banque de France",
+      "is_presenter": true,
+      "papers": [
+        "The time-varying impact of risky bond supply on zero-coupon yields"
+      ]
+    },
+    {
+      "name": "Fien van Solinge",
+      "institution": "Ministry of Finance Netherlands",
+      "is_presenter": true,
+      "papers": [
+        "University)"
+      ]
+    },
+    {
+      "name": "Eric Offner",
+      "institution": "Frankfurt School of Finance and Management",
+      "is_presenter": true,
+      "papers": [
+        "Equity Duration and Monetary Policy"
+      ]
+    },
+    {
+      "name": "Evangelia Kasimati",
+      "institution": "Bank of Greece",
+      "is_presenter": true,
+      "papers": [
+        "Karakitsios (Bank of Greece)"
+      ]
+    },
+    {
+      "name": "Mathias Cammerlander",
+      "institution": "Leopold-FranzensUniversität Innsbruck",
+      "is_presenter": true,
+      "papers": [
+        "Business Cycle Fluctuations during the German Hyperinflation"
+      ]
+    },
+    {
+      "name": "Moritz Pfeifer",
+      "institution": "University of Leipzig",
+      "is_presenter": true,
+      "papers": [
+        "(University Duisburg-Essen)"
+      ]
+    },
+    {
+      "name": "Julia Krotova",
+      "institution": "Bank of Russia",
+      "is_presenter": true,
+      "papers": [
+        "Implied inflation expectations"
+      ]
+    },
+    {
+      "name": "Henry Penikas",
+      "institution": "Bank of Russia",
+      "is_presenter": true,
+      "papers": [
+        "Implied inflation expectations"
+      ]
+    },
+    {
+      "name": "Laura Alfaro",
+      "institution": "Inter-American Development Bank",
+      "is_presenter": true,
+      "papers": [
+        "FX Debt and Optimal Exchange Rate Hedging"
+      ]
+    },
+    {
+      "name": "Bryan Hardy",
+      "institution": "Bank for International Settlements",
+      "is_presenter": true,
+      "papers": [
+        "(Bank for International Settlements)"
+      ]
+    },
+    {
+      "name": "Yassine Bakkar",
+      "institution": "Queen’s Belfast University",
+      "is_presenter": true,
+      "papers": [
+        "How U.S. Price Conflict Shapes Global Exchange Rates?"
+      ]
+    },
+    {
+      "name": "Leila Hedhili Zaier",
+      "institution": "University of Tunis",
+      "is_presenter": true,
+      "papers": [
+        "Jabeur (Lyon Catholic University"
+      ]
+    },
+    {
+      "name": "Boris Fisera",
+      "institution": "Slovak Academy of Sciences",
+      "is_presenter": true,
+      "papers": [
+        "Distributional Effects of Exchange Rate Depreciations"
+      ]
+    },
+    {
+      "name": "Georgios Kouretas",
+      "institution": "Athens University of Economics and Business",
+      "is_presenter": true,
+      "papers": [
+        "(Athens University of Economics and Business)"
+      ]
+    },
+    {
+      "name": "Rupayan Gupta",
+      "institution": "Roger Williams University",
+      "is_presenter": true,
+      "papers": [
+        "American College of Greece)"
+      ]
+    },
+    {
+      "name": "Hi",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "What's the story? The media channel of monetary policy transmission to the public"
+      ]
+    },
+    {
+      "name": "Dü",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Banks' Losses"
+      ]
+    },
+    {
+      "name": "Ef",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Banks' Losses"
+      ]
+    },
+    {
+      "name": "Pontsho Mathebula",
+      "institution": "University of Pretoria",
+      "is_presenter": true,
+      "papers": [
+        "Forecasts"
+      ]
+    },
+    {
+      "name": "UC",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Forecasts"
+      ]
+    },
+    {
+      "name": "Fe",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Forecasts"
+      ]
+    },
+    {
+      "name": "Op",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Forecasts"
+      ]
+    },
+    {
+      "name": "A:",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Forecasts"
+      ]
+    },
+    {
+      "name": "Luciano Greco",
+      "institution": "University of Padova",
+      "is_presenter": true,
+      "papers": [
+        "(University of Padova)"
+      ]
+    },
+    {
+      "name": "Eleonora Turato",
+      "institution": "University of Padova",
+      "is_presenter": true,
+      "papers": [
+        "(University of Padova)"
+      ]
+    },
+    {
+      "name": "Gimet",
+      "institution": "Sciences Po Aix-en-Provence and Aix-Marseille School of Economics",
+      "is_presenter": true,
+      "papers": [
+        "(Université Laval)"
+      ]
+    },
+    {
+      "name": "Ai",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "(Université Laval)"
+      ]
+    },
+    {
+      "name": "Germano Ruisi",
+      "institution": "Central Bank of Malta",
+      "is_presenter": true,
+      "papers": [
+        "Bank of Malta)"
+      ]
+    },
+    {
+      "name": "Matthias Sydow",
+      "institution": "European Central Bank",
+      "is_presenter": true,
+      "papers": [
+        "Bank)"
+      ]
+    },
+    {
+      "name": "Gabor Fukker",
+      "institution": "European Central Bank",
+      "is_presenter": true,
+      "papers": [
+        "Bank)"
+      ]
+    },
+    {
+      "name": "Vance Martin",
+      "institution": "University of Melbourne",
+      "is_presenter": true,
+      "papers": [
+        "Oikarinen (University of Oulu)"
+      ]
+    },
+    {
+      "name": "Jean-Yves Gnabo",
+      "institution": "CeReFiM",
+      "is_presenter": true,
+      "papers": [
+        "Schraverus (CeReFiM - NaXys)",
+        "Ayachi (University of Namur; CeReFiM)"
+      ]
+    },
+    {
+      "name": "Lennart Brandt",
+      "institution": "Bank of England",
+      "is_presenter": true,
+      "papers": [
+        "Rapid Monetary Transmission: High-Frequency Evidence from the UK"
+      ]
+    },
+    {
+      "name": "Carl-Wolfram Horn",
+      "institution": "Frankfurt School of Finance and Management",
+      "is_presenter": true,
+      "papers": [
+        "Johannes Fischer (Deutsche Bundesbank)"
+      ]
+    },
+    {
+      "name": "Filippo Pallotti",
+      "institution": "University College London and Lombard Odier",
+      "is_presenter": true,
+      "papers": [
+        "Miranda-Agrippino (Oxford and CEPR)"
+      ]
+    },
+    {
+      "name": "Ellen Ryan",
+      "institution": "European Central Bank",
+      "is_presenter": true,
+      "papers": [
+        "Central Bank)"
+      ]
+    },
+    {
+      "name": "Luca Persia",
+      "institution": "Università della Svizzera Italiana",
+      "is_presenter": true,
+      "papers": [
+        "Modeling Financial Contagion as a Self-Exciting Point Process"
+      ]
+    },
+    {
+      "name": "Sebastian Stöckl",
+      "institution": "University of Liechtenstein",
+      "is_presenter": true,
+      "papers": [
+        "Risk-Adjusting Forecasts for Increased Portfolio Performance"
+      ]
+    },
+    {
+      "name": "Michael Hanke",
+      "institution": "University of Liechtenstein",
+      "is_presenter": true,
+      "papers": [
+        "Lukas Salcher (University of Liechtenstein)"
+      ]
+    },
+    {
+      "name": "Carolin Nerlich",
+      "institution": "European Central Bank",
+      "is_presenter": true,
+      "papers": [
+        "The Macro-Regional Effects of Green Public Funds"
+      ]
+    },
+    {
+      "name": "Ad",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "The Macro-Regional Effects of Green Public Funds"
+      ]
+    },
+    {
+      "name": "M)",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Ayachi (University of Namur; CeReFiM)"
+      ]
+    },
+    {
+      "name": "Emanuele Chini",
+      "institution": "University of Luxembourg",
+      "is_presenter": true,
+      "papers": [
+        "The Sustainable Impact of Green Bonds"
+      ]
+    },
+    {
+      "name": "Andre Lucas",
+      "institution": "VU University Amsterdam",
+      "is_presenter": true,
+      "papers": [
+        "Business School"
+      ]
+    }
+  ]
+}

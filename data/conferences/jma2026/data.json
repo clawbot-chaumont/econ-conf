@@ -1,0 +1,1833 @@
+{
+  "conference": {
+    "name": "42èmes Journées de Microéconomie Appliquée (JMA 2026)",
+    "short_name": "JMA",
+    "year": 2026,
+    "start_date": "2026-06-04",
+    "end_date": "2026-06-05",
+    "location": "France"
+  },
+  "scrape_metadata": {
+    "scraped_at": "2026-06-13T07:46:47.752237",
+    "source_url": "https://jma2026.sciencesconf.org",
+    "program_available": true,
+    "program_type": "web",
+    "errors": []
+  },
+  "sessions": [
+    {
+      "session_title": "Agricultural economics",
+      "chair": {
+        "name": "Adélaïde Fadhuile",
+        "institution": ""
+      },
+      "date": "Thursday, June 4, 2026",
+      "time": "11:00 - 12:30",
+      "room": "204",
+      "papers": [
+        {
+          "title": "Irrigation and Structural Transformation: Lessons from Half a Century in French Agriculture",
+          "authors": [
+            "{'name': 'Emilie Cocco', 'institution': \"Bureau d'Économie Théorique et Appliquée, Chaire économie du climat\"}"
+          ],
+          "presenter": "Emilie Cocco"
+        },
+        {
+          "title": "Slow to Hire, Slow to Fire: Labour Adjustment Frictions in French Viticulture",
+          "authors": [
+            "{'name': 'Fabien Candau', 'institution': \"Université de Pau et des Pays de l'Adour\"}"
+          ],
+          "presenter": "Fabien Candau"
+        },
+        {
+          "title": "Impacts of low pesticides practices on farmers' crop production decision: Estimation based on observed French data",
+          "authors": [
+            "{'name': 'Adelaide Fadhuile', 'institution': 'Univ. Grenoble Alpes, CNRS, INRAE, Grenoble INP, GAEL'}"
+          ],
+          "presenter": "Adelaide Fadhuile"
+        }
+      ]
+    },
+    {
+      "session_title": "Sport Economics",
+      "chair": {
+        "name": "Florian Moussi-Beylie",
+        "institution": ""
+      },
+      "date": "Thursday, June 4, 2026",
+      "time": "11:00 - 12:30",
+      "room": "208",
+      "papers": [
+        {
+          "title": "Fostering gender attitudes and behaviors: Evidence from a Sport Education Program",
+          "authors": [
+            "{'name': 'Yannick Malalanirina', 'institution': \"Centre d'Études et de Recherches sur le Développement International\"}"
+          ],
+          "presenter": "Yannick Malalanirina"
+        },
+        {
+          "title": "Can Regulation Restore Competitive Balance? Evidence from the Football Transfer Market",
+          "authors": [
+            "{'name': 'Diego José Rivera Obón', 'institution': 'Réseaux Innovation Territoires et Mondialisation'}"
+          ],
+          "presenter": "Diego José Rivera Obón"
+        },
+        {
+          "title": "L'impact du Pass'Sport sur la pratique sportive des jeunes : une évaluation en doubles différences continues",
+          "authors": [
+            "{'name': 'Florian Moussi-Beylie', 'institution': \"Equipe de Recherche sur l'Utilisation des Données Individuelles en lien avec la Théorie Economique, Institut national de la jeunesse et de l'éducation populaire\"}"
+          ],
+          "presenter": "Florian Moussi-Beylie"
+        }
+      ]
+    },
+    {
+      "session_title": "Urban economics",
+      "chair": {
+        "name": "Yves Schaeffer",
+        "institution": ""
+      },
+      "date": "Thursday, June 4, 2026",
+      "time": "11:00 - 12:30",
+      "room": "209",
+      "papers": [
+        {
+          "title": "Externality Effects of Building Collapses due to Insufficient Renovation",
+          "authors": [
+            "{'name': 'Florent Sari', 'institution': 'ERUDITE'}"
+          ],
+          "presenter": "Florent Sari"
+        },
+        {
+          "title": "Self-Reinforcing or Variety-Seeking Preferences for Residential Density? A Dynamic Panel-Data Analysis in France 1968--2015",
+          "authors": [
+            "{'name': 'Yves SCHAEFFER', 'institution': 'Univ. Grenoble Alpes, INRAE, LESSEM, Univ. Grenoble Alpes, INRAE, LESSEM'}"
+          ],
+          "presenter": "Yves SCHAEFFER"
+        },
+        {
+          "title": "La piétonnisation des centres urbains : quels effets sur les commerces ?",
+          "authors": [
+            "{'name': 'Chloé DUVIVIER', 'institution': 'INRAE Umr Territoires'}",
+            "{'name': 'Lionel Védrine', 'institution': 'INRAE Umr Territoires'}"
+          ],
+          "presenter": "Chloé DUVIVIER"
+        }
+      ]
+    },
+    {
+      "session_title": "Inequalities",
+      "chair": {
+        "name": "Corinne Chaton",
+        "institution": ""
+      },
+      "date": "Thursday, June 4, 2026",
+      "time": "11:00 - 12:30",
+      "room": "211",
+      "papers": [
+        {
+          "title": "Social Housing and Social Diversity in France",
+          "authors": [
+            "{'name': 'Rémi Peltier', 'institution': \"Université Grenoble Alpes - Faculté d'Économie de Grenoble\"}"
+          ],
+          "presenter": "Rémi Peltier"
+        },
+        {
+          "title": "Quantifying and understanding imperfect take-up rate of French minimum income",
+          "authors": [
+            "{'name': 'Cécile Gayet', 'institution': \"Université Paris 1 Panthéon-Sorbonne - École d'économie de la Sorbonne\"}"
+          ],
+          "presenter": "Cécile Gayet"
+        },
+        {
+          "title": "How has COVID-19 influenced the dynamics of fuel poverty in mainland France",
+          "authors": [
+            "{'name': 'Corinne Chaton', 'institution': 'Centre de recherche en économie et statistique, Finance for Energy Market Research Centre'}"
+          ],
+          "presenter": "Corinne Chaton"
+        }
+      ]
+    },
+    {
+      "session_title": "Taxation, redistribution and inequality",
+      "chair": {
+        "name": "Paolo Crosetto",
+        "institution": ""
+      },
+      "date": "Thursday, June 4, 2026",
+      "time": "11:00 - 12:30",
+      "room": "UX1 (RDC)",
+      "papers": [
+        {
+          "title": "Pay Up or Pile Up: Willingness to Pay for Waste Collection Services in Conakry",
+          "authors": [
+            "{'name': 'Katharina Lobo', 'institution': 'Bocconi University (Milan),'}"
+          ],
+          "presenter": "Katharina Lobo"
+        },
+        {
+          "title": "Voting Between Social Justice and Rewarding Pro-environmental Behaviour - A Laboratory Experiment",
+          "authors": [
+            "{'name': 'Tanguy Richard', 'institution': 'IFP Energies nouvelles, Centre de recherche en économie et management'}"
+          ],
+          "presenter": "Tanguy Richard"
+        },
+        {
+          "title": "The acceptability of carbon taxations and regulation under inequality: An experimental market game",
+          "authors": [
+            "{'name': 'Assia Abdelfattah', 'institution': \"Laboratoire d'Economie Appliquée de Grenoble\"}"
+          ],
+          "presenter": "Assia Abdelfattah"
+        }
+      ]
+    },
+    {
+      "session_title": "Environmental and ressource economics",
+      "chair": {
+        "name": "Stéphane Lemarié",
+        "institution": ""
+      },
+      "date": "Thursday, June 4, 2026",
+      "time": "14:00 - 16:00",
+      "room": "204",
+      "papers": [
+        {
+          "title": "The Value and Quality of Private Labels in the Agricultural Seed Mixtures Market",
+          "authors": [
+            "{'name': 'Benaissa Larbi', 'institution': \"Laboratoire d'Economie Appliquée de Grenoble\"}"
+          ],
+          "presenter": "Benaissa Larbi"
+        },
+        {
+          "title": "About tree growth, climate shocks and forest transaction prices",
+          "authors": [
+            "{'name': 'Thierry Kamionka', 'institution': 'CNRS and CREST (Paris)'}"
+          ],
+          "presenter": "Thierry Kamionka"
+        },
+        {
+          "title": "Biophysical and Individual Determinants of Harvesting Decisions by Private Forest Owners: Evidence from a Parcel-Based Survey in France",
+          "authors": [
+            "{'name': 'Mihai Tivadar', 'institution': 'Univ. Grenoble Alpes, INRAE, LESSEM'}"
+          ],
+          "presenter": "Mihai Tivadar"
+        }
+      ]
+    },
+    {
+      "session_title": "Climate",
+      "chair": {
+        "name": "Thierry Blayac",
+        "institution": ""
+      },
+      "date": "Thursday, June 4, 2026",
+      "time": "14:00 - 16:00",
+      "room": "208",
+      "papers": [
+        {
+          "title": "Do prepared cities weather floods better?",
+          "authors": [
+            "{'name': 'Louis MAROLLEAU', 'institution': 'Univ. Lille, CNRS, IESEG School of Management, LEM - Lille Économie Management'}"
+          ],
+          "presenter": "Louis MAROLLEAU"
+        },
+        {
+          "title": "Child Nutritional Vulnerability to Rainfall Shocks",
+          "authors": [
+            "{'name': 'Florence Lecuit', 'institution': 'Développement, Institutions et Modialisation'}"
+          ],
+          "presenter": "Florence Lecuit"
+        },
+        {
+          "title": "The Impact of Floods on Firm Performance and Relocation",
+          "authors": [
+            "{'name': 'Paul Vertier', 'institution': 'Banque de France'}"
+          ],
+          "presenter": "Paul Vertier"
+        },
+        {
+          "title": "Meltwater, seasonality and economic activity in South Asia",
+          "authors": [
+            "{'name': 'Pierre Uginet', 'institution': \"Laboratoire d'Economie Appliquée de Grenoble\"}"
+          ],
+          "presenter": "Pierre Uginet"
+        }
+      ]
+    },
+    {
+      "session_title": "Labour Economics",
+      "chair": {
+        "name": "Liliane Bonnal",
+        "institution": ""
+      },
+      "date": "Thursday, June 4, 2026",
+      "time": "14:00 - 16:00",
+      "room": "209",
+      "papers": [
+        {
+          "title": "Occupational Heritability: Mobility, Skills or Networks Barriers to Entry into the Medical Profession",
+          "authors": [
+            "{'name': 'Magali Dumontet', 'institution': 'EconomiX'}"
+          ],
+          "presenter": "Magali Dumontet"
+        },
+        {
+          "title": "May employers exploit parental love? Incentives for altruistic agents under moral hazard",
+          "authors": [
+            "{'name': 'Cécile Aubert', 'institution': 'Bordeaux School of Economics'}"
+          ],
+          "presenter": "Cécile Aubert"
+        },
+        {
+          "title": "The Impact of Firm-Level Agreements on Wage Inequalities in France",
+          "authors": [
+            "{'name': 'Arnaud Wittmer', 'institution': \"Bureau d'Économie Théorique et Appliquée\"}"
+          ],
+          "presenter": "Arnaud Wittmer"
+        },
+        {
+          "title": "When Education Misses the Job: Wage Penalties, Mobility, and Early Career Inequality",
+          "authors": [
+            "{'name': 'Liliane Bonnal', 'institution': \"Laboratoire d'économie de Poutiers\"}"
+          ],
+          "presenter": "Liliane Bonnal"
+        }
+      ]
+    },
+    {
+      "session_title": "Health Economics",
+      "chair": {
+        "name": "Quitterie Roquebert",
+        "institution": ""
+      },
+      "date": "Thursday, June 4, 2026",
+      "time": "14:00 - 16:00",
+      "room": "211",
+      "papers": [
+        {
+          "title": "Patients Relocation and Hospital Responses to Hospital Closures: Evidence from France",
+          "authors": [
+            "{'name': 'Gaëtan Ménard', 'institution': \"Centre de Recherche en Économie et Statistique, École Nationale de la Statistique et de l'Administration Économique\"}"
+          ],
+          "presenter": "Gaëtan Ménard"
+        },
+        {
+          "title": "Prendre soin des soignants : quel est le coût de l'inaction ? Résultats d'une enquête sur l'absentéisme et le présentéisme dans les hôpitaux français",
+          "authors": [
+            "{'name': 'Emilie Chen', 'institution': 'École des Hautes Études en Santé Publique (EHESP),'}"
+          ],
+          "presenter": "Emilie Chen"
+        },
+        {
+          "title": "Working conditions of self-employed nurses: implications for the supply of care from 2019 to 2025?",
+          "authors": [
+            "{'name': 'Dylan Martin-Lapoirie', 'institution': \"Centre d'économie de la Sorbonne\"}"
+          ],
+          "presenter": "Dylan Martin-Lapoirie"
+        },
+        {
+          "title": "How do physician prices and activity respond to competition? The role of the shortage context",
+          "authors": [
+            "{'name': 'Quitterie Roquebert', 'institution': \"Bureau d'Économie Théorique et Appliquée\"}"
+          ],
+          "presenter": "Quitterie Roquebert"
+        }
+      ]
+    },
+    {
+      "session_title": "Transportation",
+      "chair": {
+        "name": "Nathalie Havet",
+        "institution": ""
+      },
+      "date": "Thursday, June 4, 2026",
+      "time": "14:00 - 16:00",
+      "room": "UX1 (RDC)",
+      "papers": [
+        {
+          "title": "Mobility Gini: distributional effects of climate policies through transportation choices",
+          "authors": [
+            "{'name': 'Andrea Rangel Guevara', 'institution': 'Institut de Recherche en Gestion et Economie'}"
+          ],
+          "presenter": "Andrea Rangel Guevara"
+        },
+        {
+          "title": "Beyond Stickiness: Unravelling the Complexities of Worker Mobility and Occupational Switching",
+          "authors": [
+            "{'name': 'Alex Newnham', 'institution': 'Réseaux Innovation Territoires et Mondialisation'}"
+          ],
+          "presenter": "Alex Newnham"
+        },
+        {
+          "title": "Trapped In Congestion? The Impact Of Truck Traffic On Local Workers",
+          "authors": [
+            "{'name': 'Maël Jammes', 'institution': 'Center for Environmental Economics - Montpellier'}"
+          ],
+          "presenter": "Maël Jammes"
+        },
+        {
+          "title": "La colocation étudiante favorise-t-elle le covoiturage domicile-campus ? Intercations entre pratiques de l'économie du partage",
+          "authors": [
+            "{'name': 'Nathalie HAVET', 'institution': 'Laboratoire Aménagement Economie Transport'}",
+            "{'name': 'Mila Le Morvan-Chevestre', 'institution': 'Laboratoire Aménagement Economie Transport'}"
+          ],
+          "presenter": "Nathalie HAVET"
+        }
+      ]
+    },
+    {
+      "session_title": "Climate",
+      "chair": {
+        "name": "Hélène Bouscasse",
+        "institution": ""
+      },
+      "date": "Thursday, June 4, 2026",
+      "time": "16:30 - 18:00",
+      "room": "204",
+      "papers": [
+        {
+          "title": "Beyond Rainfall: Labor, Livelihoods, and the Hidden Costs of Drought",
+          "authors": [
+            "{'name': 'Aditi Kharb', 'institution': 'University College Dublin'}"
+          ],
+          "presenter": "Aditi Kharb"
+        },
+        {
+          "title": "Hot weather worsens anemia: evidence from Indonesian panel data",
+          "authors": [
+            "{'name': 'Emile Chaput', 'institution': \"Centre International de Recherche sur l'Environnement et le Développement\"}"
+          ],
+          "presenter": "Emile Chaput"
+        },
+        {
+          "title": "Too Hot to Stay? Causal Evidence of Heatwaves on Residential Mobility",
+          "authors": [
+            "{'name': 'Hélène Bouscasse', 'institution': \"Centre d'économie et de sociologie rurales appliquées à l'agriculture et aux espaces ruraux\"}"
+          ],
+          "presenter": "Hélène Bouscasse"
+        }
+      ]
+    },
+    {
+      "session_title": "Industrial economics",
+      "chair": {
+        "name": "Olivier Bonroy",
+        "institution": ""
+      },
+      "date": "Thursday, June 4, 2026",
+      "time": "16:30 - 18:00",
+      "room": "208",
+      "papers": [
+        {
+          "title": "The newer the better? Electoral turnovers and public procurement outcomes: evidence from French municipalities",
+          "authors": [
+            "{'name': 'Vincent Jardine', 'institution': \"Sciences Po, Département d'économie\"}"
+          ],
+          "presenter": "Vincent Jardine"
+        },
+        {
+          "title": "Dynamic effects of antitrust enforcement: The case of the antitrust inquiry in Quebec, Canada",
+          "authors": [
+            "{'name': 'Ivan Marin', 'institution': 'Institut Agro Dijon'}"
+          ],
+          "presenter": "Ivan Marin"
+        },
+        {
+          "title": "Vertical Control in the Presence of Intertemporal Externalities from Recycling",
+          "authors": [
+            "{'name': 'Olivier Bonroy', 'institution': 'Université Grenoble Alpes, INRAE, UMR GAEL, 38000 Grenoble, France.'}"
+          ],
+          "presenter": "Olivier Bonroy"
+        }
+      ]
+    },
+    {
+      "session_title": "Economics of family",
+      "chair": {
+        "name": "Véronique Simonet",
+        "institution": ""
+      },
+      "date": "Thursday, June 4, 2026",
+      "time": "16:30 - 18:00",
+      "room": "209",
+      "papers": [
+        {
+          "title": "Facing Pressure, Choosing Distance: Female Genital Cutting and Girls' Mobility in Sub-Saharan Africa",
+          "authors": [
+            "{'name': 'Melchior Clerc', 'institution': \"Centre d'Études et de Recherches sur le Développement International\"}"
+          ],
+          "presenter": "Melchior Clerc"
+        },
+        {
+          "title": "The Serial Monogamist and the Involuntary Celibate: How Divorce Shapes the Gender Gap in Childlessness",
+          "authors": [
+            "{'name': 'Adrien VALLETTE', 'institution': 'Centre de Recherche en Économie et Statistique'}"
+          ],
+          "presenter": "Adrien VALLETTE"
+        },
+        {
+          "title": "Cultural Shock Transmission and Sense of Home among Second Generation Immigrants",
+          "authors": [
+            "{'name': 'Mikaël Pasternak', 'institution': 'Université de Lille'}"
+          ],
+          "presenter": "Mikaël Pasternak"
+        }
+      ]
+    },
+    {
+      "session_title": "Law and economics",
+      "chair": {
+        "name": "Dorgyles Kouakou",
+        "institution": ""
+      },
+      "date": "Thursday, June 4, 2026",
+      "time": "16:30 - 17:30",
+      "room": "211",
+      "papers": [
+        {
+          "title": "Bigger cities, more crime? Lessons from French data",
+          "authors": [
+            "{'name': 'Florent Sari', 'institution': 'ERUDITE'}"
+          ],
+          "presenter": "Florent Sari"
+        },
+        {
+          "title": "Crime and access to finance",
+          "authors": [
+            "{'name': 'Dorgyles KOUAKOU', 'institution': 'CREM et Faculté des Sciences Economiques'}"
+          ],
+          "presenter": "Dorgyles KOUAKOU"
+        }
+      ]
+    },
+    {
+      "session_title": "Behavioral economics",
+      "chair": {
+        "name": "Louis Levy-Garboua",
+        "institution": ""
+      },
+      "date": "Thursday, June 4, 2026",
+      "time": "16:30 - 18:00",
+      "room": "UX1 (RDC)",
+      "papers": [
+        {
+          "title": "Who Can Be Nudged? Experimental Evidence on Social Norms and Locus of Control",
+          "authors": [
+            "{'name': 'Théo Savey', 'institution': \"Centre d'Economie de l'Environnement - Montpellier\"}"
+          ],
+          "presenter": "Théo Savey"
+        },
+        {
+          "title": "Do Educational Workshops Enhance the Effects of Targeted Food Vouchers? Evidence from a Randomized Controlled Trial",
+          "authors": [
+            "{'name': 'Anaëlle DENIEUL--BARBOT', 'institution': \"Centre d'économie et de sociologie rurales appliquées à l'agriculture et aux espaces ruraux\"}"
+          ],
+          "presenter": "Anaëlle DENIEUL--BARBOT"
+        },
+        {
+          "title": "Intuitive rationality: A theory of cognitive biases in riskless and risky decisions",
+          "authors": [
+            "{'name': 'Louis Lévy-Garboua', 'institution': \"Centre d'économie de la Sorbonne, Paris-Jourdan Sciences Economiques, Université Paris 1, Panthéon-Sorbonne, Centre interuniversitaire de recherche en analyse des organisations\"}"
+          ],
+          "presenter": "Louis Lévy-Garboua"
+        }
+      ]
+    },
+    {
+      "session_title": "Environmental and ressource economics",
+      "chair": {
+        "name": "Marianne Lefebvre",
+        "institution": ""
+      },
+      "date": "Friday, June 5, 2026",
+      "time": "08:30 - 10:30",
+      "room": "204",
+      "papers": [
+        {
+          "title": "Modeling Household Water Source Choice in a Water-Rich Context: Evidence from Peri-Urban Kinshasa, DRC.",
+          "authors": [
+            "{'name': 'Komlavi II Adjegan', 'institution': 'LEDa, UMR DIAL-IRD'}"
+          ],
+          "presenter": "Komlavi II Adjegan"
+        },
+        {
+          "title": "Changer les habitudes par l'accompagnement : preuves des programmes de réduction d'énergie",
+          "authors": [
+            "{'name': 'Ngoc Thao NOET', 'institution': 'Université Gustave Eiffel, Théorie et Evaluation des Politiques Publiques (TEPP ; FR 2042)'}"
+          ],
+          "presenter": "Ngoc Thao NOET"
+        },
+        {
+          "title": "Determinants of drinking water consumption in Mediterranean France: contribution of pricing and non-pricing measures",
+          "authors": [
+            "{'name': 'Walid GUENBIB', 'institution': \"Gestion de l'Eau, Acteurs, Usages\"}"
+          ],
+          "presenter": "Walid GUENBIB"
+        },
+        {
+          "title": "Combined social norms: when meters matter !",
+          "authors": [
+            "{'name': 'Marianne Lefebvre', 'institution': 'Granem'}"
+          ],
+          "presenter": "Marianne Lefebvre"
+        }
+      ]
+    },
+    {
+      "session_title": "Digital Economics",
+      "chair": {
+        "name": "Sylvain Mignot",
+        "institution": ""
+      },
+      "date": "Friday, June 5, 2026",
+      "time": "08:30 - 10:30",
+      "room": "208",
+      "papers": [
+        {
+          "title": "Environmental and economic trade-offs in datacenter location under jurisdictional competition",
+          "authors": [
+            "{'name': 'Mathilde Aubouin', 'institution': 'GAEL, University of Grenoble Alpes'}"
+          ],
+          "presenter": "Mathilde Aubouin"
+        },
+        {
+          "title": "Data Acquisition, Price Discrimination and Endogenous Consumer Privacy",
+          "authors": [
+            "{'name': 'Christos Constantatos', 'institution': 'University of Macedonia'}"
+          ],
+          "presenter": "Christos Constantatos"
+        },
+        {
+          "title": "Creators' Commenting strategies on Youtube.",
+          "authors": [
+            "{'name': 'Sylvain Mignot', 'institution': 'Université Catholique de Lille'}"
+          ],
+          "presenter": "Sylvain Mignot"
+        }
+      ]
+    },
+    {
+      "session_title": "Health Economics",
+      "chair": {
+        "name": "Pascal Favard",
+        "institution": ""
+      },
+      "date": "Friday, June 5, 2026",
+      "time": "08:30 - 10:30",
+      "room": "209",
+      "papers": [
+        {
+          "title": "All work and no rest makes Jack a sick boy : A causal analysis of sickness absence and presenteeism on health",
+          "authors": [
+            "{'name': 'Théo Denis', 'institution': \"Laboratoire d'économie mathématique et de microéconomie appliquée\"}"
+          ],
+          "presenter": "Théo Denis"
+        },
+        {
+          "title": "Caregiving, mental health and familial norms: Evidence from a matched sample of French adult children",
+          "authors": [
+            "{'name': 'Anais Cheneau', 'institution': 'Laboratoire Interdisciplinaire de Recherche Appliquée en Economie de la Santé'}"
+          ],
+          "presenter": "Anais Cheneau"
+        },
+        {
+          "title": "Population Preferences for the Diagnosis of Chronic Obstructive Pulmonary Disease: a Discrete Choice Experiment",
+          "authors": [
+            "{'name': 'Audrey Glass', 'institution': 'Univ. Lille, CNRS, IESEG School of Management, UMR 9221 - LEM - Lille Économie Management'}"
+          ],
+          "presenter": "Audrey Glass"
+        },
+        {
+          "title": "Aide de long terme, dépression et solitude : effets très contrastés entre hommes et femmes",
+          "authors": [
+            "{'name': 'Pascal Favard', 'institution': 'Institut de recherche juridique interdisciplinaire'}"
+          ],
+          "presenter": "Pascal Favard"
+        }
+      ]
+    },
+    {
+      "session_title": "Education",
+      "chair": {
+        "name": "Manon Garrouste",
+        "institution": ""
+      },
+      "date": "Friday, June 5, 2026",
+      "time": "08:30 - 10:30",
+      "room": "211",
+      "papers": [
+        {
+          "title": "Structuring PhD Programs: More control, better outcomes?",
+          "authors": [
+            "{'name': 'Alberto Corsini', 'institution': 'Spanish National Research Council (Madrid),'}"
+          ],
+          "presenter": "Alberto Corsini"
+        },
+        {
+          "title": "The ambiguous effects of recreational marijuana laws on school performance",
+          "authors": [
+            "{'name': 'Sophie Panel', 'institution': 'Sciences Po Grenoble, Université Grenoble Alpes'}"
+          ],
+          "presenter": "Sophie Panel"
+        },
+        {
+          "title": "Les cités éducatives, entre éducation prioritaire et politique de la ville : une première évaluation.",
+          "authors": [
+            "{'name': 'Moussa Kheddache', 'institution': \"Equipe de Recherche sur l'Utilisation des Données Individuelles en lien avec la Théorie Economique\"}"
+          ],
+          "presenter": "Moussa Kheddache"
+        },
+        {
+          "title": "When education and urban policies overlap: Effect on academic achievement",
+          "authors": [
+            "{'name': 'Manon Garrouste', 'institution': 'Réseaux Innovation Territoires et Mondialisation'}"
+          ],
+          "presenter": "Manon Garrouste"
+        }
+      ]
+    },
+    {
+      "session_title": "Transportation",
+      "chair": {
+        "name": "Bérangère Legendre",
+        "institution": ""
+      },
+      "date": "Friday, June 5, 2026",
+      "time": "08:30 - 10:30",
+      "room": "UX1 (RDC)",
+      "papers": [
+        {
+          "title": "Temps de trajet en heure de pointe et formes urbaines: cas d'étude sur les aires urbaines françaises",
+          "authors": [
+            "{'name': 'ROMAIN GATÉ', 'institution': \"Laboratoire d'Economie de Dauphine, Chaire Economie du Climat\"}"
+          ],
+          "presenter": "ROMAIN GATÉ"
+        },
+        {
+          "title": "How much individuals are willing to pay to save travel time and improve reliability?",
+          "authors": [
+            "{'name': 'Maïté Stephan', 'institution': 'Centre de recherche en économie et management'}"
+          ],
+          "presenter": "Maïté Stephan"
+        },
+        {
+          "title": "Fairness, Pricing, and Modal Shift: Behavioral Perspectives on Urban Toll Acceptability",
+          "authors": [
+            "{'name': 'Thibaut Lapeyre', 'institution': 'Paris School of Economics'}"
+          ],
+          "presenter": "Thibaut Lapeyre"
+        },
+        {
+          "title": "The Impact of Teleworking on Greenhouse Gas Emissions: A Doubly Robust Difference-in-Differences Analysis Using French Data",
+          "authors": [
+            "{'name': 'Bérangère Legendre', 'institution': 'Institut de Recherche en Gestion et en Economie'}"
+          ],
+          "presenter": "Bérangère Legendre"
+        }
+      ]
+    },
+    {
+      "session_title": "Environmental and ressource economics",
+      "chair": {
+        "name": "Julien Salanié",
+        "institution": ""
+      },
+      "date": "Friday, June 5, 2026",
+      "time": "11:00 - 12:30",
+      "room": "204",
+      "papers": [
+        {
+          "title": "Limites de l'effet de saillance après un accident industriel majeur : évidence empirique suite à l'incendie Lubrizol",
+          "authors": [
+            "{'name': 'Franck VIROLEAU', 'institution': \"Laboratoire d'Economie Rouen Normandie\"}"
+          ],
+          "presenter": "Franck VIROLEAU"
+        },
+        {
+          "title": "Choosing Homes, Facing Hazards: Evidence on Environmental Risk, their Perception and Location Decisions",
+          "authors": [
+            "{'name': 'Sébastien Carrère', 'institution': \"Laboratoire d'Economie Appliquée de Grenoble\"}"
+          ],
+          "presenter": "Sébastien Carrère"
+        },
+        {
+          "title": "Do Headlines Clean Beaches? Media Pressure, Property Values, and Pollution Mitigation in France",
+          "authors": [
+            "{'name': 'JULIEN SALANIE', 'institution': 'UMR 5824 - GATE LSE'}"
+          ],
+          "presenter": "JULIEN SALANIE"
+        }
+      ]
+    },
+    {
+      "session_title": "Innovation and technical change",
+      "chair": {
+        "name": "Nandeeta Neerunjun",
+        "institution": ""
+      },
+      "date": "Friday, June 5, 2026",
+      "time": "11:00 - 12:15",
+      "room": "209",
+      "papers": [
+        {
+          "title": "Optimal electricity consumption and storage under short-term renewable supply variability",
+          "authors": [
+            "{'name': 'Nandeeta Neerunjun', 'institution': \"Laboratoire d'Economie Appliquée de Grenoble\"}"
+          ],
+          "presenter": "Nandeeta Neerunjun"
+        },
+        {
+          "title": "Green Innovation Beyond Patents: Technological Frontiers and Industrial Decarbonization in the EU ETS",
+          "authors": [
+            "{'name': 'Sylvain Belrose', 'institution': 'Climate Economics Chair, Université Paris Nanterre, EDF Recherche et Développement'}"
+          ],
+          "presenter": "Sylvain Belrose"
+        }
+      ]
+    },
+    {
+      "session_title": "Labour Economics",
+      "chair": {
+        "name": "Laetitia Challe",
+        "institution": ""
+      },
+      "date": "Friday, June 5, 2026",
+      "time": "11:00 - 12:30",
+      "room": "211",
+      "papers": [
+        {
+          "title": "Hiring Effects of the Disability Employment Quota: A Study of Quota Coverage Expansion",
+          "authors": [
+            "{'name': 'Eloïse Menestrier', 'institution': \"Institut national d'études démographiques\"}"
+          ],
+          "presenter": "Eloïse Menestrier"
+        },
+        {
+          "title": "Croissance salariale différenciée et inégalités persistantes au Maroc : une analyse microéconométrique des déterminants dans le secteur privé formel",
+          "authors": [
+            "{'name': 'Soukaina Ragbi', 'institution': 'Centre de recherche en économie de Grenoble'}"
+          ],
+          "presenter": "Soukaina Ragbi"
+        },
+        {
+          "title": "Discriminations à l'embauche, âge et origine : une évaluation à l'aide d'un test multi-critères",
+          "authors": [
+            "{'name': 'Laetitia CHALLE', 'institution': \"Université Gustave Eiffel (UNIV GUSTAVE EIFFEL), Equipe de Recherche sur l'Utilisation des Données Individuelles en lien avec la Théorie Economique, Théorie et Evaluation des Politiques Publiques\"}"
+          ],
+          "presenter": "Laetitia CHALLE"
+        }
+      ]
+    },
+    {
+      "session_title": "Inequalities",
+      "chair": {
+        "name": "Aurélien Boyer",
+        "institution": ""
+      },
+      "date": "Friday, June 5, 2026",
+      "time": "11:00 - 12:30",
+      "room": "UX1 (RDC)",
+      "papers": [
+        {
+          "title": "Conflits armés et travail des enfants au Mali: une analyse microéconométrique",
+          "authors": [
+            "{'name': 'OUSMANE MARIKO', 'institution': 'Faculté des Sciences Economiques et de Gestion de Bamako'}",
+            "{'name': 'Mohamed NIARE', 'institution': 'Faculté des Sciences Economiques et de Gestion de Bamako'}"
+          ],
+          "presenter": "OUSMANE MARIKO"
+        },
+        {
+          "title": "The Impact of Decentralization on Subjective Well-being: Evidence from Indonesia",
+          "authors": [
+            "{'name': 'Sodavann Hak', 'institution': \"Groupe d'Analyse et de Théorie Economique Lyon - Saint-Etienne\"}"
+          ],
+          "presenter": "Sodavann Hak"
+        },
+        {
+          "title": "Contrôle et sanction des bénéficiaires du RSA : les disparités départementales selon l'orientation politique",
+          "authors": [
+            "{'name': 'Aurelien Boyer', 'institution': 'CES - Université Paris 1 Panthéon-Sorbonne'}"
+          ],
+          "presenter": "Aurelien Boyer"
+        }
+      ]
+    },
+    {
+      "session_title": "Energy",
+      "chair": {
+        "name": "Carole Treibich",
+        "institution": ""
+      },
+      "date": "Friday, June 5, 2026",
+      "time": "14:00 - 16:00",
+      "room": "204",
+      "papers": [
+        {
+          "title": "Do prosumers shift consumption ? Empirical evidence from Non-Residential firms under net-billing tariff",
+          "authors": [
+            "{'name': 'Julie Robin', 'institution': 'Université Rouen Normandie, EDF R&D'}"
+          ],
+          "presenter": "Julie Robin"
+        },
+        {
+          "title": "L'expérience et la taille importent-ils ? Critères de choix d'un véhicule électrique",
+          "authors": [
+            "{'name': 'Nicolas Posso Gonzalez', 'institution': 'Aix-Marseille Sciences Economiques'}"
+          ],
+          "presenter": "Nicolas Posso Gonzalez"
+        },
+        {
+          "title": "Interaction of market-power exercise between day-ahead and real-time markets for energy and reserves",
+          "authors": [
+            "{'name': 'Laureen Deman', 'institution': \"Laboratoire d'Economie Appliquée de Grenoble\"}"
+          ],
+          "presenter": "Laureen Deman"
+        },
+        {
+          "title": "Subsidizing EVs: the role of vertical and horizontal preferences",
+          "authors": [
+            "{'name': 'Ariane Bousquet', 'institution': 'Laboratoire Aménagement Économie Transports'}"
+          ],
+          "presenter": "Ariane Bousquet"
+        }
+      ]
+    },
+    {
+      "session_title": "Gender",
+      "chair": {
+        "name": "Emilie Arnoult",
+        "institution": ""
+      },
+      "date": "Friday, June 5, 2026",
+      "time": "14:00 - 16:00",
+      "room": "209",
+      "papers": [
+        {
+          "title": "Electoral Competition and Women's Party Leadership: The Case of French Municipalities",
+          "authors": [
+            "{'name': 'Pauline MILLE', 'institution': 'Centre de recherche en économie et management'}"
+          ],
+          "presenter": "Pauline MILLE"
+        },
+        {
+          "title": "Does gender pay gap matter? Relative position, transparency, and well-being",
+          "authors": [
+            "{'name': 'Alexandra Lugova', 'institution': 'Institut de Recherche en Gestion et en Economie'}"
+          ],
+          "presenter": "Alexandra Lugova"
+        },
+        {
+          "title": "Surqualification et déclassement professionnel au Maroc : déterminants microéconomiques chez les lauréats de la formation professionnelle",
+          "authors": [
+            "{'name': 'Aomar IBOURK', 'institution': \"Cadi Ayyad University, LIREQ-2D: Laboratoire d'Innovation, de Recherche en Economie Quantitative et de Développement Durable., Mohammed VI Polytechnic University Africa Institute for Research in Economics and Social Sciences (AIRESS), Rabat, Morocco., Policy Center for the New South, Rabat, Morocco\"}"
+          ],
+          "presenter": "Aomar IBOURK"
+        },
+        {
+          "title": "Les attentes des recruteurs en matière de soft skills ont-elles une incidence sur la discrimination à l'embauche selon le genre ?",
+          "authors": [
+            "{'name': 'Véronique REMY', 'institution': \"Direction de l'animation de la recherche, des études et des statistiques\"}",
+            "{'name': 'Emilie ARNOULT', 'institution': \"Centre d'études de l'emploi et du travail, Conservatoire national des arts et métiers\"}"
+          ],
+          "presenter": "Véronique REMY"
+        }
+      ]
+    },
+    {
+      "session_title": "Health Economics",
+      "chair": {
+        "name": "David Margolis",
+        "institution": ""
+      },
+      "date": "Friday, June 5, 2026",
+      "time": "14:00 - 16:00",
+      "room": "211",
+      "papers": [
+        {
+          "title": "Determinants of smartwatches data sharing with insurers: an international analysis",
+          "authors": [
+            "{'name': 'Anthony Vuillaume', 'institution': 'ENS Paris-Saclay'}",
+            "{'name': 'Denis Charles', 'institution': 'EconomiX'}"
+          ],
+          "presenter": "Anthony Vuillaume"
+        },
+        {
+          "title": "Le fardeau des facteurs de risques psychosociaux : quel impact sur la santé des professionnels de santé hospitaliers ?",
+          "authors": [
+            "{'name': 'Estelle Augé', 'institution': 'Institut de Recherche et Documentation en Economie de la Santé'}"
+          ],
+          "presenter": "Estelle Augé"
+        },
+        {
+          "title": "Overlapping scopes of practice and competition between health professional groups. The case of sexual and reproductive primary care in France.",
+          "authors": [
+            "{'name': 'Jean-Baptiste Delaye', 'institution': 'beta'}"
+          ],
+          "presenter": "Jean-Baptiste Delaye"
+        },
+        {
+          "title": "Les effets de l'instauration d'un jour de carence sur les absences pour maladie ordinaire des agents publics territoriaux. Une évaluation sur données administratives",
+          "authors": [
+            "{'name': 'Lanfranchi Joseph', 'institution': \"Laboratoire d'économie mathématique et de microéconomie appliquée, Centre d'études de l'emploi et du travail\"}"
+          ],
+          "presenter": "Lanfranchi Joseph"
+        }
+      ]
+    },
+    {
+      "session_title": "Inequalities",
+      "chair": {
+        "name": "Thierry Kamionka",
+        "institution": ""
+      },
+      "date": "Friday, June 5, 2026",
+      "time": "14:00 - 16:00",
+      "room": "UX1 (RDC)",
+      "papers": [
+        {
+          "title": "Temporary Internal Migration and Household Diets: Evidence from Nigeria",
+          "authors": [
+            "{'name': 'Adrien Gosselin-Pali', 'institution': 'Université de Namur, CRED'}"
+          ],
+          "presenter": "Adrien Gosselin-Pali"
+        },
+        {
+          "title": "Multidimensional Poverty in France: Insights from a Preference-Based Measurement Approach",
+          "authors": [
+            "{'name': 'Eleonore Richard', 'institution': \"Université Paris 1 Panthéon-Sorbonne - École d'économie de la Sorbonne\"}"
+          ],
+          "presenter": "Eleonore Richard"
+        },
+        {
+          "title": "Revisiting Livecycle Expenditure and Income",
+          "authors": [
+            "{'name': 'Thierry Kamionka', 'institution': 'CNRS and CREST (PARIS)'}"
+          ],
+          "presenter": "Thierry Kamionka"
+        }
+      ]
+    }
+  ],
+  "participants": [
+    {
+      "name": "Adélaïde Fadhuile",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Emilie Cocco",
+      "institution": "Bureau d'Économie Théorique et Appliquée, Chaire économie du climat",
+      "is_presenter": false,
+      "papers": [
+        "Irrigation and Structural Transformation: Lessons from Half a Century in French Agriculture"
+      ]
+    },
+    {
+      "name": "Fabien Candau",
+      "institution": "Université de Pau et des Pays de l'Adour",
+      "is_presenter": false,
+      "papers": [
+        "Slow to Hire, Slow to Fire: Labour Adjustment Frictions in French Viticulture"
+      ]
+    },
+    {
+      "name": "Adelaide Fadhuile",
+      "institution": "Univ. Grenoble Alpes, CNRS, INRAE, Grenoble INP, GAEL",
+      "is_presenter": false,
+      "papers": [
+        "Impacts of low pesticides practices on farmers' crop production decision: Estimation based on observed French data"
+      ]
+    },
+    {
+      "name": "Florian Moussi-Beylie",
+      "institution": "",
+      "is_presenter": false,
+      "papers": [
+        "L'impact du Pass'Sport sur la pratique sportive des jeunes : une évaluation en doubles différences continues"
+      ]
+    },
+    {
+      "name": "Yannick Malalanirina",
+      "institution": "Centre d'Études et de Recherches sur le Développement International",
+      "is_presenter": false,
+      "papers": [
+        "Fostering gender attitudes and behaviors: Evidence from a Sport Education Program"
+      ]
+    },
+    {
+      "name": "Diego José Rivera Obón",
+      "institution": "Réseaux Innovation Territoires et Mondialisation",
+      "is_presenter": false,
+      "papers": [
+        "Can Regulation Restore Competitive Balance? Evidence from the Football Transfer Market"
+      ]
+    },
+    {
+      "name": "Yves Schaeffer",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Florent Sari",
+      "institution": "ERUDITE",
+      "is_presenter": false,
+      "papers": [
+        "Externality Effects of Building Collapses due to Insufficient Renovation",
+        "Bigger cities, more crime? Lessons from French data"
+      ]
+    },
+    {
+      "name": "Chloé DUVIVIER",
+      "institution": "INRAE Umr Territoires",
+      "is_presenter": false,
+      "papers": [
+        "La piétonnisation des centres urbains : quels effets sur les commerces ?"
+      ]
+    },
+    {
+      "name": "Lionel Védrine",
+      "institution": "INRAE Umr Territoires",
+      "is_presenter": false,
+      "papers": [
+        "La piétonnisation des centres urbains : quels effets sur les commerces ?"
+      ]
+    },
+    {
+      "name": "Corinne Chaton",
+      "institution": "",
+      "is_presenter": false,
+      "papers": [
+        "How has COVID-19 influenced the dynamics of fuel poverty in mainland France"
+      ]
+    },
+    {
+      "name": "Rémi Peltier",
+      "institution": "Université Grenoble Alpes - Faculté d'Économie de Grenoble",
+      "is_presenter": false,
+      "papers": [
+        "Social Housing and Social Diversity in France"
+      ]
+    },
+    {
+      "name": "Cécile Gayet",
+      "institution": "Université Paris 1 Panthéon-Sorbonne - École d'économie de la Sorbonne",
+      "is_presenter": false,
+      "papers": [
+        "Quantifying and understanding imperfect take-up rate of French minimum income"
+      ]
+    },
+    {
+      "name": "Paolo Crosetto",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Katharina Lobo",
+      "institution": "Bocconi University (Milan),",
+      "is_presenter": false,
+      "papers": [
+        "Pay Up or Pile Up: Willingness to Pay for Waste Collection Services in Conakry"
+      ]
+    },
+    {
+      "name": "Tanguy Richard",
+      "institution": "IFP Energies nouvelles, Centre de recherche en économie et management",
+      "is_presenter": false,
+      "papers": [
+        "Voting Between Social Justice and Rewarding Pro-environmental Behaviour - A Laboratory Experiment"
+      ]
+    },
+    {
+      "name": "Assia Abdelfattah",
+      "institution": "Laboratoire d'Economie Appliquée de Grenoble",
+      "is_presenter": false,
+      "papers": [
+        "The acceptability of carbon taxations and regulation under inequality: An experimental market game"
+      ]
+    },
+    {
+      "name": "Stéphane Lemarié",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Benaissa Larbi",
+      "institution": "Laboratoire d'Economie Appliquée de Grenoble",
+      "is_presenter": false,
+      "papers": [
+        "The Value and Quality of Private Labels in the Agricultural Seed Mixtures Market"
+      ]
+    },
+    {
+      "name": "Thierry Kamionka",
+      "institution": "CNRS and CREST (Paris)",
+      "is_presenter": false,
+      "papers": [
+        "About tree growth, climate shocks and forest transaction prices",
+        "Revisiting Livecycle Expenditure and Income"
+      ]
+    },
+    {
+      "name": "Mihai Tivadar",
+      "institution": "Univ. Grenoble Alpes, INRAE, LESSEM",
+      "is_presenter": false,
+      "papers": [
+        "Biophysical and Individual Determinants of Harvesting Decisions by Private Forest Owners: Evidence from a Parcel-Based Survey in France"
+      ]
+    },
+    {
+      "name": "Thierry Blayac",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Louis MAROLLEAU",
+      "institution": "Univ. Lille, CNRS, IESEG School of Management, LEM - Lille Économie Management",
+      "is_presenter": false,
+      "papers": [
+        "Do prepared cities weather floods better?"
+      ]
+    },
+    {
+      "name": "Florence Lecuit",
+      "institution": "Développement, Institutions et Modialisation",
+      "is_presenter": false,
+      "papers": [
+        "Child Nutritional Vulnerability to Rainfall Shocks"
+      ]
+    },
+    {
+      "name": "Paul Vertier",
+      "institution": "Banque de France",
+      "is_presenter": false,
+      "papers": [
+        "The Impact of Floods on Firm Performance and Relocation"
+      ]
+    },
+    {
+      "name": "Pierre Uginet",
+      "institution": "Laboratoire d'Economie Appliquée de Grenoble",
+      "is_presenter": false,
+      "papers": [
+        "Meltwater, seasonality and economic activity in South Asia"
+      ]
+    },
+    {
+      "name": "Liliane Bonnal",
+      "institution": "",
+      "is_presenter": false,
+      "papers": [
+        "When Education Misses the Job: Wage Penalties, Mobility, and Early Career Inequality"
+      ]
+    },
+    {
+      "name": "Magali Dumontet",
+      "institution": "EconomiX",
+      "is_presenter": false,
+      "papers": [
+        "Occupational Heritability: Mobility, Skills or Networks Barriers to Entry into the Medical Profession"
+      ]
+    },
+    {
+      "name": "Cécile Aubert",
+      "institution": "Bordeaux School of Economics",
+      "is_presenter": false,
+      "papers": [
+        "May employers exploit parental love? Incentives for altruistic agents under moral hazard"
+      ]
+    },
+    {
+      "name": "Arnaud Wittmer",
+      "institution": "Bureau d'Économie Théorique et Appliquée",
+      "is_presenter": false,
+      "papers": [
+        "The Impact of Firm-Level Agreements on Wage Inequalities in France"
+      ]
+    },
+    {
+      "name": "Quitterie Roquebert",
+      "institution": "",
+      "is_presenter": false,
+      "papers": [
+        "How do physician prices and activity respond to competition? The role of the shortage context"
+      ]
+    },
+    {
+      "name": "Gaëtan Ménard",
+      "institution": "Centre de Recherche en Économie et Statistique, École Nationale de la Statistique et de l'Administration Économique",
+      "is_presenter": false,
+      "papers": [
+        "Patients Relocation and Hospital Responses to Hospital Closures: Evidence from France"
+      ]
+    },
+    {
+      "name": "Emilie Chen",
+      "institution": "École des Hautes Études en Santé Publique (EHESP),",
+      "is_presenter": false,
+      "papers": [
+        "Prendre soin des soignants : quel est le coût de l'inaction ? Résultats d'une enquête sur l'absentéisme et le présentéisme dans les hôpitaux français"
+      ]
+    },
+    {
+      "name": "Dylan Martin-Lapoirie",
+      "institution": "Centre d'économie de la Sorbonne",
+      "is_presenter": false,
+      "papers": [
+        "Working conditions of self-employed nurses: implications for the supply of care from 2019 to 2025?"
+      ]
+    },
+    {
+      "name": "Nathalie Havet",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Andrea Rangel Guevara",
+      "institution": "Institut de Recherche en Gestion et Economie",
+      "is_presenter": false,
+      "papers": [
+        "Mobility Gini: distributional effects of climate policies through transportation choices"
+      ]
+    },
+    {
+      "name": "Alex Newnham",
+      "institution": "Réseaux Innovation Territoires et Mondialisation",
+      "is_presenter": false,
+      "papers": [
+        "Beyond Stickiness: Unravelling the Complexities of Worker Mobility and Occupational Switching"
+      ]
+    },
+    {
+      "name": "Maël Jammes",
+      "institution": "Center for Environmental Economics - Montpellier",
+      "is_presenter": false,
+      "papers": [
+        "Trapped In Congestion? The Impact Of Truck Traffic On Local Workers"
+      ]
+    },
+    {
+      "name": "Mila Le Morvan-Chevestre",
+      "institution": "Laboratoire Aménagement Economie Transport",
+      "is_presenter": false,
+      "papers": [
+        "La colocation étudiante favorise-t-elle le covoiturage domicile-campus ? Intercations entre pratiques de l'économie du partage"
+      ]
+    },
+    {
+      "name": "Hélène Bouscasse",
+      "institution": "",
+      "is_presenter": false,
+      "papers": [
+        "Too Hot to Stay? Causal Evidence of Heatwaves on Residential Mobility"
+      ]
+    },
+    {
+      "name": "Aditi Kharb",
+      "institution": "University College Dublin",
+      "is_presenter": false,
+      "papers": [
+        "Beyond Rainfall: Labor, Livelihoods, and the Hidden Costs of Drought"
+      ]
+    },
+    {
+      "name": "Emile Chaput",
+      "institution": "Centre International de Recherche sur l'Environnement et le Développement",
+      "is_presenter": false,
+      "papers": [
+        "Hot weather worsens anemia: evidence from Indonesian panel data"
+      ]
+    },
+    {
+      "name": "Olivier Bonroy",
+      "institution": "",
+      "is_presenter": false,
+      "papers": [
+        "Vertical Control in the Presence of Intertemporal Externalities from Recycling"
+      ]
+    },
+    {
+      "name": "Vincent Jardine",
+      "institution": "Sciences Po, Département d'économie",
+      "is_presenter": false,
+      "papers": [
+        "The newer the better? Electoral turnovers and public procurement outcomes: evidence from French municipalities"
+      ]
+    },
+    {
+      "name": "Ivan Marin",
+      "institution": "Institut Agro Dijon",
+      "is_presenter": false,
+      "papers": [
+        "Dynamic effects of antitrust enforcement: The case of the antitrust inquiry in Quebec, Canada"
+      ]
+    },
+    {
+      "name": "Véronique Simonet",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Melchior Clerc",
+      "institution": "Centre d'Études et de Recherches sur le Développement International",
+      "is_presenter": false,
+      "papers": [
+        "Facing Pressure, Choosing Distance: Female Genital Cutting and Girls' Mobility in Sub-Saharan Africa"
+      ]
+    },
+    {
+      "name": "Adrien VALLETTE",
+      "institution": "Centre de Recherche en Économie et Statistique",
+      "is_presenter": false,
+      "papers": [
+        "The Serial Monogamist and the Involuntary Celibate: How Divorce Shapes the Gender Gap in Childlessness"
+      ]
+    },
+    {
+      "name": "Mikaël Pasternak",
+      "institution": "Université de Lille",
+      "is_presenter": false,
+      "papers": [
+        "Cultural Shock Transmission and Sense of Home among Second Generation Immigrants"
+      ]
+    },
+    {
+      "name": "Dorgyles Kouakou",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Louis Levy-Garboua",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Théo Savey",
+      "institution": "Centre d'Economie de l'Environnement - Montpellier",
+      "is_presenter": false,
+      "papers": [
+        "Who Can Be Nudged? Experimental Evidence on Social Norms and Locus of Control"
+      ]
+    },
+    {
+      "name": "Anaëlle DENIEUL--BARBOT",
+      "institution": "Centre d'économie et de sociologie rurales appliquées à l'agriculture et aux espaces ruraux",
+      "is_presenter": false,
+      "papers": [
+        "Do Educational Workshops Enhance the Effects of Targeted Food Vouchers? Evidence from a Randomized Controlled Trial"
+      ]
+    },
+    {
+      "name": "Louis Lévy-Garboua",
+      "institution": "Centre d'économie de la Sorbonne, Paris-Jourdan Sciences Economiques, Université Paris 1, Panthéon-Sorbonne, Centre interuniversitaire de recherche en analyse des organisations",
+      "is_presenter": false,
+      "papers": [
+        "Intuitive rationality: A theory of cognitive biases in riskless and risky decisions"
+      ]
+    },
+    {
+      "name": "Marianne Lefebvre",
+      "institution": "",
+      "is_presenter": false,
+      "papers": [
+        "Combined social norms: when meters matter !"
+      ]
+    },
+    {
+      "name": "Komlavi II Adjegan",
+      "institution": "LEDa, UMR DIAL-IRD",
+      "is_presenter": false,
+      "papers": [
+        "Modeling Household Water Source Choice in a Water-Rich Context: Evidence from Peri-Urban Kinshasa, DRC."
+      ]
+    },
+    {
+      "name": "Ngoc Thao NOET",
+      "institution": "Université Gustave Eiffel, Théorie et Evaluation des Politiques Publiques (TEPP ; FR 2042)",
+      "is_presenter": false,
+      "papers": [
+        "Changer les habitudes par l'accompagnement : preuves des programmes de réduction d'énergie"
+      ]
+    },
+    {
+      "name": "Walid GUENBIB",
+      "institution": "Gestion de l'Eau, Acteurs, Usages",
+      "is_presenter": false,
+      "papers": [
+        "Determinants of drinking water consumption in Mediterranean France: contribution of pricing and non-pricing measures"
+      ]
+    },
+    {
+      "name": "Sylvain Mignot",
+      "institution": "",
+      "is_presenter": false,
+      "papers": [
+        "Creators' Commenting strategies on Youtube."
+      ]
+    },
+    {
+      "name": "Mathilde Aubouin",
+      "institution": "GAEL, University of Grenoble Alpes",
+      "is_presenter": false,
+      "papers": [
+        "Environmental and economic trade-offs in datacenter location under jurisdictional competition"
+      ]
+    },
+    {
+      "name": "Christos Constantatos",
+      "institution": "University of Macedonia",
+      "is_presenter": false,
+      "papers": [
+        "Data Acquisition, Price Discrimination and Endogenous Consumer Privacy"
+      ]
+    },
+    {
+      "name": "Pascal Favard",
+      "institution": "",
+      "is_presenter": false,
+      "papers": [
+        "Aide de long terme, dépression et solitude : effets très contrastés entre hommes et femmes"
+      ]
+    },
+    {
+      "name": "Théo Denis",
+      "institution": "Laboratoire d'économie mathématique et de microéconomie appliquée",
+      "is_presenter": false,
+      "papers": [
+        "All work and no rest makes Jack a sick boy : A causal analysis of sickness absence and presenteeism on health"
+      ]
+    },
+    {
+      "name": "Anais Cheneau",
+      "institution": "Laboratoire Interdisciplinaire de Recherche Appliquée en Economie de la Santé",
+      "is_presenter": false,
+      "papers": [
+        "Caregiving, mental health and familial norms: Evidence from a matched sample of French adult children"
+      ]
+    },
+    {
+      "name": "Audrey Glass",
+      "institution": "Univ. Lille, CNRS, IESEG School of Management, UMR 9221 - LEM - Lille Économie Management",
+      "is_presenter": false,
+      "papers": [
+        "Population Preferences for the Diagnosis of Chronic Obstructive Pulmonary Disease: a Discrete Choice Experiment"
+      ]
+    },
+    {
+      "name": "Manon Garrouste",
+      "institution": "",
+      "is_presenter": false,
+      "papers": [
+        "When education and urban policies overlap: Effect on academic achievement"
+      ]
+    },
+    {
+      "name": "Alberto Corsini",
+      "institution": "Spanish National Research Council (Madrid),",
+      "is_presenter": false,
+      "papers": [
+        "Structuring PhD Programs: More control, better outcomes?"
+      ]
+    },
+    {
+      "name": "Sophie Panel",
+      "institution": "Sciences Po Grenoble, Université Grenoble Alpes",
+      "is_presenter": false,
+      "papers": [
+        "The ambiguous effects of recreational marijuana laws on school performance"
+      ]
+    },
+    {
+      "name": "Moussa Kheddache",
+      "institution": "Equipe de Recherche sur l'Utilisation des Données Individuelles en lien avec la Théorie Economique",
+      "is_presenter": false,
+      "papers": [
+        "Les cités éducatives, entre éducation prioritaire et politique de la ville : une première évaluation."
+      ]
+    },
+    {
+      "name": "Bérangère Legendre",
+      "institution": "",
+      "is_presenter": false,
+      "papers": [
+        "The Impact of Teleworking on Greenhouse Gas Emissions: A Doubly Robust Difference-in-Differences Analysis Using French Data"
+      ]
+    },
+    {
+      "name": "ROMAIN GATÉ",
+      "institution": "Laboratoire d'Economie de Dauphine, Chaire Economie du Climat",
+      "is_presenter": false,
+      "papers": [
+        "Temps de trajet en heure de pointe et formes urbaines: cas d'étude sur les aires urbaines françaises"
+      ]
+    },
+    {
+      "name": "Maïté Stephan",
+      "institution": "Centre de recherche en économie et management",
+      "is_presenter": false,
+      "papers": [
+        "How much individuals are willing to pay to save travel time and improve reliability?"
+      ]
+    },
+    {
+      "name": "Thibaut Lapeyre",
+      "institution": "Paris School of Economics",
+      "is_presenter": false,
+      "papers": [
+        "Fairness, Pricing, and Modal Shift: Behavioral Perspectives on Urban Toll Acceptability"
+      ]
+    },
+    {
+      "name": "Julien Salanié",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Franck VIROLEAU",
+      "institution": "Laboratoire d'Economie Rouen Normandie",
+      "is_presenter": false,
+      "papers": [
+        "Limites de l'effet de saillance après un accident industriel majeur : évidence empirique suite à l'incendie Lubrizol"
+      ]
+    },
+    {
+      "name": "Sébastien Carrère",
+      "institution": "Laboratoire d'Economie Appliquée de Grenoble",
+      "is_presenter": false,
+      "papers": [
+        "Choosing Homes, Facing Hazards: Evidence on Environmental Risk, their Perception and Location Decisions"
+      ]
+    },
+    {
+      "name": "JULIEN SALANIE",
+      "institution": "UMR 5824 - GATE LSE",
+      "is_presenter": false,
+      "papers": [
+        "Do Headlines Clean Beaches? Media Pressure, Property Values, and Pollution Mitigation in France"
+      ]
+    },
+    {
+      "name": "Nandeeta Neerunjun",
+      "institution": "",
+      "is_presenter": false,
+      "papers": [
+        "Optimal electricity consumption and storage under short-term renewable supply variability"
+      ]
+    },
+    {
+      "name": "Sylvain Belrose",
+      "institution": "Climate Economics Chair, Université Paris Nanterre, EDF Recherche et Développement",
+      "is_presenter": false,
+      "papers": [
+        "Green Innovation Beyond Patents: Technological Frontiers and Industrial Decarbonization in the EU ETS"
+      ]
+    },
+    {
+      "name": "Laetitia Challe",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Eloïse Menestrier",
+      "institution": "Institut national d'études démographiques",
+      "is_presenter": false,
+      "papers": [
+        "Hiring Effects of the Disability Employment Quota: A Study of Quota Coverage Expansion"
+      ]
+    },
+    {
+      "name": "Soukaina Ragbi",
+      "institution": "Centre de recherche en économie de Grenoble",
+      "is_presenter": false,
+      "papers": [
+        "Croissance salariale différenciée et inégalités persistantes au Maroc : une analyse microéconométrique des déterminants dans le secteur privé formel"
+      ]
+    },
+    {
+      "name": "Aurélien Boyer",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "OUSMANE MARIKO",
+      "institution": "Faculté des Sciences Economiques et de Gestion de Bamako",
+      "is_presenter": false,
+      "papers": [
+        "Conflits armés et travail des enfants au Mali: une analyse microéconométrique"
+      ]
+    },
+    {
+      "name": "Mohamed NIARE",
+      "institution": "Faculté des Sciences Economiques et de Gestion de Bamako",
+      "is_presenter": false,
+      "papers": [
+        "Conflits armés et travail des enfants au Mali: une analyse microéconométrique"
+      ]
+    },
+    {
+      "name": "Sodavann Hak",
+      "institution": "Groupe d'Analyse et de Théorie Economique Lyon - Saint-Etienne",
+      "is_presenter": false,
+      "papers": [
+        "The Impact of Decentralization on Subjective Well-being: Evidence from Indonesia"
+      ]
+    },
+    {
+      "name": "Aurelien Boyer",
+      "institution": "CES - Université Paris 1 Panthéon-Sorbonne",
+      "is_presenter": false,
+      "papers": [
+        "Contrôle et sanction des bénéficiaires du RSA : les disparités départementales selon l'orientation politique"
+      ]
+    },
+    {
+      "name": "Carole Treibich",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Julie Robin",
+      "institution": "Université Rouen Normandie, EDF R&D",
+      "is_presenter": false,
+      "papers": [
+        "Do prosumers shift consumption ? Empirical evidence from Non-Residential firms under net-billing tariff"
+      ]
+    },
+    {
+      "name": "Nicolas Posso Gonzalez",
+      "institution": "Aix-Marseille Sciences Economiques",
+      "is_presenter": false,
+      "papers": [
+        "L'expérience et la taille importent-ils ? Critères de choix d'un véhicule électrique"
+      ]
+    },
+    {
+      "name": "Laureen Deman",
+      "institution": "Laboratoire d'Economie Appliquée de Grenoble",
+      "is_presenter": false,
+      "papers": [
+        "Interaction of market-power exercise between day-ahead and real-time markets for energy and reserves"
+      ]
+    },
+    {
+      "name": "Ariane Bousquet",
+      "institution": "Laboratoire Aménagement Économie Transports",
+      "is_presenter": false,
+      "papers": [
+        "Subsidizing EVs: the role of vertical and horizontal preferences"
+      ]
+    },
+    {
+      "name": "Emilie Arnoult",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Pauline MILLE",
+      "institution": "Centre de recherche en économie et management",
+      "is_presenter": false,
+      "papers": [
+        "Electoral Competition and Women's Party Leadership: The Case of French Municipalities"
+      ]
+    },
+    {
+      "name": "Alexandra Lugova",
+      "institution": "Institut de Recherche en Gestion et en Economie",
+      "is_presenter": false,
+      "papers": [
+        "Does gender pay gap matter? Relative position, transparency, and well-being"
+      ]
+    },
+    {
+      "name": "Aomar IBOURK",
+      "institution": "Cadi Ayyad University, LIREQ-2D: Laboratoire d'Innovation, de Recherche en Economie Quantitative et de Développement Durable., Mohammed VI Polytechnic University Africa Institute for Research in Economics and Social Sciences (AIRESS), Rabat, Morocco., Policy Center for the New South, Rabat, Morocco",
+      "is_presenter": false,
+      "papers": [
+        "Surqualification et déclassement professionnel au Maroc : déterminants microéconomiques chez les lauréats de la formation professionnelle"
+      ]
+    },
+    {
+      "name": "Véronique REMY",
+      "institution": "Direction de l'animation de la recherche, des études et des statistiques",
+      "is_presenter": false,
+      "papers": [
+        "Les attentes des recruteurs en matière de soft skills ont-elles une incidence sur la discrimination à l'embauche selon le genre ?"
+      ]
+    },
+    {
+      "name": "David Margolis",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Anthony Vuillaume",
+      "institution": "ENS Paris-Saclay",
+      "is_presenter": false,
+      "papers": [
+        "Determinants of smartwatches data sharing with insurers: an international analysis"
+      ]
+    },
+    {
+      "name": "Denis Charles",
+      "institution": "EconomiX",
+      "is_presenter": false,
+      "papers": [
+        "Determinants of smartwatches data sharing with insurers: an international analysis"
+      ]
+    },
+    {
+      "name": "Estelle Augé",
+      "institution": "Institut de Recherche et Documentation en Economie de la Santé",
+      "is_presenter": false,
+      "papers": [
+        "Le fardeau des facteurs de risques psychosociaux : quel impact sur la santé des professionnels de santé hospitaliers ?"
+      ]
+    },
+    {
+      "name": "Jean-Baptiste Delaye",
+      "institution": "beta",
+      "is_presenter": false,
+      "papers": [
+        "Overlapping scopes of practice and competition between health professional groups. The case of sexual and reproductive primary care in France."
+      ]
+    },
+    {
+      "name": "Lanfranchi Joseph",
+      "institution": "Laboratoire d'économie mathématique et de microéconomie appliquée, Centre d'études de l'emploi et du travail",
+      "is_presenter": false,
+      "papers": [
+        "Les effets de l'instauration d'un jour de carence sur les absences pour maladie ordinaire des agents publics territoriaux. Une évaluation sur données administratives"
+      ]
+    },
+    {
+      "name": "Adrien Gosselin-Pali",
+      "institution": "Université de Namur, CRED",
+      "is_presenter": false,
+      "papers": [
+        "Temporary Internal Migration and Household Diets: Evidence from Nigeria"
+      ]
+    },
+    {
+      "name": "Eleonore Richard",
+      "institution": "Université Paris 1 Panthéon-Sorbonne - École d'économie de la Sorbonne",
+      "is_presenter": false,
+      "papers": [
+        "Multidimensional Poverty in France: Insights from a Preference-Based Measurement Approach"
+      ]
+    }
+  ]
+}

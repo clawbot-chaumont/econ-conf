@@ -1,0 +1,2244 @@
+{
+  "conference": {
+    "name": "AFSE 2026 - 74th Congress of the French Economic Association",
+    "short_name": "AFSE",
+    "year": 2026,
+    "start_date": "2026-06-17",
+    "end_date": "2026-06-19",
+    "location": "Paris, France"
+  },
+  "scrape_metadata": {
+    "scraped_at": "2026-06-13T07:46:32.550385",
+    "source_url": "https://afse2026.sciencesconf.org",
+    "program_available": true,
+    "program_type": "web",
+    "errors": []
+  },
+  "sessions": [
+    {
+      "session_title": "AFC  Histoire de la pensee economique",
+      "chair": "Magali Jaoul- Grammare",
+      "room": "Room 207",
+      "papers": [
+        {
+          "title": "De l'ombre a la Memoire : Redonner une voix aux femmes  Mortes pour la France  en 1914-1918",
+          "authors": [
+            "Jaoul-Grammare Magali"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Werner Sombart and the Deep Origins of Creative Destruction",
+          "authors": [
+            "Diebolt Claude"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Between economics and philosophy: a reappraisal of the Rawls-Harsanyi debate",
+          "authors": [
+            "Igersheim Herrade"
+          ],
+          "presenter": ""
+        }
+      ]
+    },
+    {
+      "session_title": "Carbon Markets and Climate Finance",
+      "chair": "Room 105 De Villeneuve Bargemon Mahaut",
+      "papers": [
+        {
+          "title": "Navigating frictions in decentralised carbon credit markets: exploring buyers responses to uncertainty",
+          "authors": [
+            "L'horty Tara"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "PSL Climate Black-Litterman: physical risk integration in portfolio management",
+          "authors": [
+            "Bhaugeerutty Meghna"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Cergy Paris Universite The Insurer-Investor Dilemma: When Insurers Fuel the Risks They Cover",
+          "authors": [
+            "De Villeneuve Bargemon"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Self-Selection in Retail Electricity Contracts",
+          "authors": [
+            "Monjoie Leopold"
+          ],
+          "presenter": ""
+        }
+      ]
+    },
+    {
+      "session_title": "Biodiversity, Planetary Boundaries and Land Use",
+      "chair": "Room 206 Carrere Sebastien",
+      "papers": [
+        {
+          "title": "Accounting for interrelated planetary boundaries: a model with biodiversity and climate change",
+          "authors": [
+            "Rangel Guevara Andrea"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Who Participates in Voluntary Climate Programs? Evidence of Self- Selection in Citizen Decarbonization Initiatives",
+          "authors": [
+            "Collet Charles"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Housing as Environmental Mediator: Evidence from the Rouen Metropolitan Area",
+          "authors": [
+            "Borne Romuald"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Choosing Homes, Facing Hazards: Evidence on Environmental Risk Perceptions",
+          "authors": [
+            "Carrere Sebastien"
+          ],
+          "presenter": ""
+        }
+      ]
+    },
+    {
+      "session_title": "Hiring Discrimination: Experiments and",
+      "chair": "Evidence Room 205 Dagorn Etienne",
+      "papers": [
+        {
+          "title": "Field Experimental Evidence on Hiring Discrimination in the German Apprenticeship Market",
+          "authors": [
+            "Wiemann Dilara"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Lyon 1 Hiring Discrimination Based on Visible Disability: Evidence from a French Experiment with video CV",
+          "authors": [
+            "Mahmoudi Naomie"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Hiring Discrimination Against Women Wearing Headscarves in France: A Test on Access to Apprenticeships",
+          "authors": [
+            "Chareyron Sylvain"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "How Teachers Value School Behavior",
+          "authors": [
+            "Dagorn Etienne"
+          ],
+          "presenter": ""
+        }
+      ]
+    },
+    {
+      "session_title": "Economic History and Long-Run Growth",
+      "chair": "Berland Brice",
+      "room": "Room 108",
+      "papers": [
+        {
+          "title": "A Theory of Inequality in Early Agricultural Societies",
+          "authors": [
+            "Le Fur Tanguy"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Deskilling in Germany? An Inquiry into the German Industrial Revolution",
+          "authors": [
+            "Motel-Combes Pascale"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "CREST Left Behind: The Local Effects of Deindustrialization in France",
+          "authors": [
+            "Berland Brice"
+          ],
+          "presenter": ""
+        }
+      ]
+    },
+    {
+      "session_title": "AFREN  Economie numerique",
+      "chair": "Dominique Torre",
+      "room": "Room 207",
+      "papers": [
+        {
+          "title": "Business School Exploring Digital Sovereignty Through Data Flows : Empirical Evidence from the Backbone of the Internet",
+          "authors": [
+            "Leka Enxhi"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Deliver Us from Crime? Gig Jobs, Labor Market Opportunities, and Offending",
+          "authors": [
+            "Allouard Hugo"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Antipolis Digital labor platforms : Are bad freelancers driving out good ones ?",
+          "authors": [
+            "Dominique Torre"
+          ],
+          "presenter": ""
+        }
+      ]
+    },
+    {
+      "session_title": "International Finance",
+      "chair": "and Trade Room 105 Kouassi Yao",
+      "papers": [
+        {
+          "title": "PSL Systemic Risk and International Trade",
+          "authors": [
+            "Liu Renzhi"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "From Diversification to Retrenchment: Geopolitical Exposure and Corporate Internationalization. A Panel Study on G7 firms, 2000- 2023",
+          "authors": [
+            "Mulkay Benoit"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Ouverture commerciale, corruption et productivite : cas des pays de lUEMOA",
+          "authors": [
+            "Kouassi Yao"
+          ],
+          "presenter": ""
+        }
+      ]
+    },
+    {
+      "session_title": "AFEDEV  Economie du developpement (I)",
+      "chair": "Lecuit Florence",
+      "room": "Room 206",
+      "papers": [
+        {
+          "title": "PSL Child Nutritional Vulnerability to Rainfall Shocks",
+          "authors": [
+            "Lecuit Florence"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "PSL Crises and Women's Labour Market Dynamics in Brazil",
+          "authors": [
+            "Bouvier Mathilde"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Impact of a wage subsidy policy on skilled female employment: the Moroccan case",
+          "authors": [
+            "Yassine Nour El Hoda"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Automated Market Making for Energy Sharing",
+          "authors": [
+            "Fabi Michele"
+          ],
+          "presenter": ""
+        }
+      ]
+    },
+    {
+      "session_title": "Green Finance: Green Bonds and ESG",
+      "chair": "Investing Room 109 Harpedanne De Belleville Louis-Marie",
+      "papers": [
+        {
+          "title": "Firm-Level Determinants of Green Bond Issuance in a Global, Institutionally Heterogeneous Setting",
+          "authors": [
+            "Ayachi Syrine"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Greenium and Bond Spreads: An Empirical Study of Green Bonds",
+          "authors": [
+            "Tournierou Paul"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Paris School of Economics Green investment, inequality and misallocation",
+          "authors": [
+            "Harpedanne De Belleville"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "What students want: Eliciting students preferences for graduate programs",
+          "authors": [
+            "Cariou Clement"
+          ],
+          "presenter": ""
+        }
+      ]
+    },
+    {
+      "session_title": "Higher Education, Mobility and Second",
+      "chair": "Cariou Clement",
+      "room": "Room 108",
+      "papers": [
+        {
+          "title": "Second Chances in Higher Education: Turning Setbacks into New Opportunities",
+          "authors": [
+            "Bechichi Nagui"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Public policies and educational mobility in higher education: Evidence from Reunion Island",
+          "authors": [
+            "Naminzo Sarodja"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Peer Gender Composition and Persistence in French Higher Education",
+          "authors": [
+            "Fils-Aime Berlanda"
+          ],
+          "presenter": ""
+        }
+      ]
+    },
+    {
+      "session_title": "Trade Frictions and Cultural Integration",
+      "chair": "Room 205 Bour Muriel",
+      "papers": [
+        {
+          "title": "Sorbonne How Due Diligence Shapes Firms' Imports",
+          "authors": [
+            "Abdelsalam Farida"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "PSL Trade Sanctions and Military Conflicts",
+          "authors": [
+            "Shaban Ramy"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Cultural Shock Transmission and Sense of Home among Second-Generation Immigrants",
+          "authors": [
+            "Bour Muriel"
+          ],
+          "presenter": ""
+        }
+      ]
+    },
+    {
+      "session_title": "INFER  Finance internationale (I)",
+      "chair": "Cristina Badarau",
+      "room": "Room 105",
+      "papers": [
+        {
+          "title": "Does oversight pay off? Independent Fiscal Institutions and Forecast Accuracy",
+          "authors": [
+            "Metz Theo"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Housing Deposit Channel of Monetary Policy and Housing Price Double-Dip",
+          "authors": [
+            "Ghiaie Hamed"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Political Affiliation and Fiscal Dominance in the USA",
+          "authors": [
+            "Lenkongui Lord"
+          ],
+          "presenter": ""
+        }
+      ]
+    },
+    {
+      "session_title": "Gender, Work and Economic Independence",
+      "chair": "Room 208 De Marcellus Kieran",
+      "papers": [
+        {
+          "title": "PSL Public Sector, Private Power? Public Services and Women's Economic Independence Within and Beyond the Household",
+          "authors": [
+            "Frecheville Romane"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Gender and Academic Mobility",
+          "authors": [
+            "Bisantis Alienor"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Assas Competing Apart or Together? Gender, Performance, and Participation",
+          "authors": [
+            "De Marcellus Kieran"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Geographical mobilities of young health professionals",
+          "authors": [
+            "Fouquet Florian"
+          ],
+          "presenter": ""
+        }
+      ]
+    },
+    {
+      "session_title": "Health Economics: Competition and Access",
+      "chair": "Fouquet Florian",
+      "room": "Room 108",
+      "papers": [
+        {
+          "title": "Overlapping scopes of practice and competition between health professional groups. The case of sexual and reproductive primary care in France.",
+          "authors": [
+            "Delaye Jean-Baptiste"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Patients Relocation and Hospital Responses to Hospital Closures: Evidence from France",
+          "authors": [
+            "Menard Gaetan"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Population Preferences for the Diagnosis of Chronic Obstructive Pulmonary Disease: a Discrete Choice Experiment",
+          "authors": [
+            "Glass Audrey"
+          ],
+          "presenter": ""
+        }
+      ]
+    },
+    {
+      "session_title": "AFED : Antitrust and Law & Econ",
+      "chair": "Ludivine Roussey",
+      "room": "Room 207",
+      "papers": [
+        {
+          "title": "Medical Decisions and Legal Liability: What does AI change ?",
+          "authors": [
+            "Briquet Lucie"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Dynamic effects of antitrust enforcement: The case of the antitrust inquiry in Quebec, Canada",
+          "authors": [
+            "Marin Ivan"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "The Hidden Hand of Political Institutions in Technological Progress.",
+          "authors": [
+            "Bonnal Michael"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Decoding Central Bank Communication: A Transformer-Based Analysis of Monetary Policy Stance and Internal Dissent",
+          "authors": [
+            "Gautier Virginie"
+          ],
+          "presenter": ""
+        }
+      ]
+    },
+    {
+      "session_title": "Digital Economy, Innovation and Technology",
+      "chair": "Gautier Virginie",
+      "room": "Room 205",
+      "papers": [
+        {
+          "title": "PSL Chips and Credit in Europe - AI Investment under Financial Frictions",
+          "authors": [
+            "Patureau Lise"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Sorbonne Editorial recommendation and emerging artists' highlighting on Spotify",
+          "authors": [
+            "Laqueyrerie Lena"
+          ],
+          "presenter": ""
+        }
+      ]
+    },
+    {
+      "session_title": "FAERE  Economie de l'environnement",
+      "chair": "Serge Garcia",
+      "room": "Room 105",
+      "papers": [
+        {
+          "title": "Leuven Beyond protectionism: Circular Economy policies as a geopolitical strategy for sufficiency and equity",
+          "authors": [
+            "Metta Julie"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Build at your own risk. Integrating natural hazards into land use regulations",
+          "authors": [
+            "Paul-Venturine Julia"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Exploring Farmers' Preferences in Adopting Organic Farming Under Uncertainty",
+          "authors": [
+            "Nguyen-Van Phu"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Limites de l'effet de saillance apres un accident industriel majeur",
+          "authors": [
+            "Briand Anne"
+          ],
+          "presenter": ""
+        }
+      ]
+    },
+    {
+      "session_title": "Political Economy and Electoral Politics",
+      "chair": "Agora Jardine Vincent",
+      "papers": [
+        {
+          "title": "Political Involvement and Parental Transmission",
+          "authors": [
+            "Arnout Alexandre"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Necessary or Optional? Gender and Coalition Strategies in French Municipal Elections",
+          "authors": [
+            "Nibourel Chloe"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "The newer the better? Electoral turnovers and public procurement outcomes: evidence from French municipalities",
+          "authors": [
+            "Jardine Vincent"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Public procurement and educational outcomes: Evidence from primary education in France (2015-2024)",
+          "authors": [
+            "Naudy Camille"
+          ],
+          "presenter": ""
+        }
+      ]
+    },
+    {
+      "session_title": "AFEDEV  Economie du developpement",
+      "chair": "(II) Room 108 Sachdev Takshil",
+      "papers": [
+        {
+          "title": "Pantheon Sorbonne Minimum Wages in Dualistic Labor Markets",
+          "authors": [
+            "Powers Abigail"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Creteil Scope and Challenges of Rising Informal Employment in Egypt over 2012-2023",
+          "authors": [
+            "Adair Philippe"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Understanding Workers' Migration Response to Shocks: Mass Layoffs in Brazil",
+          "authors": [
+            "Sachdev Takshil"
+          ],
+          "presenter": ""
+        }
+      ]
+    },
+    {
+      "session_title": "Wages, Inequality and Skill Premium",
+      "chair": "Poupelin Elsa",
+      "room": "Room 208",
+      "papers": [
+        {
+          "title": "The Impact of Firm-Level Agreements on Wage Inequalities in France",
+          "authors": [
+            "Wittmer Arnaud"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Rising Skill Premium and Shrinking Middle Class",
+          "authors": [
+            "Hellier Joel"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Pantheon Sorbonne Should Workers of the World Unite? Native- Immigrant Wage Gap and Labor Unions",
+          "authors": [
+            "Poupelin Elsa"
+          ],
+          "presenter": ""
+        }
+      ]
+    },
+    {
+      "session_title": "Public Economics, Taxation and Economic Theory",
+      "chair": "Matei Iuliana",
+      "room": "Room 109",
+      "papers": [
+        {
+          "title": "Pantheon-Assas Distortions for Nothing - Optimal Taxation of (Un)Distributed Profit",
+          "authors": [
+            "Lehmann Etienne"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Alphes Emergent properties of a competitive economy through the gradient flow approach",
+          "authors": [
+            "Fabbri Giorgio"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Saclay Overtaking criteria and supermodular payoff function",
+          "authors": [
+            "Ha-Huy Thai"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Pantheon Sorbonne Does political instability matter for sovereign yield spreads in the euro area market? A dynamic panel analysis",
+          "authors": [
+            "Matei Iuliana"
+          ],
+          "presenter": ""
+        }
+      ]
+    },
+    {
+      "session_title": "INFER  Finance internationale (II)",
+      "chair": "Turcu Camelia",
+      "room": "Room 207",
+      "papers": [
+        {
+          "title": "Standardized Mortgage Risk under New Reforms:Implications for Housing Wealth and Income Inequality",
+          "authors": [
+            "Roussel Corentin"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Corporate debt structure and monetary policy transmission",
+          "authors": [
+            "Badarau Cristina"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Monetary policy autonomy and spillover effects in an integrated world: a novel network- based indice",
+          "authors": [
+            "Turcu Camelia"
+          ],
+          "presenter": ""
+        }
+      ]
+    },
+    {
+      "session_title": "FAERE  Economie de l'environnement (II)",
+      "chair": "Julie Metta",
+      "room": "Room 108",
+      "papers": [
+        {
+          "title": "Impact of physical climate risk on the French agricultural sector : a study of heterogeneity",
+          "authors": [
+            "Renault-Dubois Louis"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Assas Political Uncertainty and Green Investment",
+          "authors": [
+            "Baud Antoine"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Universite d'Orleans Climate Action in a Geofragmented World: Do Armed Conflicts Reduce Countries' Performance Under Climate Agreements?",
+          "authors": [
+            "Nikiema Pengd-Wende"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "How green skepticism affects competition, the environment, and welfare",
+          "authors": [
+            "Brecard Dorothee"
+          ],
+          "presenter": ""
+        }
+      ]
+    },
+    {
+      "session_title": "GdRE  Monnaie, Banque, Finance (I)",
+      "chair": "Chloe Zapha",
+      "room": "Room 105",
+      "papers": [
+        {
+          "title": "Clientelist Banking and Bank Fragility in Central Africa",
+          "authors": [
+            "Djekna Votsoma"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "French Firm-Level Accounting and Credit Data: Guidelines and coverage of Banque de France's databases",
+          "authors": [
+            "Zapha Chloe"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Impact of African Diaspora on Foreign Direct Investment: The Role of Skills",
+          "authors": [
+            "Sodre Kadiatou"
+          ],
+          "presenter": ""
+        }
+      ]
+    },
+    {
+      "session_title": "Banking, Monetary Policy and Inflation",
+      "chair": "Room 208 Gauthier David",
+      "papers": [
+        {
+          "title": "Firms' inflation and wage expectations during the inflation surge",
+          "authors": [
+            "Gautier Erwan"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Nonlinearities in the Inflation-Growth Relationship and the Role of Uncertainty: Evidence from China's Provinces",
+          "authors": [
+            "Glawe Linda"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Small Talks and the Fed Predictability",
+          "authors": [
+            "Gauthier David"
+          ],
+          "presenter": ""
+        }
+      ]
+    },
+    {
+      "session_title": "Health, Aging and",
+      "chair": "Wellbeing Room 205 Mayans Josephine",
+      "papers": [
+        {
+          "title": "de Gestion de l'Ouest Health, Life Satisfaction, and Quality of Life in Ageing Economies",
+          "authors": [
+            "Paul Pavitra"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Who Is Most at Risk? Uncovering the Determinants of Population Vulnerability to Heat Waves in France",
+          "authors": [
+            "Pourroy Marc"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Assas The Impact of a One-Day Waiting Period on Ordinary Sick Leave in the French Local Civil Service: Evidence from Administrative Data",
+          "authors": [
+            "Mayans Josephine"
+          ],
+          "presenter": ""
+        }
+      ]
+    },
+    {
+      "session_title": "Institutions, Growth and",
+      "chair": "Schild Nathan",
+      "room": "Room 207",
+      "papers": [
+        {
+          "title": "Unveiling Hidden Wealth: The Impact of Beneficial Ownership Regulation on Real Estate Transparency",
+          "authors": [
+            "Frachot Stephane"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Balancing Informality and Inequality in the Presence of Gender Disparities",
+          "authors": [
+            "Pietri Oceane"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Neo-Schumpeterian Growth: Political and Religious Stability Matter",
+          "authors": [
+            "Schild Nathan"
+          ],
+          "presenter": ""
+        }
+      ]
+    },
+    {
+      "session_title": "AEE  Economie de l'energie (III)",
+      "chair": "Room 208 Bruguet Marie",
+      "papers": [
+        {
+          "title": "Renewable Uncertainty and the Value of supply-flexibility",
+          "authors": [
+            "Ekoue Kangni Maurce"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Assas When Eligibility is Not Enough: Lessons from France's Energy Voucher Policy",
+          "authors": [
+            "Anquetin Romane"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "When Words Save Watts: Government Communication and Household Electricity Use",
+          "authors": [
+            "Bruguet Marie"
+          ],
+          "presenter": ""
+        }
+      ]
+    },
+    {
+      "session_title": "Public Procurement, Cartels and Public",
+      "chair": "Fabre Adrien",
+      "room": "Room 109",
+      "papers": [
+        {
+          "title": "Sustainable Public Procurement under Natural Disasters: Evidence from Earthquakes in Japan",
+          "authors": [
+            "Deschamps Adrien"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Public Acceptance of International Redistribution in High-Income Countries",
+          "authors": [
+            "Fabre Adrien"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Assas Anatomy of a Fall: an Empirical Analysis of Corporate Cartel Networks Stability",
+          "authors": [
+            "Thierry-Coudon Florian"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Flash Droughts and Bank Stability in the United States",
+          "authors": [
+            "Fajeau Maxime"
+          ],
+          "presenter": ""
+        }
+      ]
+    },
+    {
+      "session_title": "GdRE  Monnaie, Banque, Finance (II)",
+      "chair": "Maxime Fajeau",
+      "room": "Room 206",
+      "papers": [
+        {
+          "title": "Verne Natural disasters and inflation crises in Europe",
+          "authors": [
+            "Egbetoke Ametepe"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Vulnerability and Contagion in the U.S. Equity Mutual Funds",
+          "authors": [
+            "Nguyen Bui Dieu Thao"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Under the Spell of Crypto ? Crypto-Equity Spillovers and the Role of Market Integration.",
+          "authors": [
+            "Kraus Florian"
+          ],
+          "presenter": ""
+        }
+      ]
+    },
+    {
+      "session_title": "Macroeconomics: Communication, Uncertainty and Convergence",
+      "chair": "Room 105 Isore Marlene",
+      "papers": [
+        {
+          "title": "Does economic convergence challenge global climate goals?",
+          "authors": [
+            "Lecat Remy"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Normandie On Macroeconomic Uncertainty VS Financial Uncertainty: Some new measures",
+          "authors": [
+            "Himounet Nicolas"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Winner-Takes-All Firms and the Cyclicality of the Labor Share",
+          "authors": [
+            "Isore Marlene"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Impact Evaluation of Parental Education Campaign on Child Development",
+          "authors": [
+            "Djemai Elodie"
+          ],
+          "presenter": ""
+        }
+      ]
+    },
+    {
+      "session_title": "Behavioral and Experimental Economics",
+      "chair": "Djemai Elodie",
+      "room": "Room 108",
+      "papers": [
+        {
+          "title": "Centralisation institutionnelle et composition des dons de sang : une analyse internationale en donnees de panel, 20112018",
+          "authors": [
+            "Diaby Ousmane"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "More than money: Institutional trust and social incentives to sustain organic farming",
+          "authors": [
+            "Nguyen Huong Nhai"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Teaching or Steering? How Boosts and Defaults Shape Optimization Behaviour in the Lab",
+          "authors": [
+            "Ouvrard Benjamin"
+          ],
+          "presenter": ""
+        }
+      ]
+    },
+    {
+      "session_title": "Motherhood, Family Economics and Social",
+      "chair": "Hotte Rozenn",
+      "room": "Room 205",
+      "papers": [
+        {
+          "title": "The social image cost of motherhood. Evidence from the movie industry",
+          "authors": [
+            "Debroise Auguste"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "The Serial Monogamist and the Involuntary Celibate: How Divorce Shapes the Gender Gap in Childlessness",
+          "authors": [
+            "Vallette Adrien"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Learning Together, Working Together? Coeducation and the Gender Wage Gap in France",
+          "authors": [
+            "Giorgi Lucie"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Homogamy in Arranged Marriages",
+          "authors": [
+            "Hotte Rozenn"
+          ],
+          "presenter": ""
+        }
+      ]
+    },
+    {
+      "session_title": "Electoral Redistricting, Housing and Fiscal",
+      "chair": "Policy Room 205 Taugourdeau Emmanuelle",
+      "papers": [
+        {
+          "title": "Public housing sales, constructions and public policy in France",
+          "authors": [
+            "Durand Romain"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Assas Electoral Inequalities and Outcomes in France: An Algorithmic Redistricting Approach",
+          "authors": [
+            "Barriola Illan"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "CREST Tax Consent and Wasteful Government Spending",
+          "authors": [
+            "Taugourdeau Emmanuelle"
+          ],
+          "presenter": ""
+        }
+      ]
+    },
+    {
+      "session_title": "ASRDLF  Economie regionale et urbaine",
+      "chair": "Kane Abdoulaye",
+      "room": "Room 105",
+      "papers": [
+        {
+          "title": "Universite Bourgogne Europe Agglomeration economies and firm selection in european regions: a multi- level approach",
+          "authors": [
+            "Ngoy Banza Kajimbika"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Professional, Personal and Residential Determinants of self-employed General Practitioners' location: evidence from France (2022)",
+          "authors": [
+            "Dufau Johanna"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "l'Innovation Sectoral diversity and employment dynamics in Frances circular economy: the role of related and unrelated variety",
+          "authors": [
+            "Kane Abdoulaye"
+          ],
+          "presenter": ""
+        }
+      ]
+    },
+    {
+      "session_title": "FAERE  Economie de l'environnement (III)",
+      "chair": "Pierre-Alexandre Mahieu",
+      "room": "Room 206",
+      "papers": [
+        {
+          "title": "Environmental and economic trade-offs in datacenter location under jurisdictional competition",
+          "authors": [
+            "Aubouin Mathilde"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Combined social norms: when meters matter !",
+          "authors": [
+            "Pedehour Pauline"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "The Impact of Floods on Firm Performance and Relocation",
+          "authors": [
+            "Zapha Chloe"
+          ],
+          "presenter": ""
+        }
+      ]
+    },
+    {
+      "session_title": "Macroeconomic Shocks, Climate and Resource Risk",
+      "chair": "Person Margaux",
+      "room": "Room 208",
+      "papers": [
+        {
+          "title": "The transmission of firm-level shocks across sectors and regions: Evidence from France",
+          "authors": [
+            "Vertier Paul"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "The Natural Resources Curse and Critical Raw Materials: Comparing Dependence and Abundance Measures",
+          "authors": [
+            "Viguie Noe"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Quantile Analysis of Climate Risks and Financial Stability in Emerging Market Economies",
+          "authors": [
+            "Person Margaux"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "PSL Subsidies for innovative technology adoption: Experimental evidence",
+          "authors": [
+            "Djemai Elodie"
+          ],
+          "presenter": ""
+        }
+      ]
+    },
+    {
+      "session_title": "Development, Migration and Informality",
+      "chair": "Room 108 Djemai Elodie",
+      "papers": [
+        {
+          "title": "Sorbonne Hunger-Driven Emigration: Evidence From Venezuela",
+          "authors": [
+            "Arciniegas Alejandro"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Left Without Origins? Child Fostering and Schooling under Missing Family Information",
+          "authors": [
+            "Gautrain Elsa"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Temporary Internal Migration and Household Diets: Evidence from Nigeria",
+          "authors": [
+            "Giraldo Alejandra"
+          ],
+          "presenter": ""
+        }
+      ]
+    },
+    {
+      "session_title": "Job Search and Employment",
+      "chair": "Room 207 Brebion Clement",
+      "papers": [
+        {
+          "title": "Wirtschaftsforschung Job search assistance for Vocational Students",
+          "authors": [
+            "Hervelin Jeremy"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Do Blood Levels Predict Employment for Male Workers Above Age 50? English Longitudinal Evidence from OLS, Machine Learning Ridge Regressions, and Random Forests",
+          "authors": [
+            "Puhani Patrick"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Job Search Monitoring and Standard of Proof: The Role of Job Advisors Preferences",
+          "authors": [
+            "Menard Sebastien"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Research Unit Matching Firms and Apprentices Online: Evidence from A Nationwide Experiment",
+          "authors": [
+            "Brebion Clement"
+          ],
+          "presenter": ""
+        }
+      ]
+    }
+  ],
+  "participants": [
+    {
+      "name": "Abdelsalam Farida",
+      "institution": "Universite Paris 1 Pantheon-Sorbonne",
+      "is_presenter": true,
+      "papers": [
+        "Sorbonne How Due Diligence Shapes Firms' Imports"
+      ]
+    },
+    {
+      "name": "Adair Philippe",
+      "institution": "University Paris-Est",
+      "is_presenter": true,
+      "papers": [
+        "Creteil Scope and Challenges of Rising Informal Employment in Egypt over 2012-2023"
+      ]
+    },
+    {
+      "name": "Allouard Hugo",
+      "institution": "ESSEC Business School",
+      "is_presenter": true,
+      "papers": [
+        "Deliver Us from Crime? Gig Jobs, Labor Market Opportunities, and Offending"
+      ]
+    },
+    {
+      "name": "Anquetin Romane",
+      "institution": "Universite Paris-Pantheon-Assas",
+      "is_presenter": true,
+      "papers": [
+        "Assas When Eligibility is Not Enough: Lessons from France's Energy Voucher Policy"
+      ]
+    },
+    {
+      "name": "Arciniegas Alejandro",
+      "institution": "Universite Paris 1 Pantheon-Sorbonne",
+      "is_presenter": true,
+      "papers": [
+        "Sorbonne Hunger-Driven Emigration: Evidence From Venezuela"
+      ]
+    },
+    {
+      "name": "Arnout Alexandre",
+      "institution": "Aix-Marseille Universite",
+      "is_presenter": true,
+      "papers": [
+        "Political Involvement and Parental Transmission"
+      ]
+    },
+    {
+      "name": "Aubouin Mathilde",
+      "institution": "Universite Grenoble Alpes",
+      "is_presenter": true,
+      "papers": [
+        "Environmental and economic trade-offs in datacenter location under jurisdictional competition"
+      ]
+    },
+    {
+      "name": "Ayachi Syrine",
+      "institution": "University of Namur",
+      "is_presenter": true,
+      "papers": [
+        "Firm-Level Determinants of Green Bond Issuance in a Global, Institutionally Heterogeneous Setting"
+      ]
+    },
+    {
+      "name": "Badarau Cristina",
+      "institution": "Universite de Bordeaux",
+      "is_presenter": true,
+      "papers": [
+        "Corporate debt structure and monetary policy transmission"
+      ]
+    },
+    {
+      "name": "Barriola Illan",
+      "institution": "Universite Paris-Pantheon-Assas",
+      "is_presenter": true,
+      "papers": [
+        "Assas Electoral Inequalities and Outcomes in France: An Algorithmic Redistricting Approach"
+      ]
+    },
+    {
+      "name": "Baud Antoine",
+      "institution": "Universite Paris-Pantheon-Assas",
+      "is_presenter": true,
+      "papers": [
+        "Assas Political Uncertainty and Green Investment"
+      ]
+    },
+    {
+      "name": "Bechichi Nagui",
+      "institution": "Paris School of Economics",
+      "is_presenter": true,
+      "papers": [
+        "Second Chances in Higher Education: Turning Setbacks into New Opportunities"
+      ]
+    },
+    {
+      "name": "Berland Brice",
+      "institution": "Ecole Polytechnique - CREST",
+      "is_presenter": true,
+      "papers": [
+        "CREST Left Behind: The Local Effects of Deindustrialization in France"
+      ]
+    },
+    {
+      "name": "Bhaugeerutty Meghna",
+      "institution": "Universite Paris Dauphine-PSL",
+      "is_presenter": true,
+      "papers": [
+        "PSL Climate Black-Litterman: physical risk integration in portfolio management"
+      ]
+    },
+    {
+      "name": "Bisantis Alienor",
+      "institution": "Aix-Marseille Universite",
+      "is_presenter": true,
+      "papers": [
+        "Gender and Academic Mobility"
+      ]
+    },
+    {
+      "name": "Bonnal Michael",
+      "institution": "Colorado College",
+      "is_presenter": true,
+      "papers": [
+        "The Hidden Hand of Political Institutions in Technological Progress."
+      ]
+    },
+    {
+      "name": "Borne Romuald",
+      "institution": "Nantes Universite",
+      "is_presenter": true,
+      "papers": [
+        "Housing as Environmental Mediator: Evidence from the Rouen Metropolitan Area"
+      ]
+    },
+    {
+      "name": "Bour Muriel",
+      "institution": "Universite de Lille",
+      "is_presenter": true,
+      "papers": [
+        "Cultural Shock Transmission and Sense of Home among Second-Generation Immigrants"
+      ]
+    },
+    {
+      "name": "Bouvier Mathilde",
+      "institution": "Universite Paris Dauphine-PSL",
+      "is_presenter": true,
+      "papers": [
+        "PSL Crises and Women's Labour Market Dynamics in Brazil"
+      ]
+    },
+    {
+      "name": "Brebion Clement",
+      "institution": "Rockwool Foundation",
+      "is_presenter": true,
+      "papers": [
+        "Research Unit Matching Firms and Apprentices Online: Evidence from A Nationwide Experiment"
+      ]
+    },
+    {
+      "name": "Brecard Dorothee",
+      "institution": "Universite de Toulon",
+      "is_presenter": true,
+      "papers": [
+        "How green skepticism affects competition, the environment, and welfare"
+      ]
+    },
+    {
+      "name": "Briand Anne",
+      "institution": "Universite de Rouen",
+      "is_presenter": true,
+      "papers": [
+        "Limites de l'effet de saillance apres un accident industriel majeur"
+      ]
+    },
+    {
+      "name": "Briquet Lucie",
+      "institution": "Universite de Strasbourg",
+      "is_presenter": true,
+      "papers": [
+        "Medical Decisions and Legal Liability: What does AI change ?"
+      ]
+    },
+    {
+      "name": "Bruguet Marie",
+      "institution": "Universite Paris Dauphine-PSL",
+      "is_presenter": true,
+      "papers": [
+        "When Words Save Watts: Government Communication and Household Electricity Use"
+      ]
+    },
+    {
+      "name": "Cariou Clement",
+      "institution": "Nantes Universite",
+      "is_presenter": true,
+      "papers": [
+        "What students want: Eliciting students preferences for graduate programs"
+      ]
+    },
+    {
+      "name": "Carrere Sebastien",
+      "institution": "Universite Grenoble Alpes",
+      "is_presenter": true,
+      "papers": [
+        "Choosing Homes, Facing Hazards: Evidence on Environmental Risk Perceptions"
+      ]
+    },
+    {
+      "name": "Chareyron Sylvain",
+      "institution": "Universite Paris-Est Creteil",
+      "is_presenter": true,
+      "papers": [
+        "Hiring Discrimination Against Women Wearing Headscarves in France: A Test on Access to Apprenticeships"
+      ]
+    },
+    {
+      "name": "Collet Charles",
+      "institution": "Universite Gustave Eiffel",
+      "is_presenter": true,
+      "papers": [
+        "Who Participates in Voluntary Climate Programs? Evidence of Self- Selection in Citizen Decarbonization Initiatives"
+      ]
+    },
+    {
+      "name": "Dagorn Etienne",
+      "institution": "Universite de Lille",
+      "is_presenter": true,
+      "papers": [
+        "How Teachers Value School Behavior"
+      ]
+    },
+    {
+      "name": "De Marcellus Kieran",
+      "institution": "Universite Paris-Pantheon-Assas",
+      "is_presenter": true,
+      "papers": [
+        "Assas Competing Apart or Together? Gender, Performance, and Participation"
+      ]
+    },
+    {
+      "name": "De Villeneuve Bargemon",
+      "institution": "Cergy Paris Universite",
+      "is_presenter": true,
+      "papers": [
+        "Cergy Paris Universite The Insurer-Investor Dilemma: When Insurers Fuel the Risks They Cover"
+      ]
+    },
+    {
+      "name": "Debroise Auguste",
+      "institution": "Universite de Namur",
+      "is_presenter": true,
+      "papers": [
+        "The social image cost of motherhood. Evidence from the movie industry"
+      ]
+    },
+    {
+      "name": "Delaye Jean-Baptiste",
+      "institution": "Universite de Strasbourg",
+      "is_presenter": true,
+      "papers": [
+        "Overlapping scopes of practice and competition between health professional groups. The case of sexual and reproductive primary care in France."
+      ]
+    },
+    {
+      "name": "Deschamps Adrien",
+      "institution": "Avignon Universite",
+      "is_presenter": true,
+      "papers": [
+        "Sustainable Public Procurement under Natural Disasters: Evidence from Earthquakes in Japan"
+      ]
+    },
+    {
+      "name": "Diaby Ousmane",
+      "institution": "University of Yaounde II",
+      "is_presenter": true,
+      "papers": [
+        "Centralisation institutionnelle et composition des dons de sang : une analyse internationale en donnees de panel, 20112018"
+      ]
+    },
+    {
+      "name": "Diebolt Claude",
+      "institution": "Universite de Strasbourg",
+      "is_presenter": true,
+      "papers": [
+        "Werner Sombart and the Deep Origins of Creative Destruction"
+      ]
+    },
+    {
+      "name": "Djekna Votsoma",
+      "institution": "Universite de Perpignan",
+      "is_presenter": true,
+      "papers": [
+        "Clientelist Banking and Bank Fragility in Central Africa"
+      ]
+    },
+    {
+      "name": "Djemai Elodie",
+      "institution": "Universite Paris Dauphine-PSL",
+      "is_presenter": true,
+      "papers": [
+        "Impact Evaluation of Parental Education Campaign on Child Development",
+        "PSL Subsidies for innovative technology adoption: Experimental evidence"
+      ]
+    },
+    {
+      "name": "Dominique Torre",
+      "institution": "Universite Nice Sophia",
+      "is_presenter": true,
+      "papers": [
+        "Antipolis Digital labor platforms : Are bad freelancers driving out good ones ?"
+      ]
+    },
+    {
+      "name": "Dufau Johanna",
+      "institution": "Universite de Bordeaux",
+      "is_presenter": true,
+      "papers": [
+        "Professional, Personal and Residential Determinants of self-employed General Practitioners' location: evidence from France (2022)"
+      ]
+    },
+    {
+      "name": "Durand Romain",
+      "institution": "Universite Lumiere Lyon 2",
+      "is_presenter": true,
+      "papers": [
+        "Public housing sales, constructions and public policy in France"
+      ]
+    },
+    {
+      "name": "Egbetoke Ametepe",
+      "institution": "Universite Picardie Jules",
+      "is_presenter": true,
+      "papers": [
+        "Verne Natural disasters and inflation crises in Europe"
+      ]
+    },
+    {
+      "name": "Ekoue Kangni Maurce",
+      "institution": "Universite Grenoble Alphes",
+      "is_presenter": true,
+      "papers": [
+        "Renewable Uncertainty and the Value of supply-flexibility"
+      ]
+    },
+    {
+      "name": "Fabbri Giorgio",
+      "institution": "Universite Grenoble",
+      "is_presenter": true,
+      "papers": [
+        "Alphes Emergent properties of a competitive economy through the gradient flow approach"
+      ]
+    },
+    {
+      "name": "Fabi Michele",
+      "institution": "Ensae",
+      "is_presenter": true,
+      "papers": [
+        "Automated Market Making for Energy Sharing"
+      ]
+    },
+    {
+      "name": "Fabre Adrien",
+      "institution": "CIRED",
+      "is_presenter": true,
+      "papers": [
+        "Public Acceptance of International Redistribution in High-Income Countries"
+      ]
+    },
+    {
+      "name": "Fajeau Maxime",
+      "institution": "Universite de Lille",
+      "is_presenter": true,
+      "papers": [
+        "Flash Droughts and Bank Stability in the United States"
+      ]
+    },
+    {
+      "name": "Fils-Aime Berlanda",
+      "institution": "Universite Gustave Eiffel",
+      "is_presenter": true,
+      "papers": [
+        "Peer Gender Composition and Persistence in French Higher Education"
+      ]
+    },
+    {
+      "name": "Fouquet Florian",
+      "institution": "Universite Lyon-1",
+      "is_presenter": true,
+      "papers": [
+        "Geographical mobilities of young health professionals"
+      ]
+    },
+    {
+      "name": "Frachot Stephane",
+      "institution": "Paris School of Economics",
+      "is_presenter": true,
+      "papers": [
+        "Unveiling Hidden Wealth: The Impact of Beneficial Ownership Regulation on Real Estate Transparency"
+      ]
+    },
+    {
+      "name": "Frecheville Romane",
+      "institution": "Universite Paris Dauphine-PSL",
+      "is_presenter": true,
+      "papers": [
+        "PSL Public Sector, Private Power? Public Services and Women's Economic Independence Within and Beyond the Household"
+      ]
+    },
+    {
+      "name": "Gauthier David",
+      "institution": "Paris School of Economics",
+      "is_presenter": true,
+      "papers": [
+        "Small Talks and the Fed Predictability"
+      ]
+    },
+    {
+      "name": "Gautier Erwan",
+      "institution": "Banque de France",
+      "is_presenter": true,
+      "papers": [
+        "Firms' inflation and wage expectations during the inflation surge"
+      ]
+    },
+    {
+      "name": "Gautier Virginie",
+      "institution": "Tac Economics",
+      "is_presenter": true,
+      "papers": [
+        "Decoding Central Bank Communication: A Transformer-Based Analysis of Monetary Policy Stance and Internal Dissent"
+      ]
+    },
+    {
+      "name": "Gautrain Elsa",
+      "institution": "Universite de Fribourg",
+      "is_presenter": true,
+      "papers": [
+        "Left Without Origins? Child Fostering and Schooling under Missing Family Information"
+      ]
+    },
+    {
+      "name": "Ghiaie Hamed",
+      "institution": "Escp Europe",
+      "is_presenter": true,
+      "papers": [
+        "Housing Deposit Channel of Monetary Policy and Housing Price Double-Dip"
+      ]
+    },
+    {
+      "name": "Giorgi Lucie",
+      "institution": "Aix-Marseille Universite",
+      "is_presenter": true,
+      "papers": [
+        "Learning Together, Working Together? Coeducation and the Gender Wage Gap in France"
+      ]
+    },
+    {
+      "name": "Giraldo Alejandra",
+      "institution": "INRAE",
+      "is_presenter": true,
+      "papers": [
+        "Temporary Internal Migration and Household Diets: Evidence from Nigeria"
+      ]
+    },
+    {
+      "name": "Glass Audrey",
+      "institution": "Universite de Lille",
+      "is_presenter": true,
+      "papers": [
+        "Population Preferences for the Diagnosis of Chronic Obstructive Pulmonary Disease: a Discrete Choice Experiment"
+      ]
+    },
+    {
+      "name": "Glawe Linda",
+      "institution": "University of Rostock",
+      "is_presenter": true,
+      "papers": [
+        "Nonlinearities in the Inflation-Growth Relationship and the Role of Uncertainty: Evidence from China's Provinces"
+      ]
+    },
+    {
+      "name": "Ha-Huy Thai",
+      "institution": "University Evry Paris-",
+      "is_presenter": true,
+      "papers": [
+        "Saclay Overtaking criteria and supermodular payoff function"
+      ]
+    },
+    {
+      "name": "Harpedanne De Belleville",
+      "institution": "Paris School of Economics",
+      "is_presenter": true,
+      "papers": [
+        "Paris School of Economics Green investment, inequality and misallocation"
+      ]
+    },
+    {
+      "name": "Hellier Joel",
+      "institution": "Universite de Lille",
+      "is_presenter": true,
+      "papers": [
+        "Rising Skill Premium and Shrinking Middle Class"
+      ]
+    },
+    {
+      "name": "Hervelin Jeremy",
+      "institution": "Zentrum Fur Europaische",
+      "is_presenter": true,
+      "papers": [
+        "Wirtschaftsforschung Job search assistance for Vocational Students"
+      ]
+    },
+    {
+      "name": "Himounet Nicolas",
+      "institution": "Universite le Havre",
+      "is_presenter": true,
+      "papers": [
+        "Normandie On Macroeconomic Uncertainty VS Financial Uncertainty: Some new measures"
+      ]
+    },
+    {
+      "name": "Hotte Rozenn",
+      "institution": "Universite d'Orleans",
+      "is_presenter": true,
+      "papers": [
+        "Homogamy in Arranged Marriages"
+      ]
+    },
+    {
+      "name": "Igersheim Herrade",
+      "institution": "CNRS",
+      "is_presenter": true,
+      "papers": [
+        "Between economics and philosophy: a reappraisal of the Rawls-Harsanyi debate"
+      ]
+    },
+    {
+      "name": "Isore Marlene",
+      "institution": "Universite Evry Paris-Saclay",
+      "is_presenter": true,
+      "papers": [
+        "Winner-Takes-All Firms and the Cyclicality of the Labor Share"
+      ]
+    },
+    {
+      "name": "Jaoul-Grammare Magali",
+      "institution": "Universite de Strasbourg",
+      "is_presenter": true,
+      "papers": [
+        "De l'ombre a la Memoire : Redonner une voix aux femmes  Mortes pour la France  en 1914-1918"
+      ]
+    },
+    {
+      "name": "Jardine Vincent",
+      "institution": "Sciences Po",
+      "is_presenter": true,
+      "papers": [
+        "The newer the better? Electoral turnovers and public procurement outcomes: evidence from French municipalities"
+      ]
+    },
+    {
+      "name": "Kane Abdoulaye",
+      "institution": "Institut Interdisciplinaire de",
+      "is_presenter": true,
+      "papers": [
+        "l'Innovation Sectoral diversity and employment dynamics in Frances circular economy: the role of related and unrelated variety"
+      ]
+    },
+    {
+      "name": "Kouassi Yao",
+      "institution": "Universite de Bourgogne",
+      "is_presenter": true,
+      "papers": [
+        "Ouverture commerciale, corruption et productivite : cas des pays de lUEMOA"
+      ]
+    },
+    {
+      "name": "Kraus Florian",
+      "institution": "Universite de Bordeaux",
+      "is_presenter": true,
+      "papers": [
+        "Under the Spell of Crypto ? Crypto-Equity Spillovers and the Role of Market Integration."
+      ]
+    },
+    {
+      "name": "L'horty Tara",
+      "institution": "INRAE",
+      "is_presenter": true,
+      "papers": [
+        "Navigating frictions in decentralised carbon credit markets: exploring buyers responses to uncertainty"
+      ]
+    },
+    {
+      "name": "Laqueyrerie Lena",
+      "institution": "Universite Paris 1 Pantheon-Sorbonne",
+      "is_presenter": true,
+      "papers": [
+        "Sorbonne Editorial recommendation and emerging artists' highlighting on Spotify"
+      ]
+    },
+    {
+      "name": "Le Fur Tanguy",
+      "institution": "Universite de Lille",
+      "is_presenter": true,
+      "papers": [
+        "A Theory of Inequality in Early Agricultural Societies"
+      ]
+    },
+    {
+      "name": "Lecat Remy",
+      "institution": "Banque de France",
+      "is_presenter": true,
+      "papers": [
+        "Does economic convergence challenge global climate goals?"
+      ]
+    },
+    {
+      "name": "Lecuit Florence",
+      "institution": "Universite Paris Dauphine-PSL",
+      "is_presenter": true,
+      "papers": [
+        "PSL Child Nutritional Vulnerability to Rainfall Shocks"
+      ]
+    },
+    {
+      "name": "Lehmann Etienne",
+      "institution": "Universite Paris-",
+      "is_presenter": true,
+      "papers": [
+        "Pantheon-Assas Distortions for Nothing - Optimal Taxation of (Un)Distributed Profit"
+      ]
+    },
+    {
+      "name": "Leka Enxhi",
+      "institution": "Institut Mines-Telecom Business School",
+      "is_presenter": true,
+      "papers": [
+        "Business School Exploring Digital Sovereignty Through Data Flows : Empirical Evidence from the Backbone of the Internet"
+      ]
+    },
+    {
+      "name": "Lenkongui Lord",
+      "institution": "Universite Paris Nanterre",
+      "is_presenter": true,
+      "papers": [
+        "Political Affiliation and Fiscal Dominance in the USA"
+      ]
+    },
+    {
+      "name": "Liu Renzhi",
+      "institution": "Universite Paris Dauphine-PSL",
+      "is_presenter": true,
+      "papers": [
+        "PSL Systemic Risk and International Trade"
+      ]
+    },
+    {
+      "name": "Mahmoudi Naomie",
+      "institution": "Universite Claude Bernard",
+      "is_presenter": true,
+      "papers": [
+        "Lyon 1 Hiring Discrimination Based on Visible Disability: Evidence from a French Experiment with video CV"
+      ]
+    },
+    {
+      "name": "Marin Ivan",
+      "institution": "Institut Agro Dijon",
+      "is_presenter": true,
+      "papers": [
+        "Dynamic effects of antitrust enforcement: The case of the antitrust inquiry in Quebec, Canada"
+      ]
+    },
+    {
+      "name": "Matei Iuliana",
+      "institution": "Universite Paris 1 Pantheon-Sorbonne",
+      "is_presenter": true,
+      "papers": [
+        "Pantheon Sorbonne Does political instability matter for sovereign yield spreads in the euro area market? A dynamic panel analysis"
+      ]
+    },
+    {
+      "name": "Mayans Josephine",
+      "institution": "Universite Paris-Pantheon-Assas",
+      "is_presenter": true,
+      "papers": [
+        "Assas The Impact of a One-Day Waiting Period on Ordinary Sick Leave in the French Local Civil Service: Evidence from Administrative Data"
+      ]
+    },
+    {
+      "name": "Menard Gaetan",
+      "institution": "CREST",
+      "is_presenter": true,
+      "papers": [
+        "Patients Relocation and Hospital Responses to Hospital Closures: Evidence from France"
+      ]
+    },
+    {
+      "name": "Menard Sebastien",
+      "institution": "Universite du Mans",
+      "is_presenter": true,
+      "papers": [
+        "Job Search Monitoring and Standard of Proof: The Role of Job Advisors Preferences"
+      ]
+    },
+    {
+      "name": "Metta Julie",
+      "institution": "Katholieke Universiteit",
+      "is_presenter": true,
+      "papers": [
+        "Leuven Beyond protectionism: Circular Economy policies as a geopolitical strategy for sufficiency and equity"
+      ]
+    },
+    {
+      "name": "Metz Theo",
+      "institution": "Universite de Strasbourg",
+      "is_presenter": true,
+      "papers": [
+        "Does oversight pay off? Independent Fiscal Institutions and Forecast Accuracy"
+      ]
+    },
+    {
+      "name": "Monjoie Leopold",
+      "institution": "Aalto University",
+      "is_presenter": true,
+      "papers": [
+        "Self-Selection in Retail Electricity Contracts"
+      ]
+    },
+    {
+      "name": "Motel-Combes Pascale",
+      "institution": "Universite d'Orleans",
+      "is_presenter": true,
+      "papers": [
+        "Deskilling in Germany? An Inquiry into the German Industrial Revolution"
+      ]
+    },
+    {
+      "name": "Mulkay Benoit",
+      "institution": "Universite de Montpellier",
+      "is_presenter": true,
+      "papers": [
+        "From Diversification to Retrenchment: Geopolitical Exposure and Corporate Internationalization. A Panel Study on G7 firms, 2000- 2023"
+      ]
+    },
+    {
+      "name": "Naminzo Sarodja",
+      "institution": "Universite de Montpellier",
+      "is_presenter": true,
+      "papers": [
+        "Public policies and educational mobility in higher education: Evidence from Reunion Island"
+      ]
+    },
+    {
+      "name": "Naudy Camille",
+      "institution": "Universite de Lille",
+      "is_presenter": true,
+      "papers": [
+        "Public procurement and educational outcomes: Evidence from primary education in France (2015-2024)"
+      ]
+    },
+    {
+      "name": "Ngoy Banza Kajimbika",
+      "institution": "Universite Bourgogne Europe",
+      "is_presenter": true,
+      "papers": [
+        "Universite Bourgogne Europe Agglomeration economies and firm selection in european regions: a multi- level approach"
+      ]
+    },
+    {
+      "name": "Nguyen Bui Dieu Thao",
+      "institution": "Gains-Tepp",
+      "is_presenter": true,
+      "papers": [
+        "Vulnerability and Contagion in the U.S. Equity Mutual Funds"
+      ]
+    },
+    {
+      "name": "Nguyen Huong Nhai",
+      "institution": "Universite de Strasbourg",
+      "is_presenter": true,
+      "papers": [
+        "More than money: Institutional trust and social incentives to sustain organic farming"
+      ]
+    },
+    {
+      "name": "Nguyen-Van Phu",
+      "institution": "Universite Paris Nanterre",
+      "is_presenter": true,
+      "papers": [
+        "Exploring Farmers' Preferences in Adopting Organic Farming Under Uncertainty"
+      ]
+    },
+    {
+      "name": "Nibourel Chloe",
+      "institution": "Stockholm University",
+      "is_presenter": true,
+      "papers": [
+        "Necessary or Optional? Gender and Coalition Strategies in French Municipal Elections"
+      ]
+    },
+    {
+      "name": "Nikiema Pengd-Wende",
+      "institution": "Universite D'orleans",
+      "is_presenter": true,
+      "papers": [
+        "Universite d'Orleans Climate Action in a Geofragmented World: Do Armed Conflicts Reduce Countries' Performance Under Climate Agreements?"
+      ]
+    },
+    {
+      "name": "Ouvrard Benjamin",
+      "institution": "INRAE",
+      "is_presenter": true,
+      "papers": [
+        "Teaching or Steering? How Boosts and Defaults Shape Optimization Behaviour in the Lab"
+      ]
+    },
+    {
+      "name": "Patureau Lise",
+      "institution": "Universite Paris Dauphine-PSL",
+      "is_presenter": true,
+      "papers": [
+        "PSL Chips and Credit in Europe - AI Investment under Financial Frictions"
+      ]
+    },
+    {
+      "name": "Paul Pavitra",
+      "institution": "Laboratoire D'economie et",
+      "is_presenter": true,
+      "papers": [
+        "de Gestion de l'Ouest Health, Life Satisfaction, and Quality of Life in Ageing Economies"
+      ]
+    },
+    {
+      "name": "Paul-Venturine Julia",
+      "institution": "University of Cologne",
+      "is_presenter": true,
+      "papers": [
+        "Build at your own risk. Integrating natural hazards into land use regulations"
+      ]
+    },
+    {
+      "name": "Pedehour Pauline",
+      "institution": "Universite D'angers",
+      "is_presenter": true,
+      "papers": [
+        "Combined social norms: when meters matter !"
+      ]
+    },
+    {
+      "name": "Person Margaux",
+      "institution": "Nantes Universite",
+      "is_presenter": true,
+      "papers": [
+        "Quantile Analysis of Climate Risks and Financial Stability in Emerging Market Economies"
+      ]
+    },
+    {
+      "name": "Pietri Oceane",
+      "institution": "Universite de Lorraine",
+      "is_presenter": true,
+      "papers": [
+        "Balancing Informality and Inequality in the Presence of Gender Disparities"
+      ]
+    },
+    {
+      "name": "Poupelin Elsa",
+      "institution": "Universite Paris 1 Pantheon-Sorbonne",
+      "is_presenter": true,
+      "papers": [
+        "Pantheon Sorbonne Should Workers of the World Unite? Native- Immigrant Wage Gap and Labor Unions"
+      ]
+    },
+    {
+      "name": "Pourroy Marc",
+      "institution": "Universite de Poitiers",
+      "is_presenter": true,
+      "papers": [
+        "Who Is Most at Risk? Uncovering the Determinants of Population Vulnerability to Heat Waves in France"
+      ]
+    },
+    {
+      "name": "Powers Abigail",
+      "institution": "Universite Paris 1 Pantheon-Sorbonne",
+      "is_presenter": true,
+      "papers": [
+        "Pantheon Sorbonne Minimum Wages in Dualistic Labor Markets"
+      ]
+    },
+    {
+      "name": "Puhani Patrick",
+      "institution": "Leibniz Universitat Hannover",
+      "is_presenter": true,
+      "papers": [
+        "Do Blood Levels Predict Employment for Male Workers Above Age 50? English Longitudinal Evidence from OLS, Machine Learning Ridge Regressions, and Random Forests"
+      ]
+    },
+    {
+      "name": "Rangel Guevara Andrea",
+      "institution": "Universite Savoie Mont Blanc",
+      "is_presenter": true,
+      "papers": [
+        "Accounting for interrelated planetary boundaries: a model with biodiversity and climate change"
+      ]
+    },
+    {
+      "name": "Renault-Dubois Louis",
+      "institution": "Universite de Rennes",
+      "is_presenter": true,
+      "papers": [
+        "Impact of physical climate risk on the French agricultural sector : a study of heterogeneity"
+      ]
+    },
+    {
+      "name": "Roussel Corentin",
+      "institution": "Universite de Strasbourg",
+      "is_presenter": true,
+      "papers": [
+        "Standardized Mortgage Risk under New Reforms:Implications for Housing Wealth and Income Inequality"
+      ]
+    },
+    {
+      "name": "Sachdev Takshil",
+      "institution": "Cornell University",
+      "is_presenter": true,
+      "papers": [
+        "Understanding Workers' Migration Response to Shocks: Mass Layoffs in Brazil"
+      ]
+    },
+    {
+      "name": "Schild Nathan",
+      "institution": "Universite de Strasbourg",
+      "is_presenter": true,
+      "papers": [
+        "Neo-Schumpeterian Growth: Political and Religious Stability Matter"
+      ]
+    },
+    {
+      "name": "Shaban Ramy",
+      "institution": "Universite Paris Dauphine-PSL",
+      "is_presenter": true,
+      "papers": [
+        "PSL Trade Sanctions and Military Conflicts"
+      ]
+    },
+    {
+      "name": "Sodre Kadiatou",
+      "institution": "Universite Paris Nanterre",
+      "is_presenter": true,
+      "papers": [
+        "Impact of African Diaspora on Foreign Direct Investment: The Role of Skills"
+      ]
+    },
+    {
+      "name": "Taugourdeau Emmanuelle",
+      "institution": "Ecole Polytechnique - CREST",
+      "is_presenter": true,
+      "papers": [
+        "CREST Tax Consent and Wasteful Government Spending"
+      ]
+    },
+    {
+      "name": "Thierry-Coudon Florian",
+      "institution": "Universite Paris-Pantheon-Assas",
+      "is_presenter": true,
+      "papers": [
+        "Assas Anatomy of a Fall: an Empirical Analysis of Corporate Cartel Networks Stability"
+      ]
+    },
+    {
+      "name": "Tournierou Paul",
+      "institution": "Universite de Bordeaux",
+      "is_presenter": true,
+      "papers": [
+        "Greenium and Bond Spreads: An Empirical Study of Green Bonds"
+      ]
+    },
+    {
+      "name": "Turcu Camelia",
+      "institution": "Universite d'Orleans",
+      "is_presenter": true,
+      "papers": [
+        "Monetary policy autonomy and spillover effects in an integrated world: a novel network- based indice"
+      ]
+    },
+    {
+      "name": "Vallette Adrien",
+      "institution": "Ensae",
+      "is_presenter": true,
+      "papers": [
+        "The Serial Monogamist and the Involuntary Celibate: How Divorce Shapes the Gender Gap in Childlessness"
+      ]
+    },
+    {
+      "name": "Vertier Paul",
+      "institution": "Banque de France",
+      "is_presenter": true,
+      "papers": [
+        "The transmission of firm-level shocks across sectors and regions: Evidence from France"
+      ]
+    },
+    {
+      "name": "Viguie Noe",
+      "institution": "Universite Paris Nanterre",
+      "is_presenter": true,
+      "papers": [
+        "The Natural Resources Curse and Critical Raw Materials: Comparing Dependence and Abundance Measures"
+      ]
+    },
+    {
+      "name": "Wiemann Dilara",
+      "institution": "Universitat Siegen",
+      "is_presenter": true,
+      "papers": [
+        "Field Experimental Evidence on Hiring Discrimination in the German Apprenticeship Market"
+      ]
+    },
+    {
+      "name": "Wittmer Arnaud",
+      "institution": "Universite de Strasbourg",
+      "is_presenter": true,
+      "papers": [
+        "The Impact of Firm-Level Agreements on Wage Inequalities in France"
+      ]
+    },
+    {
+      "name": "Yassine Nour El Hoda",
+      "institution": "Universite du Havre",
+      "is_presenter": true,
+      "papers": [
+        "Impact of a wage subsidy policy on skilled female employment: the Moroccan case"
+      ]
+    },
+    {
+      "name": "Zapha Chloe",
+      "institution": "Banque de France",
+      "is_presenter": true,
+      "papers": [
+        "French Firm-Level Accounting and Credit Data: Guidelines and coverage of Banque de France's databases",
+        "The Impact of Floods on Firm Performance and Relocation"
+      ]
+    }
+  ]
+}

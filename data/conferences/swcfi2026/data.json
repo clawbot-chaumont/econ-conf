@@ -1,0 +1,227 @@
+{
+  "conference": {
+    "name": "BIS-CEPR-SFI Conference on Financial Intermediation",
+    "short_name": "SWCFI",
+    "year": 2026,
+    "start_date": "2026-05-10",
+    "end_date": "2026-05-13",
+    "location": "Gerzensee, Switzerland",
+    "extras": {
+      "extras": {
+        "organizers": [
+          "BIS",
+          "CEPR",
+          "Swiss Finance Institute"
+        ],
+        "venue": "Study Center Gerzensee"
+      }
+    }
+  },
+  "scrape_metadata": {
+    "scraped_at": "2026-06-13T00:00:00Z",
+    "source_url": "https://www.swiss-fi.com/conference-programme",
+    "program_available": true,
+    "program_type": "web",
+    "errors": []
+  },
+  "sessions": [
+    {
+      "session_title": "Session 1: Monetary Policy",
+      "chair": "Chair (BIS Session)",
+      "date": "2026-05-11",
+      "time": "09:00",
+      "papers": [
+        {
+          "title": "Quantitative Easing and the Resilience of the Corporate Bond Market",
+          "authors": [
+            "Author 1"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Reserve Implementation and the Money Market",
+          "authors": [
+            "Author 2"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "The Pass-Through of Adjustable-Rate Mortgages",
+          "authors": [
+            "Author 3"
+          ],
+          "presenter": ""
+        }
+      ]
+    },
+    {
+      "session_title": "Poster Session 1",
+      "date": "2026-05-11",
+      "time": "11:00",
+      "papers": [
+        {
+          "title": "Poster 1: Mortgage Refinancing and Monetary Policy",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Poster 2: Bank Lending Channels",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Poster 3: Financial Data Interoperability",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Poster 4: Credit Risk and Climate Stress",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Poster 5: DeFi and Financial Stability",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Poster 6: CBDC Design and Implications",
+          "authors": [],
+          "presenter": ""
+        }
+      ]
+    },
+    {
+      "session_title": "Session 2: Transition Finance",
+      "date": "2026-05-11",
+      "time": "14:00",
+      "papers": [
+        {
+          "title": "Carbon Underwriting and the Role of Banks",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Bank Stewardship and Net Zero Commitments",
+          "authors": [],
+          "presenter": ""
+        }
+      ]
+    },
+    {
+      "session_title": "Session 3: Bank Capital Allocation",
+      "date": "2026-05-12",
+      "time": "09:00",
+      "papers": [
+        {
+          "title": "Bank Capital Allocation and Risk-Taking",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Bank Nimbleness and Capital Management",
+          "authors": [],
+          "presenter": ""
+        }
+      ]
+    },
+    {
+      "session_title": "Keynote: Itay Goldstein (Wharton)",
+      "date": "2026-05-12",
+      "time": "11:00",
+      "papers": [
+        {
+          "title": "Keynote Address: Financial Intermediation in Times of Change",
+          "authors": [
+            "Itay Goldstein"
+          ],
+          "presenter": "Itay Goldstein"
+        }
+      ]
+    },
+    {
+      "session_title": "Poster Session 2",
+      "date": "2026-05-12",
+      "time": "12:00",
+      "papers": [
+        {
+          "title": "Poster 7: FinTech Lending and Financial Inclusion",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Poster 8: Climate Risk and Bank Portfolios",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Poster 9: AI in Credit Scoring",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Poster 10: Stablecoins and Payment Systems",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Poster 11: ESG Ratings and Market Discipline",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Poster 12: Systemic Risk in Crypto Markets",
+          "authors": [],
+          "presenter": ""
+        }
+      ]
+    },
+    {
+      "session_title": "Session 4: Bank Funding",
+      "date": "2026-05-12",
+      "time": "14:00",
+      "papers": [
+        {
+          "title": "Bank Deposit Franchise and Funding Costs",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Investor Inattention and Bank Funding",
+          "authors": [],
+          "presenter": ""
+        }
+      ]
+    },
+    {
+      "session_title": "Session 5 Part I: Bank/Nonbank Interactions",
+      "date": "2026-05-12",
+      "time": "15:30",
+      "papers": [
+        {
+          "title": "Contingent Liquidity and Nonbank Market Making",
+          "authors": [],
+          "presenter": ""
+        }
+      ]
+    },
+    {
+      "session_title": "Session 5 Part II: Bank/Nonbank Interactions",
+      "date": "2026-05-13",
+      "time": "09:00",
+      "papers": [
+        {
+          "title": "Synthetic Risk Transfer and Bank Regulation",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Reallocation of Credit Risk in the Financial System",
+          "authors": [],
+          "presenter": ""
+        }
+      ]
+    }
+  ],
+  "participants": []
+}

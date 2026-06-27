@@ -1,0 +1,404 @@
+{
+  "conference": {
+    "name": "Banco de Portugal and CEPR Conference on Financial Intermediation",
+    "short_name": "BDPCEPR",
+    "year": 2026,
+    "start_date": "2026-06-19",
+    "end_date": "2026-06-20",
+    "location": "Ponta Delgada, Azores, Portugal",
+    "extras": {
+      "website": "https://cepr.org/events/banco-de-portugal-and-cepr-conference-financial-intermediation-2026",
+      "host": "Banco de Portugal",
+      "organizer": "CEPR",
+      "program_pdf": "https://cepr.org/system/files/2026-05/Conference%20programme%20%28preliminary%29%20%282%29.pdf"
+    }
+  },
+  "scrape_metadata": {
+    "scraped_at": "2026-06-13T00:00:00Z",
+    "source_url": "https://cepr.org/system/files/2026-05/Conference%20programme%20%28preliminary%29%20%282%29.pdf",
+    "script_name": "scrape_bdpcepr.py",
+    "program_available": true,
+    "program_type": "pdf",
+    "errors": []
+  },
+  "sessions": [
+    {
+      "session_title": "Session 1: Financial Stability and Banking",
+      "session_type": "Contributed",
+      "chair": "Diana Bonfim",
+      "date": "2026-06-19",
+      "time": "09:30 - 12:30",
+      "papers": [
+        {
+          "title": "Bank Runs in the Digital Era",
+          "authors": ["Juan Cruz Llambias", "Guillermo Ordonez", "Edoardo Rainone"],
+          "presenter": "Juan Cruz Llambias",
+          "discussant": "Charles Kahn",
+          "time": "09:30 - 10:20"
+        },
+        {
+          "title": "Banks, venture capitalists and low innovation traps",
+          "authors": ["Anatoli Segura", "Javier Suarez"],
+          "presenter": "Anatoli Segura",
+          "discussant": "Eva Schliephake",
+          "time": "10:20 - 11:10"
+        },
+        {
+          "title": "Technology, Online Banks, and Credit Market Segmentation",
+          "authors": ["Laura Bottazzi", "Chiara Farronato", "Rachel J. Nam", "Loriana Pelizzon"],
+          "presenter": "Laura Bottazzi",
+          "discussant": "Vasso Ioannidou",
+          "time": "11:40 - 12:30"
+        }
+      ]
+    },
+    {
+      "session_title": "Session 2: Banking and Credit Markets",
+      "session_type": "Contributed",
+      "chair": "Nuno Silva",
+      "date": "2026-06-19",
+      "time": "14:00 - 17:00",
+      "papers": [
+        {
+          "title": "Lending Relationships Within Supply Chains",
+          "authors": ["Miguel Ferreira", "António Santos"],
+          "presenter": "Miguel Ferreira",
+          "discussant": "Loriana Pelizzon",
+          "time": "14:00 - 14:50"
+        },
+        {
+          "title": "Inflation and Floating-Rate Loans: Evidence from the Euro-Area",
+          "authors": ["Fabrizio Core", "Filippo De Marco", "Tim Eisert", "Glenn Schepens"],
+          "presenter": "Fabrizio Core",
+          "discussant": "Arnoud Boot",
+          "time": "14:50 - 15:40"
+        },
+        {
+          "title": "Bank to Non-Bank Lending and the Reallocation of Credit",
+          "authors": ["Jian Li", "Yiming Ma", "Caterina Mendicino", "Dominik Supera"],
+          "presenter": "Jian Li",
+          "discussant": "Carla Soares",
+          "time": "16:10 - 17:00"
+        }
+      ]
+    },
+    {
+      "session_title": "Session 3: Regulation and Financial Markets",
+      "session_type": "Contributed",
+      "chair": "João Santos",
+      "date": "2026-06-20",
+      "time": "09:30 - 12:30",
+      "papers": [
+        {
+          "title": "Mitigating the risks of deregulation: The role of supervisory attention",
+          "authors": ["Elena Carletti", "Filippo De Marco", "Alberto Manconi", "Isabella Wolfskeil"],
+          "presenter": "Elena Carletti",
+          "discussant": "Anna Kovner",
+          "time": "09:30 - 10:20"
+        },
+        {
+          "title": "How do Government Guarantees Affect Deposit Supply?",
+          "authors": ["Thomas Flanagan", "Edward T. Kim", "Shohini Kundu", "Amiyatosh Purnanandam"],
+          "presenter": "Thomas Flanagan",
+          "discussant": "Florian Heider",
+          "time": "10:20 - 11:10"
+        },
+        {
+          "title": "Financial Skills and Search in the Mortgage Market",
+          "authors": ["Marta Cota", "Ante Sterc"],
+          "presenter": "Marta Cota",
+          "discussant": "George Pennachi",
+          "time": "11:40 - 12:30"
+        }
+      ]
+    }
+  ],
+  "papers": [],
+  "participants": [
+    {
+      "name": "Diana Bonfim",
+      "institution": "European Central Bank; Católica-Lisbon",
+      "is_presenter": false,
+      "is_chair": true,
+      "papers": [],
+      "paper_titles": []
+    },
+    {
+      "name": "Nuno Silva",
+      "institution": "Banco de Portugal",
+      "is_presenter": false,
+      "is_chair": true,
+      "papers": [],
+      "paper_titles": []
+    },
+    {
+      "name": "João Santos",
+      "institution": "Federal Reserve Bank of New York",
+      "is_presenter": false,
+      "is_chair": true,
+      "papers": [],
+      "paper_titles": []
+    },
+    {
+      "name": "Juan Cruz Llambias",
+      "institution": "University of Pennsylvania",
+      "is_presenter": true,
+      "papers": [],
+      "paper_titles": ["Bank Runs in the Digital Era"]
+    },
+    {
+      "name": "Guillermo Ordonez",
+      "institution": "University of Pennsylvania",
+      "is_presenter": false,
+      "papers": [],
+      "paper_titles": ["Bank Runs in the Digital Era"]
+    },
+    {
+      "name": "Edoardo Rainone",
+      "institution": "Banca d'Italia",
+      "is_presenter": false,
+      "papers": [],
+      "paper_titles": ["Bank Runs in the Digital Era"]
+    },
+    {
+      "name": "Charles Kahn",
+      "institution": "University of Illinois",
+      "is_presenter": false,
+      "is_discussant": true,
+      "papers": [],
+      "paper_titles": ["Bank Runs in the Digital Era"]
+    },
+    {
+      "name": "Anatoli Segura",
+      "institution": "Banca d'Italia",
+      "is_presenter": true,
+      "papers": [],
+      "paper_titles": ["Banks, venture capitalists and low innovation traps"]
+    },
+    {
+      "name": "Javier Suarez",
+      "institution": "CEMFI",
+      "is_presenter": false,
+      "papers": [],
+      "paper_titles": ["Banks, venture capitalists and low innovation traps"]
+    },
+    {
+      "name": "Eva Schliephake",
+      "institution": "Católica-Lisbon",
+      "is_presenter": false,
+      "is_discussant": true,
+      "papers": [],
+      "paper_titles": ["Banks, venture capitalists and low innovation traps"]
+    },
+    {
+      "name": "Laura Bottazzi",
+      "institution": "Bologna University",
+      "is_presenter": true,
+      "papers": [],
+      "paper_titles": ["Technology, Online Banks, and Credit Market Segmentation"]
+    },
+    {
+      "name": "Chiara Farronato",
+      "institution": "Harvard Business School",
+      "is_presenter": false,
+      "papers": [],
+      "paper_titles": ["Technology, Online Banks, and Credit Market Segmentation"]
+    },
+    {
+      "name": "Rachel J. Nam",
+      "institution": "USI Lugano; Swiss Finance Institute",
+      "is_presenter": false,
+      "papers": [],
+      "paper_titles": ["Technology, Online Banks, and Credit Market Segmentation"]
+    },
+    {
+      "name": "Loriana Pelizzon",
+      "institution": "SAFE; Goethe University",
+      "is_presenter": false,
+      "is_discussant": true,
+      "papers": [],
+      "paper_titles": ["Technology, Online Banks, and Credit Market Segmentation", "Lending Relationships Within Supply Chains"]
+    },
+    {
+      "name": "Vasso Ioannidou",
+      "institution": "Bayes Business School",
+      "is_presenter": false,
+      "is_discussant": true,
+      "papers": [],
+      "paper_titles": ["Technology, Online Banks, and Credit Market Segmentation"]
+    },
+    {
+      "name": "Miguel Ferreira",
+      "institution": "Nova School of Business and Economics",
+      "is_presenter": true,
+      "papers": [],
+      "paper_titles": ["Lending Relationships Within Supply Chains"]
+    },
+    {
+      "name": "António Santos",
+      "institution": "Banco de Portugal; Nova School of Business and Economics",
+      "is_presenter": false,
+      "papers": [],
+      "paper_titles": ["Lending Relationships Within Supply Chains"]
+    },
+    {
+      "name": "Fabrizio Core",
+      "institution": "LUISS",
+      "is_presenter": true,
+      "papers": [],
+      "paper_titles": ["Inflation and Floating-Rate Loans: Evidence from the Euro-Area"]
+    },
+    {
+      "name": "Filippo De Marco",
+      "institution": "Bocconi University",
+      "is_presenter": false,
+      "papers": [],
+      "paper_titles": ["Inflation and Floating-Rate Loans: Evidence from the Euro-Area", "Mitigating the risks of deregulation: The role of supervisory attention"]
+    },
+    {
+      "name": "Tim Eisert",
+      "institution": "Nova School of Business and Economics",
+      "is_presenter": false,
+      "papers": [],
+      "paper_titles": ["Inflation and Floating-Rate Loans: Evidence from the Euro-Area"]
+    },
+    {
+      "name": "Glenn Schepens",
+      "institution": "European Central Bank",
+      "is_presenter": false,
+      "papers": [],
+      "paper_titles": ["Inflation and Floating-Rate Loans: Evidence from the Euro-Area"]
+    },
+    {
+      "name": "Arnoud Boot",
+      "institution": "University of Amsterdam",
+      "is_presenter": false,
+      "is_discussant": true,
+      "papers": [],
+      "paper_titles": ["Inflation and Floating-Rate Loans: Evidence from the Euro-Area"]
+    },
+    {
+      "name": "Jian Li",
+      "institution": "Columbia Business School",
+      "is_presenter": true,
+      "papers": [],
+      "paper_titles": ["Bank to Non-Bank Lending and the Reallocation of Credit"]
+    },
+    {
+      "name": "Yiming Ma",
+      "institution": "Columbia Business School",
+      "is_presenter": false,
+      "papers": [],
+      "paper_titles": ["Bank to Non-Bank Lending and the Reallocation of Credit"]
+    },
+    {
+      "name": "Caterina Mendicino",
+      "institution": "European Central Bank",
+      "is_presenter": false,
+      "papers": [],
+      "paper_titles": ["Bank to Non-Bank Lending and the Reallocation of Credit"]
+    },
+    {
+      "name": "Dominik Supera",
+      "institution": "Columbia Business School",
+      "is_presenter": false,
+      "papers": [],
+      "paper_titles": ["Bank to Non-Bank Lending and the Reallocation of Credit"]
+    },
+    {
+      "name": "Carla Soares",
+      "institution": "Banco de Portugal",
+      "is_presenter": false,
+      "is_discussant": true,
+      "papers": [],
+      "paper_titles": ["Bank to Non-Bank Lending and the Reallocation of Credit"]
+    },
+    {
+      "name": "Elena Carletti",
+      "institution": "Bocconi University",
+      "is_presenter": true,
+      "papers": [],
+      "paper_titles": ["Mitigating the risks of deregulation: The role of supervisory attention"]
+    },
+    {
+      "name": "Alberto Manconi",
+      "institution": "Bocconi University",
+      "is_presenter": false,
+      "papers": [],
+      "paper_titles": ["Mitigating the risks of deregulation: The role of supervisory attention"]
+    },
+    {
+      "name": "Isabella Wolfskeil",
+      "institution": "Federal Reserve Board",
+      "is_presenter": false,
+      "papers": [],
+      "paper_titles": ["Mitigating the risks of deregulation: The role of supervisory attention"]
+    },
+    {
+      "name": "Anna Kovner",
+      "institution": "Federal Reserve Bank of Richmond",
+      "is_presenter": false,
+      "is_discussant": true,
+      "papers": [],
+      "paper_titles": ["Mitigating the risks of deregulation: The role of supervisory attention"]
+    },
+    {
+      "name": "Thomas Flanagan",
+      "institution": "Fisher College of Business, The Ohio State University",
+      "is_presenter": true,
+      "papers": [],
+      "paper_titles": ["How do Government Guarantees Affect Deposit Supply?"]
+    },
+    {
+      "name": "Edward T. Kim",
+      "institution": "Stephen M. Ross School of Business, University of Michigan",
+      "is_presenter": false,
+      "papers": [],
+      "paper_titles": ["How do Government Guarantees Affect Deposit Supply?"]
+    },
+    {
+      "name": "Shohini Kundu",
+      "institution": "UCLA Anderson School of Management",
+      "is_presenter": false,
+      "papers": [],
+      "paper_titles": ["How do Government Guarantees Affect Deposit Supply?"]
+    },
+    {
+      "name": "Amiyatosh Purnanandam",
+      "institution": "McCombs School of Business, University of Texas at Austin",
+      "is_presenter": false,
+      "papers": [],
+      "paper_titles": ["How do Government Guarantees Affect Deposit Supply?"]
+    },
+    {
+      "name": "Florian Heider",
+      "institution": "SAFE; Goethe University",
+      "is_presenter": false,
+      "is_discussant": true,
+      "papers": [],
+      "paper_titles": ["How do Government Guarantees Affect Deposit Supply?"]
+    },
+    {
+      "name": "Marta Cota",
+      "institution": "Nova School of Business and Economics",
+      "is_presenter": true,
+      "papers": [],
+      "paper_titles": ["Financial Skills and Search in the Mortgage Market"]
+    },
+    {
+      "name": "Ante Sterc",
+      "institution": "Banco de Portugal",
+      "is_presenter": false,
+      "papers": [],
+      "paper_titles": ["Financial Skills and Search in the Mortgage Market"]
+    },
+    {
+      "name": "George Pennachi",
+      "institution": "University of Illinois",
+      "is_presenter": false,
+      "is_discussant": true,
+      "papers": [],
+      "paper_titles": ["Financial Skills and Search in the Mortgage Market"]
+    }
+  ]
+}

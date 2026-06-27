@@ -1,0 +1,19 @@
+{
+  "conference": {
+    "name": "Southern Economic Association Annual Meeting",
+    "short_name": "SEA",
+    "year": 2026,
+    "start_date": "2026-11-21",
+    "end_date": "2026-11-23",
+    "location": "USA"
+  },
+  "scrape_metadata": {
+    "scraped_at": "2026-06-13T17:49:40.665554",
+    "source_url": "https://www.southerneconomic.org/",
+    "program_available": false,
+    "program_type": "web",
+    "errors": []
+  },
+  "sessions": [],
+  "participants": []
+}

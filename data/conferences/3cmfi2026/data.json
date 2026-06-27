@@ -1,0 +1,2500 @@
+{
+  "conference": {
+    "name": "Third International Conference on the Climate-Macro-Finance Interface",
+    "short_name": "3CMFI 2026",
+    "year": 2026,
+    "start_date": "2026-03-23",
+    "end_date": "2026-03-24",
+    "location": "Frankfurt, Germany",
+    "extras": {
+      "extras": {
+        "extras": {
+          "extras": {
+            "keynote_speakers": [
+              "Sabine Mauderer (Bundesbank) - Balancing Growth, Stability, and Sustainability",
+              "Hilary Allen (American University) - The Political Economy of Silicon Valley",
+              "Philip Lane (ECB) - AI and the European Economy",
+              "Stefano Giglio (Yale) - Climate Transition Risks and the Energy Sector",
+              "Robert Engle (NYU) - The Impact of Climate Risk On Financial Markets"
+            ]
+          }
+        }
+      }
+    }
+  },
+  "scrape_metadata": {
+    "program_available": true,
+    "program_type": "web",
+    "notes": "19 paper sessions, 94 papers, 194 participants",
+    "scraped_at": "2026-06-13T12:00:00Z",
+    "source_url": "https://editorialexpress.com/conference/3CMFI/program/3CMFI.html",
+    "errors": []
+  },
+  "sessions": [
+    {
+      "session_title": "CLIMATE AND FINANCIAL MARKETS",
+      "time": "March 23, 2026 13:30 to 15:30",
+      "room": "HoF E.22 (Commerzbank)",
+      "papers": [
+        {
+          "title": "Sustainability Regulation Index and Its Impact on Global Equity Returns",
+          "authors": [
+            "Anjeza Kadilli"
+          ],
+          "presenter": "Anjeza Kadilli"
+        },
+        {
+          "title": "Uncovering transition risk: A new stress testing approach for the banking sector",
+          "authors": [
+            "Roberto Calogero Panzica",
+            "Martin Saldias"
+          ],
+          "presenter": "Roberto Calogero Panzica"
+        },
+        {
+          "title": "Climate policy and banks’ portfolio allocation",
+          "authors": [
+            "Dennis Reinhardt"
+          ],
+          "presenter": "Dennis Reinhardt"
+        },
+        {
+          "title": "Trump the Greenium? Evidence about the US Withdrawal from the Paris Accord",
+          "authors": [
+            "David Echeverry"
+          ],
+          "presenter": "David Echeverry"
+        },
+        {
+          "title": "The Effects of Climate Change and Climate Policy on Credit Risk",
+          "authors": [
+            "Erik Kole",
+            "Rasmus Lönn",
+            "Matthijs Leegstra"
+          ],
+          "presenter": "Erik Kole"
+        }
+      ]
+    },
+    {
+      "session_title": "CLIMATE POLICY AND TAXATION",
+      "time": "March 23, 2026 13:30 to 15:30",
+      "room": "HoF E.01 (Deutsche Bank)",
+      "papers": [
+        {
+          "title": "Policy Uncertainty and Heterogeneous Effects of Climate Policy",
+          "authors": [
+            "Garth Heutel",
+            "Givi Melkadze",
+            "Alessandro Sardone"
+          ],
+          "presenter": "Alessandro Sardone"
+        },
+        {
+          "title": "Mirrleesian Carbon Taxation",
+          "authors": [
+            "Andrea Chiavari",
+            "Alexandre Kohlhas"
+          ],
+          "presenter": "Alexandre Kohlhas"
+        },
+        {
+          "title": "Carbon, Biodiversity and the Option Values of Climate Policies",
+          "authors": [
+            "Ottmar Edenhofer",
+            "Max Franks"
+          ],
+          "presenter": "Max Franks"
+        },
+        {
+          "title": "The Macroeconomics of Green Transitions",
+          "authors": [
+            "Gregor Boehl",
+            "Flora Budianto",
+            "Elod Takats"
+          ],
+          "presenter": "Elod Takats"
+        },
+        {
+          "title": "The Green Energy Transition in a Putty-Clay Model of Capital",
+          "authors": [
+            "Natalie Rickard"
+          ],
+          "presenter": "Natalie Rickard"
+        }
+      ]
+    },
+    {
+      "session_title": "CLIMATE RISK AND MACRO-FINANCIAL IMPACT 1",
+      "time": "March 23, 2026 13:30 to 15:30",
+      "room": "HoF 1.27 (Dubai)",
+      "papers": [
+        {
+          "title": "Temperature Distributional Shocks: Identification and Macroeconomic Effects",
+          "authors": [
+            "Maria Dolores Gadea",
+            "Jesus Gonzalo",
+            "Andrey Ramos"
+          ],
+          "presenter": "Maria Dolores Gadea"
+        },
+        {
+          "title": "Extreme Weather in Europe: Determinants and Economic Impact",
+          "authors": [
+            "Marcelle Chauvet",
+            "Claudio Morana",
+            "Murilo Silva"
+          ],
+          "presenter": "Claudio Morana"
+        },
+        {
+          "title": "Global Temperature and the Global Financial Cycle",
+          "authors": [
+            "Paolo Gelain",
+            "Marco Lorusso"
+          ],
+          "presenter": "Paolo Gelain"
+        },
+        {
+          "title": "Climate Minsky Moments and Endogenous Financial Crises",
+          "authors": [
+            "Matthias Kaldorf",
+            "Matthias Rottner"
+          ],
+          "presenter": "Matthias Kaldorf"
+        },
+        {
+          "title": "The macro-regional effects of green public funds",
+          "authors": [
+            "Carolin Nerlich"
+          ],
+          "presenter": "Carolin Nerlich"
+        }
+      ]
+    },
+    {
+      "session_title": "FINANCIAL RISK AND ASSET PRICES",
+      "time": "March 23, 2026 13:30 to 15:30",
+      "room": "HoF 1.28 (Shanghai)",
+      "papers": [
+        {
+          "title": "Measuring Bank Regulations: A Text-Based Approach",
+          "authors": [
+            "Sami Mahmood"
+          ],
+          "presenter": "Sami Mahmood"
+        },
+        {
+          "title": "Do Bank Stress Tests Constrain Growth?",
+          "authors": [
+            "Sam Deegan"
+          ],
+          "presenter": "Sam Deegan"
+        },
+        {
+          "title": "International Banking Flows and Financial Crises",
+          "authors": [
+            "Francesco Molteni"
+          ],
+          "presenter": "Francesco Molteni"
+        },
+        {
+          "title": "Managing Financial Crises",
+          "authors": [
+            "Gianluca Benigno",
+            "Alessandro Rebucci",
+            "Aliaksandr Zaretski"
+          ],
+          "presenter": "Aliaksandr Zaretski"
+        },
+        {
+          "title": "A No-Arbitrage Approach to Asset Pricing using Panel Data",
+          "authors": [
+            "Fabio Araujo",
+            "Antonio Galvao",
+            "João Issler"
+          ],
+          "presenter": "João Issler"
+        }
+      ]
+    },
+    {
+      "session_title": "GREEN BONDS",
+      "time": "March 23, 2026 13:30 to 15:30",
+      "room": "HoF 2.45 (Boston)",
+      "papers": [
+        {
+          "title": "Green Portfolios",
+          "authors": [
+            "Juan Carlos Parra-Alvarez",
+            "Frederik Lundtofte",
+            "Thomas Fischer"
+          ],
+          "presenter": "Thomas Fischer"
+        },
+        {
+          "title": "Anticipating corporate emissions depending on the ambition and early action of companies",
+          "authors": [
+            "Loïc Marcadet",
+            "Tom Picard",
+            "Matthieu Picault"
+          ],
+          "presenter": "Loïc Marcadet"
+        },
+        {
+          "title": "The carbon footprint of green bonds: evidence from project-level data",
+          "authors": [
+            "Emmanouil Pyrgiotakis"
+          ],
+          "presenter": "Emmanouil Pyrgiotakis"
+        },
+        {
+          "title": "Cui prodest? The heterogeneous impact of green bonds on companies' environmental performance",
+          "authors": [
+            "Andrea Zaghini"
+          ],
+          "presenter": "Andrea Zaghini"
+        },
+        {
+          "title": "The greenness of European Green Bonds",
+          "authors": [
+            "Paola Galfrascoli",
+            "Gianna Monti",
+            "Elisa Ossola"
+          ],
+          "presenter": "Paola Galfrascoli"
+        }
+      ]
+    },
+    {
+      "session_title": "INTERNATIONAL TRADE AND COMPETITIVENESS",
+      "time": "March 23, 2026 13:30 to 15:30",
+      "room": "HoF 3.36 (Chicago)",
+      "papers": [
+        {
+          "title": "Dissecting Trade Uncertainty",
+          "authors": [
+            "Juan M. Londono",
+            "Sophia Qin",
+            "Sai Ma"
+          ],
+          "presenter": "Juan M. Londono"
+        },
+        {
+          "title": "Tariffs across the supply chain",
+          "authors": [
+            "Nicolò Gnocato",
+            "Carlos Montes-Galdon",
+            "Giovanni Stamato"
+          ],
+          "presenter": "Nicolò Gnocato"
+        },
+        {
+          "title": "Persistent Global Growth Differences and Euro Area Adjustment: Real Activity, Trade and the Real Exchange Rate",
+          "authors": [
+            "Adrian Ifrim",
+            "Robert Kollmann",
+            "Philipp Pfeiffer",
+            "Marco Ratto",
+            "Werner Roeger"
+          ],
+          "presenter": "Robert Kollmann"
+        },
+        {
+          "title": "U.S. Competitiveness and External Debt. Some overlooked aspects of the crisis in the “American order”",
+          "authors": [
+            "Fabiana De Cristofaro",
+            "Emiliano Brancaccio"
+          ],
+          "presenter": "Fabiana De Cristofaro"
+        },
+        {
+          "title": "A well-crafted BEER: Identifying the fundamental drivers of real exchange rates",
+          "authors": [
+            "Mirjam Salish",
+            "Mathilde Dufouleur",
+            "Milan Vyskrabka",
+            "Stefan Zeugner"
+          ],
+          "presenter": "Mirjam Salish"
+        }
+      ]
+    },
+    {
+      "session_title": "PRODUCTIVITY AND SUPPLY SIDE DYNAMICS",
+      "time": "March 23, 2026 13:30 to 15:30",
+      "room": "HoF 3.45 (Sydney)",
+      "papers": [
+        {
+          "title": "Diagnosing Structural Forecast Errors: A Neural Network Framework for DSGE Models",
+          "authors": [
+            "Alice Albonico",
+            "Marco Guerzoni",
+            "Florin-Andrei rusu"
+          ],
+          "presenter": "Marco Guerzoni"
+        },
+        {
+          "title": "Tail risk propagation in inflation expectations",
+          "authors": [
+            "Omid Ardakani"
+          ],
+          "presenter": "Omid Ardakani"
+        },
+        {
+          "title": "Why Do Supply Disruptions Lead to Inflation? Survey Evidence from the COVID Pandemic",
+          "authors": [
+            "Thomas Kohler",
+            "Jean-Paul L'Huillier",
+            "Gregory Phelan",
+            "Maximilian Weiß"
+          ],
+          "presenter": "Thomas Kohler"
+        },
+        {
+          "title": "Firms Adaptation in a Critical Input Crisis",
+          "authors": [
+            "Costanza Tomaselli"
+          ],
+          "presenter": "Costanza Tomaselli"
+        },
+        {
+          "title": "Spillovers, Innovation Difficulty, and the Dynamics of Productivity",
+          "authors": [
+            "Alice Albonico",
+            "Marco Guerzoni"
+          ],
+          "presenter": "Alice Albonico"
+        }
+      ]
+    },
+    {
+      "session_title": "CLIMATE AND FINANCIAL RISK",
+      "time": "March 24, 2026 8:30 to 10:30",
+      "room": "HoF E.22 (Commerzbank)",
+      "papers": [
+        {
+          "title": "When Climate Risk Becomes Local: Evidence from the U.S. Municipal Bond Market",
+          "authors": [
+            "Frederic Grüninger"
+          ],
+          "presenter": "Frederic Grüninger"
+        },
+        {
+          "title": "Does Biodiversity Risk Affect Financial Risk? Evidence from U.S. Firms.",
+          "authors": [
+            "Almudena García-Sanz"
+          ],
+          "presenter": "Almudena García-Sanz"
+        },
+        {
+          "title": "Sectoral Green Risk Premia and Transition Risk",
+          "authors": [
+            "Matteo Bondesan",
+            "Andrea Flori",
+            "Luca Regis",
+            "Luca Trapin"
+          ],
+          "presenter": "Matteo Bondesan"
+        },
+        {
+          "title": "Disaster Risk and Wealth Inequality",
+          "authors": [
+            "Alexander Dietrich",
+            "Gernot Mueller",
+            "Maximilian Weiß"
+          ],
+          "presenter": "Maximilian Weiß"
+        },
+        {
+          "title": "Climate Change As a New Source of Systemic Risk: European European Banks and Climate Risk Exposure",
+          "authors": [
+            "Claudia Cannas"
+          ],
+          "presenter": "Claudia Cannas"
+        }
+      ]
+    },
+    {
+      "session_title": "CLIMATE CHANGE AND THE HOUSEHOLDS",
+      "time": "March 24, 2026 8:30 to 10:30",
+      "room": "HoF E.01 (Deutsche Bank)",
+      "papers": [
+        {
+          "title": "Vulnerable House Price Growth - The Role of Structural Shocks and their Amplification through Vulnerabilities",
+          "authors": [
+            "Matthias Hartmann",
+            "Lucas Hafemann"
+          ],
+          "presenter": "Matthias Hartmann"
+        },
+        {
+          "title": "Housing Market Structure and Energy Efficiency Renovation",
+          "authors": [
+            "Egle Jakucionyte",
+            "Swapnil Singh"
+          ],
+          "presenter": "Egle Jakucionyte"
+        },
+        {
+          "title": "Led by a green hand: Greta Thunberg, corporate tweeting and the stock market",
+          "authors": [
+            "Henrique Alpalhão",
+            "Fabienne Röderer",
+            "José Tavares"
+          ],
+          "presenter": "José Tavares"
+        },
+        {
+          "title": "The Green Transition and Households' Macroeconomic Expectations: A Survey Experiment",
+          "authors": [
+            "Tjantana Barro",
+            "Michal Marencak",
+            "Giang Nghiem"
+          ],
+          "presenter": "Michal Marencak"
+        },
+        {
+          "title": "Climate change and socio-economic inequality in the US",
+          "authors": [
+            "Tatjana Dahlhaus",
+            "Barbara Sadaba"
+          ],
+          "presenter": "Barbara Sadaba"
+        }
+      ]
+    },
+    {
+      "session_title": "ESG AND THE GREEEN TRANSITION",
+      "time": "March 24, 2026 8:30 to 10:30",
+      "room": "HoF 1.27 (Dubai)",
+      "papers": [
+        {
+          "title": "Network Embeddedness and ESG Performance: A Spatio-Temporal Analysis of Chinese Firms",
+          "authors": [
+            "Jiayi Hu"
+          ],
+          "presenter": "Jiayi Hu"
+        },
+        {
+          "title": "The Green Value of BigTech Credit",
+          "authors": [
+            "Dan Su"
+          ],
+          "presenter": "Dan Su"
+        },
+        {
+          "title": "How banks’ sustainability activities shape borrowers’ ESG performance: Evidence of peer effects through lending networks",
+          "authors": [
+            "Geyao Zhang"
+          ],
+          "presenter": "Geyao Zhang"
+        },
+        {
+          "title": "Carbon Pricing Policies and Executive Compensation Tied to ESG Performance",
+          "authors": [
+            "Weimian Ai",
+            "David Samuel",
+            "Liandong Zhang"
+          ],
+          "presenter": "Weimian Ai"
+        },
+        {
+          "title": "On the roadmap for EU sustainable finance requirements",
+          "authors": [
+            "Marco Angheben",
+            "Maitane Puente Gonzalez"
+          ],
+          "presenter": "Marco Angheben"
+        }
+      ]
+    },
+    {
+      "session_title": "GREEN TRANSITION AND THE CORPORATE SECTOR",
+      "time": "March 24, 2026 8:30 to 10:30",
+      "room": "HoF 1.28 (Shanghai)",
+      "papers": [
+        {
+          "title": "Does Financial Development Favor Firms’ Clean Technology Adoption?",
+          "authors": [
+            "Shengyu Li"
+          ],
+          "presenter": "Shengyu Li"
+        },
+        {
+          "title": "Strategic Integration of Developing Countries in Green Global Production Networks: The Differential Impact of Exchange Rate Policies on International Renewable Energy Investment",
+          "authors": [
+            "Ilias Chiboub",
+            "Hicham sadok"
+          ],
+          "presenter": "Ilias Chiboub"
+        },
+        {
+          "title": "Climate Risk in the Supply Chain: Evidence from the Cost of Debt",
+          "authors": [
+            "Enrico Onali",
+            "Yunfan Sheng"
+          ],
+          "presenter": "Enrico Onali"
+        },
+        {
+          "title": "Carbon Risk in Loan Pricing: Commitment Channels and Real Effects",
+          "authors": [
+            "Yao Dong",
+            "Martina Hengge",
+            "Fabian Valencia",
+            "Richard Varghese"
+          ],
+          "presenter": "Yao Dong"
+        },
+        {
+          "title": "Can firms finance their low-carbon transition via the bonds market? Empirical analysis of the EU ETS and bond issuances",
+          "authors": [
+            "Nada Fadl"
+          ],
+          "presenter": "Nada Fadl"
+        }
+      ]
+    },
+    {
+      "session_title": "MACROECONOMIC SHOCKS",
+      "time": "March 24, 2026 8:30 to 10:30",
+      "room": "HoF 2.45 (Boston)",
+      "papers": [
+        {
+          "title": "High Frequency Cross Sectional Identification of Military News Shocks",
+          "authors": [
+            "Edoardo Briganti"
+          ],
+          "presenter": "Edoardo Briganti"
+        },
+        {
+          "title": "Quantifying Demand Shocks in the Green and Digital Transition",
+          "authors": [
+            "Andrea Bastianin",
+            "Luca Rossini"
+          ],
+          "presenter": "Andrea Bastianin"
+        },
+        {
+          "title": "Dancing in the Dark: Sentiment Shocks and Economic Activity",
+          "authors": [
+            "Maximilian Boeck",
+            "Zeno Enders",
+            "Michael Kleemann",
+            "Gernot Mueller"
+          ],
+          "presenter": "Zeno Enders"
+        },
+        {
+          "title": "What volatility reveals: agnostic identification of exchange rate shocks in the Trump era",
+          "authors": [
+            "Lucas ter Steege",
+            "Sofia Velasco"
+          ],
+          "presenter": "Sofia Velasco"
+        }
+      ]
+    },
+    {
+      "session_title": "MONETARY POLICY AND CREDIT",
+      "time": "March 24, 2026 8:30 to 10:30",
+      "room": "HoF 3.36 (Chicago)",
+      "papers": [
+        {
+          "title": "Public debt and monetary policy transmission: evidence from advanced and emerging Europe",
+          "authors": [
+            "Christopher Johns",
+            "Aaron Mehrotra",
+            "Fabrizio Zampolli"
+          ],
+          "presenter": "Aaron Mehrotra"
+        },
+        {
+          "title": "How Do Quantitative Easing and Tightening Affect Firms?",
+          "authors": [
+            "Egemen Eren",
+            "Denis Gorea",
+            "Daojing Zhai"
+          ],
+          "presenter": "Denis Gorea"
+        },
+        {
+          "title": "The Limits of Fiscal and Monetary Policy Coordination in Liquidity Transmission",
+          "authors": [
+            "Ioannis Paraskevopoulos"
+          ],
+          "presenter": "Ioannis Paraskevopoulos"
+        },
+        {
+          "title": "Banks, Firms, and Households: Credit Shock Amplification and Real Effects",
+          "authors": [
+            "Jin Cao",
+            "Cedric Huylebroek"
+          ],
+          "presenter": "Jin Cao"
+        },
+        {
+          "title": "Monetary Policy and Credit Gap: What about Central Bank Independence?",
+          "authors": [
+            "Bilge Karatas"
+          ],
+          "presenter": "Bilge Karatas"
+        }
+      ]
+    },
+    {
+      "session_title": "CARBON EMISSIONS AND MONETARY POLICY",
+      "time": "March 24, 2026 11:00 to 13:00",
+      "room": "HoF E.22 (Commerzbank)",
+      "papers": [
+        {
+          "title": "The ECB’s Green Put: From Cheap Talk to Priced Action",
+          "authors": [
+            "Tristan Jourde",
+            "Urszula Szczerbowicz",
+            "Floris Van Dijk"
+          ],
+          "presenter": "Tristan Jourde"
+        },
+        {
+          "title": "The Power of Words: Central Bank Green Communication and Performance of Energy Sectors",
+          "authors": [
+            "Karen Davtyan",
+            "Adel Kalozdi"
+          ],
+          "presenter": "Karen Davtyan"
+        },
+        {
+          "title": "Carbon Emissions and the Transmission of Monetary Policy",
+          "authors": [
+            "Jose Nicolas Rosas"
+          ],
+          "presenter": "Jose Nicolas Rosas"
+        },
+        {
+          "title": "Greenback? Sustainable Investing and the International Transmission of Monetary Policy",
+          "authors": [
+            "Marco Garofalo"
+          ],
+          "presenter": "Marco Garofalo"
+        },
+        {
+          "title": "Does Climate Vulnerability Weaken Monetary Policy Transmission? Evidence from Emerging Markets and Developing Economies",
+          "authors": [
+            "Liuqing Yu",
+            "Ramkishen Rajan",
+            "Sasidaran Gopalan"
+          ],
+          "presenter": "Liuqing Yu"
+        }
+      ]
+    },
+    {
+      "session_title": "CLIMATE CHANGE AND THE ENERGY SECTOR",
+      "time": "March 24, 2026 11:00 to 13:00",
+      "room": "HoF E.01 (Deutsche Bank)",
+      "papers": [
+        {
+          "title": "Green Tax Pass-Through to Retail Fuel Prices and Firm Heterogeneity: Evidence from France",
+          "authors": [
+            "Nikolaos Charalampidis",
+            "Justine Guillochon"
+          ],
+          "presenter": "Nikolaos Charalampidis"
+        },
+        {
+          "title": "Fracking the Union? Oil Shocks and the Rise of U.S. Political Polarization",
+          "authors": [
+            "Rubens Morita",
+            "Charisios Grivas"
+          ],
+          "presenter": "Rubens Morita"
+        },
+        {
+          "title": "Soft Power: Does It Help Foster CO2 Emissions Reduction?",
+          "authors": [
+            "Carlo Andrea Bollino",
+            "Marzio Galeotti"
+          ],
+          "presenter": "Carlo Andrea Bollino"
+        },
+        {
+          "title": "Renewable Technologies and Global Spillovers as Drivers of the Energy Transition – A Model-Guided Study and GVAR Empirics",
+          "authors": [
+            "Willi Semmler"
+          ],
+          "presenter": "Willi Semmler"
+        },
+        {
+          "title": "Modelling the Transition of Fossil Fuel Corporations",
+          "authors": [
+            "Elena Diaz",
+            "Isabel Figuerola",
+            "Ioannis Paraskevopoulos"
+          ],
+          "presenter": "Elena Diaz"
+        }
+      ]
+    },
+    {
+      "session_title": "CLIMATE POLICY AND CORPORATE DYNAMICS",
+      "time": "March 24, 2026 11:00 to 13:00",
+      "room": "HoF 1.27 (Dubai)",
+      "papers": [
+        {
+          "title": "Drought Shocks and Corporate Dynamics: Evidence from European Firms",
+          "authors": [
+            "Leonardo Ciotti",
+            "stefano di colli",
+            "Matteo Renghini"
+          ],
+          "presenter": "Leonardo Ciotti"
+        },
+        {
+          "title": "Product Relatedness and Latent Production Potential of Green Goods in the EU: Evidence from International Trade Flows",
+          "authors": [
+            "Andrea Brasili",
+            "Gino Magnini"
+          ],
+          "presenter": "Andrea Brasili"
+        },
+        {
+          "title": "Cross-Border Transmission of Climate Policies through Global Production Networks",
+          "authors": [
+            "Marius Fourné"
+          ],
+          "presenter": "Marius Fourné"
+        },
+        {
+          "title": "Carbon Pricing and AI Diffusion: How Climate Policy Reshapes Automation and Labor Markets",
+          "authors": [
+            "Ibrahim Tahri"
+          ],
+          "presenter": "Ibrahim Tahri"
+        },
+        {
+          "title": "Beyond green jobs: How climate policies reshape skill demand",
+          "authors": [
+            "Angelica Bertucci",
+            "Emilio Colombo",
+            "Patrizio Tirelli"
+          ],
+          "presenter": "Angelica Bertucci"
+        }
+      ]
+    },
+    {
+      "session_title": "CLIMATE RISK AND MACRO-FINANCIAL IMPACT 2",
+      "time": "March 24, 2026 11:00 to 13:00",
+      "room": "HoF 1.28 (Shanghai)",
+      "papers": [
+        {
+          "title": "Accounting for Ocean Impacts Nearly Doubles the Social Cost of Carbon",
+          "authors": [
+            "Francesco Granella"
+          ],
+          "presenter": "Francesco Granella"
+        },
+        {
+          "title": "The macroeconomic effects of extreme weather events in Spain: a high-frequency, regional approach",
+          "authors": [
+            "Miguel Angel Gavilan Rubio",
+            "Jemima Peppel-Srebrny"
+          ],
+          "presenter": "Jemima Peppel-Srebrny"
+        },
+        {
+          "title": "Climate stress test of the global supply chain network: the case of river floods",
+          "authors": [
+            "Georgios Papadopoulos",
+            "Javier Ojea-Ferreiro",
+            "Roberto Calogero Panzica"
+          ],
+          "presenter": "Georgios Papadopoulos"
+        },
+        {
+          "title": "Quantile Analysis of Climate Risks and Financial Stability in Emerging Market Economies",
+          "authors": [
+            "Margaux Person"
+          ],
+          "presenter": "Margaux Person"
+        },
+        {
+          "title": "The Climate, it is a Changing - An Analysis of Regional Temperature Anomalies in China Using Extreme Value Theory",
+          "authors": [
+            "Marc Gronwald",
+            "Xin Jin",
+            "Sania Wadud"
+          ],
+          "presenter": "Sania Wadud"
+        }
+      ]
+    },
+    {
+      "session_title": "FISCAL POLICY AND FISCAL RISK",
+      "time": "March 24, 2026 11:00 to 13:00",
+      "room": "HoF 2.45 (Boston)",
+      "papers": [
+        {
+          "title": "Fiscal Risks and Consolidations",
+          "authors": [
+            "Francesco Frangiamore",
+            "Davide Furceri",
+            "Domenico Giannone",
+            "Faizaan Kisat",
+            "Pietro Pizzuto"
+          ],
+          "presenter": "Francesco Frangiamore"
+        },
+        {
+          "title": "The Macroeconomic Effects of Sovereign Risk: New Evidence from U.S. Debt Ceiling Episodes",
+          "authors": [
+            "Dario Cardamone"
+          ],
+          "presenter": "Dario Cardamone"
+        },
+        {
+          "title": "Under Pressure: Sovereign Debt Challenges in a Warming World",
+          "authors": [
+            "Caterina Seghini",
+            "Stephane Dees",
+            "Annabelle de Gaye"
+          ],
+          "presenter": "Caterina Seghini"
+        },
+        {
+          "title": "AI Meets Fiscal Policy: Mapping Government Spending Actions Across 64 Countries",
+          "authors": [
+            "Shuvam Das"
+          ],
+          "presenter": "Shuvam Das"
+        },
+        {
+          "title": "Decoding climate-related risks in sovereign bond pricing: A global perspective",
+          "authors": [
+            "Sofia Anyfantaki"
+          ],
+          "presenter": "Sofia Anyfantaki"
+        }
+      ]
+    },
+    {
+      "session_title": "GEOPOLITICAL RISK",
+      "time": "March 24, 2026 11:00 to 13:00",
+      "room": "HoF 3.36 (Chicago)",
+      "papers": [
+        {
+          "title": "A Geopolitical Risk Indicator for the Euro Area",
+          "authors": [
+            "Yevheniia Bondarenko",
+            "Nayeon Kang",
+            "Vivien Lewis",
+            "Matthias Rottner",
+            "Yves Stephan Schueler"
+          ],
+          "presenter": "Nayeon Kang"
+        },
+        {
+          "title": "Economic Narratives and Realities of Geopolitical Risk",
+          "authors": [
+            "Sarah Arndt",
+            "Yevheniia Bondarenko",
+            "Vivien Lewis",
+            "Matthias Rottner",
+            "Yves S. Schüler"
+          ],
+          "presenter": "Yevheniia Bondarenko"
+        },
+        {
+          "title": "The geopolitics of rarity: Mapping strategic trade dependencies for rare earths",
+          "authors": [
+            "Agnieszka Gehringer"
+          ],
+          "presenter": "Agnieszka Gehringer"
+        },
+        {
+          "title": "Sanctions and the EU–Russia trade relationship",
+          "authors": [
+            "Cristiano De Cesari",
+            "Giulio Cainelli",
+            "Roberto Ganau"
+          ],
+          "presenter": "Cristiano De Cesari"
+        },
+        {
+          "title": "Chinese Banks and their EMDE Borrowers: Have Their Relationships Changed in Times of Geoeconomic Fragmentation?",
+          "authors": [
+            "Catherine Casanova",
+            "Eugenio Cerutti"
+          ],
+          "presenter": "Catherine Casanova"
+        }
+      ]
+    }
+  ],
+  "participants": [
+    {
+      "name": "Anjeza Kadilli",
+      "institution": "University of Applied Sciences of Western Switzerland, Geneva",
+      "is_presenter": true,
+      "papers": [
+        "Sustainability Regulation Index and Its Impact on Global Equity Returns"
+      ]
+    },
+    {
+      "name": "Roberto Calogero Panzica",
+      "institution": "banco do portugal",
+      "is_presenter": true,
+      "papers": [
+        "Uncovering transition risk: A new stress testing approach for the banking sector",
+        "Climate stress test of the global supply chain network: the case of river floods"
+      ]
+    },
+    {
+      "name": "Martin Saldias",
+      "institution": "Banco de Portugal",
+      "is_presenter": false,
+      "papers": [
+        "Uncovering transition risk: A new stress testing approach for the banking sector"
+      ]
+    },
+    {
+      "name": "Dennis Reinhardt",
+      "institution": "Bank of England",
+      "is_presenter": true,
+      "papers": [
+        "Climate policy and banks’ portfolio allocation"
+      ]
+    },
+    {
+      "name": "David Echeverry",
+      "institution": "Universidad de Navarra",
+      "is_presenter": true,
+      "papers": [
+        "Trump the Greenium? Evidence about the US Withdrawal from the Paris Accord"
+      ]
+    },
+    {
+      "name": "Erik Kole",
+      "institution": "Erasmus University Rotterdam",
+      "is_presenter": true,
+      "papers": [
+        "The Effects of Climate Change and Climate Policy on Credit Risk"
+      ]
+    },
+    {
+      "name": "Rasmus Lönn",
+      "institution": "Erasmus School of Economics - Erasmus University Rotterdam",
+      "is_presenter": false,
+      "papers": [
+        "The Effects of Climate Change and Climate Policy on Credit Risk"
+      ]
+    },
+    {
+      "name": "Matthijs Leegstra",
+      "institution": "Erasmus School of Economics, Erasmus University Rotterdam",
+      "is_presenter": false,
+      "papers": [
+        "The Effects of Climate Change and Climate Policy on Credit Risk"
+      ]
+    },
+    {
+      "name": "Garth Heutel",
+      "institution": "Georgia State University",
+      "is_presenter": false,
+      "papers": [
+        "Policy Uncertainty and Heterogeneous Effects of Climate Policy"
+      ]
+    },
+    {
+      "name": "Givi Melkadze",
+      "institution": "Georgia State University",
+      "is_presenter": false,
+      "papers": [
+        "Policy Uncertainty and Heterogeneous Effects of Climate Policy"
+      ]
+    },
+    {
+      "name": "Alessandro Sardone",
+      "institution": "Halle Institute for Economic Research (IWH)",
+      "is_presenter": true,
+      "papers": [
+        "Policy Uncertainty and Heterogeneous Effects of Climate Policy"
+      ]
+    },
+    {
+      "name": "Andrea Chiavari",
+      "institution": "University of Oxford",
+      "is_presenter": false,
+      "papers": [
+        "Mirrleesian Carbon Taxation"
+      ]
+    },
+    {
+      "name": "Alexandre Kohlhas",
+      "institution": "University of Oxford",
+      "is_presenter": true,
+      "papers": [
+        "Mirrleesian Carbon Taxation"
+      ]
+    },
+    {
+      "name": "Ottmar Edenhofer",
+      "institution": "Potsdam Institute for Climate Impact Research",
+      "is_presenter": false,
+      "papers": [
+        "Carbon, Biodiversity and the Option Values of Climate Policies"
+      ]
+    },
+    {
+      "name": "Max Franks",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Carbon, Biodiversity and the Option Values of Climate Policies"
+      ]
+    },
+    {
+      "name": "Gregor Boehl",
+      "institution": "",
+      "is_presenter": false,
+      "papers": [
+        "The Macroeconomics of Green Transitions"
+      ]
+    },
+    {
+      "name": "Flora Budianto",
+      "institution": "Technical University Vienna",
+      "is_presenter": false,
+      "papers": [
+        "The Macroeconomics of Green Transitions"
+      ]
+    },
+    {
+      "name": "Elod Takats",
+      "institution": "BIS",
+      "is_presenter": true,
+      "papers": [
+        "The Macroeconomics of Green Transitions"
+      ]
+    },
+    {
+      "name": "Natalie Rickard",
+      "institution": "Bank of England",
+      "is_presenter": true,
+      "papers": [
+        "The Green Energy Transition in a Putty-Clay Model of Capital"
+      ]
+    },
+    {
+      "name": "Maria Dolores Gadea",
+      "institution": "University of Zaragoza",
+      "is_presenter": true,
+      "papers": [
+        "Temperature Distributional Shocks: Identification and Macroeconomic Effects"
+      ]
+    },
+    {
+      "name": "Jesus Gonzalo",
+      "institution": "Universidad Carlos III de Madrid",
+      "is_presenter": false,
+      "papers": [
+        "Temperature Distributional Shocks: Identification and Macroeconomic Effects"
+      ]
+    },
+    {
+      "name": "Andrey Ramos",
+      "institution": "Bank of Spain",
+      "is_presenter": false,
+      "papers": [
+        "Temperature Distributional Shocks: Identification and Macroeconomic Effects"
+      ]
+    },
+    {
+      "name": "Marcelle Chauvet",
+      "institution": "University of California Riverside",
+      "is_presenter": false,
+      "papers": [
+        "Extreme Weather in Europe: Determinants and Economic Impact"
+      ]
+    },
+    {
+      "name": "Claudio Morana",
+      "institution": "Università di Milano-Bicocca",
+      "is_presenter": true,
+      "papers": [
+        "Extreme Weather in Europe: Determinants and Economic Impact"
+      ]
+    },
+    {
+      "name": "Murilo Silva",
+      "institution": "Union College - NY",
+      "is_presenter": false,
+      "papers": [
+        "Extreme Weather in Europe: Determinants and Economic Impact"
+      ]
+    },
+    {
+      "name": "Paolo Gelain",
+      "institution": "Federal Reserve Bank of Cleveland",
+      "is_presenter": true,
+      "papers": [
+        "Global Temperature and the Global Financial Cycle"
+      ]
+    },
+    {
+      "name": "Marco Lorusso",
+      "institution": "Newcastle University Business School",
+      "is_presenter": false,
+      "papers": [
+        "Global Temperature and the Global Financial Cycle"
+      ]
+    },
+    {
+      "name": "Matthias Kaldorf",
+      "institution": "Deutsche Bundesbank",
+      "is_presenter": true,
+      "papers": [
+        "Climate Minsky Moments and Endogenous Financial Crises"
+      ]
+    },
+    {
+      "name": "Matthias Rottner",
+      "institution": "Bank for International Settlements",
+      "is_presenter": false,
+      "papers": [
+        "Climate Minsky Moments and Endogenous Financial Crises",
+        "A Geopolitical Risk Indicator for the Euro Area",
+        "Economic Narratives and Realities of Geopolitical Risk"
+      ]
+    },
+    {
+      "name": "Carolin Nerlich",
+      "institution": "ECB",
+      "is_presenter": true,
+      "papers": [
+        "The macro-regional effects of green public funds"
+      ]
+    },
+    {
+      "name": "Sami Mahmood",
+      "institution": "National University of Singapore",
+      "is_presenter": true,
+      "papers": [
+        "Measuring Bank Regulations: A Text-Based Approach"
+      ]
+    },
+    {
+      "name": "Sam Deegan",
+      "institution": "University College Dublin",
+      "is_presenter": true,
+      "papers": [
+        "Do Bank Stress Tests Constrain Growth?"
+      ]
+    },
+    {
+      "name": "Francesco Molteni",
+      "institution": "Independent & RCEA",
+      "is_presenter": true,
+      "papers": [
+        "International Banking Flows and Financial Crises"
+      ]
+    },
+    {
+      "name": "Gianluca Benigno",
+      "institution": "HEC- University of Lausanne",
+      "is_presenter": false,
+      "papers": [
+        "Managing Financial Crises"
+      ]
+    },
+    {
+      "name": "Alessandro Rebucci",
+      "institution": "Johns Hopkins University",
+      "is_presenter": false,
+      "papers": [
+        "Managing Financial Crises"
+      ]
+    },
+    {
+      "name": "Aliaksandr Zaretski",
+      "institution": "University of Surrey",
+      "is_presenter": true,
+      "papers": [
+        "Managing Financial Crises"
+      ]
+    },
+    {
+      "name": "Fabio Araujo",
+      "institution": "BCB",
+      "is_presenter": false,
+      "papers": [
+        "A No-Arbitrage Approach to Asset Pricing using Panel Data"
+      ]
+    },
+    {
+      "name": "Antonio Galvao",
+      "institution": "Michigan State University",
+      "is_presenter": false,
+      "papers": [
+        "A No-Arbitrage Approach to Asset Pricing using Panel Data"
+      ]
+    },
+    {
+      "name": "João Issler",
+      "institution": "Getulio Vargas Foundation",
+      "is_presenter": true,
+      "papers": [
+        "A No-Arbitrage Approach to Asset Pricing using Panel Data"
+      ]
+    },
+    {
+      "name": "Juan Carlos Parra-Alvarez",
+      "institution": "Aarhus University",
+      "is_presenter": false,
+      "papers": [
+        "Green Portfolios"
+      ]
+    },
+    {
+      "name": "Frederik Lundtofte",
+      "institution": "Aalborg University",
+      "is_presenter": false,
+      "papers": [
+        "Green Portfolios"
+      ]
+    },
+    {
+      "name": "Thomas Fischer",
+      "institution": "Lund University",
+      "is_presenter": true,
+      "papers": [
+        "Green Portfolios"
+      ]
+    },
+    {
+      "name": "Loïc Marcadet",
+      "institution": "Université d'Orléans",
+      "is_presenter": true,
+      "papers": [
+        "Anticipating corporate emissions depending on the ambition and early action of companies"
+      ]
+    },
+    {
+      "name": "Tom Picard",
+      "institution": "Nexialog Consulting",
+      "is_presenter": false,
+      "papers": [
+        "Anticipating corporate emissions depending on the ambition and early action of companies"
+      ]
+    },
+    {
+      "name": "Matthieu Picault",
+      "institution": "IESEG",
+      "is_presenter": false,
+      "papers": [
+        "Anticipating corporate emissions depending on the ambition and early action of companies"
+      ]
+    },
+    {
+      "name": "Emmanouil Pyrgiotakis",
+      "institution": "University College Dublin",
+      "is_presenter": true,
+      "papers": [
+        "The carbon footprint of green bonds: evidence from project-level data"
+      ]
+    },
+    {
+      "name": "Andrea Zaghini",
+      "institution": "Banca d'Italia",
+      "is_presenter": true,
+      "papers": [
+        "Cui prodest? The heterogeneous impact of green bonds on companies' environmental performance"
+      ]
+    },
+    {
+      "name": "Paola Galfrascoli",
+      "institution": "University of Milano-Bicocca",
+      "is_presenter": true,
+      "papers": [
+        "The greenness of European Green Bonds"
+      ]
+    },
+    {
+      "name": "Gianna Monti",
+      "institution": "University of Milano-Bicocca",
+      "is_presenter": false,
+      "papers": [
+        "The greenness of European Green Bonds"
+      ]
+    },
+    {
+      "name": "Elisa Ossola",
+      "institution": "Università di Milano-Bicocca",
+      "is_presenter": false,
+      "papers": [
+        "The greenness of European Green Bonds"
+      ]
+    },
+    {
+      "name": "Juan M. Londono",
+      "institution": "Federal Reserve Board",
+      "is_presenter": true,
+      "papers": [
+        "Dissecting Trade Uncertainty"
+      ]
+    },
+    {
+      "name": "Sophia Qin",
+      "institution": "Stanford University",
+      "is_presenter": false,
+      "papers": [
+        "Dissecting Trade Uncertainty"
+      ]
+    },
+    {
+      "name": "Sai Ma",
+      "institution": "Federal Reserve Board",
+      "is_presenter": false,
+      "papers": [
+        "Dissecting Trade Uncertainty"
+      ]
+    },
+    {
+      "name": "Nicolò Gnocato",
+      "institution": "European Central Bank",
+      "is_presenter": true,
+      "papers": [
+        "Tariffs across the supply chain"
+      ]
+    },
+    {
+      "name": "Carlos Montes-Galdon",
+      "institution": "European Central Bank",
+      "is_presenter": false,
+      "papers": [
+        "Tariffs across the supply chain"
+      ]
+    },
+    {
+      "name": "Giovanni Stamato",
+      "institution": "European Central Bank",
+      "is_presenter": false,
+      "papers": [
+        "Tariffs across the supply chain"
+      ]
+    },
+    {
+      "name": "Adrian Ifrim",
+      "institution": "JRC, European Commission",
+      "is_presenter": false,
+      "papers": [
+        "Persistent Global Growth Differences and Euro Area Adjustment: Real Activity, Trade and the Real Exchange Rate"
+      ]
+    },
+    {
+      "name": "Robert Kollmann",
+      "institution": "Universite Libre de Bruxelles & CEPR",
+      "is_presenter": true,
+      "papers": [
+        "Persistent Global Growth Differences and Euro Area Adjustment: Real Activity, Trade and the Real Exchange Rate"
+      ]
+    },
+    {
+      "name": "Philipp Pfeiffer",
+      "institution": "DG ECFIN, European Commission",
+      "is_presenter": false,
+      "papers": [
+        "Persistent Global Growth Differences and Euro Area Adjustment: Real Activity, Trade and the Real Exchange Rate"
+      ]
+    },
+    {
+      "name": "Marco Ratto",
+      "institution": "JRC, European Commission",
+      "is_presenter": false,
+      "papers": [
+        "Persistent Global Growth Differences and Euro Area Adjustment: Real Activity, Trade and the Real Exchange Rate"
+      ]
+    },
+    {
+      "name": "Werner Roeger",
+      "institution": "DIW; VIVES, KU Leuven",
+      "is_presenter": false,
+      "papers": [
+        "Persistent Global Growth Differences and Euro Area Adjustment: Real Activity, Trade and the Real Exchange Rate"
+      ]
+    },
+    {
+      "name": "Fabiana De Cristofaro",
+      "institution": "Italian Ministry of Economy and Finance",
+      "is_presenter": true,
+      "papers": [
+        "U.S. Competitiveness and External Debt. Some overlooked aspects of the crisis in the “American order”"
+      ]
+    },
+    {
+      "name": "Emiliano Brancaccio",
+      "institution": "University Federico II",
+      "is_presenter": false,
+      "papers": [
+        "U.S. Competitiveness and External Debt. Some overlooked aspects of the crisis in the “American order”"
+      ]
+    },
+    {
+      "name": "Mirjam Salish",
+      "institution": "European Commission and Oesterreichische Nationalbank",
+      "is_presenter": true,
+      "papers": [
+        "A well-crafted BEER: Identifying the fundamental drivers of real exchange rates"
+      ]
+    },
+    {
+      "name": "Mathilde Dufouleur",
+      "institution": "",
+      "is_presenter": false,
+      "papers": [
+        "A well-crafted BEER: Identifying the fundamental drivers of real exchange rates"
+      ]
+    },
+    {
+      "name": "Milan Vyskrabka",
+      "institution": "European Commission",
+      "is_presenter": false,
+      "papers": [
+        "A well-crafted BEER: Identifying the fundamental drivers of real exchange rates"
+      ]
+    },
+    {
+      "name": "Stefan Zeugner",
+      "institution": "European Commission",
+      "is_presenter": false,
+      "papers": [
+        "A well-crafted BEER: Identifying the fundamental drivers of real exchange rates"
+      ]
+    },
+    {
+      "name": "Alice Albonico",
+      "institution": "Università di Milano-Bicocca",
+      "is_presenter": true,
+      "papers": [
+        "Diagnosing Structural Forecast Errors: A Neural Network Framework for DSGE Models",
+        "Spillovers, Innovation Difficulty, and the Dynamics of Productivity"
+      ]
+    },
+    {
+      "name": "Marco Guerzoni",
+      "institution": "Università Milano-Bicocca",
+      "is_presenter": true,
+      "papers": [
+        "Diagnosing Structural Forecast Errors: A Neural Network Framework for DSGE Models",
+        "Spillovers, Innovation Difficulty, and the Dynamics of Productivity"
+      ]
+    },
+    {
+      "name": "Florin-Andrei rusu",
+      "institution": "ECB",
+      "is_presenter": false,
+      "papers": [
+        "Diagnosing Structural Forecast Errors: A Neural Network Framework for DSGE Models"
+      ]
+    },
+    {
+      "name": "Omid Ardakani",
+      "institution": "Georgia Southern University",
+      "is_presenter": true,
+      "papers": [
+        "Tail risk propagation in inflation expectations"
+      ]
+    },
+    {
+      "name": "Thomas Kohler",
+      "institution": "Bochum University of Applied Sciences",
+      "is_presenter": true,
+      "papers": [
+        "Why Do Supply Disruptions Lead to Inflation? Survey Evidence from the COVID Pandemic"
+      ]
+    },
+    {
+      "name": "Jean-Paul L'Huillier",
+      "institution": "Brandeis University",
+      "is_presenter": false,
+      "papers": [
+        "Why Do Supply Disruptions Lead to Inflation? Survey Evidence from the COVID Pandemic"
+      ]
+    },
+    {
+      "name": "Gregory Phelan",
+      "institution": "Williams College",
+      "is_presenter": false,
+      "papers": [
+        "Why Do Supply Disruptions Lead to Inflation? Survey Evidence from the COVID Pandemic"
+      ]
+    },
+    {
+      "name": "Maximilian Weiß",
+      "institution": "University of Tübingen",
+      "is_presenter": true,
+      "papers": [
+        "Why Do Supply Disruptions Lead to Inflation? Survey Evidence from the COVID Pandemic",
+        "Disaster Risk and Wealth Inequality"
+      ]
+    },
+    {
+      "name": "Costanza Tomaselli",
+      "institution": "Imperial College Business School",
+      "is_presenter": true,
+      "papers": [
+        "Firms Adaptation in a Critical Input Crisis"
+      ]
+    },
+    {
+      "name": "Frederic Grüninger",
+      "institution": "Ruhr University Bochum",
+      "is_presenter": true,
+      "papers": [
+        "When Climate Risk Becomes Local: Evidence from the U.S. Municipal Bond Market"
+      ]
+    },
+    {
+      "name": "Almudena García-Sanz",
+      "institution": "Complutense University of Madrid",
+      "is_presenter": true,
+      "papers": [
+        "Does Biodiversity Risk Affect Financial Risk? Evidence from U.S. Firms."
+      ]
+    },
+    {
+      "name": "Matteo Bondesan",
+      "institution": "Collegio Carlo Alberto",
+      "is_presenter": true,
+      "papers": [
+        "Sectoral Green Risk Premia and Transition Risk"
+      ]
+    },
+    {
+      "name": "Andrea Flori",
+      "institution": "Politecnico di Milano",
+      "is_presenter": false,
+      "papers": [
+        "Sectoral Green Risk Premia and Transition Risk"
+      ]
+    },
+    {
+      "name": "Luca Regis",
+      "institution": "University of Torino",
+      "is_presenter": false,
+      "papers": [
+        "Sectoral Green Risk Premia and Transition Risk"
+      ]
+    },
+    {
+      "name": "Luca Trapin",
+      "institution": "Università di Bologna",
+      "is_presenter": false,
+      "papers": [
+        "Sectoral Green Risk Premia and Transition Risk"
+      ]
+    },
+    {
+      "name": "Alexander Dietrich",
+      "institution": "Danmarks Nationalbank",
+      "is_presenter": false,
+      "papers": [
+        "Disaster Risk and Wealth Inequality"
+      ]
+    },
+    {
+      "name": "Gernot Mueller",
+      "institution": "University of Tuebingen",
+      "is_presenter": false,
+      "papers": [
+        "Disaster Risk and Wealth Inequality",
+        "Dancing in the Dark: Sentiment Shocks and Economic Activity"
+      ]
+    },
+    {
+      "name": "Claudia Cannas",
+      "institution": "Università Cattolica del Sacro Cuore",
+      "is_presenter": true,
+      "papers": [
+        "Climate Change As a New Source of Systemic Risk: European European Banks and Climate Risk Exposure"
+      ]
+    },
+    {
+      "name": "Matthias Hartmann",
+      "institution": "Deutsche Bundesbank",
+      "is_presenter": true,
+      "papers": [
+        "Vulnerable House Price Growth - The Role of Structural Shocks and their Amplification through Vulnerabilities"
+      ]
+    },
+    {
+      "name": "Lucas Hafemann",
+      "institution": "Deutsche Bundesbank",
+      "is_presenter": false,
+      "papers": [
+        "Vulnerable House Price Growth - The Role of Structural Shocks and their Amplification through Vulnerabilities"
+      ]
+    },
+    {
+      "name": "Egle Jakucionyte",
+      "institution": "Bank of Lithuania",
+      "is_presenter": true,
+      "papers": [
+        "Housing Market Structure and Energy Efficiency Renovation"
+      ]
+    },
+    {
+      "name": "Swapnil Singh",
+      "institution": "Bank of Lithuania and Kaunas University of Technology",
+      "is_presenter": false,
+      "papers": [
+        "Housing Market Structure and Energy Efficiency Renovation"
+      ]
+    },
+    {
+      "name": "Henrique Alpalhão",
+      "institution": "Nova School of Business and Economics",
+      "is_presenter": false,
+      "papers": [
+        "Led by a green hand: Greta Thunberg, corporate tweeting and the stock market"
+      ]
+    },
+    {
+      "name": "Fabienne Röderer",
+      "institution": "Nova School of Business and Economics",
+      "is_presenter": false,
+      "papers": [
+        "Led by a green hand: Greta Thunberg, corporate tweeting and the stock market"
+      ]
+    },
+    {
+      "name": "José Tavares",
+      "institution": "Universidade Nova de Lisboa",
+      "is_presenter": true,
+      "papers": [
+        "Led by a green hand: Greta Thunberg, corporate tweeting and the stock market"
+      ]
+    },
+    {
+      "name": "Tjantana Barro",
+      "institution": "University of Konstanz",
+      "is_presenter": false,
+      "papers": [
+        "The Green Transition and Households' Macroeconomic Expectations: A Survey Experiment"
+      ]
+    },
+    {
+      "name": "Michal Marencak",
+      "institution": "National Bank of Slovakia",
+      "is_presenter": true,
+      "papers": [
+        "The Green Transition and Households' Macroeconomic Expectations: A Survey Experiment"
+      ]
+    },
+    {
+      "name": "Giang Nghiem",
+      "institution": "Leibniz University Hannover",
+      "is_presenter": false,
+      "papers": [
+        "The Green Transition and Households' Macroeconomic Expectations: A Survey Experiment"
+      ]
+    },
+    {
+      "name": "Tatjana Dahlhaus",
+      "institution": "Bank of Canada",
+      "is_presenter": false,
+      "papers": [
+        "Climate change and socio-economic inequality in the US"
+      ]
+    },
+    {
+      "name": "Barbara Sadaba",
+      "institution": "Universidad Diego Portales",
+      "is_presenter": true,
+      "papers": [
+        "Climate change and socio-economic inequality in the US"
+      ]
+    },
+    {
+      "name": "Jiayi Hu",
+      "institution": "University of Leeds",
+      "is_presenter": true,
+      "papers": [
+        "Network Embeddedness and ESG Performance: A Spatio-Temporal Analysis of Chinese Firms"
+      ]
+    },
+    {
+      "name": "Dan Su",
+      "institution": "Cheung Kong Graduate School of Business",
+      "is_presenter": true,
+      "papers": [
+        "The Green Value of BigTech Credit"
+      ]
+    },
+    {
+      "name": "Geyao Zhang",
+      "institution": "University of Leeds",
+      "is_presenter": true,
+      "papers": [
+        "How banks’ sustainability activities shape borrowers’ ESG performance: Evidence of peer effects through lending networks"
+      ]
+    },
+    {
+      "name": "Weimian Ai",
+      "institution": "Singapore Management University",
+      "is_presenter": true,
+      "papers": [
+        "Carbon Pricing Policies and Executive Compensation Tied to ESG Performance"
+      ]
+    },
+    {
+      "name": "David Samuel",
+      "institution": "Singapore Management University",
+      "is_presenter": false,
+      "papers": [
+        "Carbon Pricing Policies and Executive Compensation Tied to ESG Performance"
+      ]
+    },
+    {
+      "name": "Liandong Zhang",
+      "institution": "Singapore Management University",
+      "is_presenter": false,
+      "papers": [
+        "Carbon Pricing Policies and Executive Compensation Tied to ESG Performance"
+      ]
+    },
+    {
+      "name": "Marco Angheben",
+      "institution": "European Datawarehouse",
+      "is_presenter": true,
+      "papers": [
+        "On the roadmap for EU sustainable finance requirements"
+      ]
+    },
+    {
+      "name": "Maitane Puente Gonzalez",
+      "institution": "European Datawarehouse",
+      "is_presenter": false,
+      "papers": [
+        "On the roadmap for EU sustainable finance requirements"
+      ]
+    },
+    {
+      "name": "Shengyu Li",
+      "institution": "Tilburg University",
+      "is_presenter": true,
+      "papers": [
+        "Does Financial Development Favor Firms’ Clean Technology Adoption?"
+      ]
+    },
+    {
+      "name": "Ilias Chiboub",
+      "institution": "Mohammed V University of Rabat",
+      "is_presenter": true,
+      "papers": [
+        "Strategic Integration of Developing Countries in Green Global Production Networks: The Differential Impact of Exchange Rate Policies on International Renewable Energy Investment"
+      ]
+    },
+    {
+      "name": "Hicham sadok",
+      "institution": "Mohamed V university in Rabat",
+      "is_presenter": false,
+      "papers": [
+        "Strategic Integration of Developing Countries in Green Global Production Networks: The Differential Impact of Exchange Rate Policies on International Renewable Energy Investment"
+      ]
+    },
+    {
+      "name": "Enrico Onali",
+      "institution": "University of Bristol",
+      "is_presenter": true,
+      "papers": [
+        "Climate Risk in the Supply Chain: Evidence from the Cost of Debt"
+      ]
+    },
+    {
+      "name": "Yunfan Sheng",
+      "institution": "University of Bath",
+      "is_presenter": false,
+      "papers": [
+        "Climate Risk in the Supply Chain: Evidence from the Cost of Debt"
+      ]
+    },
+    {
+      "name": "Yao Dong",
+      "institution": "King's College London",
+      "is_presenter": true,
+      "papers": [
+        "Carbon Risk in Loan Pricing: Commitment Channels and Real Effects"
+      ]
+    },
+    {
+      "name": "Martina Hengge",
+      "institution": "IMF",
+      "is_presenter": false,
+      "papers": [
+        "Carbon Risk in Loan Pricing: Commitment Channels and Real Effects"
+      ]
+    },
+    {
+      "name": "Fabian Valencia",
+      "institution": "International Monetary Fund",
+      "is_presenter": false,
+      "papers": [
+        "Carbon Risk in Loan Pricing: Commitment Channels and Real Effects"
+      ]
+    },
+    {
+      "name": "Richard Varghese",
+      "institution": "International Monetary Fund",
+      "is_presenter": false,
+      "papers": [
+        "Carbon Risk in Loan Pricing: Commitment Channels and Real Effects"
+      ]
+    },
+    {
+      "name": "Nada Fadl",
+      "institution": "University of Cologne",
+      "is_presenter": true,
+      "papers": [
+        "Can firms finance their low-carbon transition via the bonds market? Empirical analysis of the EU ETS and bond issuances"
+      ]
+    },
+    {
+      "name": "Edoardo Briganti",
+      "institution": "Bank of Canada",
+      "is_presenter": true,
+      "papers": [
+        "High Frequency Cross Sectional Identification of Military News Shocks"
+      ]
+    },
+    {
+      "name": "Andrea Bastianin",
+      "institution": "University of Milan",
+      "is_presenter": true,
+      "papers": [
+        "Quantifying Demand Shocks in the Green and Digital Transition"
+      ]
+    },
+    {
+      "name": "Luca Rossini",
+      "institution": "University of Milan",
+      "is_presenter": false,
+      "papers": [
+        "Quantifying Demand Shocks in the Green and Digital Transition"
+      ]
+    },
+    {
+      "name": "Maximilian Boeck",
+      "institution": "Friedrich-Alexander-University Erlangen-Nuremberg",
+      "is_presenter": false,
+      "papers": [
+        "Dancing in the Dark: Sentiment Shocks and Economic Activity"
+      ]
+    },
+    {
+      "name": "Zeno Enders",
+      "institution": "Heidelberg University",
+      "is_presenter": true,
+      "papers": [
+        "Dancing in the Dark: Sentiment Shocks and Economic Activity"
+      ]
+    },
+    {
+      "name": "Michael Kleemann",
+      "institution": "Deutsche Bundesbank",
+      "is_presenter": false,
+      "papers": [
+        "Dancing in the Dark: Sentiment Shocks and Economic Activity"
+      ]
+    },
+    {
+      "name": "Lucas ter Steege",
+      "institution": "Deustche Bundesbank",
+      "is_presenter": false,
+      "papers": [
+        "What volatility reveals: agnostic identification of exchange rate shocks in the Trump era"
+      ]
+    },
+    {
+      "name": "Sofia Velasco",
+      "institution": "Banco de España",
+      "is_presenter": true,
+      "papers": [
+        "What volatility reveals: agnostic identification of exchange rate shocks in the Trump era"
+      ]
+    },
+    {
+      "name": "Christopher Johns",
+      "institution": "Georgetown University",
+      "is_presenter": false,
+      "papers": [
+        "Public debt and monetary policy transmission: evidence from advanced and emerging Europe"
+      ]
+    },
+    {
+      "name": "Aaron Mehrotra",
+      "institution": "Bank for International Settlements",
+      "is_presenter": true,
+      "papers": [
+        "Public debt and monetary policy transmission: evidence from advanced and emerging Europe"
+      ]
+    },
+    {
+      "name": "Fabrizio Zampolli",
+      "institution": "Bank for International Settlements",
+      "is_presenter": false,
+      "papers": [
+        "Public debt and monetary policy transmission: evidence from advanced and emerging Europe"
+      ]
+    },
+    {
+      "name": "Egemen Eren",
+      "institution": "Bank for International Settlements",
+      "is_presenter": false,
+      "papers": [
+        "How Do Quantitative Easing and Tightening Affect Firms?"
+      ]
+    },
+    {
+      "name": "Denis Gorea",
+      "institution": "Bank for International Settlements",
+      "is_presenter": true,
+      "papers": [
+        "How Do Quantitative Easing and Tightening Affect Firms?"
+      ]
+    },
+    {
+      "name": "Daojing Zhai",
+      "institution": "Yale",
+      "is_presenter": false,
+      "papers": [
+        "How Do Quantitative Easing and Tightening Affect Firms?"
+      ]
+    },
+    {
+      "name": "Ioannis Paraskevopoulos",
+      "institution": "Universidad Pontificia Comillas",
+      "is_presenter": true,
+      "papers": [
+        "The Limits of Fiscal and Monetary Policy Coordination in Liquidity Transmission",
+        "Modelling the Transition of Fossil Fuel Corporations"
+      ]
+    },
+    {
+      "name": "Jin Cao",
+      "institution": "Norges Bank",
+      "is_presenter": true,
+      "papers": [
+        "Banks, Firms, and Households: Credit Shock Amplification and Real Effects"
+      ]
+    },
+    {
+      "name": "Cedric Huylebroek",
+      "institution": "KU Leuven",
+      "is_presenter": false,
+      "papers": [
+        "Banks, Firms, and Households: Credit Shock Amplification and Real Effects"
+      ]
+    },
+    {
+      "name": "Bilge Karatas",
+      "institution": "Utrecht University",
+      "is_presenter": true,
+      "papers": [
+        "Monetary Policy and Credit Gap: What about Central Bank Independence?"
+      ]
+    },
+    {
+      "name": "Tristan Jourde",
+      "institution": "Banque de France",
+      "is_presenter": true,
+      "papers": [
+        "The ECB’s Green Put: From Cheap Talk to Priced Action"
+      ]
+    },
+    {
+      "name": "Urszula Szczerbowicz",
+      "institution": "SKEMA Business School",
+      "is_presenter": false,
+      "papers": [
+        "The ECB’s Green Put: From Cheap Talk to Priced Action"
+      ]
+    },
+    {
+      "name": "Floris Van Dijk",
+      "institution": "Banque de France",
+      "is_presenter": false,
+      "papers": [
+        "The ECB’s Green Put: From Cheap Talk to Priced Action"
+      ]
+    },
+    {
+      "name": "Karen Davtyan",
+      "institution": "Autonomous University of Barcelona",
+      "is_presenter": true,
+      "papers": [
+        "The Power of Words: Central Bank Green Communication and Performance of Energy Sectors"
+      ]
+    },
+    {
+      "name": "Adel Kalozdi",
+      "institution": "Universitat Autonoma de Barcelona",
+      "is_presenter": false,
+      "papers": [
+        "The Power of Words: Central Bank Green Communication and Performance of Energy Sectors"
+      ]
+    },
+    {
+      "name": "Jose Nicolas Rosas",
+      "institution": "Banco de España",
+      "is_presenter": true,
+      "papers": [
+        "Carbon Emissions and the Transmission of Monetary Policy"
+      ]
+    },
+    {
+      "name": "Marco Garofalo",
+      "institution": "Bank of England - University of Oxford",
+      "is_presenter": true,
+      "papers": [
+        "Greenback? Sustainable Investing and the International Transmission of Monetary Policy"
+      ]
+    },
+    {
+      "name": "Liuqing Yu",
+      "institution": "National University of Singapore",
+      "is_presenter": true,
+      "papers": [
+        "Does Climate Vulnerability Weaken Monetary Policy Transmission? Evidence from Emerging Markets and Developing Economies"
+      ]
+    },
+    {
+      "name": "Ramkishen Rajan",
+      "institution": "National University of Singapore",
+      "is_presenter": false,
+      "papers": [
+        "Does Climate Vulnerability Weaken Monetary Policy Transmission? Evidence from Emerging Markets and Developing Economies"
+      ]
+    },
+    {
+      "name": "Sasidaran Gopalan",
+      "institution": "National University of Singapore",
+      "is_presenter": false,
+      "papers": [
+        "Does Climate Vulnerability Weaken Monetary Policy Transmission? Evidence from Emerging Markets and Developing Economies"
+      ]
+    },
+    {
+      "name": "Nikolaos Charalampidis",
+      "institution": "Université Laval",
+      "is_presenter": true,
+      "papers": [
+        "Green Tax Pass-Through to Retail Fuel Prices and Firm Heterogeneity: Evidence from France"
+      ]
+    },
+    {
+      "name": "Justine Guillochon",
+      "institution": "Laval University",
+      "is_presenter": false,
+      "papers": [
+        "Green Tax Pass-Through to Retail Fuel Prices and Firm Heterogeneity: Evidence from France"
+      ]
+    },
+    {
+      "name": "Rubens Morita",
+      "institution": "University of Exeter",
+      "is_presenter": true,
+      "papers": [
+        "Fracking the Union? Oil Shocks and the Rise of U.S. Political Polarization"
+      ]
+    },
+    {
+      "name": "Charisios Grivas",
+      "institution": "Aalborg University",
+      "is_presenter": false,
+      "papers": [
+        "Fracking the Union? Oil Shocks and the Rise of U.S. Political Polarization"
+      ]
+    },
+    {
+      "name": "Carlo Andrea Bollino",
+      "institution": "Università di Perugia",
+      "is_presenter": true,
+      "papers": [
+        "Soft Power: Does It Help Foster CO2 Emissions Reduction?"
+      ]
+    },
+    {
+      "name": "Marzio Galeotti",
+      "institution": "Università di Milano",
+      "is_presenter": false,
+      "papers": [
+        "Soft Power: Does It Help Foster CO2 Emissions Reduction?"
+      ]
+    },
+    {
+      "name": "Willi Semmler",
+      "institution": "New School NY, University of Bielefeld",
+      "is_presenter": true,
+      "papers": [
+        "Renewable Technologies and Global Spillovers as Drivers of the Energy Transition – A Model-Guided Study and GVAR Empirics"
+      ]
+    },
+    {
+      "name": "Elena Diaz",
+      "institution": "Universidad Pontificia Comillas",
+      "is_presenter": true,
+      "papers": [
+        "Modelling the Transition of Fossil Fuel Corporations"
+      ]
+    },
+    {
+      "name": "Isabel Figuerola",
+      "institution": "ICADE",
+      "is_presenter": false,
+      "papers": [
+        "Modelling the Transition of Fossil Fuel Corporations"
+      ]
+    },
+    {
+      "name": "Leonardo Ciotti",
+      "institution": "Luiss Guido Carli University",
+      "is_presenter": true,
+      "papers": [
+        "Drought Shocks and Corporate Dynamics: Evidence from European Firms"
+      ]
+    },
+    {
+      "name": "stefano di colli",
+      "institution": "Confindustria",
+      "is_presenter": false,
+      "papers": [
+        "Drought Shocks and Corporate Dynamics: Evidence from European Firms"
+      ]
+    },
+    {
+      "name": "Matteo Renghini",
+      "institution": "Università Politecnica delle Marche",
+      "is_presenter": false,
+      "papers": [
+        "Drought Shocks and Corporate Dynamics: Evidence from European Firms"
+      ]
+    },
+    {
+      "name": "Andrea Brasili",
+      "institution": "EIB",
+      "is_presenter": true,
+      "papers": [
+        "Product Relatedness and Latent Production Potential of Green Goods in the EU: Evidence from International Trade Flows"
+      ]
+    },
+    {
+      "name": "Gino Magnini",
+      "institution": "Cambridge Econometrics",
+      "is_presenter": false,
+      "papers": [
+        "Product Relatedness and Latent Production Potential of Green Goods in the EU: Evidence from International Trade Flows"
+      ]
+    },
+    {
+      "name": "Marius Fourné",
+      "institution": "Martin-Luther-University Halle-Wittenberg and Halle Institute for Economic",
+      "is_presenter": true,
+      "papers": [
+        "Cross-Border Transmission of Climate Policies through Global Production Networks"
+      ]
+    },
+    {
+      "name": "Ibrahim Tahri",
+      "institution": "International Institute for Applied System Analysis",
+      "is_presenter": true,
+      "papers": [
+        "Carbon Pricing and AI Diffusion: How Climate Policy Reshapes Automation and Labor Markets"
+      ]
+    },
+    {
+      "name": "Angelica Bertucci",
+      "institution": "University of Pavia",
+      "is_presenter": true,
+      "papers": [
+        "Beyond green jobs: How climate policies reshape skill demand"
+      ]
+    },
+    {
+      "name": "Emilio Colombo",
+      "institution": "Catholic University of Milano",
+      "is_presenter": false,
+      "papers": [
+        "Beyond green jobs: How climate policies reshape skill demand"
+      ]
+    },
+    {
+      "name": "Patrizio Tirelli",
+      "institution": "University of Pavia",
+      "is_presenter": false,
+      "papers": [
+        "Beyond green jobs: How climate policies reshape skill demand"
+      ]
+    },
+    {
+      "name": "Francesco Granella",
+      "institution": "CMCC Foundation",
+      "is_presenter": true,
+      "papers": [
+        "Accounting for Ocean Impacts Nearly Doubles the Social Cost of Carbon"
+      ]
+    },
+    {
+      "name": "Miguel Angel Gavilan Rubio",
+      "institution": "European Stability Mechanism",
+      "is_presenter": false,
+      "papers": [
+        "The macroeconomic effects of extreme weather events in Spain: a high-frequency, regional approach"
+      ]
+    },
+    {
+      "name": "Jemima Peppel-Srebrny",
+      "institution": "European Stability Mechanism",
+      "is_presenter": true,
+      "papers": [
+        "The macroeconomic effects of extreme weather events in Spain: a high-frequency, regional approach"
+      ]
+    },
+    {
+      "name": "Georgios Papadopoulos",
+      "institution": "Bank of Greece",
+      "is_presenter": true,
+      "papers": [
+        "Climate stress test of the global supply chain network: the case of river floods"
+      ]
+    },
+    {
+      "name": "Javier Ojea-Ferreiro",
+      "institution": "Bank of Canada",
+      "is_presenter": false,
+      "papers": [
+        "Climate stress test of the global supply chain network: the case of river floods"
+      ]
+    },
+    {
+      "name": "Margaux Person",
+      "institution": "Nantes University",
+      "is_presenter": true,
+      "papers": [
+        "Quantile Analysis of Climate Risks and Financial Stability in Emerging Market Economies"
+      ]
+    },
+    {
+      "name": "Marc Gronwald",
+      "institution": "Xi'an Jiaotong-Liverpool University",
+      "is_presenter": false,
+      "papers": [
+        "The Climate, it is a Changing - An Analysis of Regional Temperature Anomalies in China Using Extreme Value Theory"
+      ]
+    },
+    {
+      "name": "Xin Jin",
+      "institution": "Duke Kunshan University",
+      "is_presenter": false,
+      "papers": [
+        "The Climate, it is a Changing - An Analysis of Regional Temperature Anomalies in China Using Extreme Value Theory"
+      ]
+    },
+    {
+      "name": "Sania Wadud",
+      "institution": "University of Leeds",
+      "is_presenter": true,
+      "papers": [
+        "The Climate, it is a Changing - An Analysis of Regional Temperature Anomalies in China Using Extreme Value Theory"
+      ]
+    },
+    {
+      "name": "Francesco Frangiamore",
+      "institution": "Università degli Studi di Palermo",
+      "is_presenter": true,
+      "papers": [
+        "Fiscal Risks and Consolidations"
+      ]
+    },
+    {
+      "name": "Davide Furceri",
+      "institution": "International Monetary Fund",
+      "is_presenter": false,
+      "papers": [
+        "Fiscal Risks and Consolidations"
+      ]
+    },
+    {
+      "name": "Domenico Giannone",
+      "institution": "Johns Hopkins University",
+      "is_presenter": false,
+      "papers": [
+        "Fiscal Risks and Consolidations"
+      ]
+    },
+    {
+      "name": "Faizaan Kisat",
+      "institution": "Princeton University",
+      "is_presenter": false,
+      "papers": [
+        "Fiscal Risks and Consolidations"
+      ]
+    },
+    {
+      "name": "Pietro Pizzuto",
+      "institution": "Università di Palermo",
+      "is_presenter": false,
+      "papers": [
+        "Fiscal Risks and Consolidations"
+      ]
+    },
+    {
+      "name": "Dario Cardamone",
+      "institution": "University of Notre Dame",
+      "is_presenter": true,
+      "papers": [
+        "The Macroeconomic Effects of Sovereign Risk: New Evidence from U.S. Debt Ceiling Episodes"
+      ]
+    },
+    {
+      "name": "Caterina Seghini",
+      "institution": "Banque de France",
+      "is_presenter": true,
+      "papers": [
+        "Under Pressure: Sovereign Debt Challenges in a Warming World"
+      ]
+    },
+    {
+      "name": "Stephane Dees",
+      "institution": "Banque de France",
+      "is_presenter": false,
+      "papers": [
+        "Under Pressure: Sovereign Debt Challenges in a Warming World"
+      ]
+    },
+    {
+      "name": "Annabelle de Gaye",
+      "institution": "Banque de France",
+      "is_presenter": false,
+      "papers": [
+        "Under Pressure: Sovereign Debt Challenges in a Warming World"
+      ]
+    },
+    {
+      "name": "Shuvam Das",
+      "institution": "International Monetary Fund",
+      "is_presenter": true,
+      "papers": [
+        "AI Meets Fiscal Policy: Mapping Government Spending Actions Across 64 Countries"
+      ]
+    },
+    {
+      "name": "Sofia Anyfantaki",
+      "institution": "European Central Bank",
+      "is_presenter": true,
+      "papers": [
+        "Decoding climate-related risks in sovereign bond pricing: A global perspective"
+      ]
+    },
+    {
+      "name": "Yevheniia Bondarenko",
+      "institution": "Deutsche Bundesbank",
+      "is_presenter": true,
+      "papers": [
+        "A Geopolitical Risk Indicator for the Euro Area",
+        "Economic Narratives and Realities of Geopolitical Risk"
+      ]
+    },
+    {
+      "name": "Nayeon Kang",
+      "institution": "Deutsche Bundesbank",
+      "is_presenter": true,
+      "papers": [
+        "A Geopolitical Risk Indicator for the Euro Area"
+      ]
+    },
+    {
+      "name": "Vivien Lewis",
+      "institution": "Deutsche Bundesbank",
+      "is_presenter": false,
+      "papers": [
+        "A Geopolitical Risk Indicator for the Euro Area",
+        "Economic Narratives and Realities of Geopolitical Risk"
+      ]
+    },
+    {
+      "name": "Yves Stephan Schueler",
+      "institution": "Bundesbank",
+      "is_presenter": false,
+      "papers": [
+        "A Geopolitical Risk Indicator for the Euro Area"
+      ]
+    },
+    {
+      "name": "Sarah Arndt",
+      "institution": "European Central Bank",
+      "is_presenter": false,
+      "papers": [
+        "Economic Narratives and Realities of Geopolitical Risk"
+      ]
+    },
+    {
+      "name": "Yves S. Schüler",
+      "institution": "Deutsche Bundesbank",
+      "is_presenter": false,
+      "papers": [
+        "Economic Narratives and Realities of Geopolitical Risk"
+      ]
+    },
+    {
+      "name": "Agnieszka Gehringer",
+      "institution": "Technische Hochschule Köln",
+      "is_presenter": true,
+      "papers": [
+        "The geopolitics of rarity: Mapping strategic trade dependencies for rare earths"
+      ]
+    },
+    {
+      "name": "Cristiano De Cesari",
+      "institution": "Università di Padova",
+      "is_presenter": true,
+      "papers": [
+        "Sanctions and the EU–Russia trade relationship"
+      ]
+    },
+    {
+      "name": "Giulio Cainelli",
+      "institution": "University of Padova",
+      "is_presenter": false,
+      "papers": [
+        "Sanctions and the EU–Russia trade relationship"
+      ]
+    },
+    {
+      "name": "Roberto Ganau",
+      "institution": "University of Padova",
+      "is_presenter": false,
+      "papers": [
+        "Sanctions and the EU–Russia trade relationship"
+      ]
+    },
+    {
+      "name": "Catherine Casanova",
+      "institution": "Swiss National Bank",
+      "is_presenter": true,
+      "papers": [
+        "Chinese Banks and their EMDE Borrowers: Have Their Relationships Changed in Times of Geoeconomic Fragmentation?"
+      ]
+    },
+    {
+      "name": "Eugenio Cerutti",
+      "institution": "International Monetary Fund",
+      "is_presenter": false,
+      "papers": [
+        "Chinese Banks and their EMDE Borrowers: Have Their Relationships Changed in Times of Geoeconomic Fragmentation?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "conference": {
+    "name": "European Summer Symposium in Financial Markets",
+    "short_name": "ESSFM",
+    "year": 2026,
+    "start_date": "2026-07-12",
+    "end_date": "2026-07-24",
+    "location": "Switzerland"
+  },
+  "scrape_metadata": {
+    "scraped_at": "2026-06-13T17:47:50.728491",
+    "source_url": "https://cepr.org/essfm-2026",
+    "program_available": false,
+    "program_type": "web",
+    "errors": []
+  },
+  "sessions": [],
+  "participants": []
+}

@@ -1,0 +1,5806 @@
+{
+  "conference": {
+    "name": "Society for Financial Studies Cavalcade North America",
+    "short_name": "SFS 2026",
+    "year": 2026,
+    "start_date": "2026-05-18",
+    "end_date": "2026-05-21",
+    "location": "Charlottesville, USA",
+    "extras": {
+      "extras": {
+        "extras": {
+          "edition": "SFS Cavalcade North America 2026",
+          "venue": "Darden Graduate School of Business, University of Virginia",
+          "city": "Charlottesville",
+          "country": "USA",
+          "website": "https://sfs.org/cavalcade/",
+          "program_url": "https://www.conftool.com/sfs-cavalcade-2026/sessions.php",
+          "organizer": "Society for Financial Studies",
+          "description": "Premier academic finance conference covering all areas of finance. First North American edition.",
+          "extras": {
+            "first_north_american_edition": true,
+            "submission_system": "ConfTool"
+          }
+        }
+      }
+    }
+  },
+  "scrape_metadata": {
+    "scraped_at": "2026-06-13T07:56:28.597291+00:00",
+    "source_url": "https://sfs.org/cavalcade/",
+    "program_url": "https://www.conftool.com/sfs-cavalcade-2026/sessions.php",
+    "script_name": "scrape_all_v2.py",
+    "program_available": true,
+    "program_type": "web",
+    "notes": "Converted from SFS archive: 144 track sessions, 144 papers, 414 participants.",
+    "errors": [],
+    "institution_extraction": {
+      "extracted_at": "2026-06-13",
+      "source": "ConfTool Author Pages (A-Z)",
+      "authors_from_conftool": 522,
+      "matched_to_participants": 411,
+      "unmatched_participants": 3,
+      "updated_institutions": 24,
+      "already_had_institutions": 387,
+      "fuzzy_matches": 4
+    }
+  },
+  "sessions": [
+    {
+      "session_title": "Preferences, Experiences, and Investor Behavior",
+      "chair": "Huseyin Gulen, Purdue University",
+      "date": "2026-05-19",
+      "time": "8:30am - 9:15am",
+      "room": "Classroom 120",
+      "papers": [
+        {
+          "title": "Dinner Table Alphas",
+          "authors": [
+            "Sean Cao",
+            "Huaizhi Chen",
+            "Lauren Cohen",
+            "Tianchen {Hugo} Zhao"
+          ],
+          "presenter": "Sean Cao"
+        }
+      ]
+    },
+    {
+      "session_title": "Real Assets, Insurance, and Real Estate",
+      "chair": "Amir Kermani, UC Berkeley",
+      "date": "2026-05-19",
+      "time": "8:30am - 9:15am",
+      "room": "Classroom 130",
+      "papers": [
+        {
+          "title": "The Economics of Insurance Guaranty Funds",
+          "authors": [
+            "Ishita Sen",
+            "Parinitha Sastry",
+            "Ana-Maria Tenekedjieva",
+            "Boaz Abramson"
+          ],
+          "presenter": "Ishita Sen"
+        }
+      ]
+    },
+    {
+      "session_title": "Asset Pricing: Theory",
+      "chair": "Mike Gallmeyer, UVA",
+      "date": "2026-05-19",
+      "time": "8:30am - 9:15am",
+      "room": "Classroom 140",
+      "papers": [
+        {
+          "title": "CDX Markets, Time-Varying Fear,and Corporate Leverage",
+          "authors": [
+            "Artur Anschukov",
+            "Harjoat Bhamra",
+            "Lars-Alexander Kuehn"
+          ],
+          "presenter": "Artur Anschukov"
+        }
+      ]
+    },
+    {
+      "session_title": "Climate and Corporate Finance",
+      "chair": "Christoph Schiller, Ohio State University",
+      "date": "2026-05-19",
+      "time": "8:30am - 9:15am",
+      "room": "Classroom 150",
+      "papers": [
+        {
+          "title": "Money and Power",
+          "authors": [
+            "Joshua Blonz",
+            "Cooper Howes",
+            "Joakim Weill"
+          ],
+          "presenter": "Joshua Blonz"
+        }
+      ]
+    },
+    {
+      "session_title": "Private Equity and Venture Capital",
+      "chair": "Michael Ewens, Columbia University",
+      "date": "2026-05-19",
+      "time": "8:30am - 9:15am",
+      "room": "Classroom 240",
+      "papers": [
+        {
+          "title": "How do Barbarians Get to the Gates? Private Equity Careers, Styles, and Returns",
+          "authors": [
+            "Blake Jackson"
+          ],
+          "presenter": "Blake Jackson"
+        }
+      ]
+    },
+    {
+      "session_title": "Monetary Policy",
+      "chair": "Nina Boyarchenko, Federal Reserve Bank of New York",
+      "date": "2026-05-19",
+      "time": "8:30am - 9:15am",
+      "room": "Classroom 250",
+      "papers": [
+        {
+          "title": "Monetary Policy and Investment Plans",
+          "authors": [
+            "Julia Selgrad",
+            "Kerry Siani"
+          ],
+          "presenter": "Julia Selgrad"
+        }
+      ]
+    },
+    {
+      "session_title": "Banking and Credit Intermediation",
+      "chair": "Lu Liu, The Wharton School, University of Pennsylvania",
+      "date": "2026-05-19",
+      "time": "8:30am - 9:15am",
+      "room": "Classroom 260",
+      "papers": [
+        {
+          "title": "Interest-Rate Fee Substitution: Credit Facilitation in Segmented Markets",
+          "authors": [
+            "Joao Cocco",
+            "S. Lakshmi Naaraayanan",
+            "Jagdish Tripathy"
+          ],
+          "presenter": "Joao Cocco"
+        }
+      ]
+    },
+    {
+      "session_title": "Flows, Prices, and Institutional Investors",
+      "chair": "Ian Appel, UVA Darden",
+      "date": "2026-05-19",
+      "time": "8:30am - 9:15am",
+      "room": "Classroom 270",
+      "papers": [
+        {
+          "title": "Asset Reclassification and Mutual Fund Flows",
+          "authors": [
+            "Nicolas Bollen",
+            "Veronika Pool",
+            "Alexey Vasilenko"
+          ],
+          "presenter": "Nicolas Bollen"
+        }
+      ]
+    },
+    {
+      "session_title": "Preferences, Experiences, and Investor Behavior",
+      "chair": "Huseyin Gulen, Purdue University",
+      "date": "2026-05-19",
+      "time": "9:30am - 10:15am",
+      "room": "Classroom 120",
+      "papers": [
+        {
+          "title": "Investing for Children: How Beneficiary Identity Shapes Household Portfolios",
+          "authors": [
+            "Fatima Zahra Filali Adib",
+            "Dmitry Chebotarev",
+            "Akash Raja"
+          ],
+          "presenter": "Fatima Zahra Filali Adib"
+        }
+      ]
+    },
+    {
+      "session_title": "Real Assets, Insurance, and Real Estate",
+      "chair": "Amir Kermani, UC Berkeley",
+      "date": "2026-05-19",
+      "time": "9:30am - 10:15am",
+      "room": "Classroom 130",
+      "papers": [
+        {
+          "title": "Subsidizing the Cloud: U.S. State Incentives to Data Centers",
+          "authors": [
+            "Antonio Gargano",
+            "Marco Giacoletti"
+          ],
+          "presenter": "Antonio Gargano"
+        }
+      ]
+    },
+    {
+      "session_title": "Asset Pricing: Theory",
+      "chair": "Mike Gallmeyer, UVA",
+      "date": "2026-05-19",
+      "time": "9:30am - 10:15am",
+      "room": "Classroom 140",
+      "papers": [
+        {
+          "title": "Buy High, Cry Later: Beliefs-driven Cycles of Stock Market Participation",
+          "authors": [
+            "Paul Ehling",
+            "Christian Heyerdahl-Larsen",
+            "Zeshu Xu"
+          ],
+          "presenter": "Paul Ehling"
+        }
+      ]
+    },
+    {
+      "session_title": "Climate and Corporate Finance",
+      "chair": "Christoph Schiller, Ohio State University",
+      "date": "2026-05-19",
+      "time": "9:30am - 10:15am",
+      "room": "Classroom 150",
+      "papers": [
+        {
+          "title": "Green Waste",
+          "authors": [
+            "Tom Meling",
+            "Morten Grindaker",
+            "Magne Mogstad",
+            "Ingvil Gaarder"
+          ],
+          "presenter": "Tom Meling"
+        }
+      ]
+    },
+    {
+      "session_title": "Private Equity and Venture Capital",
+      "chair": "Michael Ewens, Columbia University",
+      "date": "2026-05-19",
+      "time": "9:30am - 10:15am",
+      "room": "Classroom 240",
+      "papers": [
+        {
+          "title": "Educating Entrepreneurs on VC contracts",
+          "authors": [
+            "Fangzhou Lu",
+            "Sixuan Li",
+            "Yingyan Shi"
+          ],
+          "presenter": "Fangzhou Lu"
+        }
+      ]
+    },
+    {
+      "session_title": "Monetary Policy",
+      "chair": "Nina Boyarchenko, Federal Reserve Bank of New York",
+      "date": "2026-05-19",
+      "time": "9:30am - 10:15am",
+      "room": "Classroom 250",
+      "papers": [
+        {
+          "title": "Credit Crunch in Housing under Regulation Q",
+          "authors": [
+            "Pauline Liang"
+          ],
+          "presenter": "Pauline Liang"
+        }
+      ]
+    },
+    {
+      "session_title": "Banking and Credit Intermediation",
+      "chair": "Lu Liu, The Wharton School, University of Pennsylvania",
+      "date": "2026-05-19",
+      "time": "9:30am - 10:15am",
+      "room": "Classroom 260",
+      "papers": [
+        {
+          "title": "The Response of Debtors to Rate Changes",
+          "authors": [
+            "Virginia Gianinazzi",
+            "Andreas Fuster",
+            "Andreas Hackethal",
+            "Philip Schnorpfeil",
+            "Michael Weber"
+          ],
+          "presenter": "Virginia Gianinazzi"
+        }
+      ]
+    },
+    {
+      "session_title": "Flows, Prices, and Institutional Investors",
+      "chair": "Ian Appel, UVA Darden",
+      "date": "2026-05-19",
+      "time": "9:30am - 10:15am",
+      "room": "Classroom 270",
+      "papers": [
+        {
+          "title": "The Hidden Cost of Stock Market Concentration: When Funds Hit Regulatory Limits",
+          "authors": [
+            "Lubos Pastor",
+            "Taisiya Sikorskaya",
+            "Jinrui Wang"
+          ],
+          "presenter": "Lubos Pastor"
+        }
+      ]
+    },
+    {
+      "session_title": "Preferences, Experiences, and Investor Behavior",
+      "chair": "Huseyin Gulen, Purdue University",
+      "date": "2026-05-19",
+      "time": "10:30am - 11:15am",
+      "room": "Classroom 120",
+      "papers": [
+        {
+          "title": "Navigating through fear and greed: The Experience-driven disposition effect",
+          "authors": [
+            "Tai Lo Yeung",
+            "Rong Liu",
+            "Jessica Wachter",
+            "Michael Kahana",
+            "Yongjie Zhang"
+          ],
+          "presenter": "Tai Lo Yeung"
+        }
+      ]
+    },
+    {
+      "session_title": "Real Assets, Insurance, and Real Estate",
+      "chair": "Amir Kermani, UC Berkeley",
+      "date": "2026-05-19",
+      "time": "10:30am - 11:15am",
+      "room": "Classroom 130",
+      "papers": [
+        {
+          "title": "The Commercial Real Estate Ecosystem",
+          "authors": [
+            "Ralph Koĳen",
+            "Neel Shah",
+            "Stijn Stĳn Van Nieuwerburgh"
+          ],
+          "presenter": "Ralph Koĳen"
+        }
+      ]
+    },
+    {
+      "session_title": "Asset Pricing: Theory",
+      "chair": "Mike Gallmeyer, UVA",
+      "date": "2026-05-19",
+      "time": "10:30am - 11:15am",
+      "room": "Classroom 140",
+      "papers": [
+        {
+          "title": "A Theory of Speculation on Token-Based Platform",
+          "authors": [
+            "Kevin Mei",
+            "Michael Sockin"
+          ],
+          "presenter": "Kevin Mei"
+        }
+      ]
+    },
+    {
+      "session_title": "Climate and Corporate Finance",
+      "chair": "Christoph Schiller, Ohio State University",
+      "date": "2026-05-19",
+      "time": "10:30am - 11:15am",
+      "room": "Classroom 150",
+      "papers": [
+        {
+          "title": "The Cost of Net Zero",
+          "authors": [
+            "Jess Cornaggia",
+            "Peter Iliev"
+          ],
+          "presenter": "Jess Cornaggia"
+        }
+      ]
+    },
+    {
+      "session_title": "Private Equity and Venture Capital",
+      "chair": "Michael Ewens, Columbia University",
+      "date": "2026-05-19",
+      "time": "10:30am - 11:15am",
+      "room": "Classroom 240",
+      "papers": [
+        {
+          "title": "Transferable Skills? Founders as Venture Capitalists",
+          "authors": [
+            "Paul Gompers",
+            "",
+            "Vladimir Mukharlyamov"
+          ],
+          "presenter": "Paul Gompers"
+        }
+      ]
+    },
+    {
+      "session_title": "Monetary Policy",
+      "chair": "Nina Boyarchenko, Federal Reserve Bank of New York",
+      "date": "2026-05-19",
+      "time": "10:30am - 11:15am",
+      "room": "Classroom 250",
+      "papers": [
+        {
+          "title": "A Model of U.S. Monetary Policy and the Global Financial Cycle",
+          "authors": [
+            "Rohan Kekre",
+            "Moritz Lenel"
+          ],
+          "presenter": "Rohan Kekre"
+        }
+      ]
+    },
+    {
+      "session_title": "Banking and Credit Intermediation",
+      "chair": "Lu Liu, The Wharton School, University of Pennsylvania",
+      "date": "2026-05-19",
+      "time": "10:30am - 11:15am",
+      "room": "Classroom 260",
+      "papers": [
+        {
+          "title": "Banks as Stewards",
+          "authors": [
+            "Kristian Blickle",
+            "Adair Morse",
+            "Parinitha Sastry"
+          ],
+          "presenter": "Kristian Blickle"
+        }
+      ]
+    },
+    {
+      "session_title": "Flows, Prices, and Institutional Investors",
+      "chair": "Ian Appel, UVA Darden",
+      "date": "2026-05-19",
+      "time": "10:30am - 11:15am",
+      "room": "Classroom 270",
+      "papers": [
+        {
+          "title": "Does Sustainable Investing Weaken Stock Reactions to Cash Flow News?",
+          "authors": [
+            "Steffen Hitzemann",
+            "An Qin",
+            "Stanislav Sokolinski",
+            "Andrea Tamoni",
+            "Yuanyuan Xiao"
+          ],
+          "presenter": "Steffen Hitzemann"
+        }
+      ]
+    },
+    {
+      "session_title": "Preferences, Experiences, and Investor Behavior",
+      "chair": "Huseyin Gulen, Purdue University",
+      "date": "2026-05-19",
+      "time": "11:30am - 12:15pm",
+      "room": "Classroom 120",
+      "papers": [
+        {
+          "title": "A Bound on Price Impact and Disagreement",
+          "authors": [
+            "Philippe van der Beck",
+            "Lorenzo Bretscher",
+            "Julie Zhiyu Fu"
+          ],
+          "presenter": "Philippe van der Beck"
+        }
+      ]
+    },
+    {
+      "session_title": "Real Assets, Insurance, and Real Estate",
+      "chair": "Amir Kermani, UC Berkeley",
+      "date": "2026-05-19",
+      "time": "11:30am - 12:15pm",
+      "room": "Classroom 130",
+      "papers": [
+        {
+          "title": "Retention Costs or Human Capital Investments: A Dual Perspective on Employer-Sponsored Health Benefits",
+          "authors": [
+            "Xuelin Li",
+            "Joy Tianjiao Tong"
+          ],
+          "presenter": "Xuelin Li"
+        }
+      ]
+    },
+    {
+      "session_title": "Asset Pricing: Theory",
+      "chair": "Mike Gallmeyer, UVA",
+      "date": "2026-05-19",
+      "time": "11:30am - 12:15pm",
+      "room": "Classroom 140",
+      "papers": [
+        {
+          "title": "The rise of shareholder capitalism: macroeconomic implications",
+          "authors": [
+            "Alessandro Villa",
+            "François Gourio"
+          ],
+          "presenter": "Alessandro Villa"
+        }
+      ]
+    },
+    {
+      "session_title": "Climate and Corporate Finance",
+      "chair": "Christoph Schiller, Ohio State University",
+      "date": "2026-05-19",
+      "time": "11:30am - 12:15pm",
+      "room": "Classroom 150",
+      "papers": [
+        {
+          "title": "Financing Investment in Electricity",
+          "authors": [
+            "Olivier Darmouni",
+            "Clemens Lehner",
+            "Pari Sastry"
+          ],
+          "presenter": "Olivier Darmouni"
+        }
+      ]
+    },
+    {
+      "session_title": "Private Equity and Venture Capital",
+      "chair": "Michael Ewens, Columbia University",
+      "date": "2026-05-19",
+      "time": "11:30am - 12:15pm",
+      "room": "Classroom 240",
+      "papers": [
+        {
+          "title": "Overallocated Investors and Secondary Transactions",
+          "authors": [
+            "Rustam Abuzov",
+            "Aleksandar Andonov",
+            "Josh Lerner"
+          ],
+          "presenter": "Rustam Abuzov"
+        }
+      ]
+    },
+    {
+      "session_title": "Monetary Policy",
+      "chair": "Nina Boyarchenko, Federal Reserve Bank of New York",
+      "date": "2026-05-19",
+      "time": "11:30am - 12:15pm",
+      "room": "Classroom 250",
+      "papers": [
+        {
+          "title": "The Equity Constraint Channel of Monetary Policy",
+          "authors": [
+            "Heitor Almeida",
+            "Tim Johnson",
+            "Sebastiao Oliveira",
+            "Yucheng Zhou"
+          ],
+          "presenter": "Heitor Almeida"
+        }
+      ]
+    },
+    {
+      "session_title": "Banking and Credit Intermediation",
+      "chair": "Lu Liu, The Wharton School, University of Pennsylvania",
+      "date": "2026-05-19",
+      "time": "11:30am - 12:15pm",
+      "room": "Classroom 260",
+      "papers": [
+        {
+          "title": "Earnings Information Spillovers and Depositor Contagion",
+          "authors": [
+            "Qi Chen",
+            "Itay Goldstein",
+            "Rahul Vashishtha",
+            "Benda Yin"
+          ],
+          "presenter": "Qi Chen"
+        }
+      ]
+    },
+    {
+      "session_title": "Flows, Prices, and Institutional Investors",
+      "chair": "Ian Appel, UVA Darden",
+      "date": "2026-05-19",
+      "time": "11:30am - 12:15pm",
+      "room": "Classroom 270",
+      "papers": [
+        {
+          "title": "Persistence in Alphas without Persistence in Skill",
+          "authors": [
+            "Sina Ehsani",
+            "Juhani Linnainmaa"
+          ],
+          "presenter": "Sina Ehsani"
+        }
+      ]
+    },
+    {
+      "session_title": "Preferences, Experiences, and Investor Behavior",
+      "chair": "Huseyin Gulen, Purdue University",
+      "date": "2026-05-19",
+      "time": "1:45pm - 2:30pm",
+      "room": "Classroom 120",
+      "papers": [
+        {
+          "title": "Attention Allocation and Fund Flows: Evidence from Institutional Investors",
+          "authors": [
+            "Zhi Da",
+            "Thanh Huynh"
+          ],
+          "presenter": "Zhi Da"
+        }
+      ]
+    },
+    {
+      "session_title": "Real Assets, Insurance, and Real Estate",
+      "chair": "Amir Kermani, UC Berkeley",
+      "date": "2026-05-19",
+      "time": "1:45pm - 2:30pm",
+      "room": "Classroom 130",
+      "papers": [
+        {
+          "title": "Intangible Intensity",
+          "authors": [
+            "Andrea Eisfeldt",
+            "Barney Hartman-Glaser",
+            "Edward Kim",
+            "Ki Beom Lee"
+          ],
+          "presenter": "Andrea Eisfeldt"
+        }
+      ]
+    },
+    {
+      "session_title": "Asset Pricing: Theory",
+      "chair": "Mike Gallmeyer, UVA",
+      "date": "2026-05-19",
+      "time": "1:45pm - 2:30pm",
+      "room": "Classroom 140",
+      "papers": [
+        {
+          "title": "Financial Market Fragility in the Era of AI Planning",
+          "authors": [
+            "Winston Dou",
+            "Itay Goldstein",
+            "Yan Ji"
+          ],
+          "presenter": "Winston Dou"
+        }
+      ]
+    },
+    {
+      "session_title": "Climate and Corporate Finance",
+      "chair": "Christoph Schiller, Ohio State University",
+      "date": "2026-05-19",
+      "time": "1:45pm - 2:30pm",
+      "room": "Classroom 150",
+      "papers": [
+        {
+          "title": "Borders Bear the Brunt: State Environmental Review and Severed Agglomerations",
+          "authors": [
+            "Bharat Raj Parajuli",
+            "Matthew Gustafson",
+            "Lubomir Litov"
+          ],
+          "presenter": "Bharat Raj Parajuli"
+        }
+      ]
+    },
+    {
+      "session_title": "Private Equity and Venture Capital",
+      "chair": "Michael Ewens, Columbia University",
+      "date": "2026-05-19",
+      "time": "1:45pm - 2:30pm",
+      "room": "Classroom 240",
+      "papers": [
+        {
+          "title": "Retail Capital as a Stepping Stone in Venture Capital: Theory and Empirics",
+          "authors": [
+            "Shane Miller",
+            "Ran Xing",
+            "Emmanuel Yimfor",
+            "Ye Zhang"
+          ],
+          "presenter": "Shane Miller"
+        }
+      ]
+    },
+    {
+      "session_title": "Monetary Policy",
+      "chair": "Nina Boyarchenko, Federal Reserve Bank of New York",
+      "date": "2026-05-19",
+      "time": "1:45pm - 2:30pm",
+      "room": "Classroom 250",
+      "papers": [
+        {
+          "title": "What Does It Take? Quantifying Cross-Country Transfers in the Eurozone",
+          "authors": [
+            "YiLi Chien",
+            "Zhengyang Jiang",
+            "Matteo Leombroni",
+            "Hanno Lustig"
+          ],
+          "presenter": "YiLi Chien"
+        }
+      ]
+    },
+    {
+      "session_title": "Banking and Credit Intermediation",
+      "chair": "Lu Liu, The Wharton School, University of Pennsylvania",
+      "date": "2026-05-19",
+      "time": "1:45pm - 2:30pm",
+      "room": "Classroom 260",
+      "papers": [
+        {
+          "title": "Pricing Power in the Mortgage Market: Evidence from GSE Fee Waivers",
+          "authors": [
+            "Neil Bhutta",
+            "Benjamin Keys",
+            "Adithya Raajkumar"
+          ],
+          "presenter": "Neil Bhutta"
+        }
+      ]
+    },
+    {
+      "session_title": "Flows, Prices, and Institutional Investors",
+      "chair": "Ian Appel, UVA Darden",
+      "date": "2026-05-19",
+      "time": "1:45pm - 2:30pm",
+      "room": "Classroom 270",
+      "papers": [
+        {
+          "title": "How (Not) to Identify Demand Elasticities in Dynamic Asset Markets",
+          "authors": [
+            "Jules van Binsbergen",
+            "Benjamin David",
+            "Christian Opp"
+          ],
+          "presenter": "Jules van Binsbergen"
+        }
+      ]
+    },
+    {
+      "session_title": "Preferences, Experiences, and Investor Behavior",
+      "chair": "Huseyin Gulen, Purdue University",
+      "date": "2026-05-19",
+      "time": "2:45pm - 3:30pm",
+      "room": "Classroom 120",
+      "papers": [
+        {
+          "title": "Partisan Corporate Speech",
+          "authors": [
+            "William Cassidy",
+            "Elisabeth Kempf"
+          ],
+          "presenter": "William Cassidy"
+        }
+      ]
+    },
+    {
+      "session_title": "Real Assets, Insurance, and Real Estate",
+      "chair": "Amir Kermani, UC Berkeley",
+      "date": "2026-05-19",
+      "time": "2:45pm - 3:30pm",
+      "room": "Classroom 130",
+      "papers": [
+        {
+          "title": "Going for Broker? Intermediation in Health Insurance Markets",
+          "authors": [
+            "Anran Li",
+            "Tong Liu",
+            "Anthony LoSasso",
+            "Nicholas Tilipman"
+          ],
+          "presenter": "Anran Li"
+        }
+      ]
+    },
+    {
+      "session_title": "Asset Pricing: Theory",
+      "chair": "Mike Gallmeyer, UVA",
+      "date": "2026-05-19",
+      "time": "2:45pm - 3:30pm",
+      "room": "Classroom 140",
+      "papers": [
+        {
+          "title": "Heterogeneous Beliefs, Asset Prices, and Business Cycles",
+          "authors": [
+            "Matthew Bigio",
+            "Dejanir Silva",
+            "Eduardo Zilberman"
+          ],
+          "presenter": "Matthew Bigio"
+        }
+      ]
+    },
+    {
+      "session_title": "Climate and Corporate Finance",
+      "chair": "Christoph Schiller, Ohio State University",
+      "date": "2026-05-19",
+      "time": "2:45pm - 3:30pm",
+      "room": "Classroom 150",
+      "papers": [
+        {
+          "title": "Uncoordinated Climate Policy and Carbon Leakage: Evidence from Supply Chains",
+          "authors": [
+            "Emanuela Benincasa",
+            "Olimpia Carradori",
+            "Miguel Ferreira",
+            "Emilia Garcia-Appendini"
+          ],
+          "presenter": "Emanuela Benincasa"
+        }
+      ]
+    },
+    {
+      "session_title": "Private Equity and Venture Capital",
+      "chair": "Michael Ewens, Columbia University",
+      "date": "2026-05-19",
+      "time": "2:45pm - 3:30pm",
+      "room": "Classroom 240",
+      "papers": [
+        {
+          "title": "Cash or Stock? Agency Frictions in Venture Capital Distributions",
+          "authors": [
+            "Minmo Gahng"
+          ],
+          "presenter": "Minmo Gahng"
+        }
+      ]
+    },
+    {
+      "session_title": "Monetary Policy",
+      "chair": "Nina Boyarchenko, Federal Reserve Bank of New York",
+      "date": "2026-05-19",
+      "time": "2:45pm - 3:30pm",
+      "room": "Classroom 250",
+      "papers": [
+        {
+          "title": "A Model of Fed Information Effect",
+          "authors": [
+            "Hengjie Ai",
+            "Xinxin Hu"
+          ],
+          "presenter": "Hengjie Ai"
+        }
+      ]
+    },
+    {
+      "session_title": "Banking and Credit Intermediation",
+      "chair": "Lu Liu, The Wharton School, University of Pennsylvania",
+      "date": "2026-05-19",
+      "time": "2:45pm - 3:30pm",
+      "room": "Classroom 260",
+      "papers": [
+        {
+          "title": "Credit Pricing, Rate Shocks, and Intermediary Discretion: An Auto Finance Field Study",
+          "authors": [
+            "Mark Garmaise",
+            "Mark Jansen"
+          ],
+          "presenter": "Mark Garmaise"
+        }
+      ]
+    },
+    {
+      "session_title": "Flows, Prices, and Institutional Investors",
+      "chair": "Ian Appel, UVA Darden",
+      "date": "2026-05-19",
+      "time": "2:45pm - 3:30pm",
+      "room": "Classroom 270",
+      "papers": [
+        {
+          "title": "On the Recovery and Usage of Demand Elasticities in Dynamic Settings",
+          "authors": [
+            "Carter Davis",
+            "Mahyar Kargar",
+            "Jiacui Li",
+            "Dejanir Silva"
+          ],
+          "presenter": "Carter Davis"
+        }
+      ]
+    },
+    {
+      "session_title": "Government Policies and Financial Markets",
+      "chair": "Vadim Elenev, Johns Hopkins University",
+      "date": "2026-05-20",
+      "time": "8:30am - 9:15am",
+      "room": "Classroom 120",
+      "papers": [
+        {
+          "title": "Innovation Policy and Inventors’ Productivity: Evidence from Global AI Initiatives",
+          "authors": [
+            "Leo Liu",
+            "Fariborz Moshirian",
+            "Vikram Nanda",
+            "Sheng Xu"
+          ],
+          "presenter": "Leo Liu"
+        }
+      ]
+    },
+    {
+      "session_title": "Household Finance and Retirement Behavior",
+      "chair": "Shan Ge, NYU",
+      "date": "2026-05-20",
+      "time": "8:30am - 9:15am",
+      "room": "Classroom 130",
+      "papers": [
+        {
+          "title": "Financial Advisors and Retirees' Risk-Taking",
+          "authors": [
+            "Allison Cole",
+            "Maarten Meeuwis",
+            "Alessandro Previtero",
+            "Noah Stoffman"
+          ],
+          "presenter": "Allison Cole"
+        }
+      ]
+    },
+    {
+      "session_title": "Corporate Finance: Theory",
+      "chair": "Barney Hartman-Glaser, UCLA",
+      "date": "2026-05-20",
+      "time": "8:30am - 9:15am",
+      "room": "Classroom 140",
+      "papers": [
+        {
+          "title": "Information-Concealing Credit Architecture",
+          "authors": [
+            "Gary Gorton",
+            "Ye Li",
+            "Guillermo Ordonez"
+          ],
+          "presenter": "Gary Gorton"
+        }
+      ]
+    },
+    {
+      "session_title": "Climate and Asset Pricing",
+      "chair": "Lorenzo Garlappi, UBC",
+      "date": "2026-05-20",
+      "time": "8:30am - 9:15am",
+      "room": "Classroom 150",
+      "papers": [
+        {
+          "title": "Do carbon markets undermine private climate initiatives?",
+          "authors": [
+            "Ian Appel",
+            "Pat Akey",
+            "Johannes Klausmann",
+            "Aymeric Bellon"
+          ],
+          "presenter": "Ian Appel"
+        }
+      ]
+    },
+    {
+      "session_title": "Entrepreneurship, Innovation, and Technology Adoption",
+      "chair": "David Robinson, Duke University",
+      "date": "2026-05-20",
+      "time": "8:30am - 9:15am",
+      "room": "Classroom 240",
+      "papers": [
+        {
+          "title": "Who Benefits from Remote Work?",
+          "authors": [
+            "Abhinav Gupta",
+            "Arpit Gupta",
+            "Elena Simintzi"
+          ],
+          "presenter": "Abhinav Gupta"
+        }
+      ]
+    },
+    {
+      "session_title": "Macro-Finance",
+      "chair": "Alp Simsek, Yale University",
+      "date": "2026-05-20",
+      "time": "8:30am - 9:15am",
+      "room": "Classroom 250",
+      "papers": [
+        {
+          "title": "Inflation Uncertainty: Measurement, Causes, and Consequences",
+          "authors": [
+            "Sebastian Hillenbrand",
+            "Venky Venkateswaran",
+            "Viral Acharya",
+            "Margaret Underwood"
+          ],
+          "presenter": "Sebastian Hillenbrand"
+        }
+      ]
+    },
+    {
+      "session_title": "Asset Pricing: Credit and Derivatives",
+      "chair": "Francis Longstaff, UCLA Anderson School",
+      "date": "2026-05-20",
+      "time": "8:30am - 9:15am",
+      "room": "Classroom 260",
+      "papers": [
+        {
+          "title": "Pricing Government Contract Risk Premia: Evidence from the 2025 Federal Lease Terminations",
+          "authors": [
+            "Soon Hyeok Choi",
+            "Cameron LaPoint"
+          ],
+          "presenter": "Soon Hyeok Choi"
+        }
+      ]
+    },
+    {
+      "session_title": "FinTech and AI in Finance",
+      "chair": "Pedro Matos, University of Virginia Darden School of Business",
+      "date": "2026-05-20",
+      "time": "8:30am - 9:15am",
+      "room": "Classroom 270",
+      "papers": [
+        {
+          "title": "Does Corporate Production of AI Innovation Create Value?",
+          "authors": [
+            "Ali Ahmadi",
+            "Ambrus Kecskes",
+            "Roni Michaely",
+            "Phuong-Anh Nguyen"
+          ],
+          "presenter": "Ali Ahmadi"
+        }
+      ]
+    },
+    {
+      "session_title": "Government Policies and Financial Markets",
+      "chair": "Vadim Elenev, Johns Hopkins University",
+      "date": "2026-05-20",
+      "time": "9:30am - 10:15am",
+      "room": "Classroom 120",
+      "papers": [
+        {
+          "title": "Fiscal Redistribution Risk in Treasury Markets",
+          "authors": [
+            "Roberto Gomez Cram",
+            "Howard Kung",
+            "Hanno Lustig",
+            "David Zeke"
+          ],
+          "presenter": "Roberto Gomez Cram"
+        }
+      ]
+    },
+    {
+      "session_title": "Household Finance and Retirement Behavior",
+      "chair": "Shan Ge, NYU",
+      "date": "2026-05-20",
+      "time": "9:30am - 10:15am",
+      "room": "Classroom 130",
+      "papers": [
+        {
+          "title": "Expense Shocks Matter",
+          "authors": [
+            "Scott Fulford",
+            "David Low"
+          ],
+          "presenter": "Scott Fulford"
+        }
+      ]
+    },
+    {
+      "session_title": "Corporate Finance: Theory",
+      "chair": "Barney Hartman-Glaser, UCLA",
+      "date": "2026-05-20",
+      "time": "9:30am - 10:15am",
+      "room": "Classroom 140",
+      "papers": [
+        {
+          "title": "Fragmentation of Shareholder Power",
+          "authors": [
+            "Andrey Malenko",
+            "Nadya Malenko",
+            "Anton Tsoy"
+          ],
+          "presenter": "Andrey Malenko"
+        }
+      ]
+    },
+    {
+      "session_title": "Climate and Asset Pricing",
+      "chair": "Lorenzo Garlappi, UBC",
+      "date": "2026-05-20",
+      "time": "9:30am - 10:15am",
+      "room": "Classroom 150",
+      "papers": [
+        {
+          "title": "Pricing Protection: Credit Scores, Disaster Risk, and Home Insurance Affordability",
+          "authors": [
+            "Joshua Blonz",
+            "Mallick Hossain",
+            "Benjamin Keys",
+            "Philip Mulder",
+            "Joakim Weill"
+          ],
+          "presenter": "Joshua Blonz"
+        }
+      ]
+    },
+    {
+      "session_title": "Entrepreneurship, Innovation, and Technology Adoption",
+      "chair": "David Robinson, Duke University",
+      "date": "2026-05-20",
+      "time": "9:30am - 10:15am",
+      "room": "Classroom 240",
+      "papers": [
+        {
+          "title": "HUSTLING FROM HOME? WORK FROM HOME FLEXIBILITY AND ENTREPRENEURIAL ENTRY",
+          "authors": [
+            "John Barrios",
+            "Yael Hochberg",
+            "Hanyi Livia Yi"
+          ],
+          "presenter": "John Barrios"
+        }
+      ]
+    },
+    {
+      "session_title": "Macro-Finance",
+      "chair": "Alp Simsek, Yale University",
+      "date": "2026-05-20",
+      "time": "9:30am - 10:15am",
+      "room": "Classroom 250",
+      "papers": [
+        {
+          "title": "How Markets Process Macro News: The Importance of Investor Attention",
+          "authors": [
+            "Niklas Kroner"
+          ],
+          "presenter": "Niklas Kroner"
+        }
+      ]
+    },
+    {
+      "session_title": "Asset Pricing: Credit and Derivatives",
+      "chair": "Francis Longstaff, UCLA Anderson School",
+      "date": "2026-05-20",
+      "time": "9:30am - 10:15am",
+      "room": "Classroom 260",
+      "papers": [
+        {
+          "title": "Reconstructing a Century of U.S. Corporate Bonds: Credit Risk in Historical Perspective",
+          "authors": [
+            "Mohammad Ghaderi",
+            "Sebastien Plante",
+            "Nikolai Roussanov",
+            "Sang Byung Seo"
+          ],
+          "presenter": "Mohammad Ghaderi"
+        }
+      ]
+    },
+    {
+      "session_title": "FinTech and AI in Finance",
+      "chair": "Pedro Matos, University of Virginia Darden School of Business",
+      "date": "2026-05-20",
+      "time": "9:30am - 10:15am",
+      "room": "Classroom 270",
+      "papers": [
+        {
+          "title": "Financial Technologies, Labor Markets, and Wage Inequality: Evidence from Instant Payment Systems",
+          "authors": [
+            "Jacelly Cespedes",
+            "Carlos Burga",
+            "Carlos Parra",
+            "Bernardo Ricca"
+          ],
+          "presenter": "Jacelly Cespedes"
+        }
+      ]
+    },
+    {
+      "session_title": "Government Policies and Financial Markets",
+      "chair": "Vadim Elenev, Johns Hopkins University",
+      "date": "2026-05-20",
+      "time": "10:30am - 11:15am",
+      "room": "Classroom 120",
+      "papers": [
+        {
+          "title": "Partisan Fed",
+          "authors": [
+            "Andrea Pagliuca"
+          ],
+          "presenter": "Andrea Pagliuca"
+        }
+      ]
+    },
+    {
+      "session_title": "Household Finance and Retirement Behavior",
+      "chair": "Shan Ge, NYU",
+      "date": "2026-05-20",
+      "time": "10:30am - 11:15am",
+      "room": "Classroom 130",
+      "papers": [
+        {
+          "title": "Wealth Accumulation in College Savings Accounts and Educational Opportunities",
+          "authors": [
+            "Alexey Vasilenko"
+          ],
+          "presenter": "Alexey Vasilenko"
+        }
+      ]
+    },
+    {
+      "session_title": "Corporate Finance: Theory",
+      "chair": "Barney Hartman-Glaser, UCLA",
+      "date": "2026-05-20",
+      "time": "10:30am - 11:15am",
+      "room": "Classroom 140",
+      "papers": [
+        {
+          "title": "Probability Pricing",
+          "authors": [
+            "Eduardo Davila",
+            "Cecilia Parlatore",
+            "Ansgar Walther"
+          ],
+          "presenter": "Eduardo Davila"
+        }
+      ]
+    },
+    {
+      "session_title": "Climate and Asset Pricing",
+      "chair": "Lorenzo Garlappi, UBC",
+      "date": "2026-05-20",
+      "time": "10:30am - 11:15am",
+      "room": "Classroom 150",
+      "papers": [
+        {
+          "title": "Beyond the Storm: Climate Risk and Insurers of Last Resort",
+          "authors": [
+            "Ankit Kalda",
+            "Varun Sharma",
+            "Vikas Soni",
+            "Derek Wenning"
+          ],
+          "presenter": "Ankit Kalda"
+        }
+      ]
+    },
+    {
+      "session_title": "Entrepreneurship, Innovation, and Technology Adoption",
+      "chair": "David Robinson, Duke University",
+      "date": "2026-05-20",
+      "time": "10:30am - 11:15am",
+      "room": "Classroom 240",
+      "papers": [
+        {
+          "title": "Sanctions Paradox: Do U.S. Export Restrictions Hurt Domestic Innovation?",
+          "authors": [
+            "Hao Gao",
+            "Nemit Shroff",
+            "Pengdong Zhang"
+          ],
+          "presenter": "Hao Gao"
+        }
+      ]
+    },
+    {
+      "session_title": "Macro-Finance",
+      "chair": "Alp Simsek, Yale University",
+      "date": "2026-05-20",
+      "time": "10:30am - 11:15am",
+      "room": "Classroom 250",
+      "papers": [
+        {
+          "title": "Fluctuations in the Treasury General Account and their effect on the Fed’s balance sheet",
+          "authors": [
+            "Annette Vissing-Jorgensen"
+          ],
+          "presenter": "Annette Vissing-Jorgensen"
+        }
+      ]
+    },
+    {
+      "session_title": "Asset Pricing: Credit and Derivatives",
+      "chair": "Francis Longstaff, UCLA Anderson School",
+      "date": "2026-05-20",
+      "time": "10:30am - 11:15am",
+      "room": "Classroom 260",
+      "papers": [
+        {
+          "title": "Betting on Credit Betas",
+          "authors": [
+            "Luca Mertens",
+            "Lira Mota",
+            "Tomas Nobrega"
+          ],
+          "presenter": "Luca Mertens"
+        }
+      ]
+    },
+    {
+      "session_title": "FinTech and AI in Finance",
+      "chair": "Pedro Matos, University of Virginia Darden School of Business",
+      "date": "2026-05-20",
+      "time": "10:30am - 11:15am",
+      "room": "Classroom 270",
+      "papers": [
+        {
+          "title": "AI Financial Advice: Supply, Demand, and Life Cycle Implications",
+          "authors": [
+            "Taha Choukhmane",
+            "Tim de Silva",
+            "Weidong Lin",
+            "Matthew Akuzawa"
+          ],
+          "presenter": "Taha Choukhmane"
+        }
+      ]
+    },
+    {
+      "session_title": "Government Policies and Financial Markets",
+      "chair": "Vadim Elenev, Johns Hopkins University",
+      "date": "2026-05-20",
+      "time": "11:30am - 12:15pm",
+      "room": "Classroom 120",
+      "papers": [
+        {
+          "title": "Optimal Immigration and Long-Run Growth",
+          "authors": [
+            "Andrew Abel",
+            "",
+            "Stavros Panageas",
+            ""
+          ],
+          "presenter": "Andrew Abel"
+        }
+      ]
+    },
+    {
+      "session_title": "Household Finance and Retirement Behavior",
+      "chair": "Shan Ge, NYU",
+      "date": "2026-05-20",
+      "time": "11:30am - 12:15pm",
+      "room": "Classroom 130",
+      "papers": [
+        {
+          "title": "Improving 401(k) Matches Using Hypothetical Choices",
+          "authors": [
+            "Guillermo Carranza",
+            "Taha Choukhmane",
+            "Fiona Greig",
+            "Cormac O'Dea",
+            "Lawrence Schmidt"
+          ],
+          "presenter": "Guillermo Carranza"
+        }
+      ]
+    },
+    {
+      "session_title": "Corporate Finance: Theory",
+      "chair": "Barney Hartman-Glaser, UCLA",
+      "date": "2026-05-20",
+      "time": "11:30am - 12:15pm",
+      "room": "Classroom 140",
+      "papers": [
+        {
+          "title": "Data versus Information Sales under Financial Constraints",
+          "authors": [
+            "Dmitry Orlov",
+            "Andrzej Skrzypacz",
+            "Pavel Zryumov"
+          ],
+          "presenter": "Dmitry Orlov"
+        }
+      ]
+    },
+    {
+      "session_title": "Climate and Asset Pricing",
+      "chair": "Lorenzo Garlappi, UBC",
+      "date": "2026-05-20",
+      "time": "11:30am - 12:15pm",
+      "room": "Classroom 150",
+      "papers": [
+        {
+          "title": "El Niño and Currency Returns",
+          "authors": [
+            "Joon Woo Bae",
+            "Taehoon Lim",
+            "David Ng",
+            "Lucio Sarno"
+          ],
+          "presenter": "Joon Woo Bae"
+        }
+      ]
+    },
+    {
+      "session_title": "Entrepreneurship, Innovation, and Technology Adoption",
+      "chair": "David Robinson, Duke University",
+      "date": "2026-05-20",
+      "time": "11:30am - 12:15pm",
+      "room": "Classroom 240",
+      "papers": [
+        {
+          "title": "How Big is Small? The Economic Effects of Access to Small Business Government Support",
+          "authors": [
+            "David Brown",
+            "Matt Denes",
+            "Ran Duchin",
+            "John Hackney"
+          ],
+          "presenter": "David Brown"
+        }
+      ]
+    },
+    {
+      "session_title": "Macro-Finance",
+      "chair": "Alp Simsek, Yale University",
+      "date": "2026-05-20",
+      "time": "11:30am - 12:15pm",
+      "room": "Classroom 250",
+      "papers": [
+        {
+          "title": "Under Pressure? Central Bank Independence Meets Blockchain Prediction Markets",
+          "authors": [
+            "Barry Eichengreen",
+            "Ganesh Viswanath Natraj",
+            "Junxuan Wang",
+            "Zijie Wang"
+          ],
+          "presenter": "Barry Eichengreen"
+        }
+      ]
+    },
+    {
+      "session_title": "Asset Pricing: Credit and Derivatives",
+      "chair": "Francis Longstaff, UCLA Anderson School",
+      "date": "2026-05-20",
+      "time": "11:30am - 12:15pm",
+      "room": "Classroom 260",
+      "papers": [
+        {
+          "title": "An Anatomy of Retail Option Trading",
+          "authors": [
+            "Vincent Bogousslavsky",
+            "Dmitriy Muravyev"
+          ],
+          "presenter": "Vincent Bogousslavsky"
+        }
+      ]
+    },
+    {
+      "session_title": "FinTech and AI in Finance",
+      "chair": "Pedro Matos, University of Virginia Darden School of Business",
+      "date": "2026-05-20",
+      "time": "11:30am - 12:15pm",
+      "room": "Classroom 270",
+      "papers": [
+        {
+          "title": "Hidden Medical Debt and Consumer Access to Credit",
+          "authors": [
+            "Elena Loutskina",
+            "Joonsung Won"
+          ],
+          "presenter": "Elena Loutskina"
+        }
+      ]
+    },
+    {
+      "session_title": "Government Policies and Financial Markets",
+      "chair": "Vadim Elenev, Johns Hopkins University",
+      "date": "2026-05-20",
+      "time": "1:45pm - 2:30pm",
+      "room": "Classroom 120",
+      "papers": [
+        {
+          "title": "Cap and Trade with Imperfect Hedging",
+          "authors": [
+            "Johan Hombert",
+            "Bruno Biais",
+            "Daniel Schmidt",
+            "Pierre-Olivier Weill"
+          ],
+          "presenter": "Johan Hombert"
+        }
+      ]
+    },
+    {
+      "session_title": "Household Finance and Retirement Behavior",
+      "chair": "Shan Ge, NYU",
+      "date": "2026-05-20",
+      "time": "1:45pm - 2:30pm",
+      "room": "Classroom 130",
+      "papers": [
+        {
+          "title": "Bank Fees and Household Financial Well-Being",
+          "authors": [
+            "Michaela Pagel",
+            "Sharada Sridhar",
+            "Emily Williams"
+          ],
+          "presenter": "Michaela Pagel"
+        }
+      ]
+    },
+    {
+      "session_title": "Corporate Finance: Theory",
+      "chair": "Barney Hartman-Glaser, UCLA",
+      "date": "2026-05-20",
+      "time": "1:45pm - 2:30pm",
+      "room": "Classroom 140",
+      "papers": [
+        {
+          "title": "Private Equity Continuation Vehicles: A Model of Strategic Asset Transfers",
+          "authors": [
+            "Simon Mayer",
+            "Ludovic Phallippou",
+            "Victoria Ivashina"
+          ],
+          "presenter": "Simon Mayer"
+        }
+      ]
+    },
+    {
+      "session_title": "Climate and Asset Pricing",
+      "chair": "Lorenzo Garlappi, UBC",
+      "date": "2026-05-20",
+      "time": "1:45pm - 2:30pm",
+      "room": "Classroom 150",
+      "papers": [
+        {
+          "title": "Economics of Property Insurance",
+          "authors": [
+            "Hyeyoon Jung",
+            "Jaehoon {Kyle} Jung"
+          ],
+          "presenter": "Hyeyoon Jung"
+        }
+      ]
+    },
+    {
+      "session_title": "Entrepreneurship, Innovation, and Technology Adoption",
+      "chair": "David Robinson, Duke University",
+      "date": "2026-05-20",
+      "time": "1:45pm - 2:30pm",
+      "room": "Classroom 240",
+      "papers": [
+        {
+          "title": "From Mainframes to Machine Learning: Skill Gaps over the Technology Life Cycle",
+          "authors": [
+            "Agrawal Ashwini",
+            "Daniel Kim",
+            "Prasanna Tambe"
+          ],
+          "presenter": "Agrawal Ashwini"
+        }
+      ]
+    },
+    {
+      "session_title": "Macro-Finance",
+      "chair": "Alp Simsek, Yale University",
+      "date": "2026-05-20",
+      "time": "1:45pm - 2:30pm",
+      "room": "Classroom 250",
+      "papers": [
+        {
+          "title": "The Road to Fiscal Armageddon",
+          "authors": [
+            "Joao Gomes",
+            "Chris Zhu"
+          ],
+          "presenter": "Joao Gomes"
+        }
+      ]
+    },
+    {
+      "session_title": "Asset Pricing: Credit and Derivatives",
+      "chair": "Francis Longstaff, UCLA Anderson School",
+      "date": "2026-05-20",
+      "time": "1:45pm - 2:30pm",
+      "room": "Classroom 260",
+      "papers": [
+        {
+          "title": "Which market leads price discovery? New conclusions from a new test",
+          "authors": [
+            "Peter Feldhütter",
+            "Felix Lundén"
+          ],
+          "presenter": "Peter Feldhütter"
+        }
+      ]
+    },
+    {
+      "session_title": "FinTech and AI in Finance",
+      "chair": "Pedro Matos, University of Virginia Darden School of Business",
+      "date": "2026-05-20",
+      "time": "1:45pm - 2:30pm",
+      "room": "Classroom 270",
+      "papers": [
+        {
+          "title": "FinTech Brings a Bias from Psychology Labs to a Two-trillion-dollar Market",
+          "authors": [
+            "Hongjun Yan",
+            "Zhengwei Wang",
+            "Yulai Yuan",
+            "Xiaole Qiu",
+            "Jia Xiang",
+            "Yaqing Xiao",
+            "Erik Davidson"
+          ],
+          "presenter": "Hongjun Yan"
+        }
+      ]
+    },
+    {
+      "session_title": "Government Policies and Financial Markets",
+      "chair": "Vadim Elenev, Johns Hopkins University",
+      "date": "2026-05-20",
+      "time": "2:45pm - 3:30pm",
+      "room": "Classroom 120",
+      "papers": [
+        {
+          "title": "Bailout Expectations, Default Risk and the Dynamics of Bank Credit Spreads",
+          "authors": [
+            "Luigi Falasconi"
+          ],
+          "presenter": "Luigi Falasconi"
+        }
+      ]
+    },
+    {
+      "session_title": "Household Finance and Retirement Behavior",
+      "chair": "Shan Ge, NYU",
+      "date": "2026-05-20",
+      "time": "2:45pm - 3:30pm",
+      "room": "Classroom 130",
+      "papers": [
+        {
+          "title": "Debt and Liquid Wealth: Evidence from Pension Fund Withdrawals",
+          "authors": [
+            "Enzo Cerletti",
+            "Tomas Cortes",
+            "Borja Larrain",
+            "Patricio Toro"
+          ],
+          "presenter": "Enzo Cerletti"
+        }
+      ]
+    },
+    {
+      "session_title": "Corporate Finance: Theory",
+      "chair": "Barney Hartman-Glaser, UCLA",
+      "date": "2026-05-20",
+      "time": "2:45pm - 3:30pm",
+      "room": "Classroom 140",
+      "papers": [
+        {
+          "title": "Financing the Adoption of Clean Technology",
+          "authors": [
+            "Andrea Lanteri",
+            "Adriano Rampini"
+          ],
+          "presenter": "Andrea Lanteri"
+        }
+      ]
+    },
+    {
+      "session_title": "Climate and Asset Pricing",
+      "chair": "Lorenzo Garlappi, UBC",
+      "date": "2026-05-20",
+      "time": "2:45pm - 3:30pm",
+      "room": "Classroom 150",
+      "papers": [
+        {
+          "title": "Blame it on the weather: Market implied weather volatility and firm performance",
+          "authors": [
+            "Joon Woo Bae",
+            "Kris Jacobs",
+            "Yoontae Jeon",
+            "Stephen Szaura",
+            "Virgilio Zurita"
+          ],
+          "presenter": "Joon Woo Bae"
+        }
+      ]
+    },
+    {
+      "session_title": "Entrepreneurship, Innovation, and Technology Adoption",
+      "chair": "David Robinson, Duke University",
+      "date": "2026-05-20",
+      "time": "2:45pm - 3:30pm",
+      "room": "Classroom 240",
+      "papers": [
+        {
+          "title": "Tradeoff between Entrepreneurship and Fertility: Evidence from China’s Nationwide Two-Child Policy",
+          "authors": [
+            "Po-Hsuan Hsu",
+            "Sung Kwan Lee",
+            "Seungjoon Oh"
+          ],
+          "presenter": "Po-Hsuan Hsu"
+        }
+      ]
+    },
+    {
+      "session_title": "Macro-Finance",
+      "chair": "Alp Simsek, Yale University",
+      "date": "2026-05-20",
+      "time": "2:45pm - 3:30pm",
+      "room": "Classroom 250",
+      "papers": [
+        {
+          "title": "The Global Credit Cycle",
+          "authors": [
+            "Nina Boyarchenko",
+            "",
+            "Leonardo Elias"
+          ],
+          "presenter": "Nina Boyarchenko"
+        }
+      ]
+    },
+    {
+      "session_title": "Asset Pricing: Credit and Derivatives",
+      "chair": "Francis Longstaff, UCLA Anderson School",
+      "date": "2026-05-20",
+      "time": "2:45pm - 3:30pm",
+      "room": "Classroom 260",
+      "papers": [
+        {
+          "title": "Fairness by Design: Mortgage Lending and Regulation",
+          "authors": [
+            "Sebastian Bell",
+            "Ali Kakhbod",
+            "Richard Stanton",
+            "Nancy Wallace"
+          ],
+          "presenter": "Sebastian Bell"
+        }
+      ]
+    },
+    {
+      "session_title": "FinTech and AI in Finance",
+      "chair": "Pedro Matos, University of Virginia Darden School of Business",
+      "date": "2026-05-20",
+      "time": "2:45pm - 3:30pm",
+      "room": "Classroom 270",
+      "papers": [
+        {
+          "title": "Why Do Firms Engage in Open-Source Software Development?",
+          "authors": [
+            "Kevin Mei"
+          ],
+          "presenter": "Kevin Mei"
+        }
+      ]
+    },
+    {
+      "session_title": "Empirical Asset Pricing",
+      "chair": "Thummim Cho, Korea University Business School",
+      "date": "2026-05-21",
+      "time": "8:30am - 9:15am",
+      "room": "Classroom 120",
+      "papers": [
+        {
+          "title": "Resolving the Zero-Beta Rate Puzzle",
+          "authors": [
+            "Rong Wang"
+          ],
+          "presenter": "Rong Wang"
+        }
+      ]
+    },
+    {
+      "session_title": "Capital Structure, Debt, and Valuation",
+      "chair": "Amiyatosh Purnanandam, University of Texas, Austin",
+      "date": "2026-05-21",
+      "time": "8:30am - 9:15am",
+      "room": "Classroom 130",
+      "papers": [
+        {
+          "title": "Investment, Debt and Taxes",
+          "authors": [
+            "Mark Leary",
+            "John Graham",
+            "Hyunseob Kim",
+            "YoungJun Song"
+          ],
+          "presenter": "Mark Leary"
+        }
+      ]
+    },
+    {
+      "session_title": "Market Microstructure",
+      "chair": "Chester Spatt, Carnegie Mellon University",
+      "date": "2026-05-21",
+      "time": "8:30am - 9:15am",
+      "room": "Classroom 140",
+      "papers": [
+        {
+          "title": "Scale Economies in Liquidity Provision: Evidence from Designated Market Makers",
+          "authors": [
+            "Mauricio Larrain",
+            "Vincent Van Kervel",
+            "Jorge Sabat"
+          ],
+          "presenter": "Mauricio Larrain"
+        }
+      ]
+    },
+    {
+      "session_title": "Institutional Investors and Market Frictions",
+      "chair": "Yiming Ma, Columbia Business School",
+      "date": "2026-05-21",
+      "time": "8:30am - 9:15am",
+      "room": "Classroom 150",
+      "papers": [
+        {
+          "title": "Facing Default?",
+          "authors": [
+            "Pranav Garg",
+            "Marius Guenzel",
+            "Shimon Kogan",
+            "Marina Niessner",
+            "Kelly Shue"
+          ],
+          "presenter": "Pranav Garg"
+        }
+      ]
+    },
+    {
+      "session_title": "Policy Shocks and Regulation",
+      "chair": "Paola Sapienza, Stanford",
+      "date": "2026-05-21",
+      "time": "8:30am - 9:15am",
+      "room": "Classroom 240",
+      "papers": [
+        {
+          "title": "Do GSEs Subsidize Mortgage Lending?",
+          "authors": [
+            "Thomas Flanagan"
+          ],
+          "presenter": "Thomas Flanagan"
+        }
+      ]
+    },
+    {
+      "session_title": "International Finance",
+      "chair": "Andrea Vedolin, Boston University",
+      "date": "2026-05-21",
+      "time": "8:30am - 9:15am",
+      "room": "Classroom 250",
+      "papers": [
+        {
+          "title": "Sovereign Credit Risk, U.S. Monetary Policy, and the Role of Financial Intermediaries",
+          "authors": [
+            "Johannes Poeschl",
+            "Ivan Shaliastovich",
+            "Ram Yamarthy"
+          ],
+          "presenter": "Johannes Poeschl"
+        }
+      ]
+    },
+    {
+      "session_title": "Learning, Beliefs, and Disagreement",
+      "chair": "Marianne Andries, USC",
+      "date": "2026-05-21",
+      "time": "8:30am - 9:15am",
+      "room": "Classroom 260",
+      "papers": [
+        {
+          "title": "The Loyalty Trap: Informational Advantage and Dynamic Price Discrimination",
+          "authors": [
+            "Xindan Li",
+            "Baolian Wang",
+            "Wei Xiong",
+            "Xuewei Yang",
+            "Yinhong Zhao"
+          ],
+          "presenter": "Xindan Li"
+        }
+      ]
+    },
+    {
+      "session_title": "Depository Institutions and FinTech",
+      "chair": "Kinda Hachem, UVA Darden",
+      "date": "2026-05-21",
+      "time": "8:30am - 9:15am",
+      "room": "Classroom 270",
+      "papers": [
+        {
+          "title": "Productivity Enables Security: The Economics of Blockchain Settlement",
+          "authors": [
+            "Campbell Harvey",
+            "Kose John",
+            "Fahad Saleh"
+          ],
+          "presenter": "Campbell Harvey"
+        }
+      ]
+    },
+    {
+      "session_title": "Empirical Asset Pricing",
+      "chair": "Thummim Cho, Korea University Business School",
+      "date": "2026-05-21",
+      "time": "9:30am - 10:15am",
+      "room": "Classroom 120",
+      "papers": [
+        {
+          "title": "Fiscal Imbalances and Asset Returns: Cross-Sector Economic Fluctuations under the Aggregate Budget Constraint",
+          "authors": [
+            "Junxiong Gao",
+            "Alberto Plazzi",
+            "Rossen Valkanov",
+            "Yan Xu"
+          ],
+          "presenter": "Junxiong Gao"
+        }
+      ]
+    },
+    {
+      "session_title": "Capital Structure, Debt, and Valuation",
+      "chair": "Amiyatosh Purnanandam, University of Texas, Austin",
+      "date": "2026-05-21",
+      "time": "9:30am - 10:15am",
+      "room": "Classroom 130",
+      "papers": [
+        {
+          "title": "EPS-Maximizing Capital Structure",
+          "authors": [
+            "Itzhak Ben-David",
+            "Alexander Chinco"
+          ],
+          "presenter": "Itzhak Ben-David"
+        }
+      ]
+    },
+    {
+      "session_title": "Market Microstructure",
+      "chair": "Chester Spatt, Carnegie Mellon University",
+      "date": "2026-05-21",
+      "time": "9:30am - 10:15am",
+      "room": "Classroom 140",
+      "papers": [
+        {
+          "title": "Sparse Portfolios and Benchmarking in Corporate Bond Markets",
+          "authors": [
+            "Zheng Li",
+            "Anna Pavlova",
+            "Taisiya Sikorskaya"
+          ],
+          "presenter": "Zheng Li"
+        }
+      ]
+    },
+    {
+      "session_title": "Institutional Investors and Market Frictions",
+      "chair": "Yiming Ma, Columbia Business School",
+      "date": "2026-05-21",
+      "time": "9:30am - 10:15am",
+      "room": "Classroom 150",
+      "papers": [
+        {
+          "title": "Prime Broker Credit Supply and the Stock Market: Evidence on Hedge Fund Transmission",
+          "authors": [
+            "Nicholas Zarra",
+            "Daniel Barth"
+          ],
+          "presenter": "Nicholas Zarra"
+        }
+      ]
+    },
+    {
+      "session_title": "Policy Shocks and Regulation",
+      "chair": "Paola Sapienza, Stanford",
+      "date": "2026-05-21",
+      "time": "9:30am - 10:15am",
+      "room": "Classroom 240",
+      "papers": [
+        {
+          "title": "Taxes and Default Risk: Evidence From Establishment-Level Data",
+          "authors": [
+            "Mara Faccio",
+            "Stefano Manfredonia"
+          ],
+          "presenter": "Mara Faccio"
+        }
+      ]
+    },
+    {
+      "session_title": "International Finance",
+      "chair": "Andrea Vedolin, Boston University",
+      "date": "2026-05-21",
+      "time": "9:30am - 10:15am",
+      "room": "Classroom 250",
+      "papers": [
+        {
+          "title": "Exchange Rate Expectations and Currency Demand",
+          "authors": [
+            "Leonie Bräuer"
+          ],
+          "presenter": "Leonie Bräuer"
+        }
+      ]
+    },
+    {
+      "session_title": "Learning, Beliefs, and Disagreement",
+      "chair": "Marianne Andries, USC",
+      "date": "2026-05-21",
+      "time": "9:30am - 10:15am",
+      "room": "Classroom 260",
+      "papers": [
+        {
+          "title": "Institutional Investors’ Subjective Risk Premia: Time Variation and Disagreement",
+          "authors": [
+            "Spencer Couts",
+            "Andrei Goncalves",
+            "Yicheng Liu",
+            "Johnathan Loudis"
+          ],
+          "presenter": "Spencer Couts"
+        }
+      ]
+    },
+    {
+      "session_title": "Depository Institutions and FinTech",
+      "chair": "Kinda Hachem, UVA Darden",
+      "date": "2026-05-21",
+      "time": "9:30am - 10:15am",
+      "room": "Classroom 270",
+      "papers": [
+        {
+          "title": "The Value of Contingent Liquidity from Banks to Nonbank Financiers",
+          "authors": [
+            "Chi {Clara} Xu"
+          ],
+          "presenter": "Chi {Clara} Xu"
+        }
+      ]
+    },
+    {
+      "session_title": "Empirical Asset Pricing",
+      "chair": "Thummim Cho, Korea University Business School",
+      "date": "2026-05-21",
+      "time": "10:30am - 11:15am",
+      "room": "Classroom 120",
+      "papers": [
+        {
+          "title": "The Implied Equity Term Structure",
+          "authors": [
+            "Tomas Jankauskas",
+            "Lieven Baele",
+            "Joost Driessen"
+          ],
+          "presenter": "Tomas Jankauskas"
+        }
+      ]
+    },
+    {
+      "session_title": "Capital Structure, Debt, and Valuation",
+      "chair": "Amiyatosh Purnanandam, University of Texas, Austin",
+      "date": "2026-05-21",
+      "time": "10:30am - 11:15am",
+      "room": "Classroom 130",
+      "papers": [
+        {
+          "title": "The Real Effects of Valuation Mistakes:\\\\ Estimates from Mergers and Acquisitions",
+          "authors": [
+            "Johan Hombert",
+            "Alexei Ovchinnikov",
+            "François Derrien",
+            "Philip Valta"
+          ],
+          "presenter": "Johan Hombert"
+        }
+      ]
+    },
+    {
+      "session_title": "Market Microstructure",
+      "chair": "Chester Spatt, Carnegie Mellon University",
+      "date": "2026-05-21",
+      "time": "10:30am - 11:15am",
+      "room": "Classroom 140",
+      "papers": [
+        {
+          "title": "Latency and the Look-Ahead Bias in Trade and Quote Data",
+          "authors": [
+            "Robert Battalio",
+            "Craig Holden",
+            "Matthew Pierson",
+            "John Shim",
+            "Jun Wu"
+          ],
+          "presenter": "Robert Battalio"
+        }
+      ]
+    },
+    {
+      "session_title": "Institutional Investors and Market Frictions",
+      "chair": "Yiming Ma, Columbia Business School",
+      "date": "2026-05-21",
+      "time": "10:30am - 11:15am",
+      "room": "Classroom 150",
+      "papers": [
+        {
+          "title": "Liquidity Flows to Bank-Affiliated Broker Dealers: Insights from Volumes and Prices",
+          "authors": [
+            "Jennie Bai",
+            "Erik Bostrom",
+            "Sebastian Infante",
+            "Victoria Ivashina"
+          ],
+          "presenter": "Jennie Bai"
+        }
+      ]
+    },
+    {
+      "session_title": "Policy Shocks and Regulation",
+      "chair": "Paola Sapienza, Stanford",
+      "date": "2026-05-21",
+      "time": "10:30am - 11:15am",
+      "room": "Classroom 240",
+      "papers": [
+        {
+          "title": "The “Chilling” Effect of Climate Laws on Cross-Border Mergers and Acquisitions",
+          "authors": [
+            "Tong Li",
+            "Dragon Yongjun Tang",
+            "Fei Xie"
+          ],
+          "presenter": "Tong Li"
+        }
+      ]
+    },
+    {
+      "session_title": "International Finance",
+      "chair": "Andrea Vedolin, Boston University",
+      "date": "2026-05-21",
+      "time": "10:30am - 11:15am",
+      "room": "Classroom 250",
+      "papers": [
+        {
+          "title": "Segmented Dollar Funding",
+          "authors": [
+            "Peteris Kloks",
+            "Edouard Mattille",
+            "Angelo Ranaldo",
+            ""
+          ],
+          "presenter": "Peteris Kloks"
+        }
+      ]
+    },
+    {
+      "session_title": "Learning, Beliefs, and Disagreement",
+      "chair": "Marianne Andries, USC",
+      "date": "2026-05-21",
+      "time": "10:30am - 11:15am",
+      "room": "Classroom 260",
+      "papers": [
+        {
+          "title": "Analysts' Belief Formation in Their Own Words",
+          "authors": [
+            "Shikun {Barry} Ke"
+          ],
+          "presenter": "Shikun {Barry} Ke"
+        }
+      ]
+    },
+    {
+      "session_title": "Depository Institutions and FinTech",
+      "chair": "Kinda Hachem, UVA Darden",
+      "date": "2026-05-21",
+      "time": "10:30am - 11:15am",
+      "room": "Classroom 270",
+      "papers": [
+        {
+          "title": "Deposit Competition Beyond Rates",
+          "authors": [
+            "Matteo Benetton",
+            "Ben Hebert",
+            "Tim McQuade"
+          ],
+          "presenter": "Matteo Benetton"
+        }
+      ]
+    },
+    {
+      "session_title": "Empirical Asset Pricing",
+      "chair": "Thummim Cho, Korea University Business School",
+      "date": "2026-05-21",
+      "time": "11:30am - 12:15pm",
+      "room": "Classroom 120",
+      "papers": [
+        {
+          "title": "Fundamental Volatility",
+          "authors": [
+            "Xiaoyan Zhang",
+            "Tong Yao",
+            "Hsianghung Tien"
+          ],
+          "presenter": "Xiaoyan Zhang"
+        }
+      ]
+    },
+    {
+      "session_title": "Capital Structure, Debt, and Valuation",
+      "chair": "Amiyatosh Purnanandam, University of Texas, Austin",
+      "date": "2026-05-21",
+      "time": "11:30am - 12:15pm",
+      "room": "Classroom 130",
+      "papers": [
+        {
+          "title": "Why Bank Net Interest Margins Are Stable - Insights from the Asset Side",
+          "authors": [
+            "Tanja Brieden"
+          ],
+          "presenter": "Tanja Brieden"
+        }
+      ]
+    },
+    {
+      "session_title": "Market Microstructure",
+      "chair": "Chester Spatt, Carnegie Mellon University",
+      "date": "2026-05-21",
+      "time": "11:30am - 12:15pm",
+      "room": "Classroom 140",
+      "papers": [
+        {
+          "title": "The European Best Bid and Offer (EBBO): From Fragmented Feeds to a Consolidated Tape",
+          "authors": [
+            "Lisa Kaminski",
+            "Ralf Laschinger",
+            "Ryan Riordan"
+          ],
+          "presenter": "Lisa Kaminski"
+        }
+      ]
+    },
+    {
+      "session_title": "Institutional Investors and Market Frictions",
+      "chair": "Yiming Ma, Columbia Business School",
+      "date": "2026-05-21",
+      "time": "11:30am - 12:15pm",
+      "room": "Classroom 150",
+      "papers": [
+        {
+          "title": "Do Institutional Investors Trade on Covenant Violations?",
+          "authors": [
+            "Anthony Saunders",
+            "Sascha Steffen",
+            "Paulina Verhoff"
+          ],
+          "presenter": "Anthony Saunders"
+        }
+      ]
+    },
+    {
+      "session_title": "Policy Shocks and Regulation",
+      "chair": "Paola Sapienza, Stanford",
+      "date": "2026-05-21",
+      "time": "11:30am - 12:15pm",
+      "room": "Classroom 240",
+      "papers": [
+        {
+          "title": "Tax Incentives and Venture Capital Risk-Taking",
+          "authors": [
+            "Murillo Campello",
+            "",
+            "Guilherme Junqueira"
+          ],
+          "presenter": "Murillo Campello"
+        }
+      ]
+    },
+    {
+      "session_title": "International Finance",
+      "chair": "Andrea Vedolin, Boston University",
+      "date": "2026-05-21",
+      "time": "11:30am - 12:15pm",
+      "room": "Classroom 250",
+      "papers": [
+        {
+          "title": "Monetary Policy Predicts Currency Movements",
+          "authors": [
+            "Sohnke Bartram",
+            "Mark Grinblatt",
+            "Yan Xu"
+          ],
+          "presenter": "Sohnke Bartram"
+        }
+      ]
+    },
+    {
+      "session_title": "Learning, Beliefs, and Disagreement",
+      "chair": "Marianne Andries, USC",
+      "date": "2026-05-21",
+      "time": "11:30am - 12:15pm",
+      "room": "Classroom 260",
+      "papers": [
+        {
+          "title": "The Market’s Mirror: Revealing Investor Disagreement with LLMs",
+          "authors": [
+            "Vineet Bhagwat",
+            "J. Anthony Cookson",
+            "Chukwuma Dim",
+            "Marina Niessner"
+          ],
+          "presenter": "Vineet Bhagwat"
+        }
+      ]
+    },
+    {
+      "session_title": "Depository Institutions and FinTech",
+      "chair": "Kinda Hachem, UVA Darden",
+      "date": "2026-05-21",
+      "time": "11:30am - 12:15pm",
+      "room": "Classroom 270",
+      "papers": [
+        {
+          "title": "Bank Opacity and Deposit Rates",
+          "authors": [
+            "Ana Babus",
+            "Maryam Farboodi",
+            "Gabriela Stockler"
+          ],
+          "presenter": "Ana Babus"
+        }
+      ]
+    },
+    {
+      "session_title": "Empirical Asset Pricing",
+      "chair": "Thummim Cho, Korea University Business School",
+      "date": "2026-05-21",
+      "time": "1:45pm - 2:30pm",
+      "room": "Classroom 120",
+      "papers": [
+        {
+          "title": "Limits To (Machine) Learning",
+          "authors": [
+            "Zhimin Chen",
+            "Bryan Kelly",
+            "Semyon Malamud"
+          ],
+          "presenter": "Zhimin Chen"
+        }
+      ]
+    },
+    {
+      "session_title": "Capital Structure, Debt, and Valuation",
+      "chair": "Amiyatosh Purnanandam, University of Texas, Austin",
+      "date": "2026-05-21",
+      "time": "1:45pm - 2:30pm",
+      "room": "Classroom 130",
+      "papers": [
+        {
+          "title": "Corporate Debt Structure Around the World",
+          "authors": [
+            "Alireza Aghaee",
+            "Lorenzo Bretscher",
+            "Stefano Rossi"
+          ],
+          "presenter": "Alireza Aghaee"
+        }
+      ]
+    },
+    {
+      "session_title": "Market Microstructure",
+      "chair": "Chester Spatt, Carnegie Mellon University",
+      "date": "2026-05-21",
+      "time": "1:45pm - 2:30pm",
+      "room": "Classroom 140",
+      "papers": [
+        {
+          "title": "Smart Contracting in Network Markets",
+          "authors": [
+            "Darrell Duffie",
+            "Chaojun Wang"
+          ],
+          "presenter": "Darrell Duffie"
+        }
+      ]
+    },
+    {
+      "session_title": "Institutional Investors and Market Frictions",
+      "chair": "Yiming Ma, Columbia Business School",
+      "date": "2026-05-21",
+      "time": "1:45pm - 2:30pm",
+      "room": "Classroom 150",
+      "papers": [
+        {
+          "title": "Getting Called: The Risks of Investor Liquidity Provision to Private Funds",
+          "authors": [
+            "Tiange Ye"
+          ],
+          "presenter": "Tiange Ye"
+        }
+      ]
+    },
+    {
+      "session_title": "Policy Shocks and Regulation",
+      "chair": "Paola Sapienza, Stanford",
+      "date": "2026-05-21",
+      "time": "1:45pm - 2:30pm",
+      "room": "Classroom 240",
+      "papers": [
+        {
+          "title": "The Labor Market Effects of Carbon Pricing",
+          "authors": [
+            "Andreas Fuster",
+            "Gazi Kabas",
+            "Vincenzo Pezone",
+            "Kasper Roszbach"
+          ],
+          "presenter": "Andreas Fuster"
+        }
+      ]
+    },
+    {
+      "session_title": "International Finance",
+      "chair": "Andrea Vedolin, Boston University",
+      "date": "2026-05-21",
+      "time": "1:45pm - 2:30pm",
+      "room": "Classroom 250",
+      "papers": [
+        {
+          "title": "Segmented Financial Integration",
+          "authors": [
+            "Liliana Varela"
+          ],
+          "presenter": "Liliana Varela"
+        }
+      ]
+    },
+    {
+      "session_title": "Learning, Beliefs, and Disagreement",
+      "chair": "Marianne Andries, USC",
+      "date": "2026-05-21",
+      "time": "1:45pm - 2:30pm",
+      "room": "Classroom 260",
+      "papers": [
+        {
+          "title": "Bias and Predictability in Analysts' Beliefs",
+          "authors": [
+            "Federico Bastianello"
+          ],
+          "presenter": "Federico Bastianello"
+        }
+      ]
+    },
+    {
+      "session_title": "Depository Institutions and FinTech",
+      "chair": "Kinda Hachem, UVA Darden",
+      "date": "2026-05-21",
+      "time": "1:45pm - 2:30pm",
+      "room": "Classroom 270",
+      "papers": [
+        {
+          "title": "Strategic Bankruptcy and Corporate Negligence",
+          "authors": [
+            "Samuel Antill",
+            "Xu Tian",
+            "Toni Whited"
+          ],
+          "presenter": "Samuel Antill"
+        }
+      ]
+    },
+    {
+      "session_title": "Empirical Asset Pricing",
+      "chair": "Thummim Cho, Korea University Business School",
+      "date": "2026-05-21",
+      "time": "2:45pm - 3:30pm",
+      "room": "Classroom 120",
+      "papers": [
+        {
+          "title": "On the Moments of the Stochastic Discount Factor",
+          "authors": [
+            "Ian Martin",
+            "Ran Shi"
+          ],
+          "presenter": "Ian Martin"
+        }
+      ]
+    },
+    {
+      "session_title": "Capital Structure, Debt, and Valuation",
+      "chair": "Amiyatosh Purnanandam, University of Texas, Austin",
+      "date": "2026-05-21",
+      "time": "2:45pm - 3:30pm",
+      "room": "Classroom 130",
+      "papers": [
+        {
+          "title": "Valuation Models",
+          "authors": [
+            "Francesca Bastianello",
+            "Paul Décaire",
+            "Marius Guenzel"
+          ],
+          "presenter": "Francesca Bastianello"
+        }
+      ]
+    },
+    {
+      "session_title": "Market Microstructure",
+      "chair": "Chester Spatt, Carnegie Mellon University",
+      "date": "2026-05-21",
+      "time": "2:45pm - 3:30pm",
+      "room": "Classroom 140",
+      "papers": [
+        {
+          "title": "Unpacking Retail Trading Costs: the Role of Options Trading and Limit Order Usage",
+          "authors": [
+            "Yashar Barardehi",
+            "Vincent Bogousslavsky",
+            "Dmitriy Muravyev"
+          ],
+          "presenter": "Yashar Barardehi"
+        }
+      ]
+    },
+    {
+      "session_title": "Institutional Investors and Market Frictions",
+      "chair": "Yiming Ma, Columbia Business School",
+      "date": "2026-05-21",
+      "time": "2:45pm - 3:30pm",
+      "room": "Classroom 150",
+      "papers": [
+        {
+          "title": "Catastrophic Climate Risk and The Limits of Private Markets.",
+          "authors": [
+            "Adam Solomon"
+          ],
+          "presenter": "Adam Solomon"
+        }
+      ]
+    },
+    {
+      "session_title": "Policy Shocks and Regulation",
+      "chair": "Paola Sapienza, Stanford",
+      "date": "2026-05-21",
+      "time": "2:45pm - 3:30pm",
+      "room": "Classroom 240",
+      "papers": [
+        {
+          "title": "Credit Cycles and Creditor Rights",
+          "authors": [
+            "Martin Kornejew",
+            "Shohini Kundu",
+            "Karsten Müller"
+          ],
+          "presenter": "Martin Kornejew"
+        }
+      ]
+    },
+    {
+      "session_title": "International Finance",
+      "chair": "Andrea Vedolin, Boston University",
+      "date": "2026-05-21",
+      "time": "2:45pm - 3:30pm",
+      "room": "Classroom 250",
+      "papers": [
+        {
+          "title": "Managing Emerging Market Currency Risk",
+          "authors": [
+            "Nanyu Chen",
+            "Haonan Zhou"
+          ],
+          "presenter": "Nanyu Chen"
+        }
+      ]
+    },
+    {
+      "session_title": "Learning, Beliefs, and Disagreement",
+      "chair": "Marianne Andries, USC",
+      "date": "2026-05-21",
+      "time": "2:45pm - 3:30pm",
+      "room": "Classroom 260",
+      "papers": [
+        {
+          "title": "Correlation neglect in asset prices",
+          "authors": [
+            "Hongye Guo",
+            "Jessica Wachter"
+          ],
+          "presenter": "Hongye Guo"
+        }
+      ]
+    },
+    {
+      "session_title": "Depository Institutions and FinTech",
+      "chair": "Kinda Hachem, UVA Darden",
+      "date": "2026-05-21",
+      "time": "2:45pm - 3:30pm",
+      "room": "Classroom 270",
+      "papers": [
+        {
+          "title": "How Do Government Guarantees Affect Deposit Supply?",
+          "authors": [
+            "Thomas Flanagan",
+            "Edward Kim",
+            "Shohini Kundu",
+            "Amiyatosh Purnanandam"
+          ],
+          "presenter": "Thomas Flanagan"
+        }
+      ]
+    }
+  ],
+  "participants": [
+    {
+      "name": "Sean Cao",
+      "institution": "University of Maryland",
+      "is_presenter": true,
+      "papers": [
+        "Dinner Table Alphas"
+      ]
+    },
+    {
+      "name": "Huaizhi Chen",
+      "institution": "University of Texas at Dallas",
+      "is_presenter": false,
+      "papers": [
+        "Dinner Table Alphas"
+      ]
+    },
+    {
+      "name": "Lauren Cohen",
+      "institution": "Harvard Business School",
+      "is_presenter": false,
+      "papers": [
+        "Dinner Table Alphas"
+      ]
+    },
+    {
+      "name": "Tianchen {Hugo} Zhao",
+      "institution": "University of Maryland",
+      "is_presenter": false,
+      "papers": [
+        "Dinner Table Alphas"
+      ]
+    },
+    {
+      "name": "Ishita Sen",
+      "institution": "Harvard Business School",
+      "is_presenter": true,
+      "papers": [
+        "The Economics of Insurance Guaranty Funds"
+      ]
+    },
+    {
+      "name": "Parinitha Sastry",
+      "institution": "Wharton",
+      "is_presenter": false,
+      "papers": [
+        "The Economics of Insurance Guaranty Funds"
+      ]
+    },
+    {
+      "name": "Ana-Maria Tenekedjieva",
+      "institution": "ASU",
+      "is_presenter": false,
+      "papers": [
+        "The Economics of Insurance Guaranty Funds"
+      ]
+    },
+    {
+      "name": "Boaz Abramson",
+      "institution": "Columbia Business School",
+      "is_presenter": false,
+      "papers": [
+        "The Economics of Insurance Guaranty Funds"
+      ]
+    },
+    {
+      "name": "Artur Anschukov",
+      "institution": "Imperial College Business School",
+      "is_presenter": true,
+      "papers": [
+        "CDX Markets, Time-Varying Fear,and Corporate Leverage"
+      ]
+    },
+    {
+      "name": "Harjoat Bhamra",
+      "institution": "Imperial College Business School",
+      "is_presenter": false,
+      "papers": [
+        "CDX Markets, Time-Varying Fear,and Corporate Leverage"
+      ]
+    },
+    {
+      "name": "Lars-Alexander Kuehn",
+      "institution": "Carnegie-Mellon University",
+      "is_presenter": false,
+      "papers": [
+        "CDX Markets, Time-Varying Fear,and Corporate Leverage"
+      ]
+    },
+    {
+      "name": "Joshua Blonz",
+      "institution": "Federal Reserve Board",
+      "is_presenter": true,
+      "papers": [
+        "Money and Power"
+      ]
+    },
+    {
+      "name": "Cooper Howes",
+      "institution": "Federal Reserve Board of Governors",
+      "is_presenter": false,
+      "papers": [
+        "Money and Power"
+      ]
+    },
+    {
+      "name": "Joakim Weill",
+      "institution": "Federal Reserve Board",
+      "is_presenter": false,
+      "papers": [
+        "Money and Power"
+      ]
+    },
+    {
+      "name": "Blake Jackson",
+      "institution": "University of Florida",
+      "is_presenter": true,
+      "papers": [
+        "How do Barbarians Get to the Gates? Private Equity Careers, Styles, and Returns"
+      ]
+    },
+    {
+      "name": "Julia Selgrad",
+      "institution": "University of Chicago Booth School of Business",
+      "is_presenter": true,
+      "papers": [
+        "Monetary Policy and Investment Plans"
+      ]
+    },
+    {
+      "name": "Kerry Siani",
+      "institution": "MIT Sloan School of Management",
+      "is_presenter": false,
+      "papers": [
+        "Monetary Policy and Investment Plans"
+      ]
+    },
+    {
+      "name": "Joao Cocco",
+      "institution": "London Business School and CEPR",
+      "is_presenter": true,
+      "papers": [
+        "Interest-Rate Fee Substitution: Credit Facilitation in Segmented Markets"
+      ]
+    },
+    {
+      "name": "S. Lakshmi Naaraayanan",
+      "institution": "London Business School and CEPR",
+      "is_presenter": false,
+      "papers": [
+        "Interest-Rate Fee Substitution: Credit Facilitation in Segmented Markets"
+      ]
+    },
+    {
+      "name": "Jagdish Tripathy",
+      "institution": "Bank of England",
+      "is_presenter": false,
+      "papers": [
+        "Interest-Rate Fee Substitution: Credit Facilitation in Segmented Markets"
+      ]
+    },
+    {
+      "name": "Nicolas Bollen",
+      "institution": "Owen Graduate School of Management, Vanderbilt University",
+      "is_presenter": true,
+      "papers": [
+        "Asset Reclassification and Mutual Fund Flows"
+      ]
+    },
+    {
+      "name": "Veronika Pool",
+      "institution": "Owen Graduate School of Management, Vanderbilt University",
+      "is_presenter": false,
+      "papers": [
+        "Asset Reclassification and Mutual Fund Flows"
+      ]
+    },
+    {
+      "name": "Alexey Vasilenko",
+      "institution": "Owen Graduate School of Management, Vanderbilt University",
+      "is_presenter": false,
+      "papers": [
+        "Asset Reclassification and Mutual Fund Flows",
+        "Wealth Accumulation in College Savings Accounts and Educational Opportunities"
+      ]
+    },
+    {
+      "name": "Fatima Zahra Filali Adib",
+      "institution": "Copenhagen Business School",
+      "is_presenter": true,
+      "papers": [
+        "Investing for Children: How Beneficiary Identity Shapes Household Portfolios"
+      ]
+    },
+    {
+      "name": "Dmitry Chebotarev",
+      "institution": "Indiana University Kelley School of Business",
+      "is_presenter": false,
+      "papers": [
+        "Investing for Children: How Beneficiary Identity Shapes Household Portfolios"
+      ]
+    },
+    {
+      "name": "Akash Raja",
+      "institution": "Copenhagen Business School",
+      "is_presenter": false,
+      "papers": [
+        "Investing for Children: How Beneficiary Identity Shapes Household Portfolios"
+      ]
+    },
+    {
+      "name": "Antonio Gargano",
+      "institution": "University of Houston",
+      "is_presenter": true,
+      "papers": [
+        "Subsidizing the Cloud: U.S. State Incentives to Data Centers"
+      ]
+    },
+    {
+      "name": "Marco Giacoletti",
+      "institution": "University of Notre Dame",
+      "is_presenter": false,
+      "papers": [
+        "Subsidizing the Cloud: U.S. State Incentives to Data Centers"
+      ]
+    },
+    {
+      "name": "Paul Ehling",
+      "institution": "BI Norwegian Business School",
+      "is_presenter": true,
+      "papers": [
+        "Buy High, Cry Later: Beliefs-driven Cycles of Stock Market Participation"
+      ]
+    },
+    {
+      "name": "Christian Heyerdahl-Larsen",
+      "institution": "BI Norwegian Business School",
+      "is_presenter": false,
+      "papers": [
+        "Buy High, Cry Later: Beliefs-driven Cycles of Stock Market Participation"
+      ]
+    },
+    {
+      "name": "Zeshu Xu",
+      "institution": "BI Norwegian Business School",
+      "is_presenter": false,
+      "papers": [
+        "Buy High, Cry Later: Beliefs-driven Cycles of Stock Market Participation"
+      ]
+    },
+    {
+      "name": "Tom Meling",
+      "institution": "Fisher College of Business, The Ohio State University",
+      "is_presenter": true,
+      "papers": [
+        "Green Waste"
+      ]
+    },
+    {
+      "name": "Morten Grindaker",
+      "institution": "University of Chicago, United States of America",
+      "is_presenter": false,
+      "papers": [
+        "Green Waste"
+      ]
+    },
+    {
+      "name": "Magne Mogstad",
+      "institution": "University of Chicago, United States of America",
+      "is_presenter": false,
+      "papers": [
+        "Green Waste"
+      ]
+    },
+    {
+      "name": "Ingvil Gaarder",
+      "institution": "University of Chicago, United States of America",
+      "is_presenter": false,
+      "papers": [
+        "Green Waste"
+      ]
+    },
+    {
+      "name": "Fangzhou Lu",
+      "institution": "University of Hong Kong",
+      "is_presenter": true,
+      "papers": [
+        "Educating Entrepreneurs on VC contracts"
+      ]
+    },
+    {
+      "name": "Sixuan Li",
+      "institution": "University of Hong Kong",
+      "is_presenter": false,
+      "papers": [
+        "Educating Entrepreneurs on VC contracts"
+      ]
+    },
+    {
+      "name": "Yingyan Shi",
+      "institution": "University of Hong Kong",
+      "is_presenter": false,
+      "papers": [
+        "Educating Entrepreneurs on VC contracts"
+      ]
+    },
+    {
+      "name": "Pauline Liang",
+      "institution": "Stanford GSB",
+      "is_presenter": true,
+      "papers": [
+        "Credit Crunch in Housing under Regulation Q"
+      ]
+    },
+    {
+      "name": "Virginia Gianinazzi",
+      "institution": "Nova School of Business & Economics",
+      "is_presenter": true,
+      "papers": [
+        "The Response of Debtors to Rate Changes"
+      ]
+    },
+    {
+      "name": "Andreas Fuster",
+      "institution": "Ecole Polytechnique Federale de Lausanne (EPFL)",
+      "is_presenter": false,
+      "papers": [
+        "The Response of Debtors to Rate Changes"
+      ]
+    },
+    {
+      "name": "Andreas Hackethal",
+      "institution": "Goethe University Frankfurt",
+      "is_presenter": false,
+      "papers": [
+        "The Response of Debtors to Rate Changes"
+      ]
+    },
+    {
+      "name": "Philip Schnorpfeil",
+      "institution": "Goethe University Frankfurt",
+      "is_presenter": false,
+      "papers": [
+        "The Response of Debtors to Rate Changes"
+      ]
+    },
+    {
+      "name": "Michael Weber",
+      "institution": "Purdue University",
+      "is_presenter": false,
+      "papers": [
+        "The Response of Debtors to Rate Changes"
+      ]
+    },
+    {
+      "name": "Lubos Pastor",
+      "institution": "University of Chicago",
+      "is_presenter": true,
+      "papers": [
+        "The Hidden Cost of Stock Market Concentration: When Funds Hit Regulatory Limits"
+      ]
+    },
+    {
+      "name": "Taisiya Sikorskaya",
+      "institution": "University of Chicago",
+      "is_presenter": false,
+      "papers": [
+        "The Hidden Cost of Stock Market Concentration: When Funds Hit Regulatory Limits"
+      ]
+    },
+    {
+      "name": "Jinrui Wang",
+      "institution": "University of Chicago",
+      "is_presenter": false,
+      "papers": [
+        "The Hidden Cost of Stock Market Concentration: When Funds Hit Regulatory Limits"
+      ]
+    },
+    {
+      "name": "Tai Lo Yeung",
+      "institution": "USI Lugano",
+      "is_presenter": true,
+      "papers": [
+        "Navigating through fear and greed: The Experience-driven disposition effect"
+      ]
+    },
+    {
+      "name": "Rong Liu",
+      "institution": "Tianjin University",
+      "is_presenter": false,
+      "papers": [
+        "Navigating through fear and greed: The Experience-driven disposition effect"
+      ]
+    },
+    {
+      "name": "Jessica Wachter",
+      "institution": "University of Pennsylvania",
+      "is_presenter": false,
+      "papers": [
+        "Navigating through fear and greed: The Experience-driven disposition effect"
+      ]
+    },
+    {
+      "name": "Michael Kahana",
+      "institution": "University of Pennsylvania",
+      "is_presenter": false,
+      "papers": [
+        "Navigating through fear and greed: The Experience-driven disposition effect"
+      ]
+    },
+    {
+      "name": "Yongjie Zhang",
+      "institution": "Tianjin University",
+      "is_presenter": false,
+      "papers": [
+        "Navigating through fear and greed: The Experience-driven disposition effect"
+      ]
+    },
+    {
+      "name": "Ralph Koĳen",
+      "institution": "Booth School of Business, University of Chicago",
+      "is_presenter": true,
+      "papers": [
+        "The Commercial Real Estate Ecosystem"
+      ]
+    },
+    {
+      "name": "Neel Shah",
+      "institution": "Graduate school of Business, Columbia University",
+      "is_presenter": false,
+      "papers": [
+        "The Commercial Real Estate Ecosystem"
+      ]
+    },
+    {
+      "name": "Stijn Stĳn Van Nieuwerburgh",
+      "institution": "Graduate school of Business, Columbia University",
+      "is_presenter": false,
+      "papers": [
+        "The Commercial Real Estate Ecosystem"
+      ]
+    },
+    {
+      "name": "Kevin Mei",
+      "institution": "UT Austin",
+      "is_presenter": true,
+      "papers": [
+        "A Theory of Speculation on Token-Based Platform",
+        "Why Do Firms Engage in Open-Source Software Development?"
+      ]
+    },
+    {
+      "name": "Michael Sockin",
+      "institution": "UT Austin",
+      "is_presenter": false,
+      "papers": [
+        "A Theory of Speculation on Token-Based Platform"
+      ]
+    },
+    {
+      "name": "Jess Cornaggia",
+      "institution": "Penn State U",
+      "is_presenter": true,
+      "papers": [
+        "The Cost of Net Zero"
+      ]
+    },
+    {
+      "name": "Peter Iliev",
+      "institution": "Penn State U",
+      "is_presenter": false,
+      "papers": [
+        "The Cost of Net Zero"
+      ]
+    },
+    {
+      "name": "Paul Gompers",
+      "institution": "Harvard Business School; NBER",
+      "is_presenter": true,
+      "papers": [
+        "Transferable Skills? Founders as Venture Capitalists"
+      ]
+    },
+    {
+      "name": "Vladimir Mukharlyamov",
+      "institution": "Georgetown University",
+      "is_presenter": false,
+      "papers": [
+        "Transferable Skills? Founders as Venture Capitalists"
+      ]
+    },
+    {
+      "name": "Rohan Kekre",
+      "institution": "Chicago Booth",
+      "is_presenter": true,
+      "papers": [
+        "A Model of U.S. Monetary Policy and the Global Financial Cycle"
+      ]
+    },
+    {
+      "name": "Moritz Lenel",
+      "institution": "Princeton University",
+      "is_presenter": false,
+      "papers": [
+        "A Model of U.S. Monetary Policy and the Global Financial Cycle"
+      ]
+    },
+    {
+      "name": "Kristian Blickle",
+      "institution": "Federal Reserve Bank of New York",
+      "is_presenter": true,
+      "papers": [
+        "Banks as Stewards"
+      ]
+    },
+    {
+      "name": "Adair Morse",
+      "institution": "UC Berkeley",
+      "is_presenter": false,
+      "papers": [
+        "Banks as Stewards"
+      ]
+    },
+    {
+      "name": "Steffen Hitzemann",
+      "institution": "University of Houston",
+      "is_presenter": true,
+      "papers": [
+        "Does Sustainable Investing Weaken Stock Reactions to Cash Flow News?"
+      ]
+    },
+    {
+      "name": "An Qin",
+      "institution": "Rutgers Business School",
+      "is_presenter": false,
+      "papers": [
+        "Does Sustainable Investing Weaken Stock Reactions to Cash Flow News?"
+      ]
+    },
+    {
+      "name": "Stanislav Sokolinski",
+      "institution": "Michigan State University",
+      "is_presenter": false,
+      "papers": [
+        "Does Sustainable Investing Weaken Stock Reactions to Cash Flow News?"
+      ]
+    },
+    {
+      "name": "Andrea Tamoni",
+      "institution": "University of Notre Dame",
+      "is_presenter": false,
+      "papers": [
+        "Does Sustainable Investing Weaken Stock Reactions to Cash Flow News?"
+      ]
+    },
+    {
+      "name": "Yuanyuan Xiao",
+      "institution": "Shanghai University of Finance and Economics",
+      "is_presenter": false,
+      "papers": [
+        "Does Sustainable Investing Weaken Stock Reactions to Cash Flow News?"
+      ]
+    },
+    {
+      "name": "Philippe van der Beck",
+      "institution": "Harvard Business School",
+      "is_presenter": true,
+      "papers": [
+        "A Bound on Price Impact and Disagreement"
+      ]
+    },
+    {
+      "name": "Lorenzo Bretscher",
+      "institution": "University of Lausanne",
+      "is_presenter": false,
+      "papers": [
+        "A Bound on Price Impact and Disagreement",
+        "Corporate Debt Structure Around the World"
+      ]
+    },
+    {
+      "name": "Julie Zhiyu Fu",
+      "institution": "University of Washington in St. Louis",
+      "is_presenter": false,
+      "papers": [
+        "A Bound on Price Impact and Disagreement"
+      ]
+    },
+    {
+      "name": "Xuelin Li",
+      "institution": "Columbia Business School, Columbia University",
+      "is_presenter": true,
+      "papers": [
+        "Retention Costs or Human Capital Investments: A Dual Perspective on Employer-Sponsored Health Benefits"
+      ]
+    },
+    {
+      "name": "Joy Tianjiao Tong",
+      "institution": "University of Western Ontario",
+      "is_presenter": false,
+      "papers": [
+        "Retention Costs or Human Capital Investments: A Dual Perspective on Employer-Sponsored Health Benefits"
+      ]
+    },
+    {
+      "name": "Alessandro Villa",
+      "institution": "Federal Reserve Bank of Chicago",
+      "is_presenter": true,
+      "papers": [
+        "The rise of shareholder capitalism: macroeconomic implications"
+      ]
+    },
+    {
+      "name": "François Gourio",
+      "institution": "Federal Reserve Bank of Chicago",
+      "is_presenter": false,
+      "papers": [
+        "The rise of shareholder capitalism: macroeconomic implications"
+      ]
+    },
+    {
+      "name": "Olivier Darmouni",
+      "institution": "HEC Paris",
+      "is_presenter": true,
+      "papers": [
+        "Financing Investment in Electricity"
+      ]
+    },
+    {
+      "name": "Clemens Lehner",
+      "institution": "Columbia",
+      "is_presenter": false,
+      "papers": [
+        "Financing Investment in Electricity"
+      ]
+    },
+    {
+      "name": "Pari Sastry",
+      "institution": "Wharton",
+      "is_presenter": false,
+      "papers": [
+        "Financing Investment in Electricity"
+      ]
+    },
+    {
+      "name": "Rustam Abuzov",
+      "institution": "University of Virginia",
+      "is_presenter": true,
+      "papers": [
+        "Overallocated Investors and Secondary Transactions"
+      ]
+    },
+    {
+      "name": "Aleksandar Andonov",
+      "institution": "University of Amsterdam",
+      "is_presenter": false,
+      "papers": [
+        "Overallocated Investors and Secondary Transactions"
+      ]
+    },
+    {
+      "name": "Josh Lerner",
+      "institution": "Harvard Business School",
+      "is_presenter": false,
+      "papers": [
+        "Overallocated Investors and Secondary Transactions"
+      ]
+    },
+    {
+      "name": "Heitor Almeida",
+      "institution": "UIUC",
+      "is_presenter": true,
+      "papers": [
+        "The Equity Constraint Channel of Monetary Policy"
+      ]
+    },
+    {
+      "name": "Tim Johnson",
+      "institution": "UIUC",
+      "is_presenter": false,
+      "papers": [
+        "The Equity Constraint Channel of Monetary Policy"
+      ]
+    },
+    {
+      "name": "Sebastiao Oliveira",
+      "institution": "UIUC",
+      "is_presenter": false,
+      "papers": [
+        "The Equity Constraint Channel of Monetary Policy"
+      ]
+    },
+    {
+      "name": "Yucheng Zhou",
+      "institution": "UIUC",
+      "is_presenter": false,
+      "papers": [
+        "The Equity Constraint Channel of Monetary Policy"
+      ]
+    },
+    {
+      "name": "Qi Chen",
+      "institution": "Duke University",
+      "is_presenter": true,
+      "papers": [
+        "Earnings Information Spillovers and Depositor Contagion"
+      ]
+    },
+    {
+      "name": "Itay Goldstein",
+      "institution": "University of Pennsylvania",
+      "is_presenter": false,
+      "papers": [
+        "Earnings Information Spillovers and Depositor Contagion"
+      ]
+    },
+    {
+      "name": "Rahul Vashishtha",
+      "institution": "Duke University",
+      "is_presenter": false,
+      "papers": [
+        "Earnings Information Spillovers and Depositor Contagion"
+      ]
+    },
+    {
+      "name": "Benda Yin",
+      "institution": "Hong Kong University of Science and Technology",
+      "is_presenter": false,
+      "papers": [
+        "Earnings Information Spillovers and Depositor Contagion"
+      ]
+    },
+    {
+      "name": "Sina Ehsani",
+      "institution": "Northern Illinois University",
+      "is_presenter": true,
+      "papers": [
+        "Persistence in Alphas without Persistence in Skill"
+      ]
+    },
+    {
+      "name": "Juhani Linnainmaa",
+      "institution": "Dartmouth College, NBER, Kepos Capital",
+      "is_presenter": false,
+      "papers": [
+        "Persistence in Alphas without Persistence in Skill"
+      ]
+    },
+    {
+      "name": "Zhi Da",
+      "institution": "University of Notre Dame",
+      "is_presenter": true,
+      "papers": [
+        "Attention Allocation and Fund Flows: Evidence from Institutional Investors"
+      ]
+    },
+    {
+      "name": "Thanh Huynh",
+      "institution": "Monash University, Australia",
+      "is_presenter": false,
+      "papers": [
+        "Attention Allocation and Fund Flows: Evidence from Institutional Investors"
+      ]
+    },
+    {
+      "name": "Andrea Eisfeldt",
+      "institution": "University of California, Los Angeles",
+      "is_presenter": true,
+      "papers": [
+        "Intangible Intensity"
+      ]
+    },
+    {
+      "name": "Barney Hartman-Glaser",
+      "institution": "University of California, Los Angeles;; UCLA",
+      "is_presenter": false,
+      "papers": [
+        "Intangible Intensity"
+      ]
+    },
+    {
+      "name": "Edward Kim",
+      "institution": "University of Michigan",
+      "is_presenter": false,
+      "papers": [
+        "Intangible Intensity",
+        "How Do Government Guarantees Affect Deposit Supply?"
+      ]
+    },
+    {
+      "name": "Ki Beom Lee",
+      "institution": "University of California, Los Angeles",
+      "is_presenter": false,
+      "papers": [
+        "Intangible Intensity"
+      ]
+    },
+    {
+      "name": "Winston Dou",
+      "institution": "The Wharton School at University of Pennsylvania",
+      "is_presenter": true,
+      "papers": [
+        "Financial Market Fragility in the Era of AI Planning"
+      ]
+    },
+    {
+      "name": "Yan Ji",
+      "institution": "Hong Kong University of Science and Technology",
+      "is_presenter": false,
+      "papers": [
+        "Financial Market Fragility in the Era of AI Planning"
+      ]
+    },
+    {
+      "name": "Bharat Raj Parajuli",
+      "institution": "Monash University",
+      "is_presenter": true,
+      "papers": [
+        "Borders Bear the Brunt: State Environmental Review and Severed Agglomerations"
+      ]
+    },
+    {
+      "name": "Matthew Gustafson",
+      "institution": "Penn State University;; Pennsylvania State University",
+      "is_presenter": false,
+      "papers": [
+        "Borders Bear the Brunt: State Environmental Review and Severed Agglomerations"
+      ]
+    },
+    {
+      "name": "Lubomir Litov",
+      "institution": "University of Oklahoma",
+      "is_presenter": false,
+      "papers": [
+        "Borders Bear the Brunt: State Environmental Review and Severed Agglomerations"
+      ]
+    },
+    {
+      "name": "Shane Miller",
+      "institution": "University of Michigan",
+      "is_presenter": true,
+      "papers": [
+        "Retail Capital as a Stepping Stone in Venture Capital: Theory and Empirics"
+      ]
+    },
+    {
+      "name": "Ran Xing",
+      "institution": "Baruch College and Stockholm University",
+      "is_presenter": false,
+      "papers": [
+        "Retail Capital as a Stepping Stone in Venture Capital: Theory and Empirics"
+      ]
+    },
+    {
+      "name": "Emmanuel Yimfor",
+      "institution": "Columbia Business School",
+      "is_presenter": false,
+      "papers": [
+        "Retail Capital as a Stepping Stone in Venture Capital: Theory and Empirics"
+      ]
+    },
+    {
+      "name": "Ye Zhang",
+      "institution": "Stockholm School of Economics",
+      "is_presenter": false,
+      "papers": [
+        "Retail Capital as a Stepping Stone in Venture Capital: Theory and Empirics"
+      ]
+    },
+    {
+      "name": "YiLi Chien",
+      "institution": "Federal Reserve Bank of Saint Louis",
+      "is_presenter": true,
+      "papers": [
+        "What Does It Take? Quantifying Cross-Country Transfers in the Eurozone"
+      ]
+    },
+    {
+      "name": "Zhengyang Jiang",
+      "institution": "Northwestern Kellogg;; Kellogg School of Management, Northwestern University",
+      "is_presenter": false,
+      "papers": [
+        "What Does It Take? Quantifying Cross-Country Transfers in the Eurozone"
+      ]
+    },
+    {
+      "name": "Matteo Leombroni",
+      "institution": "Boston College",
+      "is_presenter": false,
+      "papers": [
+        "What Does It Take? Quantifying Cross-Country Transfers in the Eurozone"
+      ]
+    },
+    {
+      "name": "Hanno Lustig",
+      "institution": "Stanford GSB",
+      "is_presenter": false,
+      "papers": [
+        "What Does It Take? Quantifying Cross-Country Transfers in the Eurozone"
+      ]
+    },
+    {
+      "name": "Neil Bhutta",
+      "institution": "Federal Reserve Bank of Philadelphia",
+      "is_presenter": true,
+      "papers": [
+        "Pricing Power in the Mortgage Market: Evidence from GSE Fee Waivers"
+      ]
+    },
+    {
+      "name": "Benjamin Keys",
+      "institution": "Wharton School, University of Pennsylvania",
+      "is_presenter": false,
+      "papers": [
+        "Pricing Power in the Mortgage Market: Evidence from GSE Fee Waivers"
+      ]
+    },
+    {
+      "name": "Adithya Raajkumar",
+      "institution": "Wharton School, University of Pennsylvania",
+      "is_presenter": false,
+      "papers": [
+        "Pricing Power in the Mortgage Market: Evidence from GSE Fee Waivers"
+      ]
+    },
+    {
+      "name": "Jules van Binsbergen",
+      "institution": "University of Pennsylvania",
+      "is_presenter": true,
+      "papers": [
+        "How (Not) to Identify Demand Elasticities in Dynamic Asset Markets"
+      ]
+    },
+    {
+      "name": "Benjamin David",
+      "institution": "University of Pennsylvania",
+      "is_presenter": false,
+      "papers": [
+        "How (Not) to Identify Demand Elasticities in Dynamic Asset Markets"
+      ]
+    },
+    {
+      "name": "Christian Opp",
+      "institution": "University of Rochester",
+      "is_presenter": false,
+      "papers": [
+        "How (Not) to Identify Demand Elasticities in Dynamic Asset Markets"
+      ]
+    },
+    {
+      "name": "William Cassidy",
+      "institution": "Washington University in St. Louis",
+      "is_presenter": true,
+      "papers": [
+        "Partisan Corporate Speech"
+      ]
+    },
+    {
+      "name": "Elisabeth Kempf",
+      "institution": "Harvard Business School",
+      "is_presenter": false,
+      "papers": [
+        "Partisan Corporate Speech"
+      ]
+    },
+    {
+      "name": "Anran Li",
+      "institution": "Department of Economics, University of Minnesota - Twin Cities",
+      "is_presenter": true,
+      "papers": [
+        "Going for Broker? Intermediation in Health Insurance Markets"
+      ]
+    },
+    {
+      "name": "Tong Liu",
+      "institution": "Sloan School of Management, MIT",
+      "is_presenter": false,
+      "papers": [
+        "Going for Broker? Intermediation in Health Insurance Markets"
+      ]
+    },
+    {
+      "name": "Anthony LoSasso",
+      "institution": "Department of Economics, DePaul University",
+      "is_presenter": false,
+      "papers": [
+        "Going for Broker? Intermediation in Health Insurance Markets"
+      ]
+    },
+    {
+      "name": "Nicholas Tilipman",
+      "institution": "Carey School of Business, Johns Hopkins University",
+      "is_presenter": false,
+      "papers": [
+        "Going for Broker? Intermediation in Health Insurance Markets"
+      ]
+    },
+    {
+      "name": "Matthew Bigio",
+      "institution": "UCLA",
+      "is_presenter": true,
+      "papers": [
+        "Heterogeneous Beliefs, Asset Prices, and Business Cycles"
+      ]
+    },
+    {
+      "name": "Dejanir Silva",
+      "institution": "Purdue",
+      "is_presenter": false,
+      "papers": [
+        "Heterogeneous Beliefs, Asset Prices, and Business Cycles"
+      ]
+    },
+    {
+      "name": "Eduardo Zilberman",
+      "institution": "PUC",
+      "is_presenter": false,
+      "papers": [
+        "Heterogeneous Beliefs, Asset Prices, and Business Cycles"
+      ]
+    },
+    {
+      "name": "Emanuela Benincasa",
+      "institution": "University of Sydney",
+      "is_presenter": true,
+      "papers": [
+        "Uncoordinated Climate Policy and Carbon Leakage: Evidence from Supply Chains"
+      ]
+    },
+    {
+      "name": "Olimpia Carradori",
+      "institution": "Swiss Finance Institute and University of Zurich",
+      "is_presenter": false,
+      "papers": [
+        "Uncoordinated Climate Policy and Carbon Leakage: Evidence from Supply Chains"
+      ]
+    },
+    {
+      "name": "Miguel Ferreira",
+      "institution": "Nova School of Business and Economics, CEPR, ECGI",
+      "is_presenter": false,
+      "papers": [
+        "Uncoordinated Climate Policy and Carbon Leakage: Evidence from Supply Chains"
+      ]
+    },
+    {
+      "name": "Emilia Garcia-Appendini",
+      "institution": "Swiss Finance Institute and University of St. Gallen, Norges Bank",
+      "is_presenter": false,
+      "papers": [
+        "Uncoordinated Climate Policy and Carbon Leakage: Evidence from Supply Chains"
+      ]
+    },
+    {
+      "name": "Minmo Gahng",
+      "institution": "Cornell University",
+      "is_presenter": true,
+      "papers": [
+        "Cash or Stock? Agency Frictions in Venture Capital Distributions"
+      ]
+    },
+    {
+      "name": "Hengjie Ai",
+      "institution": "University of Wisconsin-Madison",
+      "is_presenter": true,
+      "papers": [
+        "A Model of Fed Information Effect"
+      ]
+    },
+    {
+      "name": "Xinxin Hu",
+      "institution": "University of Wisconsin-Madison",
+      "is_presenter": false,
+      "papers": [
+        "A Model of Fed Information Effect"
+      ]
+    },
+    {
+      "name": "Mark Garmaise",
+      "institution": "UCLA Anderson",
+      "is_presenter": true,
+      "papers": [
+        "Credit Pricing, Rate Shocks, and Intermediary Discretion: An Auto Finance Field Study"
+      ]
+    },
+    {
+      "name": "Mark Jansen",
+      "institution": "University of Utah",
+      "is_presenter": false,
+      "papers": [
+        "Credit Pricing, Rate Shocks, and Intermediary Discretion: An Auto Finance Field Study"
+      ]
+    },
+    {
+      "name": "Carter Davis",
+      "institution": "The Ohio State University",
+      "is_presenter": true,
+      "papers": [
+        "On the Recovery and Usage of Demand Elasticities in Dynamic Settings"
+      ]
+    },
+    {
+      "name": "Mahyar Kargar",
+      "institution": "University of Illinois Urbana-Champaign",
+      "is_presenter": false,
+      "papers": [
+        "On the Recovery and Usage of Demand Elasticities in Dynamic Settings"
+      ]
+    },
+    {
+      "name": "Jiacui Li",
+      "institution": "University of Utah",
+      "is_presenter": false,
+      "papers": [
+        "On the Recovery and Usage of Demand Elasticities in Dynamic Settings"
+      ]
+    },
+    {
+      "name": "Leo Liu",
+      "institution": "University of Technology Sydney, UTS Business School, Sydney, Australia",
+      "is_presenter": true,
+      "papers": [
+        "Innovation Policy and Inventors’ Productivity: Evidence from Global AI Initiatives"
+      ]
+    },
+    {
+      "name": "Fariborz Moshirian",
+      "institution": "University of New South Wales, UNSW Business School, Sydney, Australia",
+      "is_presenter": false,
+      "papers": [
+        "Innovation Policy and Inventors’ Productivity: Evidence from Global AI Initiatives"
+      ]
+    },
+    {
+      "name": "Vikram Nanda",
+      "institution": "University of Texas at Dallas, Naveen Jindal School of Business, Richardson, USA",
+      "is_presenter": false,
+      "papers": [
+        "Innovation Policy and Inventors’ Productivity: Evidence from Global AI Initiatives"
+      ]
+    },
+    {
+      "name": "Sheng Xu",
+      "institution": "University of New South Wales, UNSW Business School, Sydney, Australia",
+      "is_presenter": false,
+      "papers": [
+        "Innovation Policy and Inventors’ Productivity: Evidence from Global AI Initiatives"
+      ]
+    },
+    {
+      "name": "Allison Cole",
+      "institution": "Arizona State University",
+      "is_presenter": true,
+      "papers": [
+        "Financial Advisors and Retirees' Risk-Taking"
+      ]
+    },
+    {
+      "name": "Maarten Meeuwis",
+      "institution": "Washington University in St. Louis",
+      "is_presenter": false,
+      "papers": [
+        "Financial Advisors and Retirees' Risk-Taking"
+      ]
+    },
+    {
+      "name": "Alessandro Previtero",
+      "institution": "Indiana University",
+      "is_presenter": false,
+      "papers": [
+        "Financial Advisors and Retirees' Risk-Taking"
+      ]
+    },
+    {
+      "name": "Noah Stoffman",
+      "institution": "Indiana University",
+      "is_presenter": false,
+      "papers": [
+        "Financial Advisors and Retirees' Risk-Taking"
+      ]
+    },
+    {
+      "name": "Gary Gorton",
+      "institution": "Yale University",
+      "is_presenter": true,
+      "papers": [
+        "Information-Concealing Credit Architecture"
+      ]
+    },
+    {
+      "name": "Ye Li",
+      "institution": "University of Washington",
+      "is_presenter": false,
+      "papers": [
+        "Information-Concealing Credit Architecture"
+      ]
+    },
+    {
+      "name": "Guillermo Ordonez",
+      "institution": "University of Pennsylvania",
+      "is_presenter": false,
+      "papers": [
+        "Information-Concealing Credit Architecture"
+      ]
+    },
+    {
+      "name": "Ian Appel",
+      "institution": "Virginia;; UVA Darden",
+      "is_presenter": true,
+      "papers": [
+        "Do carbon markets undermine private climate initiatives?"
+      ]
+    },
+    {
+      "name": "Pat Akey",
+      "institution": "ESSEC",
+      "is_presenter": false,
+      "papers": [
+        "Do carbon markets undermine private climate initiatives?"
+      ]
+    },
+    {
+      "name": "Johannes Klausmann",
+      "institution": "Houston",
+      "is_presenter": false,
+      "papers": [
+        "Do carbon markets undermine private climate initiatives?"
+      ]
+    },
+    {
+      "name": "Aymeric Bellon",
+      "institution": "UNC",
+      "is_presenter": false,
+      "papers": [
+        "Do carbon markets undermine private climate initiatives?"
+      ]
+    },
+    {
+      "name": "Abhinav Gupta",
+      "institution": "UNC Kenan Flagler",
+      "is_presenter": true,
+      "papers": [
+        "Who Benefits from Remote Work?"
+      ]
+    },
+    {
+      "name": "Arpit Gupta",
+      "institution": "NYU Stern",
+      "is_presenter": false,
+      "papers": [
+        "Who Benefits from Remote Work?"
+      ]
+    },
+    {
+      "name": "Elena Simintzi",
+      "institution": "UNC Kenan Flagler",
+      "is_presenter": false,
+      "papers": [
+        "Who Benefits from Remote Work?"
+      ]
+    },
+    {
+      "name": "Sebastian Hillenbrand",
+      "institution": "Harvard Business School",
+      "is_presenter": true,
+      "papers": [
+        "Inflation Uncertainty: Measurement, Causes, and Consequences"
+      ]
+    },
+    {
+      "name": "Venky Venkateswaran",
+      "institution": "NYU Stern",
+      "is_presenter": false,
+      "papers": [
+        "Inflation Uncertainty: Measurement, Causes, and Consequences"
+      ]
+    },
+    {
+      "name": "Viral Acharya",
+      "institution": "NYU Stern",
+      "is_presenter": false,
+      "papers": [
+        "Inflation Uncertainty: Measurement, Causes, and Consequences"
+      ]
+    },
+    {
+      "name": "Margaret Underwood",
+      "institution": "University of Michigan",
+      "is_presenter": false,
+      "papers": [
+        "Inflation Uncertainty: Measurement, Causes, and Consequences"
+      ]
+    },
+    {
+      "name": "Soon Hyeok Choi",
+      "institution": "Rochester Institute of Technology",
+      "is_presenter": true,
+      "papers": [
+        "Pricing Government Contract Risk Premia: Evidence from the 2025 Federal Lease Terminations"
+      ]
+    },
+    {
+      "name": "Cameron LaPoint",
+      "institution": "Yale School of Management",
+      "is_presenter": false,
+      "papers": [
+        "Pricing Government Contract Risk Premia: Evidence from the 2025 Federal Lease Terminations"
+      ]
+    },
+    {
+      "name": "Ali Ahmadi",
+      "institution": "Schulich School of Business at York University",
+      "is_presenter": true,
+      "papers": [
+        "Does Corporate Production of AI Innovation Create Value?"
+      ]
+    },
+    {
+      "name": "Ambrus Kecskes",
+      "institution": "Schulich School of Business at York University",
+      "is_presenter": false,
+      "papers": [
+        "Does Corporate Production of AI Innovation Create Value?"
+      ]
+    },
+    {
+      "name": "Roni Michaely",
+      "institution": "HKU Business School and ECGI",
+      "is_presenter": false,
+      "papers": [
+        "Does Corporate Production of AI Innovation Create Value?"
+      ]
+    },
+    {
+      "name": "Phuong-Anh Nguyen",
+      "institution": "School of Administrative Studies at York University",
+      "is_presenter": false,
+      "papers": [
+        "Does Corporate Production of AI Innovation Create Value?"
+      ]
+    },
+    {
+      "name": "Roberto Gomez Cram",
+      "institution": "London business school;; LBS",
+      "is_presenter": true,
+      "papers": [
+        "Fiscal Redistribution Risk in Treasury Markets"
+      ]
+    },
+    {
+      "name": "Howard Kung",
+      "institution": "London business school",
+      "is_presenter": false,
+      "papers": [
+        "Fiscal Redistribution Risk in Treasury Markets"
+      ]
+    },
+    {
+      "name": "David Zeke",
+      "institution": "Federal Reserve Board",
+      "is_presenter": false,
+      "papers": [
+        "Fiscal Redistribution Risk in Treasury Markets"
+      ]
+    },
+    {
+      "name": "Scott Fulford",
+      "institution": "CFPB (personal capacity)",
+      "is_presenter": true,
+      "papers": [
+        "Expense Shocks Matter"
+      ]
+    },
+    {
+      "name": "David Low",
+      "institution": "CFPB (personal capacity)",
+      "is_presenter": false,
+      "papers": [
+        "Expense Shocks Matter"
+      ]
+    },
+    {
+      "name": "Andrey Malenko",
+      "institution": "Boston College",
+      "is_presenter": true,
+      "papers": [
+        "Fragmentation of Shareholder Power"
+      ]
+    },
+    {
+      "name": "Nadya Malenko",
+      "institution": "Boston College",
+      "is_presenter": false,
+      "papers": [
+        "Fragmentation of Shareholder Power"
+      ]
+    },
+    {
+      "name": "Anton Tsoy",
+      "institution": "University of Toronto",
+      "is_presenter": false,
+      "papers": [
+        "Fragmentation of Shareholder Power"
+      ]
+    },
+    {
+      "name": "Mallick Hossain",
+      "institution": "Federal Reserve Bank of Philadelphia",
+      "is_presenter": false,
+      "papers": [
+        "Pricing Protection: Credit Scores, Disaster Risk, and Home Insurance Affordability"
+      ]
+    },
+    {
+      "name": "Philip Mulder",
+      "institution": "University of Wisconsin - Madison",
+      "is_presenter": false,
+      "papers": [
+        "Pricing Protection: Credit Scores, Disaster Risk, and Home Insurance Affordability"
+      ]
+    },
+    {
+      "name": "John Barrios",
+      "institution": "Yale University",
+      "is_presenter": true,
+      "papers": [
+        "HUSTLING FROM HOME? WORK FROM HOME FLEXIBILITY AND ENTREPRENEURIAL ENTRY"
+      ]
+    },
+    {
+      "name": "Yael Hochberg",
+      "institution": "Rice University",
+      "is_presenter": false,
+      "papers": [
+        "HUSTLING FROM HOME? WORK FROM HOME FLEXIBILITY AND ENTREPRENEURIAL ENTRY"
+      ]
+    },
+    {
+      "name": "Hanyi Livia Yi",
+      "institution": "Boston College",
+      "is_presenter": false,
+      "papers": [
+        "HUSTLING FROM HOME? WORK FROM HOME FLEXIBILITY AND ENTREPRENEURIAL ENTRY"
+      ]
+    },
+    {
+      "name": "Niklas Kroner",
+      "institution": "Federal Reserve Board",
+      "is_presenter": true,
+      "papers": [
+        "How Markets Process Macro News: The Importance of Investor Attention"
+      ]
+    },
+    {
+      "name": "Mohammad Ghaderi",
+      "institution": "University of Kansas",
+      "is_presenter": true,
+      "papers": [
+        "Reconstructing a Century of U.S. Corporate Bonds: Credit Risk in Historical Perspective"
+      ]
+    },
+    {
+      "name": "Sebastien Plante",
+      "institution": "University of Wisconsin–Madison",
+      "is_presenter": false,
+      "papers": [
+        "Reconstructing a Century of U.S. Corporate Bonds: Credit Risk in Historical Perspective"
+      ]
+    },
+    {
+      "name": "Nikolai Roussanov",
+      "institution": "The Wharton School, University of Pennsylvania and NBER",
+      "is_presenter": false,
+      "papers": [
+        "Reconstructing a Century of U.S. Corporate Bonds: Credit Risk in Historical Perspective"
+      ]
+    },
+    {
+      "name": "Sang Byung Seo",
+      "institution": "University of Wisconsin–Madison",
+      "is_presenter": false,
+      "papers": [
+        "Reconstructing a Century of U.S. Corporate Bonds: Credit Risk in Historical Perspective"
+      ]
+    },
+    {
+      "name": "Jacelly Cespedes",
+      "institution": "University of Minnesota",
+      "is_presenter": true,
+      "papers": [
+        "Financial Technologies, Labor Markets, and Wage Inequality: Evidence from Instant Payment Systems"
+      ]
+    },
+    {
+      "name": "Carlos Burga",
+      "institution": "Pontifical Catholic University of Chile, Chile",
+      "is_presenter": false,
+      "papers": [
+        "Financial Technologies, Labor Markets, and Wage Inequality: Evidence from Instant Payment Systems"
+      ]
+    },
+    {
+      "name": "Carlos Parra",
+      "institution": "Pontifical Catholic University of Chile, Chile",
+      "is_presenter": false,
+      "papers": [
+        "Financial Technologies, Labor Markets, and Wage Inequality: Evidence from Instant Payment Systems"
+      ]
+    },
+    {
+      "name": "Bernardo Ricca",
+      "institution": "Insper, Brazil",
+      "is_presenter": false,
+      "papers": [
+        "Financial Technologies, Labor Markets, and Wage Inequality: Evidence from Instant Payment Systems"
+      ]
+    },
+    {
+      "name": "Andrea Pagliuca",
+      "institution": "London Business School",
+      "is_presenter": true,
+      "papers": [
+        "Partisan Fed"
+      ]
+    },
+    {
+      "name": "Eduardo Davila",
+      "institution": "Yale University",
+      "is_presenter": true,
+      "papers": [
+        "Probability Pricing"
+      ]
+    },
+    {
+      "name": "Cecilia Parlatore",
+      "institution": "New York University",
+      "is_presenter": false,
+      "papers": [
+        "Probability Pricing"
+      ]
+    },
+    {
+      "name": "Ansgar Walther",
+      "institution": "Oxford University",
+      "is_presenter": false,
+      "papers": [
+        "Probability Pricing"
+      ]
+    },
+    {
+      "name": "Ankit Kalda",
+      "institution": "Indiana University",
+      "is_presenter": true,
+      "papers": [
+        "Beyond the Storm: Climate Risk and Insurers of Last Resort"
+      ]
+    },
+    {
+      "name": "Varun Sharma",
+      "institution": "Indiana University",
+      "is_presenter": false,
+      "papers": [
+        "Beyond the Storm: Climate Risk and Insurers of Last Resort"
+      ]
+    },
+    {
+      "name": "Vikas Soni",
+      "institution": "University of South Florida",
+      "is_presenter": false,
+      "papers": [
+        "Beyond the Storm: Climate Risk and Insurers of Last Resort"
+      ]
+    },
+    {
+      "name": "Derek Wenning",
+      "institution": "Indiana University",
+      "is_presenter": false,
+      "papers": [
+        "Beyond the Storm: Climate Risk and Insurers of Last Resort"
+      ]
+    },
+    {
+      "name": "Hao Gao",
+      "institution": "Tsinghua University",
+      "is_presenter": true,
+      "papers": [
+        "Sanctions Paradox: Do U.S. Export Restrictions Hurt Domestic Innovation?"
+      ]
+    },
+    {
+      "name": "Nemit Shroff",
+      "institution": "Massachusetts Institute of Technology",
+      "is_presenter": false,
+      "papers": [
+        "Sanctions Paradox: Do U.S. Export Restrictions Hurt Domestic Innovation?"
+      ]
+    },
+    {
+      "name": "Pengdong Zhang",
+      "institution": "Sun Yat-sen University",
+      "is_presenter": false,
+      "papers": [
+        "Sanctions Paradox: Do U.S. Export Restrictions Hurt Domestic Innovation?"
+      ]
+    },
+    {
+      "name": "Annette Vissing-Jorgensen",
+      "institution": "Federal Reserve Board",
+      "is_presenter": true,
+      "papers": [
+        "Fluctuations in the Treasury General Account and their effect on the Fed’s balance sheet"
+      ]
+    },
+    {
+      "name": "Luca Mertens",
+      "institution": "Fidelity",
+      "is_presenter": true,
+      "papers": [
+        "Betting on Credit Betas"
+      ]
+    },
+    {
+      "name": "Lira Mota",
+      "institution": "MIT",
+      "is_presenter": false,
+      "papers": [
+        "Betting on Credit Betas"
+      ]
+    },
+    {
+      "name": "Tomas Nobrega",
+      "institution": "Insper",
+      "is_presenter": false,
+      "papers": [
+        "Betting on Credit Betas"
+      ]
+    },
+    {
+      "name": "Taha Choukhmane",
+      "institution": "MIT Sloan",
+      "is_presenter": true,
+      "papers": [
+        "AI Financial Advice: Supply, Demand, and Life Cycle Implications"
+      ]
+    },
+    {
+      "name": "Tim de Silva",
+      "institution": "Stanford GSB",
+      "is_presenter": false,
+      "papers": [
+        "AI Financial Advice: Supply, Demand, and Life Cycle Implications"
+      ]
+    },
+    {
+      "name": "Weidong Lin",
+      "institution": "MIT Sloan",
+      "is_presenter": false,
+      "papers": [
+        "AI Financial Advice: Supply, Demand, and Life Cycle Implications"
+      ]
+    },
+    {
+      "name": "Matthew Akuzawa",
+      "institution": "MIT Sloan",
+      "is_presenter": false,
+      "papers": [
+        "AI Financial Advice: Supply, Demand, and Life Cycle Implications"
+      ]
+    },
+    {
+      "name": "Andrew Abel",
+      "institution": "Wharton School, University of Pennsylvania; NBER",
+      "is_presenter": true,
+      "papers": [
+        "Optimal Immigration and Long-Run Growth"
+      ]
+    },
+    {
+      "name": "Stavros Panageas",
+      "institution": "Anderson School, UCLA; NBER",
+      "is_presenter": false,
+      "papers": [
+        "Optimal Immigration and Long-Run Growth"
+      ]
+    },
+    {
+      "name": "Guillermo Carranza",
+      "institution": "Yale University",
+      "is_presenter": true,
+      "papers": [
+        "Improving 401(k) Matches Using Hypothetical Choices"
+      ]
+    },
+    {
+      "name": "Fiona Greig",
+      "institution": "Vanguard",
+      "is_presenter": false,
+      "papers": [
+        "Improving 401(k) Matches Using Hypothetical Choices"
+      ]
+    },
+    {
+      "name": "Cormac O'Dea",
+      "institution": "",
+      "is_presenter": false,
+      "papers": [
+        "Improving 401(k) Matches Using Hypothetical Choices"
+      ]
+    },
+    {
+      "name": "Lawrence Schmidt",
+      "institution": "MIT Sloan",
+      "is_presenter": false,
+      "papers": [
+        "Improving 401(k) Matches Using Hypothetical Choices"
+      ]
+    },
+    {
+      "name": "Dmitry Orlov",
+      "institution": "University of Wisconsin-Madison",
+      "is_presenter": true,
+      "papers": [
+        "Data versus Information Sales under Financial Constraints"
+      ]
+    },
+    {
+      "name": "Andrzej Skrzypacz",
+      "institution": "Stanford Graduate School Business",
+      "is_presenter": false,
+      "papers": [
+        "Data versus Information Sales under Financial Constraints"
+      ]
+    },
+    {
+      "name": "Pavel Zryumov",
+      "institution": "University of Rochester",
+      "is_presenter": false,
+      "papers": [
+        "Data versus Information Sales under Financial Constraints"
+      ]
+    },
+    {
+      "name": "Joon Woo Bae",
+      "institution": "Weatherhead School of Management, Case Western Reserve University",
+      "is_presenter": true,
+      "papers": [
+        "El Niño and Currency Returns",
+        "Blame it on the weather: Market implied weather volatility and firm performance"
+      ]
+    },
+    {
+      "name": "Taehoon Lim",
+      "institution": "Hankuk University of Foreign Studies",
+      "is_presenter": false,
+      "papers": [
+        "El Niño and Currency Returns"
+      ]
+    },
+    {
+      "name": "David Ng",
+      "institution": "Cornell University",
+      "is_presenter": false,
+      "papers": [
+        "El Niño and Currency Returns"
+      ]
+    },
+    {
+      "name": "Lucio Sarno",
+      "institution": "Cambridge University",
+      "is_presenter": false,
+      "papers": [
+        "El Niño and Currency Returns"
+      ]
+    },
+    {
+      "name": "David Brown",
+      "institution": "US Census Bureau",
+      "is_presenter": true,
+      "papers": [
+        "How Big is Small? The Economic Effects of Access to Small Business Government Support"
+      ]
+    },
+    {
+      "name": "Matt Denes",
+      "institution": "Carnegie Mellon",
+      "is_presenter": false,
+      "papers": [
+        "How Big is Small? The Economic Effects of Access to Small Business Government Support"
+      ]
+    },
+    {
+      "name": "Ran Duchin",
+      "institution": "Boston College",
+      "is_presenter": false,
+      "papers": [
+        "How Big is Small? The Economic Effects of Access to Small Business Government Support"
+      ]
+    },
+    {
+      "name": "John Hackney",
+      "institution": "University of Arkansas",
+      "is_presenter": false,
+      "papers": [
+        "How Big is Small? The Economic Effects of Access to Small Business Government Support"
+      ]
+    },
+    {
+      "name": "Barry Eichengreen",
+      "institution": "UC Berkeley",
+      "is_presenter": true,
+      "papers": [
+        "Under Pressure? Central Bank Independence Meets Blockchain Prediction Markets"
+      ]
+    },
+    {
+      "name": "Ganesh Viswanath Natraj",
+      "institution": "Warwick Business School",
+      "is_presenter": false,
+      "papers": [
+        "Under Pressure? Central Bank Independence Meets Blockchain Prediction Markets"
+      ]
+    },
+    {
+      "name": "Junxuan Wang",
+      "institution": "HKUST Guangzhou",
+      "is_presenter": false,
+      "papers": [
+        "Under Pressure? Central Bank Independence Meets Blockchain Prediction Markets"
+      ]
+    },
+    {
+      "name": "Zijie Wang",
+      "institution": "Warwick Business School",
+      "is_presenter": false,
+      "papers": [
+        "Under Pressure? Central Bank Independence Meets Blockchain Prediction Markets"
+      ]
+    },
+    {
+      "name": "Vincent Bogousslavsky",
+      "institution": "Boston College",
+      "is_presenter": true,
+      "papers": [
+        "An Anatomy of Retail Option Trading"
+      ]
+    },
+    {
+      "name": "Dmitriy Muravyev",
+      "institution": "University of Illinois Urbana-Champaign",
+      "is_presenter": false,
+      "papers": [
+        "An Anatomy of Retail Option Trading",
+        "Unpacking Retail Trading Costs: the Role of Options Trading and Limit Order Usage"
+      ]
+    },
+    {
+      "name": "Elena Loutskina",
+      "institution": "University of Virginia",
+      "is_presenter": true,
+      "papers": [
+        "Hidden Medical Debt and Consumer Access to Credit"
+      ]
+    },
+    {
+      "name": "Joonsung Won",
+      "institution": "University of Virginia",
+      "is_presenter": false,
+      "papers": [
+        "Hidden Medical Debt and Consumer Access to Credit"
+      ]
+    },
+    {
+      "name": "Johan Hombert",
+      "institution": "HEC Paris",
+      "is_presenter": true,
+      "papers": [
+        "Cap and Trade with Imperfect Hedging",
+        "The Real Effects of Valuation Mistakes:\\\\ Estimates from Mergers and Acquisitions"
+      ]
+    },
+    {
+      "name": "Bruno Biais",
+      "institution": "HEC Paris",
+      "is_presenter": false,
+      "papers": [
+        "Cap and Trade with Imperfect Hedging"
+      ]
+    },
+    {
+      "name": "Daniel Schmidt",
+      "institution": "HEC Paris",
+      "is_presenter": false,
+      "papers": [
+        "Cap and Trade with Imperfect Hedging"
+      ]
+    },
+    {
+      "name": "Pierre-Olivier Weill",
+      "institution": "UCLA",
+      "is_presenter": false,
+      "papers": [
+        "Cap and Trade with Imperfect Hedging"
+      ]
+    },
+    {
+      "name": "Michaela Pagel",
+      "institution": "Washington University, St. Louis",
+      "is_presenter": true,
+      "papers": [
+        "Bank Fees and Household Financial Well-Being"
+      ]
+    },
+    {
+      "name": "Sharada Sridhar",
+      "institution": "Georgia Institute of Technology",
+      "is_presenter": false,
+      "papers": [
+        "Bank Fees and Household Financial Well-Being"
+      ]
+    },
+    {
+      "name": "Emily Williams",
+      "institution": "Harvard Business School",
+      "is_presenter": false,
+      "papers": [
+        "Bank Fees and Household Financial Well-Being"
+      ]
+    },
+    {
+      "name": "Simon Mayer",
+      "institution": "HBS",
+      "is_presenter": true,
+      "papers": [
+        "Private Equity Continuation Vehicles: A Model of Strategic Asset Transfers"
+      ]
+    },
+    {
+      "name": "Ludovic Phallippou",
+      "institution": "Carnegie Mellon University",
+      "is_presenter": false,
+      "papers": [
+        "Private Equity Continuation Vehicles: A Model of Strategic Asset Transfers"
+      ]
+    },
+    {
+      "name": "Victoria Ivashina",
+      "institution": "HBS;; Oxford Said",
+      "is_presenter": false,
+      "papers": [
+        "Private Equity Continuation Vehicles: A Model of Strategic Asset Transfers",
+        "Liquidity Flows to Bank-Affiliated Broker Dealers: Insights from Volumes and Prices"
+      ]
+    },
+    {
+      "name": "Hyeyoon Jung",
+      "institution": "Federal Reserve Bank of New York",
+      "is_presenter": true,
+      "papers": [
+        "Economics of Property Insurance"
+      ]
+    },
+    {
+      "name": "Jaehoon {Kyle} Jung",
+      "institution": "New York University, Stern School of Business",
+      "is_presenter": false,
+      "papers": [
+        "Economics of Property Insurance"
+      ]
+    },
+    {
+      "name": "Agrawal Ashwini",
+      "institution": "London School of Economics",
+      "is_presenter": true,
+      "papers": [
+        "From Mainframes to Machine Learning: Skill Gaps over the Technology Life Cycle"
+      ]
+    },
+    {
+      "name": "Daniel Kim",
+      "institution": "University of Waterloo",
+      "is_presenter": false,
+      "papers": [
+        "From Mainframes to Machine Learning: Skill Gaps over the Technology Life Cycle"
+      ]
+    },
+    {
+      "name": "Prasanna Tambe",
+      "institution": "Wharton School of Business, University of Pennsylvania",
+      "is_presenter": false,
+      "papers": [
+        "From Mainframes to Machine Learning: Skill Gaps over the Technology Life Cycle"
+      ]
+    },
+    {
+      "name": "Joao Gomes",
+      "institution": "The Wharton School, University of Pennsylvania",
+      "is_presenter": true,
+      "papers": [
+        "The Road to Fiscal Armageddon"
+      ]
+    },
+    {
+      "name": "Chris Zhu",
+      "institution": "The Wharton School, University of Pennsylvania",
+      "is_presenter": false,
+      "papers": [
+        "The Road to Fiscal Armageddon"
+      ]
+    },
+    {
+      "name": "Peter Feldhütter",
+      "institution": "Copenhagen Business School",
+      "is_presenter": true,
+      "papers": [
+        "Which market leads price discovery? New conclusions from a new test"
+      ]
+    },
+    {
+      "name": "Felix Lundén",
+      "institution": "Copenhagen Business School",
+      "is_presenter": false,
+      "papers": [
+        "Which market leads price discovery? New conclusions from a new test"
+      ]
+    },
+    {
+      "name": "Hongjun Yan",
+      "institution": "DePaul University",
+      "is_presenter": true,
+      "papers": [
+        "FinTech Brings a Bias from Psychology Labs to a Two-trillion-dollar Market"
+      ]
+    },
+    {
+      "name": "Zhengwei Wang",
+      "institution": "Tsinghua University",
+      "is_presenter": false,
+      "papers": [
+        "FinTech Brings a Bias from Psychology Labs to a Two-trillion-dollar Market"
+      ]
+    },
+    {
+      "name": "Yulai Yuan",
+      "institution": "Xuanyuan Insurance Agency Co., Ltd",
+      "is_presenter": false,
+      "papers": [
+        "FinTech Brings a Bias from Psychology Labs to a Two-trillion-dollar Market"
+      ]
+    },
+    {
+      "name": "Xiaole Qiu",
+      "institution": "Tsinghua University",
+      "is_presenter": false,
+      "papers": [
+        "FinTech Brings a Bias from Psychology Labs to a Two-trillion-dollar Market"
+      ]
+    },
+    {
+      "name": "Jia Xiang",
+      "institution": "Tsinghua University",
+      "is_presenter": false,
+      "papers": [
+        "FinTech Brings a Bias from Psychology Labs to a Two-trillion-dollar Market"
+      ]
+    },
+    {
+      "name": "Yaqing Xiao",
+      "institution": "Capital University of Economics and Business",
+      "is_presenter": false,
+      "papers": [
+        "FinTech Brings a Bias from Psychology Labs to a Two-trillion-dollar Market"
+      ]
+    },
+    {
+      "name": "Erik Davidson",
+      "institution": "Baylor University",
+      "is_presenter": false,
+      "papers": [
+        "FinTech Brings a Bias from Psychology Labs to a Two-trillion-dollar Market"
+      ]
+    },
+    {
+      "name": "Luigi Falasconi",
+      "institution": "University of Pennsylvania",
+      "is_presenter": true,
+      "papers": [
+        "Bailout Expectations, Default Risk and the Dynamics of Bank Credit Spreads"
+      ]
+    },
+    {
+      "name": "Enzo Cerletti",
+      "institution": "Central Bank of Chile",
+      "is_presenter": true,
+      "papers": [
+        "Debt and Liquid Wealth: Evidence from Pension Fund Withdrawals"
+      ]
+    },
+    {
+      "name": "Tomas Cortes",
+      "institution": "Central Bank of Chile",
+      "is_presenter": false,
+      "papers": [
+        "Debt and Liquid Wealth: Evidence from Pension Fund Withdrawals"
+      ]
+    },
+    {
+      "name": "Borja Larrain",
+      "institution": "PUC Chile",
+      "is_presenter": false,
+      "papers": [
+        "Debt and Liquid Wealth: Evidence from Pension Fund Withdrawals"
+      ]
+    },
+    {
+      "name": "Patricio Toro",
+      "institution": "Central Bank of Chile",
+      "is_presenter": false,
+      "papers": [
+        "Debt and Liquid Wealth: Evidence from Pension Fund Withdrawals"
+      ]
+    },
+    {
+      "name": "Andrea Lanteri",
+      "institution": "Duke University",
+      "is_presenter": true,
+      "papers": [
+        "Financing the Adoption of Clean Technology"
+      ]
+    },
+    {
+      "name": "Adriano Rampini",
+      "institution": "Duke University",
+      "is_presenter": false,
+      "papers": [
+        "Financing the Adoption of Clean Technology"
+      ]
+    },
+    {
+      "name": "Kris Jacobs",
+      "institution": "Bauer College of Business, University of Houston",
+      "is_presenter": false,
+      "papers": [
+        "Blame it on the weather: Market implied weather volatility and firm performance"
+      ]
+    },
+    {
+      "name": "Yoontae Jeon",
+      "institution": "DeGroote School of Business, McMaster University",
+      "is_presenter": false,
+      "papers": [
+        "Blame it on the weather: Market implied weather volatility and firm performance"
+      ]
+    },
+    {
+      "name": "Stephen Szaura",
+      "institution": "BI Norwegian Business School",
+      "is_presenter": false,
+      "papers": [
+        "Blame it on the weather: Market implied weather volatility and firm performance"
+      ]
+    },
+    {
+      "name": "Virgilio Zurita",
+      "institution": "College of Business and Analytics, Southern Illinois University",
+      "is_presenter": false,
+      "papers": [
+        "Blame it on the weather: Market implied weather volatility and firm performance"
+      ]
+    },
+    {
+      "name": "Po-Hsuan Hsu",
+      "institution": "National Tsing Hua University",
+      "is_presenter": true,
+      "papers": [
+        "Tradeoff between Entrepreneurship and Fertility: Evidence from China’s Nationwide Two-Child Policy"
+      ]
+    },
+    {
+      "name": "Sung Kwan Lee",
+      "institution": "Chinese University of Hong Kong, Shenzhen",
+      "is_presenter": false,
+      "papers": [
+        "Tradeoff between Entrepreneurship and Fertility: Evidence from China’s Nationwide Two-Child Policy"
+      ]
+    },
+    {
+      "name": "Seungjoon Oh",
+      "institution": "Peking University HSBC Business School",
+      "is_presenter": false,
+      "papers": [
+        "Tradeoff between Entrepreneurship and Fertility: Evidence from China’s Nationwide Two-Child Policy"
+      ]
+    },
+    {
+      "name": "Nina Boyarchenko",
+      "institution": "Federal Reserve Bank of New York; CEPR and CESIfo",
+      "is_presenter": true,
+      "papers": [
+        "The Global Credit Cycle"
+      ]
+    },
+    {
+      "name": "Leonardo Elias",
+      "institution": "Federal Reserve Bank of New York",
+      "is_presenter": false,
+      "papers": [
+        "The Global Credit Cycle"
+      ]
+    },
+    {
+      "name": "Sebastian Bell",
+      "institution": "KIT",
+      "is_presenter": true,
+      "papers": [
+        "Fairness by Design: Mortgage Lending and Regulation"
+      ]
+    },
+    {
+      "name": "Ali Kakhbod",
+      "institution": "UC Berkeley",
+      "is_presenter": false,
+      "papers": [
+        "Fairness by Design: Mortgage Lending and Regulation"
+      ]
+    },
+    {
+      "name": "Richard Stanton",
+      "institution": "UC Berkeley",
+      "is_presenter": false,
+      "papers": [
+        "Fairness by Design: Mortgage Lending and Regulation"
+      ]
+    },
+    {
+      "name": "Nancy Wallace",
+      "institution": "UC Berkeley",
+      "is_presenter": false,
+      "papers": [
+        "Fairness by Design: Mortgage Lending and Regulation"
+      ]
+    },
+    {
+      "name": "Rong Wang",
+      "institution": "Duke University",
+      "is_presenter": true,
+      "papers": [
+        "Resolving the Zero-Beta Rate Puzzle"
+      ]
+    },
+    {
+      "name": "Mark Leary",
+      "institution": "Washington University in St. Louis",
+      "is_presenter": true,
+      "papers": [
+        "Investment, Debt and Taxes"
+      ]
+    },
+    {
+      "name": "John Graham",
+      "institution": "Duke University",
+      "is_presenter": false,
+      "papers": [
+        "Investment, Debt and Taxes"
+      ]
+    },
+    {
+      "name": "Hyunseob Kim",
+      "institution": "Federal Reserve Bank of Chicago",
+      "is_presenter": false,
+      "papers": [
+        "Investment, Debt and Taxes"
+      ]
+    },
+    {
+      "name": "YoungJun Song",
+      "institution": "San Diego State University",
+      "is_presenter": false,
+      "papers": [
+        "Investment, Debt and Taxes"
+      ]
+    },
+    {
+      "name": "Mauricio Larrain",
+      "institution": "Universidad de los Andes, Chile",
+      "is_presenter": true,
+      "papers": [
+        "Scale Economies in Liquidity Provision: Evidence from Designated Market Makers"
+      ]
+    },
+    {
+      "name": "Vincent Van Kervel",
+      "institution": "Universidad de los Andes, Chile",
+      "is_presenter": false,
+      "papers": [
+        "Scale Economies in Liquidity Provision: Evidence from Designated Market Makers"
+      ]
+    },
+    {
+      "name": "Jorge Sabat",
+      "institution": "Universidad Andres Bello, Chile",
+      "is_presenter": false,
+      "papers": [
+        "Scale Economies in Liquidity Provision: Evidence from Designated Market Makers"
+      ]
+    },
+    {
+      "name": "Pranav Garg",
+      "institution": "Yale",
+      "is_presenter": true,
+      "papers": [
+        "Facing Default?"
+      ]
+    },
+    {
+      "name": "Marius Guenzel",
+      "institution": "Wharton",
+      "is_presenter": false,
+      "papers": [
+        "Facing Default?"
+      ]
+    },
+    {
+      "name": "Shimon Kogan",
+      "institution": "Reichman University",
+      "is_presenter": false,
+      "papers": [
+        "Facing Default?"
+      ]
+    },
+    {
+      "name": "Marina Niessner",
+      "institution": "Indiana",
+      "is_presenter": false,
+      "papers": [
+        "Facing Default?"
+      ]
+    },
+    {
+      "name": "Kelly Shue",
+      "institution": "Yale",
+      "is_presenter": false,
+      "papers": [
+        "Facing Default?"
+      ]
+    },
+    {
+      "name": "Thomas Flanagan",
+      "institution": "The Ohio State University",
+      "is_presenter": true,
+      "papers": [
+        "Do GSEs Subsidize Mortgage Lending?"
+      ]
+    },
+    {
+      "name": "Johannes Poeschl",
+      "institution": "European Central Bank",
+      "is_presenter": true,
+      "papers": [
+        "Sovereign Credit Risk, U.S. Monetary Policy, and the Role of Financial Intermediaries"
+      ]
+    },
+    {
+      "name": "Ivan Shaliastovich",
+      "institution": "University of Wisconsin-Madison",
+      "is_presenter": false,
+      "papers": [
+        "Sovereign Credit Risk, U.S. Monetary Policy, and the Role of Financial Intermediaries"
+      ]
+    },
+    {
+      "name": "Ram Yamarthy",
+      "institution": "Federal Reserve Board of Governors",
+      "is_presenter": false,
+      "papers": [
+        "Sovereign Credit Risk, U.S. Monetary Policy, and the Role of Financial Intermediaries"
+      ]
+    },
+    {
+      "name": "Xindan Li",
+      "institution": "Nanjing University",
+      "is_presenter": true,
+      "papers": [
+        "The Loyalty Trap: Informational Advantage and Dynamic Price Discrimination"
+      ]
+    },
+    {
+      "name": "Baolian Wang",
+      "institution": "University of Florida",
+      "is_presenter": false,
+      "papers": [
+        "The Loyalty Trap: Informational Advantage and Dynamic Price Discrimination"
+      ]
+    },
+    {
+      "name": "Wei Xiong",
+      "institution": "Princeton University",
+      "is_presenter": false,
+      "papers": [
+        "The Loyalty Trap: Informational Advantage and Dynamic Price Discrimination"
+      ]
+    },
+    {
+      "name": "Xuewei Yang",
+      "institution": "Nanjing University",
+      "is_presenter": false,
+      "papers": [
+        "The Loyalty Trap: Informational Advantage and Dynamic Price Discrimination"
+      ]
+    },
+    {
+      "name": "Yinhong Zhao",
+      "institution": "Princeton University",
+      "is_presenter": false,
+      "papers": [
+        "The Loyalty Trap: Informational Advantage and Dynamic Price Discrimination"
+      ]
+    },
+    {
+      "name": "Campbell Harvey",
+      "institution": "Duke University",
+      "is_presenter": true,
+      "papers": [
+        "Productivity Enables Security: The Economics of Blockchain Settlement"
+      ]
+    },
+    {
+      "name": "Kose John",
+      "institution": "NYU Stern School of Business",
+      "is_presenter": false,
+      "papers": [
+        "Productivity Enables Security: The Economics of Blockchain Settlement"
+      ]
+    },
+    {
+      "name": "Fahad Saleh",
+      "institution": "University of Florida",
+      "is_presenter": false,
+      "papers": [
+        "Productivity Enables Security: The Economics of Blockchain Settlement"
+      ]
+    },
+    {
+      "name": "Junxiong Gao",
+      "institution": "Shanghai Advanced Institute of Finance, Shanghai Jiao Tong University",
+      "is_presenter": true,
+      "papers": [
+        "Fiscal Imbalances and Asset Returns: Cross-Sector Economic Fluctuations under the Aggregate Budget Constraint"
+      ]
+    },
+    {
+      "name": "Alberto Plazzi",
+      "institution": "Universita&#39; della Svizzera italiana and SFI",
+      "is_presenter": false,
+      "papers": [
+        "Fiscal Imbalances and Asset Returns: Cross-Sector Economic Fluctuations under the Aggregate Budget Constraint"
+      ]
+    },
+    {
+      "name": "Rossen Valkanov",
+      "institution": "Rady School of Management, University of California San Diego",
+      "is_presenter": false,
+      "papers": [
+        "Fiscal Imbalances and Asset Returns: Cross-Sector Economic Fluctuations under the Aggregate Budget Constraint"
+      ]
+    },
+    {
+      "name": "Yan Xu",
+      "institution": "HKU;; Hong Kong University",
+      "is_presenter": false,
+      "papers": [
+        "Fiscal Imbalances and Asset Returns: Cross-Sector Economic Fluctuations under the Aggregate Budget Constraint"
+      ]
+    },
+    {
+      "name": "Itzhak Ben-David",
+      "institution": "The Ohio State University",
+      "is_presenter": true,
+      "papers": [
+        "EPS-Maximizing Capital Structure"
+      ]
+    },
+    {
+      "name": "Alexander Chinco",
+      "institution": "Michigan State University",
+      "is_presenter": false,
+      "papers": [
+        "EPS-Maximizing Capital Structure"
+      ]
+    },
+    {
+      "name": "Zheng Li",
+      "institution": "London Business School",
+      "is_presenter": true,
+      "papers": [
+        "Sparse Portfolios and Benchmarking in Corporate Bond Markets"
+      ]
+    },
+    {
+      "name": "Anna Pavlova",
+      "institution": "London Business School",
+      "is_presenter": false,
+      "papers": [
+        "Sparse Portfolios and Benchmarking in Corporate Bond Markets"
+      ]
+    },
+    {
+      "name": "Nicholas Zarra",
+      "institution": "Federal Reserve Board",
+      "is_presenter": true,
+      "papers": [
+        "Prime Broker Credit Supply and the Stock Market: Evidence on Hedge Fund Transmission"
+      ]
+    },
+    {
+      "name": "Daniel Barth",
+      "institution": "Federal Reserve Board",
+      "is_presenter": false,
+      "papers": [
+        "Prime Broker Credit Supply and the Stock Market: Evidence on Hedge Fund Transmission"
+      ]
+    },
+    {
+      "name": "Mara Faccio",
+      "institution": "Fordham University",
+      "is_presenter": true,
+      "papers": [
+        "Taxes and Default Risk: Evidence From Establishment-Level Data"
+      ]
+    },
+    {
+      "name": "Stefano Manfredonia",
+      "institution": "Purdue University",
+      "is_presenter": false,
+      "papers": [
+        "Taxes and Default Risk: Evidence From Establishment-Level Data"
+      ]
+    },
+    {
+      "name": "Leonie Bräuer",
+      "institution": "University of Geneva and Swiss Finance Institute",
+      "is_presenter": true,
+      "papers": [
+        "Exchange Rate Expectations and Currency Demand"
+      ]
+    },
+    {
+      "name": "Spencer Couts",
+      "institution": "Price School of Public Policy, University of Southern California",
+      "is_presenter": true,
+      "papers": [
+        "Institutional Investors’ Subjective Risk Premia: Time Variation and Disagreement"
+      ]
+    },
+    {
+      "name": "Andrei Goncalves",
+      "institution": "Fisher College of Business, The Ohio State University",
+      "is_presenter": false,
+      "papers": [
+        "Institutional Investors’ Subjective Risk Premia: Time Variation and Disagreement"
+      ]
+    },
+    {
+      "name": "Yicheng Liu",
+      "institution": "Fisher College of Business, The Ohio State University",
+      "is_presenter": false,
+      "papers": [
+        "Institutional Investors’ Subjective Risk Premia: Time Variation and Disagreement"
+      ]
+    },
+    {
+      "name": "Johnathan Loudis",
+      "institution": "Mendoza College of Business, University of Notre Dame",
+      "is_presenter": false,
+      "papers": [
+        "Institutional Investors’ Subjective Risk Premia: Time Variation and Disagreement"
+      ]
+    },
+    {
+      "name": "Chi {Clara} Xu",
+      "institution": "The Wharton School of the University of Pennsylvania",
+      "is_presenter": true,
+      "papers": [
+        "The Value of Contingent Liquidity from Banks to Nonbank Financiers"
+      ]
+    },
+    {
+      "name": "Tomas Jankauskas",
+      "institution": "Federal Reserve New York",
+      "is_presenter": true,
+      "papers": [
+        "The Implied Equity Term Structure"
+      ]
+    },
+    {
+      "name": "Lieven Baele",
+      "institution": "Tilburg University",
+      "is_presenter": false,
+      "papers": [
+        "The Implied Equity Term Structure"
+      ]
+    },
+    {
+      "name": "Joost Driessen",
+      "institution": "Tilburg University",
+      "is_presenter": false,
+      "papers": [
+        "The Implied Equity Term Structure"
+      ]
+    },
+    {
+      "name": "Alexei Ovchinnikov",
+      "institution": "HEC Paris",
+      "is_presenter": false,
+      "papers": [
+        "The Real Effects of Valuation Mistakes:\\\\ Estimates from Mergers and Acquisitions"
+      ]
+    },
+    {
+      "name": "François Derrien",
+      "institution": "HEC Paris",
+      "is_presenter": false,
+      "papers": [
+        "The Real Effects of Valuation Mistakes:\\\\ Estimates from Mergers and Acquisitions"
+      ]
+    },
+    {
+      "name": "Philip Valta",
+      "institution": "University of Bern",
+      "is_presenter": false,
+      "papers": [
+        "The Real Effects of Valuation Mistakes:\\\\ Estimates from Mergers and Acquisitions"
+      ]
+    },
+    {
+      "name": "Robert Battalio",
+      "institution": "University of Notre Dame",
+      "is_presenter": true,
+      "papers": [
+        "Latency and the Look-Ahead Bias in Trade and Quote Data"
+      ]
+    },
+    {
+      "name": "Craig Holden",
+      "institution": "Indiana University",
+      "is_presenter": false,
+      "papers": [
+        "Latency and the Look-Ahead Bias in Trade and Quote Data"
+      ]
+    },
+    {
+      "name": "Matthew Pierson",
+      "institution": "WRDS, University of Pennsylvania",
+      "is_presenter": false,
+      "papers": [
+        "Latency and the Look-Ahead Bias in Trade and Quote Data"
+      ]
+    },
+    {
+      "name": "John Shim",
+      "institution": "University of Notre Dame",
+      "is_presenter": false,
+      "papers": [
+        "Latency and the Look-Ahead Bias in Trade and Quote Data"
+      ]
+    },
+    {
+      "name": "Jun Wu",
+      "institution": "WRDS, University of Pennsylvania",
+      "is_presenter": false,
+      "papers": [
+        "Latency and the Look-Ahead Bias in Trade and Quote Data"
+      ]
+    },
+    {
+      "name": "Jennie Bai",
+      "institution": "Georgetown University",
+      "is_presenter": true,
+      "papers": [
+        "Liquidity Flows to Bank-Affiliated Broker Dealers: Insights from Volumes and Prices"
+      ]
+    },
+    {
+      "name": "Erik Bostrom",
+      "institution": "Federal Reserve Board",
+      "is_presenter": false,
+      "papers": [
+        "Liquidity Flows to Bank-Affiliated Broker Dealers: Insights from Volumes and Prices"
+      ]
+    },
+    {
+      "name": "Sebastian Infante",
+      "institution": "Federal Reserve Board",
+      "is_presenter": false,
+      "papers": [
+        "Liquidity Flows to Bank-Affiliated Broker Dealers: Insights from Volumes and Prices"
+      ]
+    },
+    {
+      "name": "Tong Li",
+      "institution": "Xiamen University",
+      "is_presenter": true,
+      "papers": [
+        "The “Chilling” Effect of Climate Laws on Cross-Border Mergers and Acquisitions"
+      ]
+    },
+    {
+      "name": "Dragon Yongjun Tang",
+      "institution": "The University of Hong Kong",
+      "is_presenter": false,
+      "papers": [
+        "The “Chilling” Effect of Climate Laws on Cross-Border Mergers and Acquisitions"
+      ]
+    },
+    {
+      "name": "Fei Xie",
+      "institution": "University of Delaware",
+      "is_presenter": false,
+      "papers": [
+        "The “Chilling” Effect of Climate Laws on Cross-Border Mergers and Acquisitions"
+      ]
+    },
+    {
+      "name": "Peteris Kloks",
+      "institution": "University of Basel",
+      "is_presenter": true,
+      "papers": [
+        "Segmented Dollar Funding"
+      ]
+    },
+    {
+      "name": "Edouard Mattille",
+      "institution": "University of New South Wales, UNSW Business School",
+      "is_presenter": false,
+      "papers": [
+        "Segmented Dollar Funding"
+      ]
+    },
+    {
+      "name": "Angelo Ranaldo",
+      "institution": "University of Basel; Swiss Finance Institute",
+      "is_presenter": false,
+      "papers": [
+        "Segmented Dollar Funding"
+      ]
+    },
+    {
+      "name": "Shikun {Barry} Ke",
+      "institution": "Yale School of Management",
+      "is_presenter": true,
+      "papers": [
+        "Analysts' Belief Formation in Their Own Words"
+      ]
+    },
+    {
+      "name": "Matteo Benetton",
+      "institution": "Berkeley Haas",
+      "is_presenter": true,
+      "papers": [
+        "Deposit Competition Beyond Rates"
+      ]
+    },
+    {
+      "name": "Ben Hebert",
+      "institution": "Stanford GSB",
+      "is_presenter": false,
+      "papers": [
+        "Deposit Competition Beyond Rates"
+      ]
+    },
+    {
+      "name": "Tim McQuade",
+      "institution": "Berkeley Haas",
+      "is_presenter": false,
+      "papers": [
+        "Deposit Competition Beyond Rates"
+      ]
+    },
+    {
+      "name": "Xiaoyan Zhang",
+      "institution": "PBC School of Finance, Tsinghua University",
+      "is_presenter": true,
+      "papers": [
+        "Fundamental Volatility"
+      ]
+    },
+    {
+      "name": "Tong Yao",
+      "institution": "University of Iowa, United States of America",
+      "is_presenter": false,
+      "papers": [
+        "Fundamental Volatility"
+      ]
+    },
+    {
+      "name": "Hsianghung Tien",
+      "institution": "University of Iowa, United States of America",
+      "is_presenter": false,
+      "papers": [
+        "Fundamental Volatility"
+      ]
+    },
+    {
+      "name": "Tanja Brieden",
+      "institution": "Vienna Graduate School of Finance and University of Vienna",
+      "is_presenter": true,
+      "papers": [
+        "Why Bank Net Interest Margins Are Stable - Insights from the Asset Side"
+      ]
+    },
+    {
+      "name": "Lisa Kaminski",
+      "institution": "LMU Munich",
+      "is_presenter": true,
+      "papers": [
+        "The European Best Bid and Offer (EBBO): From Fragmented Feeds to a Consolidated Tape"
+      ]
+    },
+    {
+      "name": "Ralf Laschinger",
+      "institution": "LMU Munich",
+      "is_presenter": false,
+      "papers": [
+        "The European Best Bid and Offer (EBBO): From Fragmented Feeds to a Consolidated Tape"
+      ]
+    },
+    {
+      "name": "Ryan Riordan",
+      "institution": "LMU Munich",
+      "is_presenter": false,
+      "papers": [
+        "The European Best Bid and Offer (EBBO): From Fragmented Feeds to a Consolidated Tape"
+      ]
+    },
+    {
+      "name": "Anthony Saunders",
+      "institution": "NYU Stern School of Business",
+      "is_presenter": true,
+      "papers": [
+        "Do Institutional Investors Trade on Covenant Violations?"
+      ]
+    },
+    {
+      "name": "Sascha Steffen",
+      "institution": "Frankfurt School of Finance & Management",
+      "is_presenter": false,
+      "papers": [
+        "Do Institutional Investors Trade on Covenant Violations?"
+      ]
+    },
+    {
+      "name": "Paulina Verhoff",
+      "institution": "Frankfurt School of Finance & Management",
+      "is_presenter": false,
+      "papers": [
+        "Do Institutional Investors Trade on Covenant Violations?"
+      ]
+    },
+    {
+      "name": "Murillo Campello",
+      "institution": "University of Florida; NBER",
+      "is_presenter": true,
+      "papers": [
+        "Tax Incentives and Venture Capital Risk-Taking"
+      ]
+    },
+    {
+      "name": "Guilherme Junqueira",
+      "institution": "University of Florida",
+      "is_presenter": false,
+      "papers": [
+        "Tax Incentives and Venture Capital Risk-Taking"
+      ]
+    },
+    {
+      "name": "Sohnke Bartram",
+      "institution": "University of Warwick",
+      "is_presenter": true,
+      "papers": [
+        "Monetary Policy Predicts Currency Movements"
+      ]
+    },
+    {
+      "name": "Mark Grinblatt",
+      "institution": "UCLA",
+      "is_presenter": false,
+      "papers": [
+        "Monetary Policy Predicts Currency Movements"
+      ]
+    },
+    {
+      "name": "Vineet Bhagwat",
+      "institution": "George Washington University",
+      "is_presenter": true,
+      "papers": [
+        "The Market’s Mirror: Revealing Investor Disagreement with LLMs"
+      ]
+    },
+    {
+      "name": "J. Anthony Cookson",
+      "institution": "Penn State University",
+      "is_presenter": false,
+      "papers": [
+        "The Market’s Mirror: Revealing Investor Disagreement with LLMs"
+      ]
+    },
+    {
+      "name": "Chukwuma Dim",
+      "institution": "George Washington University",
+      "is_presenter": false,
+      "papers": [
+        "The Market’s Mirror: Revealing Investor Disagreement with LLMs"
+      ]
+    },
+    {
+      "name": "Ana Babus",
+      "institution": "Washington University in St. Louis & CEPR",
+      "is_presenter": true,
+      "papers": [
+        "Bank Opacity and Deposit Rates"
+      ]
+    },
+    {
+      "name": "Maryam Farboodi",
+      "institution": "MIT Sloan, NBER & CEPR",
+      "is_presenter": false,
+      "papers": [
+        "Bank Opacity and Deposit Rates"
+      ]
+    },
+    {
+      "name": "Gabriela Stockler",
+      "institution": "Universitat Pompeu Fabra & BSE",
+      "is_presenter": false,
+      "papers": [
+        "Bank Opacity and Deposit Rates"
+      ]
+    },
+    {
+      "name": "Zhimin Chen",
+      "institution": "Nanyang Technological University",
+      "is_presenter": true,
+      "papers": [
+        "Limits To (Machine) Learning"
+      ]
+    },
+    {
+      "name": "Bryan Kelly",
+      "institution": "AQR Capital Management, Yale School of Management, and NBER",
+      "is_presenter": false,
+      "papers": [
+        "Limits To (Machine) Learning"
+      ]
+    },
+    {
+      "name": "Semyon Malamud",
+      "institution": "Swiss Finance Institute, EPFL, and CEPR",
+      "is_presenter": false,
+      "papers": [
+        "Limits To (Machine) Learning"
+      ]
+    },
+    {
+      "name": "Alireza Aghaee",
+      "institution": "Imperial College Business School",
+      "is_presenter": true,
+      "papers": [
+        "Corporate Debt Structure Around the World"
+      ]
+    },
+    {
+      "name": "Stefano Rossi",
+      "institution": "Bocconi University",
+      "is_presenter": false,
+      "papers": [
+        "Corporate Debt Structure Around the World"
+      ]
+    },
+    {
+      "name": "Darrell Duffie",
+      "institution": "Stanford Graduate School of Business",
+      "is_presenter": true,
+      "papers": [
+        "Smart Contracting in Network Markets"
+      ]
+    },
+    {
+      "name": "Chaojun Wang",
+      "institution": "The Wharton School, University of Pennsylvania",
+      "is_presenter": false,
+      "papers": [
+        "Smart Contracting in Network Markets"
+      ]
+    },
+    {
+      "name": "Tiange Ye",
+      "institution": "USC Marshall",
+      "is_presenter": true,
+      "papers": [
+        "Getting Called: The Risks of Investor Liquidity Provision to Private Funds"
+      ]
+    },
+    {
+      "name": "Gazi Kabas",
+      "institution": "Tilburg University",
+      "is_presenter": false,
+      "papers": [
+        "The Labor Market Effects of Carbon Pricing"
+      ]
+    },
+    {
+      "name": "Vincenzo Pezone",
+      "institution": "Luiss",
+      "is_presenter": false,
+      "papers": [
+        "The Labor Market Effects of Carbon Pricing"
+      ]
+    },
+    {
+      "name": "Kasper Roszbach",
+      "institution": "Norges Bank",
+      "is_presenter": false,
+      "papers": [
+        "The Labor Market Effects of Carbon Pricing"
+      ]
+    },
+    {
+      "name": "Liliana Varela",
+      "institution": "London School of Economics",
+      "is_presenter": true,
+      "papers": [
+        "Segmented Financial Integration"
+      ]
+    },
+    {
+      "name": "Federico Bastianello",
+      "institution": "London Business School",
+      "is_presenter": true,
+      "papers": [
+        "Bias and Predictability in Analysts' Beliefs"
+      ]
+    },
+    {
+      "name": "Samuel Antill",
+      "institution": "Harvard Business School",
+      "is_presenter": true,
+      "papers": [
+        "Strategic Bankruptcy and Corporate Negligence"
+      ]
+    },
+    {
+      "name": "Xu Tian",
+      "institution": "University of Georgia",
+      "is_presenter": false,
+      "papers": [
+        "Strategic Bankruptcy and Corporate Negligence"
+      ]
+    },
+    {
+      "name": "Toni Whited",
+      "institution": "University of Michigan",
+      "is_presenter": false,
+      "papers": [
+        "Strategic Bankruptcy and Corporate Negligence"
+      ]
+    },
+    {
+      "name": "Ian Martin",
+      "institution": "London School of Economics",
+      "is_presenter": true,
+      "papers": [
+        "On the Moments of the Stochastic Discount Factor"
+      ]
+    },
+    {
+      "name": "Ran Shi",
+      "institution": "University of Colorado Boulder",
+      "is_presenter": false,
+      "papers": [
+        "On the Moments of the Stochastic Discount Factor"
+      ]
+    },
+    {
+      "name": "Francesca Bastianello",
+      "institution": "Chicago Booth",
+      "is_presenter": true,
+      "papers": [
+        "Valuation Models"
+      ]
+    },
+    {
+      "name": "Paul Décaire",
+      "institution": "Arizona State University",
+      "is_presenter": false,
+      "papers": [
+        "Valuation Models"
+      ]
+    },
+    {
+      "name": "Yashar Barardehi",
+      "institution": "Chapman University",
+      "is_presenter": true,
+      "papers": [
+        "Unpacking Retail Trading Costs: the Role of Options Trading and Limit Order Usage"
+      ]
+    },
+    {
+      "name": "Adam Solomon",
+      "institution": "New York University",
+      "is_presenter": true,
+      "papers": [
+        "Catastrophic Climate Risk and The Limits of Private Markets."
+      ]
+    },
+    {
+      "name": "Martin Kornejew",
+      "institution": "Bocconi University",
+      "is_presenter": true,
+      "papers": [
+        "Credit Cycles and Creditor Rights"
+      ]
+    },
+    {
+      "name": "Shohini Kundu",
+      "institution": "UCLA Anderson",
+      "is_presenter": false,
+      "papers": [
+        "Credit Cycles and Creditor Rights"
+      ]
+    },
+    {
+      "name": "Karsten Müller",
+      "institution": "NUS Business School",
+      "is_presenter": false,
+      "papers": [
+        "Credit Cycles and Creditor Rights"
+      ]
+    },
+    {
+      "name": "Nanyu Chen",
+      "institution": "Columbia Business School",
+      "is_presenter": true,
+      "papers": [
+        "Managing Emerging Market Currency Risk"
+      ]
+    },
+    {
+      "name": "Haonan Zhou",
+      "institution": "University of Hong Kong",
+      "is_presenter": false,
+      "papers": [
+        "Managing Emerging Market Currency Risk"
+      ]
+    },
+    {
+      "name": "Hongye Guo",
+      "institution": "University of Hong Kong",
+      "is_presenter": true,
+      "papers": [
+        "Correlation neglect in asset prices"
+      ]
+    },
+    {
+      "name": "Amiyatosh Purnanandam",
+      "institution": "University of Texas at Austin",
+      "is_presenter": false,
+      "papers": [
+        "How Do Government Guarantees Affect Deposit Supply?"
+      ]
+    }
+  ]
+}

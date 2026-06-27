@@ -1,0 +1,488 @@
+{
+  "conference": {
+    "name": "MoFiR 2026 - 15th MoFiR Workshop on Banking",
+    "short_name": "MOFIR",
+    "year": 2026,
+    "start_date": "2026-07-06",
+    "end_date": "2026-07-08",
+    "location": "Università degli Studi dell'Insubria, Varese, Italy",
+    "extras": {
+      "extras": {
+        "dates": "6-8 July 2026",
+        "venue": "Università degli Studi dell'Insubria, Varese",
+        "organizers": [
+          "Andrea Bellucci",
+          "Serena Fatica",
+          "Rossella Locatelli",
+          "Andrea Presbitero",
+          "Alberto Zazzaro"
+        ],
+        "url": "https://cepr.org/events/15th-mofir-workshop-banking"
+      }
+    }
+  },
+  "scrape_metadata": {
+    "scraped_at": "2026-06-13T17:31:04",
+    "source_url": "https://cepr.org/events/15th-mofir-workshop-banking",
+    "program_available": true,
+    "program_type": "pdf",
+    "errors": []
+  },
+  "sessions": [
+    {
+      "session_title": "Geopolitics and financial interconnections",
+      "date": "Monday 6 July",
+      "time": "14:00-15:00",
+      "papers": [
+        {
+          "title": "The Pricing of Geopolitical Tensions over a Century",
+          "authors": [
+            "{'name': 'Alessandro Melone', 'institution': 'Ohio State University'}"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "CBDCs, Payment Firms, and Geopolitics",
+          "authors": [
+            "{'name': 'Jan Keil', 'institution': 'Humboldt University of Berlin'}"
+          ],
+          "presenter": ""
+        }
+      ]
+    },
+    {
+      "session_title": "Conflicts and banks",
+      "date": "Monday 6 July",
+      "time": "15:00-16:00",
+      "papers": [
+        {
+          "title": "A Geopolitical Shock to Bank Assets and Monetary Policy Transmission",
+          "authors": [
+            "{'name': 'Björn Imbierowicz', 'institution': 'Deutsche Bundesbank'}"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Violent Conflict and Cross-Border Lending",
+          "authors": [
+            "{'name': 'Ralph De Haas', 'institution': 'EBRD'}"
+          ],
+          "presenter": ""
+        }
+      ]
+    },
+    {
+      "session_title": "Policy and Industry Panel: Geopolitical Risks and the Financial Sector",
+      "date": "Monday 6 July",
+      "time": "16:30-18:00",
+      "papers": [
+        {
+          "title": "Panel Discussion",
+          "authors": [
+            "{'name': 'Stephan Fahr', 'institution': 'European Central Bank'}",
+            "{'name': 'Andrea Presbitero', 'institution': 'International Monetary Fund and CEPR'}",
+            "{'name': 'Davide Alfonsi', 'institution': 'Intesa Sanpaolo'}",
+            "{'name': 'Aurelio Maccario', 'institution': 'UniCredit'}"
+          ],
+          "presenter": ""
+        }
+      ]
+    },
+    {
+      "session_title": "Mortgage Market",
+      "date": "Tuesday 7 July",
+      "time": "09:00-10:40",
+      "papers": [
+        {
+          "title": "Inflation Through the Mortgage Market",
+          "authors": [
+            "{'name': 'Arpit Gupta', 'institution': 'New York University Stern School of Business'}"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Interest Rate Pass-Through With Adjustable Rate Mortgages",
+          "authors": [
+            "{'name': 'Miguel Ferreira', 'institution': 'Nova School of Business'}"
+          ],
+          "presenter": ""
+        }
+      ]
+    },
+    {
+      "session_title": "Keynote Lecture",
+      "date": "Tuesday 7 July",
+      "time": "11:00-12:30",
+      "papers": [
+        {
+          "title": "Keynote Address",
+          "authors": [
+            "{'name': 'Steven Ongena', 'institution': 'University of Zurich'}"
+          ],
+          "presenter": ""
+        }
+      ]
+    },
+    {
+      "session_title": "Networks and Shock Transmission",
+      "date": "Tuesday 7 July",
+      "time": "13:30-15:10",
+      "papers": [
+        {
+          "title": "Bank Specialization within Production Networks",
+          "authors": [
+            "{'name': 'Yushi Peng', 'institution': 'Tilburg University'}"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Banks, Firms, and Households: Credit Shock Amplification and Real Effects",
+          "authors": [
+            "{'name': 'Cédric Huylebroek', 'institution': 'KU Leuven'}"
+          ],
+          "presenter": ""
+        }
+      ]
+    },
+    {
+      "session_title": "Session 3",
+      "date": "Tuesday 7 July",
+      "time": "15:30-17:30",
+      "papers": [
+        {
+          "title": "Common Investors Across the Capital Structure: Private Debt Funds as Dual Holders",
+          "authors": [
+            "{'name': 'Tatyana Marchuk', 'institution': 'Nova School of Business & Economics, CEPR'}"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "The Interoperability of Financial Data",
+          "authors": [
+            "{'name': 'Elif Cansu Akoguz', 'institution': 'KU Leuven'}"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Quantitative Tightening: The Bank Liquidity-Duration Nexus",
+          "authors": [
+            "{'name': 'Alba Patozi', 'institution': 'Bank of England'}"
+          ],
+          "presenter": ""
+        }
+      ]
+    },
+    {
+      "session_title": "PhD Student Presentations",
+      "chair": {
+        "name": "Alberto Zazzaro",
+        "institution": "University of Naples Federico II"
+      },
+      "date": "Wednesday 8 July",
+      "time": "09:00-10:00",
+      "papers": [
+        {
+          "title": "Green or Brown, Small or Big? How Nonbanks Reshape Monetary Transmission and Credit Allocation",
+          "authors": [
+            "{'name': 'Francesco Febbraro', 'institution': 'University of Groningen'}"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Political Shifts, Mortgage Drifts: Evidence from U.S. Special Elections",
+          "authors": [
+            "{'name': 'Ioannis Moustakis', 'institution': 'University of Southern California'}"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Tight Capital, Loose Money: How Stress-Tested Banks Responded to Quantitative Easing",
+          "authors": [
+            "{'name': 'Chiara Vergeat', 'institution': 'London Business School'}"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Down Payments, Deferred Homes: How LTV Restrictions Reshape Household Consumption",
+          "authors": [
+            "{'name': 'Yann Cerasi', 'institution': 'University of Zurich'}"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Pioneering Unbanked Markets: The Catalytic Role of a Public Commercial Bank",
+          "authors": [
+            "{'name': 'Roberto Melis', 'institution': 'University of Agder'}"
+          ],
+          "presenter": ""
+        }
+      ]
+    },
+    {
+      "session_title": "Bank Funding",
+      "date": "Wednesday 8 July",
+      "time": "10:20-12:00",
+      "papers": [
+        {
+          "title": "Large Depositors, Retail Depositors, and the Deposits Channel of Monetary Policy",
+          "authors": [
+            "{'name': 'Yevhenii Usenko', 'institution': 'MIT Sloan'}"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Wholesale Funding Crises since 1800",
+          "authors": [
+            "{'name': 'Rustam Jamilov', 'institution': 'University of Oxford'}"
+          ],
+          "presenter": ""
+        }
+      ]
+    },
+    {
+      "session_title": "Session 6",
+      "date": "Wednesday 8 July",
+      "time": "13:00-14:40",
+      "papers": [
+        {
+          "title": "Competing for Loan Informal Seniority: Theory and Evidence",
+          "authors": [
+            "{'name': 'Bernardo Ricca', 'institution': 'Insper'}"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Debt Flexibility",
+          "authors": [
+            "{'name': 'Rhys Bidder', 'institution': \"King's Business School\"}"
+          ],
+          "presenter": ""
+        }
+      ]
+    }
+  ],
+  "participants": [
+    {
+      "name": "Alessandro Melone",
+      "institution": "Ohio State University",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Jan Keil",
+      "institution": "Humboldt University of Berlin",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Björn Imbierowicz",
+      "institution": "Deutsche Bundesbank",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Ralph De Haas",
+      "institution": "EBRD",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Stephan Fahr",
+      "institution": "European Central Bank",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Andrea Presbitero",
+      "institution": "International Monetary Fund and CEPR",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Davide Alfonsi",
+      "institution": "Intesa Sanpaolo",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Aurelio Maccario",
+      "institution": "UniCredit",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Arpit Gupta",
+      "institution": "New York University Stern School of Business",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Miguel Ferreira",
+      "institution": "Nova School of Business",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Pedro Gete",
+      "institution": "IE University",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Giulio Cornelli",
+      "institution": "BIS",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Steven Ongena",
+      "institution": "University of Zurich",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Yushi Peng",
+      "institution": "Tilburg University",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Cédric Huylebroek",
+      "institution": "KU Leuven",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "David Martizez Miera",
+      "institution": "Universidad Carlos III de Madrid",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Roman Goncharenko",
+      "institution": "Central Bank of Ireland",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Tatyana Marchuk",
+      "institution": "Nova School of Business & Economics, CEPR",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Elif Cansu Akoguz",
+      "institution": "KU Leuven",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Alba Patozi",
+      "institution": "Bank of England",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Ben Charoenwong",
+      "institution": "Insead",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Raoul Minetti",
+      "institution": "MSU",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Alberto Zazzaro",
+      "institution": "University of Naples Federico II",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Francesco Febbraro",
+      "institution": "University of Groningen",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Ioannis Moustakis",
+      "institution": "University of Southern California",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Chiara Vergeat",
+      "institution": "London Business School",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Yann Cerasi",
+      "institution": "University of Zurich",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Roberto Melis",
+      "institution": "University of Agder",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Yevhenii Usenko",
+      "institution": "MIT Sloan",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Rustam Jamilov",
+      "institution": "University of Oxford",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Christopher Basten",
+      "institution": "European Central Bank",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Bernardo Ricca",
+      "institution": "Insper",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Rhys Bidder",
+      "institution": "King's Business School",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Nicola Limodio",
+      "institution": "Bocconi University",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Andrea Bellucci",
+      "institution": "Università degli Studi dell'Insubria",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Serena Fatica",
+      "institution": "European Commission",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Rossella Locatelli",
+      "institution": "Università degli Studi dell'Insubria",
+      "is_presenter": false,
+      "papers": []
+    }
+  ]
+}

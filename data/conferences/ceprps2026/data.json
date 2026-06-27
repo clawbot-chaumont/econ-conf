@@ -1,0 +1,19 @@
+{
+  "conference": {
+    "name": "CEPR Paris Symposium",
+    "short_name": "CEPRPS",
+    "year": 2026,
+    "start_date": "2026-12-08",
+    "end_date": "2026-12-10",
+    "location": "Paris, France"
+  },
+  "scrape_metadata": {
+    "scraped_at": "2026-06-13T17:47:19.576940",
+    "source_url": "https://cepr.org/paris-symposium-2026",
+    "program_available": false,
+    "program_type": "web",
+    "errors": []
+  },
+  "sessions": [],
+  "participants": []
+}

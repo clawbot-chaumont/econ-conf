@@ -1,0 +1,1221 @@
+{
+  "conference": {
+    "name": "Danish Economic Society Annual Meeting",
+    "short_name": "DES 2026",
+    "year": 2026,
+    "start_date": "2026-01-09",
+    "end_date": "2026-01-10",
+    "location": "Kolding, Denmark",
+    "extras": {
+      "extras": {
+        "extras": {
+          "edition": "2026",
+          "venue": "Koldingfjord",
+          "city": "Kolding",
+          "country": "Denmark",
+          "website": "https://nof.econ.ku.dk/arrangementer/årsmoeder/",
+          "program_url": "https://nof.econ.ku.dk/arrangementer/årsmoeder/",
+          "organizer": "Nationaløkonomisk Forening (Danish Economic Society)",
+          "extras": {
+            "keynote_speakers": [
+              "Philip R. Lane (European Central Bank)",
+              "Signe Krogstrup (Danmarks Nationalbank)"
+            ],
+            "theme": "Danish and international economic policy",
+            "language": "Danish / English"
+          }
+        }
+      }
+    }
+  },
+  "scrape_metadata": {
+    "scraped_at": "2026-06-13T11:32:45.041316+00:00",
+    "source_url": "https://nof.econ.ku.dk/arrangementer/årsmoeder/",
+    "script_name": "add_five_conferences.py",
+    "program_available": true,
+    "program_type": "pdf_extracted",
+    "pdf_file": "sessionsbeskrivelse_final.pdf",
+    "errors": [],
+    "notes": "Full parallel session program extracted from PDF (19 pages). Two parallel session slots on Jan 9: 9:10-10:30 (6 sessions) and 12:00-13:20 (6 sessions). Total: 1 keynote + 12 parallel sessions, 45 papers, 86 participants."
+  },
+  "sessions": [
+    {
+      "session_title": "Keynote: The euro in a changing world",
+      "date": "2026-01-09",
+      "papers": [
+        {
+          "title": "The euro in a changing world",
+          "authors": [
+            "Philip R. Lane"
+          ],
+          "presenter": "Philip R. Lane"
+        }
+      ]
+    },
+    {
+      "session_title": "Erhvervsøkonomisk analyse i en makroøkonomisk kontekst",
+      "chair": "Michael Koch",
+      "date": "2026-01-09",
+      "time": "9:10-10:30",
+      "room": "Magnoliesalen",
+      "papers": [
+        {
+          "title": "Which Firms Profit from Size-Dependent Regulation?",
+          "authors": [
+            "Allan Sørensen",
+            "Philipp Schröder"
+          ],
+          "presenter": null
+        },
+        {
+          "title": "One-off exporting: Firms' product and country scope expansion in granular data",
+          "authors": [
+            "Allan Sørensen",
+            "Eliane Choquette",
+            "Ingo Geishecker",
+            "Philipp Schröder"
+          ],
+          "presenter": null
+        },
+        {
+          "title": "Nyt analyseprojekt om superstjerne-virksomheder i Danmark",
+          "authors": [
+            "Claus Aastrup Seidelin"
+          ],
+          "presenter": "Claus Aastrup Seidelin"
+        },
+        {
+          "title": "Trading Through Times of Disintegration: How Services Help Firms Weather Shocks",
+          "authors": [
+            "Michael Koch",
+            "Holger Görg",
+            "Michael Irlacher",
+            "Saskia Meuchelböck"
+          ],
+          "presenter": null
+        }
+      ]
+    },
+    {
+      "session_title": "Klima, grøn omstilling og ressourcer",
+      "chair": "Cecilie Marie Løchte Jørgensen",
+      "date": "2026-01-09",
+      "time": "9:10-10:30",
+      "room": "625",
+      "papers": [
+        {
+          "title": "Subsidies and adoption of individual heat pumps",
+          "authors": [
+            "Katrin Menne",
+            "August Twile Nielsen"
+          ],
+          "presenter": null
+        },
+        {
+          "title": "En gennemgang af den nyere klimaøkonomiske forskning",
+          "authors": [
+            "Otto Brøns-Petersen",
+            "Line Andersen"
+          ],
+          "presenter": null
+        },
+        {
+          "title": "The Greener, the Better? Subsidising Private R&D in Denmark",
+          "authors": [
+            "Ilya Manuylov",
+            "Freja Hein Svendsen"
+          ],
+          "presenter": null
+        },
+        {
+          "title": "On the role of natural capital - sustainability, dynamic (in)efficiency, and inclusive wealth",
+          "authors": [
+            "Torben M Andersen",
+            "Cecilie Marie Løchte Jørgensen",
+            "Allan Sørensen"
+          ],
+          "presenter": null
+        }
+      ]
+    },
+    {
+      "session_title": "Lønforskelle mellem ungdomsuddannelser",
+      "chair": "Nicolai Kaarsen",
+      "date": "2026-01-09",
+      "time": "9:10-10:30",
+      "room": "605",
+      "papers": [
+        {
+          "title": "Veje gennem erhvervsuddannelserne",
+          "authors": [
+            "Anne Fløe",
+            "Kristian Thor Jakobsen",
+            "Signe Koch"
+          ],
+          "presenter": null
+        },
+        {
+          "title": "Lønforskelle mellem erhvervsuddannelse og gymnasiet",
+          "authors": [
+            "Nicolai Kaarsen",
+            "Jakob Langager",
+            "Elise Stenholt Lange"
+          ],
+          "presenter": null
+        },
+        {
+          "title": "Udviklingen i gevinsten ved uddannelse",
+          "authors": [
+            "Troels Lund Jensen",
+            "Rasmus Lindø Kaslund"
+          ],
+          "presenter": null
+        },
+        {
+          "title": "Vocational versus general upper secondary education and earnings",
+          "authors": [
+            "Eskil Heinesen",
+            "Elise Stenholt Lange"
+          ],
+          "presenter": null
+        }
+      ]
+    },
+    {
+      "session_title": "Fremskrivninger af befolkningen",
+      "chair": "Mikkel Nørlem Hermansen",
+      "date": "2026-01-09",
+      "time": "9:10-10:30",
+      "room": "603+604",
+      "papers": [
+        {
+          "title": "Fertilitet: Fremskrivninger af fertilitet – en kohortebaseret tilgang",
+          "authors": [
+            "Marianne Frank Hansen"
+          ],
+          "presenter": "Marianne Frank Hansen"
+        },
+        {
+          "title": "Indvandring: Alternativ metode til fremskrivning af nettoindvandring",
+          "authors": [
+            "Thor Askov Jensen",
+            "Mads Thorndahl"
+          ],
+          "presenter": null
+        },
+        {
+          "title": "Tilbagetrækning: Opdateret fremskrivning for tidlig pension",
+          "authors": [
+            "Anne-Line Koch Helsø",
+            "Malene Lynggaard Eskildsen"
+          ],
+          "presenter": null
+        }
+      ]
+    },
+    {
+      "session_title": "Danmark og Europa i en usikker tid",
+      "chair": "Rasmus Richter Salmon",
+      "date": "2026-01-09",
+      "time": "9:10-10:30",
+      "room": "622+623",
+      "papers": [
+        {
+          "title": "Europas produktivitet haler ind på USA's",
+          "authors": [
+            "Solveig Prag Blicher"
+          ],
+          "presenter": "Solveig Prag Blicher"
+        },
+        {
+          "title": "Up-or-out i erhvervslivet. Produktivitetsforløb for danske virksomheder.",
+          "authors": [
+            "Jakob Møller-Pedersen",
+            "Andreas Østergaard Iversen"
+          ],
+          "presenter": null
+        },
+        {
+          "title": "Faglige færdigheder og tillid blandt voksne i Danmark, Europa og USA",
+          "authors": [
+            "Ulrik Beck"
+          ],
+          "presenter": "Ulrik Beck"
+        },
+        {
+          "title": "Europæisk oprustning og militær forsyningssikkerhed",
+          "authors": [
+            "Rasmus Richter Salmon"
+          ],
+          "presenter": "Rasmus Richter Salmon"
+        }
+      ]
+    },
+    {
+      "session_title": "Effekter af økonomisk politik",
+      "chair": "Sofie Holme Andersen",
+      "date": "2026-01-09",
+      "time": "9:10-10:30",
+      "room": "624",
+      "papers": [
+        {
+          "title": "Kvinders barsel har meget lille betydning for deres pension",
+          "authors": [
+            "Lene Back Kjærsgaard",
+            "Andreas Østergaard Nielsen"
+          ],
+          "presenter": null
+        },
+        {
+          "title": "Don't Jump to faulty conclusions: Using the synthetic control method to evaluate the effect of a counterfactual lockdown in Sweden",
+          "authors": [
+            "Jonas Herby"
+          ],
+          "presenter": "Jonas Herby"
+        },
+        {
+          "title": "Finanspolitikken kan lempes uden at give økonomien hedetur",
+          "authors": [
+            "Sofie Holme Andersen",
+            "Sebastian Schwartz"
+          ],
+          "presenter": null
+        }
+      ]
+    },
+    {
+      "session_title": "Produktivitet, globalisering og konkurrenceevne",
+      "chair": "Morten Spange",
+      "date": "2026-01-09",
+      "time": "12:00-13:20",
+      "room": "Magnoliesalen",
+      "papers": [
+        {
+          "title": "Forskelle i EU-landes produktivitetsudfordringer",
+          "authors": [
+            "Søren Vester Sørensen"
+          ],
+          "presenter": "Søren Vester Sørensen"
+        },
+        {
+          "title": "Færre barrierer i EU's indre marked kan øge dansk velstand",
+          "authors": [
+            "Oliver Hammershøj Bentsen",
+            "Madeleine Sophia van Deurs",
+            "Amy Yuan Zhuang"
+          ],
+          "presenter": null
+        },
+        {
+          "title": "Nybrud i EU-kommissionens industripolitik",
+          "authors": [
+            "Alfred Arnborg",
+            "Thomas Damsgaard Tørsløv"
+          ],
+          "presenter": null
+        },
+        {
+          "title": "Dansk produktivitet og konkurrenceevne i en globaliseret verden",
+          "authors": [
+            "Andreas Kuchler",
+            "Morten Spange",
+            "Mathias Busk Tjørnum",
+            "Thomas Damsgaard Tørsløv",
+            "Robert Wederkinck"
+          ],
+          "presenter": null
+        }
+      ]
+    },
+    {
+      "session_title": "Klimamål for 2035",
+      "chair": "Jesper Sølver Schou",
+      "date": "2026-01-09",
+      "time": "12:00-13:20",
+      "room": "625",
+      "papers": [
+        {
+          "title": "Klimaneutralitet",
+          "authors": [
+            "Mads Rickers Østergaard",
+            "Christian Ellermann-Aarslev"
+          ],
+          "presenter": null
+        },
+        {
+          "title": "CO2e-afgifter kan øges uden at påvirke økonomisk og finansiel stabilitet",
+          "authors": [
+            "Jonas Deis-Bach",
+            "Marcus Mølbak Ingholt"
+          ],
+          "presenter": null
+        },
+        {
+          "title": "Virkemidler til 2035-klimamål",
+          "authors": [
+            "Torsten Hasforth"
+          ],
+          "presenter": "Torsten Hasforth"
+        },
+        {
+          "title": "Skyggepriser og politikevaluering",
+          "authors": [
+            "Jens Sand Kirk",
+            "Thomas Nyvang Dalgaard",
+            "Jesper Sølver Schou"
+          ],
+          "presenter": null
+        }
+      ]
+    },
+    {
+      "session_title": "Erhvervsuddannelser – frafald, virksomheder og karakterkrav",
+      "chair": "Marius Opstrup Morthorst",
+      "date": "2026-01-09",
+      "time": "12:00-13:20",
+      "room": "603+604",
+      "papers": [
+        {
+          "title": "Absence and Completion among Students in Vocational Education",
+          "authors": [
+            "Fane Groes",
+            "Edith Madsen",
+            "Tróndur Møller Sandoy"
+          ],
+          "presenter": null
+        },
+        {
+          "title": "Incentivizing firms to train: Evidence from a Danish Apprenticeship Levy Reform",
+          "authors": [
+            "Mette Ejrnæs",
+            "Jesper Eriksen"
+          ],
+          "presenter": null
+        },
+        {
+          "title": "Human Capital and Labor Market Returns for Marginal Students: Evidence from a Grade Requirements in Vocational Education",
+          "authors": [
+            "Marius Opstrup Morthorst"
+          ],
+          "presenter": "Marius Opstrup Morthorst"
+        }
+      ]
+    },
+    {
+      "session_title": "Fusioner, konkurrence og produktivitet",
+      "chair": "Thomas Bue Bjørner",
+      "date": "2026-01-09",
+      "time": "12:00-13:20",
+      "room": "622+623",
+      "papers": [
+        {
+          "title": "Multiproduct Firms, Horizontal Mergers, and International Trade",
+          "authors": [
+            "Jackie M.L. Chan",
+            "Michael Irlacher",
+            "Michael Koch"
+          ],
+          "presenter": null
+        },
+        {
+          "title": "Disentangling Price and Productivity Effects of Acquisitions in Denmark",
+          "authors": [
+            "Jakob Langager",
+            "Ilya Manuylov"
+          ],
+          "presenter": null
+        },
+        {
+          "title": "Mapping Successful Startups: Grow, Move or Get Acquired?",
+          "authors": [
+            "Nicolai Kaarsen",
+            "Anders Sørensen"
+          ],
+          "presenter": null
+        },
+        {
+          "title": "Pre-Merger Control: Why and How?",
+          "authors": [
+            "Peter Mouritzen"
+          ],
+          "presenter": "Peter Mouritzen"
+        }
+      ]
+    },
+    {
+      "session_title": "Regneprincipper",
+      "chair": "Otto Brøns-Petersen",
+      "date": "2026-01-09",
+      "time": "12:00-13:20",
+      "room": "622+623",
+      "papers": [
+        {
+          "title": "Effekten af de ændrede modregningsregler i folkepensionen",
+          "authors": [
+            "Jesper Grunnet-Lauridsen"
+          ],
+          "presenter": "Jesper Grunnet-Lauridsen"
+        },
+        {
+          "title": "Hovedaktionærers indkomsttransformation",
+          "authors": [
+            "Jens Christian Bendixen Aggebo",
+            "Kristian Grünberg Olesen Larsen",
+            "Morten Harding Jensen"
+          ],
+          "presenter": null
+        },
+        {
+          "title": "Konsekvenser ved at hæve tobaksafgifter i Danmark",
+          "authors": [
+            "Mikael Bjørk Andersen",
+            "Nicoline Nagel Nilsson"
+          ],
+          "presenter": null
+        },
+        {
+          "title": "Forvridningstabet ved dansk beskatning – et generelt ligevægtsperspektiv",
+          "authors": [
+            "Otto Brøns-Petersen"
+          ],
+          "presenter": "Otto Brøns-Petersen"
+        }
+      ]
+    },
+    {
+      "session_title": "Nye grænser for makroøkonomisk forskning",
+      "chair": "Jeppe Druedahl",
+      "date": "2026-01-09",
+      "time": "12:00-13:20",
+      "room": "624",
+      "papers": [
+        {
+          "title": "Deep Learning Algorithms for Finite-Horizon Economic Models",
+          "authors": [
+            "Jeppe Druedahl",
+            "Raphaël Huleux",
+            "Jacob Røpke"
+          ],
+          "presenter": null
+        },
+        {
+          "title": "Fiscal Multipliers in Small Open Economies with Heterogeneous Households",
+          "authors": [
+            "Jeppe Druedahl",
+            "Søren Hove Ravn",
+            "Laura Sunder-Plassmann",
+            "Jacob Marott Sundram",
+            "Nicolai Waldstrøm"
+          ],
+          "presenter": null
+        },
+        {
+          "title": "Rational Expectations of Inflation Undergoing Unforeseeable Change",
+          "authors": [
+            "Roman Frydman",
+            "Morten Nyboe Tabor"
+          ],
+          "presenter": null
+        }
+      ]
+    }
+  ],
+  "participants": [
+    {
+      "name": "Alfred Arnborg",
+      "institution": "Tænketanken Europa",
+      "is_presenter": true,
+      "papers": [
+        "Nybrud i EU-kommissionens industripolitik"
+      ]
+    },
+    {
+      "name": "Allan Sørensen",
+      "institution": "CEFAU og Aarhus Universitet",
+      "is_presenter": false,
+      "papers": [
+        "Which Firms Profit from Size-Dependent Regulation?",
+        "One-off exporting: Firms' product and country scope expansion in granular data",
+        "On the role of natural capital - sustainability, dynamic (in)efficiency, and inclusive wealth"
+      ]
+    },
+    {
+      "name": "Amy Yuan Zhuang",
+      "institution": "Danmarks Nationalbank",
+      "is_presenter": false,
+      "papers": [
+        "Færre barrierer i EU's indre marked kan øge dansk velstand"
+      ]
+    },
+    {
+      "name": "Anders Sørensen",
+      "institution": "",
+      "is_presenter": false,
+      "papers": [
+        "Mapping Successful Startups: Grow, Move or Get Acquired?"
+      ]
+    },
+    {
+      "name": "Andreas Kuchler",
+      "institution": "Danmarks Nationalbank",
+      "is_presenter": false,
+      "papers": [
+        "Dansk produktivitet og konkurrenceevne i en globaliseret verden"
+      ]
+    },
+    {
+      "name": "Andreas Østergaard Iversen",
+      "institution": "Erhvervsministeriet",
+      "is_presenter": false,
+      "papers": [
+        "Up-or-out i erhvervslivet. Produktivitetsforløb for danske virksomheder."
+      ]
+    },
+    {
+      "name": "Andreas Østergaard Nielsen",
+      "institution": "Forsikring & Pension",
+      "is_presenter": false,
+      "papers": [
+        "Kvinders barsel har meget lille betydning for deres pension"
+      ]
+    },
+    {
+      "name": "Anne Fløe",
+      "institution": "Tænketanken DEA",
+      "is_presenter": false,
+      "papers": [
+        "Veje gennem erhvervsuddannelserne"
+      ]
+    },
+    {
+      "name": "Anne-Line Koch Helsø",
+      "institution": "Finansministeriet",
+      "is_presenter": false,
+      "papers": [
+        "Tilbagetrækning: Opdateret fremskrivning for tidlig pension"
+      ]
+    },
+    {
+      "name": "August Twile Nielsen",
+      "institution": "De Økonomiske Råds sekretariat",
+      "is_presenter": false,
+      "papers": [
+        "Subsidies and adoption of individual heat pumps"
+      ]
+    },
+    {
+      "name": "Cecilie Marie Løchte Jørgensen",
+      "institution": "CEFAU og Aarhus Universitet",
+      "is_presenter": true,
+      "papers": [
+        "On the role of natural capital - sustainability, dynamic (in)efficiency, and inclusive wealth"
+      ]
+    },
+    {
+      "name": "Christian Ellermann-Aarslev",
+      "institution": "De Økonomiske Råds sekretariat",
+      "is_presenter": false,
+      "papers": [
+        "Klimaneutralitet"
+      ]
+    },
+    {
+      "name": "Claus Aastrup Seidelin",
+      "institution": "Dansk Industri",
+      "is_presenter": true,
+      "papers": [
+        "Nyt analyseprojekt om superstjerne-virksomheder i Danmark"
+      ]
+    },
+    {
+      "name": "Edith Madsen",
+      "institution": "Copenhagen Business School",
+      "is_presenter": false,
+      "papers": [
+        "Absence and Completion among Students in Vocational Education"
+      ]
+    },
+    {
+      "name": "Eliane Choquette",
+      "institution": "",
+      "is_presenter": false,
+      "papers": [
+        "One-off exporting: Firms' product and country scope expansion in granular data"
+      ]
+    },
+    {
+      "name": "Elise Stenholt Lange",
+      "institution": "Aalborg Universitet",
+      "is_presenter": false,
+      "papers": [
+        "Lønforskelle mellem erhvervsuddannelse og gymnasiet",
+        "Vocational versus general upper secondary education and earnings"
+      ]
+    },
+    {
+      "name": "Eskil Heinesen",
+      "institution": "Rockwool Fonden",
+      "is_presenter": false,
+      "papers": [
+        "Vocational versus general upper secondary education and earnings"
+      ]
+    },
+    {
+      "name": "Fane Groes",
+      "institution": "Copenhagen Business School",
+      "is_presenter": false,
+      "papers": [
+        "Absence and Completion among Students in Vocational Education"
+      ]
+    },
+    {
+      "name": "Freja Hein Svendsen",
+      "institution": "De Økonomiske Råds sekretariat",
+      "is_presenter": false,
+      "papers": [
+        "The Greener, the Better? Subsidising Private R&D in Denmark"
+      ]
+    },
+    {
+      "name": "Holger Görg",
+      "institution": "",
+      "is_presenter": false,
+      "papers": [
+        "Trading Through Times of Disintegration: How Services Help Firms Weather Shocks"
+      ]
+    },
+    {
+      "name": "Ilya Manuylov",
+      "institution": "De Økonomiske Råds sekretariat",
+      "is_presenter": false,
+      "papers": [
+        "The Greener, the Better? Subsidising Private R&D in Denmark",
+        "Disentangling Price and Productivity Effects of Acquisitions in Denmark"
+      ]
+    },
+    {
+      "name": "Ingo Geishecker",
+      "institution": "",
+      "is_presenter": false,
+      "papers": [
+        "One-off exporting: Firms' product and country scope expansion in granular data"
+      ]
+    },
+    {
+      "name": "Jackie M.L. Chan",
+      "institution": "",
+      "is_presenter": false,
+      "papers": [
+        "Multiproduct Firms, Horizontal Mergers, and International Trade"
+      ]
+    },
+    {
+      "name": "Jacob Marott Sundram",
+      "institution": "Københavns Universitet",
+      "is_presenter": false,
+      "papers": [
+        "Fiscal Multipliers in Small Open Economies with Heterogeneous Households"
+      ]
+    },
+    {
+      "name": "Jacob Røpke",
+      "institution": "Københavns Universitet",
+      "is_presenter": false,
+      "papers": [
+        "Deep Learning Algorithms for Finite-Horizon Economic Models"
+      ]
+    },
+    {
+      "name": "Jakob Langager",
+      "institution": "De Økonomiske Råds sekretariat",
+      "is_presenter": false,
+      "papers": [
+        "Lønforskelle mellem erhvervsuddannelse og gymnasiet",
+        "Disentangling Price and Productivity Effects of Acquisitions in Denmark"
+      ]
+    },
+    {
+      "name": "Jakob Møller-Pedersen",
+      "institution": "Erhvervsministeriet",
+      "is_presenter": false,
+      "papers": [
+        "Up-or-out i erhvervslivet. Produktivitetsforløb for danske virksomheder."
+      ]
+    },
+    {
+      "name": "Jens Christian Bendixen Aggebo",
+      "institution": "Skatteministeriet",
+      "is_presenter": false,
+      "papers": [
+        "Hovedaktionærers indkomsttransformation"
+      ]
+    },
+    {
+      "name": "Jens Sand Kirk",
+      "institution": "DREAM",
+      "is_presenter": false,
+      "papers": [
+        "Skyggepriser og politikevaluering"
+      ]
+    },
+    {
+      "name": "Jeppe Druedahl",
+      "institution": "København Universitet, Økonomisk Institut",
+      "is_presenter": true,
+      "papers": [
+        "Deep Learning Algorithms for Finite-Horizon Economic Models",
+        "Fiscal Multipliers in Small Open Economies with Heterogeneous Households"
+      ]
+    },
+    {
+      "name": "Jesper Eriksen",
+      "institution": "Københavns Universitet",
+      "is_presenter": false,
+      "papers": [
+        "Incentivizing firms to train: Evidence from a Danish Apprenticeship Levy Reform"
+      ]
+    },
+    {
+      "name": "Jesper Grunnet-Lauridsen",
+      "institution": "3F",
+      "is_presenter": true,
+      "papers": [
+        "Effekten af de ændrede modregningsregler i folkepensionen"
+      ]
+    },
+    {
+      "name": "Jesper Sølver Schou",
+      "institution": "Klimarådets sekretariat",
+      "is_presenter": false,
+      "papers": [
+        "Skyggepriser og politikevaluering"
+      ]
+    },
+    {
+      "name": "Jonas Deis-Bach",
+      "institution": "Danmarks Nationalbank",
+      "is_presenter": false,
+      "papers": [
+        "CO2e-afgifter kan øges uden at påvirke økonomisk og finansiel stabilitet"
+      ]
+    },
+    {
+      "name": "Jonas Herby",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Don't Jump to faulty conclusions: Using the synthetic control method to evaluate the effect of a counterfactual lockdown in Sweden"
+      ]
+    },
+    {
+      "name": "Katrin Menne",
+      "institution": "De Økonomiske Råds sekretariat",
+      "is_presenter": false,
+      "papers": [
+        "Subsidies and adoption of individual heat pumps"
+      ]
+    },
+    {
+      "name": "Kristian Grünberg Olesen Larsen",
+      "institution": "Skatteministeriet",
+      "is_presenter": false,
+      "papers": [
+        "Hovedaktionærers indkomsttransformation"
+      ]
+    },
+    {
+      "name": "Kristian Thor Jakobsen",
+      "institution": "Tænketanken DEA",
+      "is_presenter": false,
+      "papers": [
+        "Veje gennem erhvervsuddannelserne"
+      ]
+    },
+    {
+      "name": "Laura Sunder-Plassmann",
+      "institution": "University of Rostock, Department of Economics",
+      "is_presenter": false,
+      "papers": [
+        "Fiscal Multipliers in Small Open Economies with Heterogeneous Households"
+      ]
+    },
+    {
+      "name": "Lene Back Kjærsgaard",
+      "institution": "Forsikring & Pension",
+      "is_presenter": false,
+      "papers": [
+        "Kvinders barsel har meget lille betydning for deres pension"
+      ]
+    },
+    {
+      "name": "Line Andersen",
+      "institution": "CEPOS",
+      "is_presenter": false,
+      "papers": [
+        "En gennemgang af den nyere klimaøkonomiske forskning"
+      ]
+    },
+    {
+      "name": "Madeleine Sophia van Deurs",
+      "institution": "Danmarks Nationalbank",
+      "is_presenter": false,
+      "papers": [
+        "Færre barrierer i EU's indre marked kan øge dansk velstand"
+      ]
+    },
+    {
+      "name": "Mads Rickers Østergaard",
+      "institution": "De Økonomiske Råds sekretariat",
+      "is_presenter": false,
+      "papers": [
+        "Klimaneutralitet"
+      ]
+    },
+    {
+      "name": "Mads Thorndahl",
+      "institution": "Finansministeriet",
+      "is_presenter": false,
+      "papers": [
+        "Indvandring: Alternativ metode til fremskrivning af nettoindvandring"
+      ]
+    },
+    {
+      "name": "Malene Lynggaard Eskildsen",
+      "institution": "Finansministeriet",
+      "is_presenter": false,
+      "papers": [
+        "Tilbagetrækning: Opdateret fremskrivning for tidlig pension"
+      ]
+    },
+    {
+      "name": "Marcus Mølbak Ingholt",
+      "institution": "Danmarks Nationalbank",
+      "is_presenter": false,
+      "papers": [
+        "CO2e-afgifter kan øges uden at påvirke økonomisk og finansiel stabilitet"
+      ]
+    },
+    {
+      "name": "Marianne Frank Hansen",
+      "institution": "DREAM",
+      "is_presenter": true,
+      "papers": [
+        "Fertilitet: Fremskrivninger af fertilitet – en kohortebaseret tilgang"
+      ]
+    },
+    {
+      "name": "Marius Opstrup Morthorst",
+      "institution": "Aarhus Universitet",
+      "is_presenter": true,
+      "papers": [
+        "Human Capital and Labor Market Returns for Marginal Students: Evidence from a Grade Requirements in Vocational Education"
+      ]
+    },
+    {
+      "name": "Mathias Busk Tjørnum",
+      "institution": "Danmarks Nationalbank",
+      "is_presenter": false,
+      "papers": [
+        "Dansk produktivitet og konkurrenceevne i en globaliseret verden"
+      ]
+    },
+    {
+      "name": "Mette Ejrnæs",
+      "institution": "Københavns Universitet",
+      "is_presenter": false,
+      "papers": [
+        "Incentivizing firms to train: Evidence from a Danish Apprenticeship Levy Reform"
+      ]
+    },
+    {
+      "name": "Michael Irlacher",
+      "institution": "",
+      "is_presenter": false,
+      "papers": [
+        "Trading Through Times of Disintegration: How Services Help Firms Weather Shocks",
+        "Multiproduct Firms, Horizontal Mergers, and International Trade"
+      ]
+    },
+    {
+      "name": "Michael Koch",
+      "institution": "CEFAU og Aarhus Universitet",
+      "is_presenter": false,
+      "papers": [
+        "Trading Through Times of Disintegration: How Services Help Firms Weather Shocks",
+        "Multiproduct Firms, Horizontal Mergers, and International Trade"
+      ]
+    },
+    {
+      "name": "Mikael Bjørk Andersen",
+      "institution": "Kraka Economics",
+      "is_presenter": false,
+      "papers": [
+        "Konsekvenser ved at hæve tobaksafgifter i Danmark"
+      ]
+    },
+    {
+      "name": "Mikkel Nørlem Hermansen",
+      "institution": "Finansministeriet",
+      "is_presenter": true,
+      "papers": []
+    },
+    {
+      "name": "Morten Harding Jensen",
+      "institution": "Skatteministeriet",
+      "is_presenter": false,
+      "papers": [
+        "Hovedaktionærers indkomsttransformation"
+      ]
+    },
+    {
+      "name": "Morten Nyboe Tabor",
+      "institution": "INET Center on Knightian Uncertainty",
+      "is_presenter": false,
+      "papers": [
+        "Rational Expectations of Inflation Undergoing Unforeseeable Change"
+      ]
+    },
+    {
+      "name": "Morten Spange",
+      "institution": "Danmarks Nationalbank",
+      "is_presenter": false,
+      "papers": [
+        "Dansk produktivitet og konkurrenceevne i en globaliseret verden"
+      ]
+    },
+    {
+      "name": "Nicolai Kaarsen",
+      "institution": "Rockwool Fonden",
+      "is_presenter": false,
+      "papers": [
+        "Lønforskelle mellem erhvervsuddannelse og gymnasiet",
+        "Mapping Successful Startups: Grow, Move or Get Acquired?"
+      ]
+    },
+    {
+      "name": "Nicolai Waldstrøm",
+      "institution": "University of Zürich, Department of Economics",
+      "is_presenter": false,
+      "papers": [
+        "Fiscal Multipliers in Small Open Economies with Heterogeneous Households"
+      ]
+    },
+    {
+      "name": "Nicoline Nagel Nilsson",
+      "institution": "Kraka Economics",
+      "is_presenter": false,
+      "papers": [
+        "Konsekvenser ved at hæve tobaksafgifter i Danmark"
+      ]
+    },
+    {
+      "name": "Oliver Hammershøj Bentsen",
+      "institution": "Danmarks Nationalbank",
+      "is_presenter": false,
+      "papers": [
+        "Færre barrierer i EU's indre marked kan øge dansk velstand"
+      ]
+    },
+    {
+      "name": "Otto Brøns-Petersen",
+      "institution": "CEPOS",
+      "is_presenter": true,
+      "papers": [
+        "En gennemgang af den nyere klimaøkonomiske forskning",
+        "Forvridningstabet ved dansk beskatning – et generelt ligevægtsperspektiv"
+      ]
+    },
+    {
+      "name": "Peter Mouritzen",
+      "institution": "Konkurrence- og Forbrugerstyrelsen",
+      "is_presenter": true,
+      "papers": [
+        "Pre-Merger Control: Why and How?"
+      ]
+    },
+    {
+      "name": "Philip R. Lane",
+      "institution": "European Central Bank",
+      "is_presenter": true,
+      "papers": [
+        "The euro in a changing world"
+      ]
+    },
+    {
+      "name": "Philipp Schröder",
+      "institution": "CEFAU og Aarhus Universitet",
+      "is_presenter": false,
+      "papers": [
+        "Which Firms Profit from Size-Dependent Regulation?",
+        "One-off exporting: Firms' product and country scope expansion in granular data"
+      ]
+    },
+    {
+      "name": "Raphaël Huleux",
+      "institution": "Københavns Universitet",
+      "is_presenter": false,
+      "papers": [
+        "Deep Learning Algorithms for Finite-Horizon Economic Models"
+      ]
+    },
+    {
+      "name": "Rasmus Lindø Kaslund",
+      "institution": "Arbejderbevægelsens Erhvervsråd",
+      "is_presenter": false,
+      "papers": [
+        "Udviklingen i gevinsten ved uddannelse"
+      ]
+    },
+    {
+      "name": "Rasmus Richter Salmon",
+      "institution": "Tænketanken Kraka",
+      "is_presenter": true,
+      "papers": [
+        "Europæisk oprustning og militær forsyningssikkerhed"
+      ]
+    },
+    {
+      "name": "Robert Wederkinck",
+      "institution": "Danmarks Nationalbank",
+      "is_presenter": false,
+      "papers": [
+        "Dansk produktivitet og konkurrenceevne i en globaliseret verden"
+      ]
+    },
+    {
+      "name": "Roman Frydman",
+      "institution": "New York University, Department of Economics",
+      "is_presenter": false,
+      "papers": [
+        "Rational Expectations of Inflation Undergoing Unforeseeable Change"
+      ]
+    },
+    {
+      "name": "Saskia Meuchelböck",
+      "institution": "",
+      "is_presenter": false,
+      "papers": [
+        "Trading Through Times of Disintegration: How Services Help Firms Weather Shocks"
+      ]
+    },
+    {
+      "name": "Sebastian Schwartz",
+      "institution": "Tidligere Arbejderbevægelsens Erhvervsråd",
+      "is_presenter": false,
+      "papers": [
+        "Finanspolitikken kan lempes uden at give økonomien hedetur"
+      ]
+    },
+    {
+      "name": "Signe Koch",
+      "institution": "Tænketanken DEA",
+      "is_presenter": false,
+      "papers": [
+        "Veje gennem erhvervsuddannelserne"
+      ]
+    },
+    {
+      "name": "Sofie Holme Andersen",
+      "institution": "Arbejderbevægelsens Erhvervsråd",
+      "is_presenter": false,
+      "papers": [
+        "Finanspolitikken kan lempes uden at give økonomien hedetur"
+      ]
+    },
+    {
+      "name": "Solveig Prag Blicher",
+      "institution": "Tænketanken Kraka",
+      "is_presenter": true,
+      "papers": [
+        "Europas produktivitet haler ind på USA's"
+      ]
+    },
+    {
+      "name": "Søren Hove Ravn",
+      "institution": "København Universitet, Økonomisk Institut",
+      "is_presenter": false,
+      "papers": [
+        "Fiscal Multipliers in Small Open Economies with Heterogeneous Households"
+      ]
+    },
+    {
+      "name": "Søren Vester Sørensen",
+      "institution": "Økonomiministeriet",
+      "is_presenter": true,
+      "papers": [
+        "Forskelle i EU-landes produktivitetsudfordringer"
+      ]
+    },
+    {
+      "name": "Thomas Bue Bjørner",
+      "institution": "De Økonomiske Råds sekretariat",
+      "is_presenter": true,
+      "papers": []
+    },
+    {
+      "name": "Thomas Damsgaard Tørsløv",
+      "institution": "Tænketanken Europa (tidl. Danmarks Nationalbank)",
+      "is_presenter": false,
+      "papers": [
+        "Nybrud i EU-kommissionens industripolitik",
+        "Dansk produktivitet og konkurrenceevne i en globaliseret verden"
+      ]
+    },
+    {
+      "name": "Thomas Nyvang Dalgaard",
+      "institution": "DREAM",
+      "is_presenter": false,
+      "papers": [
+        "Skyggepriser og politikevaluering"
+      ]
+    },
+    {
+      "name": "Thor Askov Jensen",
+      "institution": "Finansministeriet",
+      "is_presenter": false,
+      "papers": [
+        "Indvandring: Alternativ metode til fremskrivning af nettoindvandring"
+      ]
+    },
+    {
+      "name": "Torben M Andersen",
+      "institution": "CEFAU og Aarhus Universitet",
+      "is_presenter": false,
+      "papers": [
+        "On the role of natural capital - sustainability, dynamic (in)efficiency, and inclusive wealth"
+      ]
+    },
+    {
+      "name": "Torsten Hasforth",
+      "institution": "CONCITO",
+      "is_presenter": true,
+      "papers": [
+        "Virkemidler til 2035-klimamål"
+      ]
+    },
+    {
+      "name": "Troels Lund Jensen",
+      "institution": "Arbejderbevægelsens Erhvervsråd",
+      "is_presenter": false,
+      "papers": [
+        "Udviklingen i gevinsten ved uddannelse"
+      ]
+    },
+    {
+      "name": "Tróndur Møller Sandoy",
+      "institution": "The University of the Faroe Islands",
+      "is_presenter": false,
+      "papers": [
+        "Absence and Completion among Students in Vocational Education"
+      ]
+    },
+    {
+      "name": "Ulrik Beck",
+      "institution": "Tænketanken Kraka",
+      "is_presenter": true,
+      "papers": [
+        "Faglige færdigheder og tillid blandt voksne i Danmark, Europa og USA"
+      ]
+    }
+  ]
+}

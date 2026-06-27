@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=64"]
+build-backend = "setuptools.backends._legacy:_Backend"
+
+[project]
+name = "econ-conf"
+version = "0.2.0"
+description = "Economics Conference Data Pipeline — scrape, normalize, build"
+requires-python = ">=3.11"
+dependencies = [
+    "rapidfuzz>=3.0",
+    "google-api-python-client>=2.0",
+    "google-auth-httplib2>=0.1",
+    "google-auth-oauthlib>=1.0",
+]
+
+[project.scripts]
+econ-build-json = "econ_conf.build.json_builder:main"

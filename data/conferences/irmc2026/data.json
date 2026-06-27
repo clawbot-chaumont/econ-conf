@@ -1,0 +1,2811 @@
+{
+  "conference": {
+    "name": "IRMC 2026",
+    "short_name": "IRMC",
+    "year": 2026,
+    "start_date": "2026-06-17",
+    "end_date": "2026-06-19",
+    "location": "International"
+  },
+  "scrape_metadata": {
+    "scraped_at": "2026-06-13T07:46:41.695197",
+    "source_url": "https://www.therisksociety.com/irmc",
+    "program_available": true,
+    "program_type": "web",
+    "errors": [],
+    "notes": "36 sessions, 145 papers, 293 participants"
+  },
+  "sessions": [
+    {
+      "session_title": "Plenary 1 – Opening & Keynote",
+      "chair": "Oliviero Roggi (University of Catania and FDC)",
+      "date": "June 22, 2026",
+      "time": "8:00-10:45",
+      "room": "Room A, 2nd floor, Building A",
+      "papers": [
+        {
+          "title": "Registration",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Opening Remarks",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Opening Speech: Financial Sector Resilience in the Face of Emerging Risks",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Keynote: Artificial Intelligence for Prediction and Risk Management",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Discussant",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Q&A",
+          "authors": [],
+          "presenter": ""
+        }
+      ]
+    },
+    {
+      "session_title": "Coffee Break",
+      "date": "June 22, 2026",
+      "time": "10:45-11:10",
+      "papers": []
+    },
+    {
+      "session_title": "Parallel Session A1 – Systemic Risk, Financial Stability and Contagion",
+      "chair": "C. Brunetti",
+      "date": "June 22, 2026",
+      "time": "11:10-13:15",
+      "room": "Room A207, 2nd floor, Building A",
+      "papers": [
+        {
+          "title": "Held-to-Maturity Accounting: Hidden Losses and Systemic Fragility",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Asset-Based Lending as a Leading Indicator of Systemic Crises",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "How Systemic Risk Shapes European Banks' Capital Strength Through Crises",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Peer Fragility, Liquidity Preferences, and the Propagation of Financial Shocks",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Shock-Resilient or Vulnerable? Insurer Responses to Systemic Crises",
+          "authors": [],
+          "presenter": ""
+        }
+      ]
+    },
+    {
+      "session_title": "Parallel Session A2 – Banking, Financial Intermediation and Regulation",
+      "chair": "M. Iwanicz-Drozdowska",
+      "date": "June 22, 2026",
+      "time": "11:10-13:15",
+      "room": "Room A221, 2nd floor, Building A",
+      "papers": [
+        {
+          "title": "Hybrid Bank Capital: The Economics of Uneconomic AT1 Calls",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Ambiguity and Credit? Empirical Evidence from the Syndicated Loan Market",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Credit Risk Beyond Basel: Rule of Law and Bank Credit Risk — Cross-Country Evidence",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Credibility, Bail-in, and Conflict in Bank Resolution",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Geopolitics Meets Policy Uncertainty: The Dynamics of Systemic Risk",
+          "authors": [],
+          "presenter": ""
+        }
+      ]
+    },
+    {
+      "session_title": "Parallel Session A3 – Banking",
+      "chair": "L. Pellegrini",
+      "date": "June 22, 2026",
+      "time": "11:10-13:15",
+      "room": "Room C104, 1st floor, Building C",
+      "papers": [
+        {
+          "title": "The Imitation Game: To Conform or to Perform?",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Climate Risk Spillovers and Banking Stability: A Semi-Nonparametric Cross-Moment and Time-Frequency Framework",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "The Pass Through of Uncertainty Shocks: Evidence from the Banking System",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Bank Risk Culture, Corporate Governance and the Financial Performance of Banks",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Operational Risk in the AI Era: Extending Jarrow's Framework for Machine-Scale Autonomous Systems",
+          "authors": [],
+          "presenter": ""
+        }
+      ]
+    },
+    {
+      "session_title": "Parallel Session A4 – Financial Markets",
+      "chair": "A. Kita",
+      "date": "June 22, 2026",
+      "time": "11:10-13:15",
+      "room": "Room C105, 1st floor, Building C",
+      "papers": [
+        {
+          "title": "Sentiment-Driven Inefficiencies in Term SONIA: Evidence from Machine Learning-Based Anomaly Detection",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "(Every) 15 Seconds to Alpha: Long/Short Optimization with EVT",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Risk Shocks and Business Cycles: Evidence from Credit Options",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Crash Risk and Market Resilience in Retail-Dominated Markets",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "The Hybrid Imperative in On-Chain Credit: A Convergence of Centralized and Decentralized Finance",
+          "authors": [],
+          "presenter": ""
+        }
+      ]
+    },
+    {
+      "session_title": "Parallel Session A5 – Asset Pricing and Portfolio Management",
+      "chair": "F. Bazzana",
+      "date": "June 22, 2026",
+      "time": "11:10-13:15",
+      "room": "Room C106, 1st floor, Building C",
+      "papers": [
+        {
+          "title": "Centralized Allocation Rules and Fund Flows",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Corporate Innovation, Macroeconomic Risk, and Stock Returns",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Non-Linear, Asymmetric Interactions Between the Corporate Bond Spread, USD Exchange Rate, VIX and US Treasuries",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Price Impact, Market Elasticity, and the Slope of the Limit Order Book",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "How Does Convolutional Neural Network Predict Stock Returns?",
+          "authors": [],
+          "presenter": ""
+        }
+      ]
+    },
+    {
+      "session_title": "Parallel Session A6 – Corporate Finance",
+      "chair": "L. Switzer",
+      "date": "June 22, 2026",
+      "time": "11:10-13:15",
+      "room": "Room C107, 1st floor, Building C",
+      "papers": [
+        {
+          "title": "Inflation Uncertainty, Idiosyncratic Volatility, and the Cost of Capital: A Dynamic Stochastic Model of Investment and R&D",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Political Risk and Corporate Investment Behavior: Flexible versus Irreversible Capital in Uncertain Times",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Reading between the Lines",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Sponsor Reputation and the Structure of SPAC Units",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Investment Insight: Security Analysts as the Lens for Peer Valuation",
+          "authors": [],
+          "presenter": ""
+        }
+      ]
+    },
+    {
+      "session_title": "Lunch & Poster Session",
+      "date": "June 22, 2026",
+      "time": "13:15-14:15",
+      "papers": [
+        {
+          "title": "A Taxonomy of Digital Technology Risks for Business and Finance",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Financial Geoeconomics: A Conceptual Framework for Understanding the Weaponization of Finance and Its Implications for Risk Management",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Regulatory Framework Effectiveness in Banking: A Multi-Stakeholder Perception",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Cyber Insurance as a Tool for Strengthening Organizational Cybersecurity Risk Management",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "The Term Structure of Analysts' Forecasts and Uncertainty",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "A Persistent Homology Early-Warning Index for Severe Equity Market Stress",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Systemic Risk in the Insurance Sector under Physical Climate Risk: A Spatio-Temporal Graph Neural Network Approach",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Machine Learning in Bankruptcy Risk Assessment: Insights from Risk Management Experts in Poland",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Can Blended Finance Reinvigorate the Sustainability of Infrastructure Projects?",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "ECB's Spillovers of Unconventional Monetary Policies in Nordic Countries: An Event Study Approach",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Embracing GenAI: A Cross-Country Comparison",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Beyond Big Data: Interpretable Machine Learning for Market Outperformance on Small Tabular Financial Datasets",
+          "authors": [],
+          "presenter": ""
+        }
+      ]
+    },
+    {
+      "session_title": "Parallel Session B1 – Quantitative Methods for Risk Management",
+      "chair": "R. Hill",
+      "date": "June 22, 2026",
+      "time": "14:15-16:20",
+      "room": "Room A207, 2nd floor, Building A",
+      "papers": [
+        {
+          "title": "Does the Coskewness Premium Survive Lower-Tail Dependence?",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Exploring Probabilistic Shallow Statistical Learning Architectures for Market Risk - A Comparative Study of Quantile and Distributional Forecasting Models",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "In Search of Sparsity: Bayesian Sparse Factor Models and the Factor Zoo",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Statistical Inference for the Public Market Equivalent: A Block Bootstrap Approach",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Early Detection of VaR Model Deterioration: A Cantelli-Bound Ratio Approach for Proactive Risk Management",
+          "authors": [],
+          "presenter": ""
+        }
+      ]
+    },
+    {
+      "session_title": "Parallel Session B2 – Corporate Finance and ESG",
+      "chair": "J.M. Mansilla Fernández",
+      "date": "June 22, 2026",
+      "time": "14:15-16:20",
+      "room": "Room A221, 2nd floor, Building A",
+      "papers": [
+        {
+          "title": "ESG and the Cost of Capital Puzzle: Opposing Effects on Equity and Debt in the Insurance Sector",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Aggregate Confusion: An Empirical Analysis of the Disclosure-Performance Gap in European Capital Markets",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Developing A Z-ESG Score Model: An Application to the European Banking and Insurance Industry",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Physical Climate Risk, Tobins'Q and Credit Risk: Evidence from the Oil and Gas Industry",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Regulation as a Financial Stabilizer: Environmental Policy Stringency and Corporate Default Risk",
+          "authors": [],
+          "presenter": ""
+        }
+      ]
+    },
+    {
+      "session_title": "Parallel Session B3 – Credit Risk",
+      "chair": "E. I. Altman",
+      "date": "June 22, 2026",
+      "time": "14:15-16:20",
+      "room": "Room C104, 1st floor, Building C",
+      "papers": [
+        {
+          "title": "Bayesian Clustering for Portfolio Credit Risk",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "From Industrial Process Control to Credit Risk Analytics: Capability Indices for Autocorrelated Dynamics",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Hard Information and Anchoring in Credit Risk Assessment by Banks",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Information Sharing and the Value of Private Credit Data: Evidence from Brazil",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Dynamic Financial Distress Prediction Incorporating Top Management Team Faultlines Based on the Bagging-LightGBM Machine Learning Model",
+          "authors": [],
+          "presenter": ""
+        }
+      ]
+    },
+    {
+      "session_title": "Parallel Session B4 – Asset Pricing and Portfolio Management",
+      "chair": "C. Brunetti",
+      "date": "June 22, 2026",
+      "time": "14:15-16:20",
+      "room": "Room C105, 1st floor, Building C",
+      "papers": [
+        {
+          "title": "Climate Change Risk and Risk-Free Interest Rates",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Beyond the Short Run: The Term Structure of Implied Moment Risk Premia",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "An Excessive-Demand Measure Outperforms Other Demand Proxies in Explaining Lab Asset-Market Price Changes",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "AI Infrastructure and Financial Markets: Evidence from OpenAI Outages",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Does Social Factor Matter in Financial Market?",
+          "authors": [],
+          "presenter": ""
+        }
+      ]
+    },
+    {
+      "session_title": "Parallel Session B5 – Macro Risks",
+      "chair": "D. Rappoport",
+      "date": "June 22, 2026",
+      "time": "14:15-16:20",
+      "room": "Room C106, 1st floor, Building C",
+      "papers": [
+        {
+          "title": "The Cyber Risk of Non Financial Firms",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Reassessing Growth-at-Risk Under Pandemic Uncertainty: Lessons from Covid-19",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Financial Reporting Credibility and Transmission of Monetary Policy: Evidence from PCAOB Inspection Access to EU Countries",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "The Macroeconomic Effects of a Crypto Winter",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Who Arrives and Where Matters: Migrant Composition, Gateway Cities, and Housing Affordability in Europe",
+          "authors": [],
+          "presenter": ""
+        }
+      ]
+    },
+    {
+      "session_title": "Parallel Session B6 – Bond Markets and Default Risk",
+      "chair": "R. Sieradzki",
+      "date": "June 22, 2026",
+      "time": "14:15-16:20",
+      "room": "Room C107, 1st floor, Building C",
+      "papers": [
+        {
+          "title": "Structural Pricing Models for Corporate Bond Index Credit Spreads: Senior vs Subordinated",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Sell, Hold Out, or Accept: The Creditor's Trilemma in Distressed Debt Exchanges",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Default Risk and Disclosure Readability: Asymmetric Effects of Bad and Good News in 10-K Reports",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Adaptive AI Frameworks for Financial Resilience: Leveraging Multimodal Deep Learning for Real-Time Crisis Management in Fintech Ecosystems",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "The Role of Intrinsic and Extrinsic Moderators in the Impact of Physical Climate Risk on Corporate Default Risk",
+          "authors": [],
+          "presenter": ""
+        }
+      ]
+    },
+    {
+      "session_title": "Parallel Session B7 – Corporate Finance",
+      "chair": "M. Mariani",
+      "date": "June 22, 2026",
+      "time": "14:15-16:20",
+      "room": "Room B105, 1st floor, Building B",
+      "papers": [
+        {
+          "title": "The Economics of Financial and Operational Hedging: Insights from U.S. Power Plants",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Value Is in the Eye of the Beholder: Strategic Marking in Private Credit",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Shortage, Liquidity, and the Effectiveness of Monetary Policy: Evidence from the U.S. Commodity Futures Markets",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Short-Term Survival, Long-Term Failure? Evidence on the 'Pampering Effect' of Startup Incentives",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Demand for Greenness",
+          "authors": [],
+          "presenter": ""
+        }
+      ]
+    },
+    {
+      "session_title": "Coffee Break",
+      "date": "June 22, 2026",
+      "time": "16:20-16:40",
+      "papers": []
+    },
+    {
+      "session_title": "Plenary 2 – Keynote & Founder's Talk",
+      "chair": "TBA",
+      "date": "June 22, 2026",
+      "time": "16:40-18:20",
+      "room": "Room A, 2nd floor, Building A",
+      "papers": [
+        {
+          "title": "Keynote: Sanctions and the Shifting Landscape of International Trade",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Discussant",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Q&A",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Founder's Talk: Risk and Ambiguity: A Historical Perspective",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Q&A",
+          "authors": [],
+          "presenter": ""
+        }
+      ]
+    },
+    {
+      "session_title": "Gala Dinner and Best Paper Awards Ceremony",
+      "date": "June 22, 2026",
+      "time": "20:00",
+      "room": "Pod Gigantami Restaurant, Al. Ujazdowskie 24, Warsaw",
+      "papers": []
+    },
+    {
+      "session_title": "Plenary 3 – Professional Workshop & Keynotes",
+      "date": "June 23, 2026",
+      "time": "8:45-11:30",
+      "room": "Room A, 2nd floor, Building A",
+      "papers": [
+        {
+          "title": "Founder's Talk: The Credit Cycle, the Rise (and Fall?) of Private Debt and Leveraged Finance",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Managing Volatility Risk",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Are We Measuring What Matters? The Role of Non-Financial Risks in Bank Failures",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Q&A",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Coffee Break / Networking",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Roundtable: The New Risk Landscape in Financial Services: Resilience, Technology and Systemic Stability",
+          "authors": [],
+          "presenter": ""
+        }
+      ]
+    },
+    {
+      "session_title": "Parallel Session C1 – Systemic Risk, Financial Stability and Contagion",
+      "chair": "C. Bellavite Pellegrini",
+      "date": "June 23, 2026",
+      "time": "11:30-13:10",
+      "room": "Room A207, 2nd floor, Building A",
+      "papers": [
+        {
+          "title": "The Role of Social Capital in the Mitigation of Banks' Systemic Risk: Evidence from the COVID-19 Crisis",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Africa in the Global Systemic Risk Network: A ΔCoVaR Perspective",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Systemic Tail Risk and Dynamic Capital Adjustment in African Banks",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Macroprudential Sanctions and Banks' Provisioning Behavior",
+          "authors": [],
+          "presenter": ""
+        }
+      ]
+    },
+    {
+      "session_title": "Parallel Session C2 – Banking",
+      "chair": "S. Roszkowska",
+      "date": "June 23, 2026",
+      "time": "11:30-13:10",
+      "room": "Room A221, 2nd floor, Building A",
+      "papers": [
+        {
+          "title": "Bank Covenant Violations and Bond Credit Spreads",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Market Value and Ownership Structure of Banks in Central European Countries",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "The Role of Religious Communities for Local Banking in Germany",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Loan Quality in Central European Banks: Do Shareholders and Downturns Matter?",
+          "authors": [],
+          "presenter": ""
+        }
+      ]
+    },
+    {
+      "session_title": "Parallel Session C3 – Financial Markets",
+      "chair": "F. Longin",
+      "date": "June 23, 2026",
+      "time": "11:30-13:10",
+      "room": "Room C104, 1st floor, Building C",
+      "papers": [
+        {
+          "title": "Intermediating the Market for Index Derivatives: Theory and Empirical Evidence",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Cryptocurrency Market Activity During Extremely Volatile Periods",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Systemic Risk Patterns in the Stablecoin Market: Evidence from ΔCoVaR",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Global Bonds Redux",
+          "authors": [],
+          "presenter": ""
+        }
+      ]
+    },
+    {
+      "session_title": "Parallel Session C4 – Corporate Finance",
+      "chair": "A. Giannozzi",
+      "date": "June 23, 2026",
+      "time": "11:30-13:10",
+      "room": "Room C105, 1st floor, Building C",
+      "papers": [
+        {
+          "title": "Weakening Shareholder Primacy and Workplace Safety Misconduct",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "The Managerial and Operational Drivers of ESG Adoption: Evidence from Saudi Arabia",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Corporate Investment Dynamics under Economic Policy Uncertainty",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Electricity Price Volatility and SME Credit Stress in Europe: Evidence from a Country-Level Panel, 2015–2024",
+          "authors": [],
+          "presenter": ""
+        }
+      ]
+    },
+    {
+      "session_title": "Parallel Session C5 – Financial Markets",
+      "chair": "D. Galai",
+      "date": "June 23, 2026",
+      "time": "11:30-13:10",
+      "room": "Room C106, 1st floor, Building C",
+      "papers": [
+        {
+          "title": "Information in Cross Currency Options",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Nonlinear Ex-Dividend Pricing: Disentangling Taxes and Frictions",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "From Uninformed to Informed: Information Costs and Monitoring in Public Debt Markets",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Cyclic Downside Risk Transmission in Global Equity Markets",
+          "authors": [],
+          "presenter": ""
+        }
+      ]
+    },
+    {
+      "session_title": "Parallel Session C6 – Corporate Finance and Risk Management",
+      "chair": "M. Thlon",
+      "date": "June 23, 2026",
+      "time": "11:30-13:10",
+      "room": "Room C107, 1st floor, Building C",
+      "papers": [
+        {
+          "title": "Constructing Financing and Operating Risk Measures from Textual Risk Disclosures",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "When the State Holds the Purse: Ownership, Financing Constraints, and Corporate Investment in Europe",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Risk Management with Inventory Buybacks",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Cyclic Downside Risk Transmission in Global Equity Markets",
+          "authors": [],
+          "presenter": ""
+        }
+      ]
+    },
+    {
+      "session_title": "Lunch",
+      "date": "June 23, 2026",
+      "time": "13:10-14:10",
+      "papers": []
+    },
+    {
+      "session_title": "Meet the Editors Session",
+      "chair": "Malgorzata Olszak (University of Warsaw, Editor-in-chief of Journal of Banking and Financial Economics)",
+      "date": "June 23, 2026",
+      "time": "14:10-14:50",
+      "room": "Room A, 2nd floor, Building A",
+      "papers": [
+        {
+          "title": "Meet the Editors",
+          "authors": [],
+          "presenter": ""
+        }
+      ]
+    },
+    {
+      "session_title": "Coffee Break",
+      "date": "June 23, 2026",
+      "time": "14:50-15:10",
+      "papers": []
+    },
+    {
+      "session_title": "Parallel Session D1 – Banking",
+      "chair": "S. Roszkowska",
+      "date": "June 23, 2026",
+      "time": "15:10-17:15",
+      "room": "Room A207, 2nd floor, Building A",
+      "papers": [
+        {
+          "title": "Bilateral Tax Treaties, Tax Sparing and Cross-Border Banking",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Prepayment Forecasting in Low-Interest Rates Environment: Evidence from French Market",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Prior Lending Relationships and the Effectiveness of Commitments in Sustainability-Linked Loans",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Macroprudential Policy Meets Institutions: Evidence from Bank Provisioning",
+          "authors": [],
+          "presenter": ""
+        }
+      ]
+    },
+    {
+      "session_title": "Parallel Session D2 – Corporate Finance and ESG",
+      "chair": "F. Baldi",
+      "date": "June 23, 2026",
+      "time": "15:10-17:15",
+      "room": "Room A221, 2nd floor, Building A",
+      "papers": [
+        {
+          "title": "ESG Performance Spillovers from Suppliers to Customers: Evidence from Global Supply Chains",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Innovation Failure and CEO Compensation Packages",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Biodiversity Risks and Financing Constraints: International Evidence",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Does Biodiversity Risk Affect Financial Risk? Evidence from U.S. Firms",
+          "authors": [],
+          "presenter": ""
+        }
+      ]
+    },
+    {
+      "session_title": "Parallel Session D3 – Corporate Finance",
+      "chair": "L. Bellardini",
+      "date": "June 23, 2026",
+      "time": "15:10-17:15",
+      "room": "Room C104, 1st floor, Building C",
+      "papers": [
+        {
+          "title": "Boardroom Gender Diversity Reforms and ESG-Tied Compensation",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Stock-Market Events and Non-Financial Disclosure: Evidence from European Listings and Delistings",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Penalties for Environmental Crimes: Why Previous Green Communication Should Be an Aggravating Factor",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Hype or Discipline? Market Reactions to Energy Transition Listings",
+          "authors": [],
+          "presenter": ""
+        }
+      ]
+    },
+    {
+      "session_title": "Parallel Session D4 – Financial Markets",
+      "chair": "M. Robe",
+      "date": "June 23, 2026",
+      "time": "15:10-17:15",
+      "room": "Room C105, 1st floor, Building C",
+      "papers": [
+        {
+          "title": "Transformer-Based Sentiment Analysis for Stock Market Crash Risk",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "The Renewable Fuel Standard and Market Co-movements: Evidence from Option-Implied Volatility Correlations",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Monetary Policy and Housing Valuation in Israel: Do House Prices Respond Differently to Monetary Tightening under Bubble Conditions?",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Presidential Transitions and Uncertainty: Donald Trump in Two Acts",
+          "authors": [],
+          "presenter": ""
+        }
+      ]
+    },
+    {
+      "session_title": "Parallel Session D5 – Financial Markets and ESG",
+      "chair": "K. Puławska",
+      "date": "June 23, 2026",
+      "time": "15:10-17:15",
+      "room": "Room C106, 1st floor, Building C",
+      "papers": [
+        {
+          "title": "Carbon Risk, Value-at-Risk, and Investment Styles in American Equity Retirement Funds",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "From ESG to Security: Insurers' Capital Allocation to Conventional and AI-Driven Defence Technologies",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Carbon Intensity and Global Capital Flows: Evidence from Mutual Fund Rebalancing",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "From Green Talk to Green Walk: The Impact of Carbon Intensity on Default Risk and the Moderating Role of Female Leadership",
+          "authors": [],
+          "presenter": ""
+        }
+      ]
+    },
+    {
+      "session_title": "Parallel Session D6 – Financial Markets and Asset Pricing",
+      "chair": "M. Olszak",
+      "date": "June 23, 2026",
+      "time": "15:10-17:15",
+      "room": "Room C107, 1st floor, Building C",
+      "papers": [
+        {
+          "title": "Market Volatility in Technological Revolutions: Evidence from AI Firms",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "What Should Leaders Know About Quantum Computing?",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "When the Buffer Is Missing: Macroprudential Policy, Geopolitical Risk, and Stock Market Liquidity",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Green Investing Under Limited Attention",
+          "authors": [],
+          "presenter": ""
+        }
+      ]
+    },
+    {
+      "session_title": "Closing – Final Remarks",
+      "date": "June 23, 2026",
+      "time": "16:50-17:15",
+      "room": "Room A, 2nd floor, Building A",
+      "papers": [
+        {
+          "title": "The Polish Economy – Current Challenges in the Global Context",
+          "authors": [],
+          "presenter": ""
+        },
+        {
+          "title": "Conclusions",
+          "authors": [],
+          "presenter": ""
+        }
+      ]
+    }
+  ],
+  "participants": [
+    {
+      "name": "Oliviero Roggi (University of Catania and FDC)",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "C. Brunetti",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "M. Iwanicz-Drozdowska",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "L. Pellegrini",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "A. Kita",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "F. Bazzana",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "L. Switzer",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "R. Hill",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "J.M. Mansilla Fernández",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "E. I. Altman",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "D. Rappoport",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "R. Sieradzki",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "M. Mariani",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "TBA",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "C. Bellavite Pellegrini",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "S. Roszkowska",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "F. Longin",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "A. Giannozzi",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "D. Galai",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "M. Thlon",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Malgorzata Olszak (University of Warsaw, Editor-in-chief of Journal of Banking and Financial Economics)",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "F. Baldi",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "L. Bellardini",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "M. Robe",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "K. Puławska",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "M. Olszak",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Edward I. Altman",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Oliviero Roggi",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Celso Brunetti",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Alessandro Giannozzi",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Menachem Brenner",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Grzegorz Karasiewicz",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Malgorzata Olszak",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Vasant Dhar",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Beata Javorcik",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Heitor Almeida",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Jacek Jastrzębski",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Bruno Dupire",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Maciej Szczęsny",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Łukasz Hardt",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Krzysztof Jajuga",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Linda Allen",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Małgorzata Romaniuk",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Dongxu Li",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Steve Yang",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Hao Ding",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "April Goulding",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Michał Boda",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Marta Anita Karaś",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Michał Stachura",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Aleksandra Rzeznik",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Ben Sand",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Karolina Kozłowska-Kawycz",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Karolina Puławska",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Wojciech Strzelczyk",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Rasul Aliyev",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Mathi Danmark",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "David Lando",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Reina Renard",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Steven Ongena",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Ahmed Arif",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Nasrallah Aziz",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Mian Muhammad Atif",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Andrzej Stopczyński",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Mohammad Bitar",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Amine Tarazi",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Dionisis Philippas",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Costas Siriopoulos",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Manos Sfakianakis",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Javier Perote Peña",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Rodney Ramcharan",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Saket Hegde",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Edison Yu",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Claudia Cannas",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Carlo Bellavite Pellegrini",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Laura Pellegrini",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Carina Zhao",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Lina El-Jahel",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Dimitris Margaritis",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Chi Cuong Nguyen",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Andreas Christopoulos",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Joshua Barratt",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Arben Kita",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Daniel Tortorice",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Mikhail Oet",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Pietro Lazzaretto",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Omar Zidan",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Imed Chkir",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Adelphe Ekpnon",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Hyacinthe Y Somé",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Lucjan Orlowski",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Michele Candela",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Flavio Bazzana",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Qi Zeng",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Stephen Dixon",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Lorne Switzer",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Nabil El-Meslmani",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Massimo Mariani",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Mauro Romano",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Giuseppe Fraccalvieri",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Daniele Arcidiacono",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Thomas Zhang",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Wolfgang Bessler",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Yueh-Hsiang Lin",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Yan-Zhi Wang",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Ruei-Shian Wu",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Kevin Tang",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Meng Wee Andrew Koh",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Frederic Lacombe",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Shiqing Liang",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Enrico Onali",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Xiaoxia Ye",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Vincent Anusic",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "A. Denkowska",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "M. Denkowski",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "V. Lorenzoni",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "S. Wanat",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Magdalena Hornik",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Wahyu Jatmiko",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Rafal Wojakowski",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Shahid Ebrahim",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Novriana Sumarti",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Adelajda Matuka",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Luca Riccetti",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Ilaria Supino",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Leonardo Gambacorta",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "David LoSchiavo",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Mirko Moscatelli",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Antonio Dalla Zuanna",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Olivier Armantier",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Ozancan Özdemir",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Nicolai Petkov",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Cathrin Reismann",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Lutz Hahnenstein",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Peter N. Posch",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Michał Woźniak",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Robert Hill",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Fahiz Baba-yara",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Massimiliano Bondatti",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Corrado Botta",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Silvio Vismara",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Rajarshi Dasgupta",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Malgorzata Snarska",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Mahbub Zaman",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Rafal Sieradzki",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Praveen Kumar Ashok Kumar",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Francesco Baldi",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Renato Giovannini",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Raffaele Oriani",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Antonio Garcia-Amate",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "José Manuel Mansilla Fernández",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Luis Muga",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Md Ismail Haidar",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Nam Nguyen",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Hieu Phan",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Christoph Frei",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Bohdan Horak",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Gustavo de Souza",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Fernando Luiz Pereira de Oliveira",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Valentin Gachet",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Philippe Madiès",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Ahmad Chokor",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Ollivier Taramasco",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Flavio Moraes",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Jie Sun",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Nengfei Li",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Mengru Zhao",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Davide Avino",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Meng Zhang",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Jose Olmo",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "John Haracz",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "David Rakowski",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Mahnaz Paydarzarnaghi",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Feng Zhan",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Xiaozhou Zhou",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Marco Orlandi",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Rita Basto",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Hsiao-Tang Hsu",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Yutao Li",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Francesco Bianchi",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Guillermo Ordonez",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "David Rappoport",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Jose Juan de Leon",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Iga Purton",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Francesca Medda",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Alon Raviv",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Gil Krysa",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Ana Gonzalez-Urteaga",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Isabel Abinzano",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Beatriz Martinez",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Pablo Molina",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Saksham Mishra",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Yi Zhang",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Alvin Chen",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Ran Guo",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Haohang Wu",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Dong Yan",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Sameh Marei",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Yuki Sato",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Fabrizio Cipollini",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Francesca Pascale",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Simona Zambelli",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Hari Gopal Risal",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Rachele Camacci",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Andrea Roncella",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Marta Karas",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Franz Toerien",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Eduard Toerien",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Paweł Bojar",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Christophe Godlewski",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Sylwia Roszkowska",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Salman Tahsin",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Isarin Durongkadej",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Katarzyna Kwiatkowska",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Laurenz Weiße",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Joanna Rachuba",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Michal Czerwonko",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Stylianos Perrakis",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "François Longin",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Marta Karaś",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Konrad Sobański",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Bonnie Buchanan",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Bo Han",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Chen Yang",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Tian Tao",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Xiangding Hou",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Fahad Alrobai",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Carlos Alves",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Bruno Cavalcante",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Michal Thlon",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Pasquale Della Corte",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Roman Kozhan",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Anthony Neuberger",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Ketian Guan",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Guy Lakan",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Itay Kedmi",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Steven Li",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Kohei Marumo",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Bruce Grundy",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Stefan Petry",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Katarzyna Byrka-Kita",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Stephen P. Ferris",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Paweł Witkowski",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Jakub Lasota",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Sung Kwan Lee",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Sunwoo Hwang",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Céline Azémar",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Saqib Aziz",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Michelangelo Fusaro",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Adamaria Perrotta",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Andrea Monaco",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Pier Giuseppe Giribone",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Gamze Danisman",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Jaideep Oberoi",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Victor Osei",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Hanyu Song",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Florina Silaghi",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Redouane Elkamhi",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Barbara Abou Tanos",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Almudena Garcia-Sanz",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Georgios Loukopoulos",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Gonul Colak",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Panagiotis Loukopoulos",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Luca Bellardini",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Antonella Vaccaro",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Edina Berlinger",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Ágnes Lublóy",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Judit Lilla Keresztúri",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Alberto Dell'Acqua",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Domenico Frascati",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Francesco D'Ercole",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Immanuel Staebler",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Raouf Birem",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Barry Quinn",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Zineb Abidi Perier",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Fearghal Kearney",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Vikas Raman",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Michel Robe",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Jan Szczygielski",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Ailie Charteris",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Lidia Obojska",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Bogna Janik",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Yanxiang Qiao",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Feng Zhao",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Xueyong Zhang",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Isabel Abínzano",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Jannine Poletti Hughes",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Ke Wang",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Athina Ioannou",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Szymon Stereńczak",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Michael Donadelli",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Andrea Mazzoran",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Renatas Kizys",
+      "institution": "",
+      "is_presenter": false,
+      "papers": []
+    }
+  ]
+}

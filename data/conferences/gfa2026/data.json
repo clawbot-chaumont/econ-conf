@@ -1,0 +1,19 @@
+{
+  "conference": {
+    "name": "German Finance Association Annual Meeting",
+    "short_name": "GFA",
+    "year": 2026,
+    "start_date": "2026-09-24",
+    "end_date": "2026-09-26",
+    "location": "Germany"
+  },
+  "scrape_metadata": {
+    "scraped_at": "2026-06-13T17:48:02.585686",
+    "source_url": "https://bank.uni-hohenheim.de/dgf2026",
+    "program_available": false,
+    "program_type": "web",
+    "errors": []
+  },
+  "sessions": [],
+  "participants": []
+}

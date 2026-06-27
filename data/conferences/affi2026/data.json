@@ -1,0 +1,2169 @@
+{
+  "conference": {
+    "name": "AFFI 2026 - 42nd International Conference of the French Finance Association",
+    "short_name": "AFFI",
+    "year": 2026,
+    "start_date": "2026-05-25",
+    "end_date": "2026-05-27",
+    "location": "France"
+  },
+  "scrape_metadata": {
+    "scraped_at": "2026-06-13T07:46:31.470062",
+    "source_url": "https://affi2026.sciencesconf.org",
+    "program_available": true,
+    "program_type": "web",
+    "errors": []
+  },
+  "sessions": [
+    {
+      "session_title": "Asset Pricing & Financial Markets",
+      "chair": "Souad Lajili",
+      "room": "Room 108JD",
+      "papers": [
+        {
+          "title": "Heterogenous Ex-Dividend Pricing:",
+          "authors": [
+            "Ketian Guan"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Passive Flows, Index Rebalancing, and Price Impact: Evidence Hongcheng Xu",
+          "authors": [
+            "Hongcheng Xu"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Assessing Liquidity at Risk in Turkish Banks: A Copula-Driven Monte Carlo Serdar Ozgur",
+          "authors": [
+            "Serdar Ozgur"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Inconsistency in the Equity",
+          "authors": [
+            "Marius Savatier"
+          ],
+          "presenter": ""
+        }
+      ]
+    },
+    {
+      "session_title": "Climate Finance 1",
+      "chair": "François Aubert",
+      "room": "Room 104JD",
+      "papers": [
+        {
+          "title": "Does Carbon Transparency Pay Off?",
+          "authors": [
+            "Radu Burlacu"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Blended Finance and Carbon Tax",
+          "authors": [
+            "Jinran Wang Lausanne, Faculté des Hautes Etudes Commerciales (HEC Lausanne)"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Climate Regulatory Risk and Ruichen Wang",
+          "authors": [
+            "Ruichen Wang"
+          ],
+          "presenter": ""
+        }
+      ]
+    },
+    {
+      "session_title": "Behavioral Finance 1",
+      "chair": "Jean-François Gajewski",
+      "room": "Room 106JD",
+      "papers": [
+        {
+          "title": "Context-Dependent Memory and Disagreement: Evidence from",
+          "authors": [
+            "Elie Afolabi"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Doing Good While Doing Bad?",
+          "authors": [
+            "Fabrice Hervé"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "for Climate Technology: A Large Language",
+          "authors": [
+            "Dang"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "The Role of Inaction Regret",
+          "authors": [
+            "Hugo Chouinard"
+          ],
+          "presenter": ""
+        }
+      ]
+    },
+    {
+      "session_title": "Institutions & Corporate Dynamics",
+      "chair": "Yves Mard",
+      "room": "Room 110JD",
+      "papers": [
+        {
+          "title": "Structural Monetary Policy,",
+          "authors": [
+            "Yongjun Ma Yongjun Ma (Lingnan College Sun Yat-sen University, China)"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Born Here, Grown Elsewhere:",
+          "authors": [
+            "Serigne Serigne Ndiaye (Université de Strasbourg - LaRGE, France) Ndiaye"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Fair Value Research between",
+          "authors": [
+            "Selim Mankaï"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Properties of Financial Analysts' Earnings Carl Botchwey",
+          "authors": [
+            "François Aubert"
+          ],
+          "presenter": ""
+        }
+      ]
+    },
+    {
+      "session_title": "Sustainable Finance 1",
+      "chair": "Sylvain Marsat",
+      "room": "Room 109JD",
+      "papers": [
+        {
+          "title": "ESG performance disparity and financial",
+          "authors": [
+            "Amal Aouadi"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Green Bonds Spread; Its Sojoudi Mahdi",
+          "authors": [
+            "Mahdi Sojoudi"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Are Transition and Physical",
+          "authors": [
+            "Clément Clément Toussaint (Université Paris 1 Panthéon-Sorbonne, Toussaint"
+          ],
+          "presenter": ""
+        }
+      ]
+    },
+    {
+      "session_title": "Banking 1",
+      "chair": "Benjamin Williams-Rambaud",
+      "room": "Room 104JD",
+      "papers": [
+        {
+          "title": "Tales that Cost:",
+          "authors": [
+            "Laurent Weil"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "The Effects of Banking Consolidation on",
+          "authors": [
+            "Nguyet Anh Truong"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Effectiveness of a Soft LTV Limit",
+          "authors": [
+            "Rudi Vander Vennet"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Delegated Validation in Proof",
+          "authors": [],
+          "presenter": ""
+        }
+      ]
+    },
+    {
+      "session_title": "Climate Finance 2",
+      "chair": "Jean-Laurent Viviani",
+      "room": "Room 106JD",
+      "papers": [
+        {
+          "title": "Arbitraging Greening and Market Neutrality",
+          "authors": [
+            "Christophe Boucher"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Competition and Carbon Emissions",
+          "authors": [
+            "Hanwen Sun"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "The Impact of Floods",
+          "authors": [
+            "Jules Tapin"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Does ownership structure",
+          "authors": [
+            "Saqib Aziz"
+          ],
+          "presenter": ""
+        }
+      ]
+    },
+    {
+      "session_title": "Asset Pricing 1",
+      "chair": "Adam Zaremba",
+      "room": "Room 109JD",
+      "papers": [
+        {
+          "title": "Doing  well to doing good?",
+          "authors": [
+            "Serge Darolles"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Effects of Information Overload on Financial",
+          "authors": [
+            "Valenzuela Marcela"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "The Shades of Investment Factors",
+          "authors": [
+            "Jiayi Zhu"
+          ],
+          "presenter": ""
+        }
+      ]
+    },
+    {
+      "session_title": "Sustainable Finance 2",
+      "chair": "Fabrice Hervé",
+      "room": "Room 110JD",
+      "papers": [
+        {
+          "title": "Sustainable Portfolio Management",
+          "authors": [
+            "Jean-Luc Prigent"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "ESG Ratings - Impact of data",
+          "authors": [
+            "Antje Mahayni"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Multidimensional Sustainability and",
+          "authors": [
+            "Magali Aubert"
+          ],
+          "presenter": ""
+        }
+      ]
+    },
+    {
+      "session_title": "Corporate Finance 1",
+      "chair": "Marion Dupire",
+      "room": "Room 223JD",
+      "papers": [
+        {
+          "title": "Have Covid-19 state-guaranteed loans",
+          "authors": [
+            "Isabelle Girerd-Potin"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "(Every) 15 seconds to alpha:",
+          "authors": [
+            "Joshua Barratt"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "When Sales Fall, Working Capital Stays:",
+          "authors": [
+            "Vivien Lefebvre"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Private Capital Markets as a",
+          "authors": [
+            "Alexandre Groh"
+          ],
+          "presenter": ""
+        }
+      ]
+    },
+    {
+      "session_title": "Financial Markets",
+      "chair": "Mathieu Gomes",
+      "room": "Room 323JD",
+      "papers": [
+        {
+          "title": "Local stock markets",
+          "authors": [
+            "Charles Parry"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "How is Inflation Priced in Global Markets ? Novdeep Smag",
+          "authors": [
+            "Ines Chaieb"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Geopolitical Risk and the U.S. Stock Market:",
+          "authors": [
+            "Jaroslav Horvath"
+          ],
+          "presenter": ""
+        }
+      ]
+    },
+    {
+      "session_title": "Corporate Finance 2",
+      "chair": "Hubert de La Bruslerie",
+      "room": "Room 104JD",
+      "papers": [
+        {
+          "title": "Save The Date: Analyst/Investor Days as a",
+          "authors": [
+            "Olga Kolokolova"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Cooperative Finance:",
+          "authors": [
+            "Julien Cadot"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Liquidity transfer through trade credit: The",
+          "authors": [
+            "Joël Petey"
+          ],
+          "presenter": ""
+        }
+      ]
+    },
+    {
+      "session_title": "AI and Finance",
+      "chair": "Christophe Pérignon",
+      "room": "Room 106JD",
+      "papers": [
+        {
+          "title": "A Unified Framework for Anomalies",
+          "authors": [
+            "Adam Zaremba"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Will AI Replace or Enhance Human Intelligence in Asset Management? Vikram Nanda",
+          "authors": [
+            "Sanghyun Kim"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "AI-Enabled Risk Assessment and",
+          "authors": [
+            "Yujing Gong"
+          ],
+          "presenter": ""
+        }
+      ]
+    },
+    {
+      "session_title": "Banking 2",
+      "chair": "Christophe Godlewski",
+      "room": "Room 109JD",
+      "papers": [
+        {
+          "title": "Banks' pass-through and Competition",
+          "authors": [
+            "Tom Lehmann"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "ESG Uncertainty Risk and Financial Stability:",
+          "authors": [
+            "Sandra Kendo"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Hold-up in Syndicated Lending:",
+          "authors": [
+            "Aurore Burietz"
+          ],
+          "presenter": ""
+        }
+      ]
+    },
+    {
+      "session_title": "Behavioral Finance 2",
+      "chair": "Sylvain Marsat",
+      "room": "Room 110JD",
+      "papers": [
+        {
+          "title": "Investment under Fire: Firm-Level Evidence from the War in Ukraine Axelle  Heyert",
+          "authors": [
+            "Zuzana Fungacova"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Underpricing and crowding out: An analysis of the composition of the Jan Schnitzler",
+          "authors": [
+            "Jan Schnitzler"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "When investing feels right:",
+          "authors": [
+            "Fabrice Hervé"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Does the gender gap in",
+          "authors": [
+            "Patrick Roger"
+          ],
+          "presenter": ""
+        }
+      ]
+    },
+    {
+      "session_title": "Derivatives 1",
+      "chair": "Serge Darolles",
+      "room": "Room 223JD",
+      "papers": [
+        {
+          "title": "Option Return Co-movements Thinh Nguyen",
+          "authors": [
+            "Van Quoc Thinh Nguyen"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "The Impact of Early Option Exercise",
+          "authors": [
+            "Lennart Sperling"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Magnet Effect of Position Limits",
+          "authors": [
+            "Bo Hu"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "On the Insurance of Environmental Risks:",
+          "authors": [
+            "Olivier Le Courtois"
+          ],
+          "presenter": ""
+        }
+      ]
+    },
+    {
+      "session_title": "Quantitative Finance",
+      "chair": "Fredj Jawadi",
+      "room": "Room 323JD",
+      "papers": [
+        {
+          "title": "Bridging Structured Knowledge and Data:",
+          "authors": [
+            "Zexun Chen"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Joint Backtesting Procedure",
+          "authors": [
+            "Jérémy Leymarie"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Traded-Coordinate Diagnostics",
+          "authors": [
+            "Erwan Le Saout"
+          ],
+          "presenter": ""
+        }
+      ]
+    },
+    {
+      "session_title": "Green Bonds 1",
+      "chair": "Geoffroy Enjolras",
+      "room": "Room 104JD",
+      "papers": [
+        {
+          "title": "The Economics of Sustainability Jean-Laurent",
+          "authors": [
+            "Riadh Ben Jelili"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Firm-Level Determinants of",
+          "authors": [
+            "Syrine Ayachi"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Managing Credibility in Green Bond Markets",
+          "authors": [
+            "Riadh Ben Jelili"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Sustainable Bonds &",
+          "authors": [
+            "Jamil Jaballah"
+          ],
+          "presenter": ""
+        }
+      ]
+    },
+    {
+      "session_title": "Household and Personal Finance",
+      "chair": "Marie-Hélène Broihanne",
+      "room": "Room 106JD",
+      "papers": [
+        {
+          "title": "From Market Indices to Wealth Indices:",
+          "authors": [
+            "investisseurs institutionnels"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Round trip trades,",
+          "authors": [
+            "Ellapulli V. Vasudevan"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Building the Future Together:",
+          "authors": [
+            "Hava Orkut"
+          ],
+          "presenter": ""
+        }
+      ]
+    },
+    {
+      "session_title": "International Finance",
+      "chair": "Philippe Dupuy",
+      "room": "Room 108JD",
+      "papers": [
+        {
+          "title": "Early or Forced? The Determinants of",
+          "authors": [
+            "Faouzi Souissi"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "How does democracy explain",
+          "authors": [
+            "Christian Haddad"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Package Restructuring",
+          "authors": [
+            "Pascal Francois"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Are SWF official mandate informative ?",
+          "authors": [
+            "Louise Schraverus"
+          ],
+          "presenter": ""
+        }
+      ]
+    },
+    {
+      "session_title": "Factors and Anomalies",
+      "chair": "Olivier Le Courtois",
+      "room": "Room 109JD",
+      "papers": [
+        {
+          "title": "Factor Model Selection Using the ICAPM",
+          "authors": [
+            "Gulten Mero"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "In Search of Value",
+          "authors": [
+            "Serges Darolles"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Persistent Anomalies and",
+          "authors": [
+            "Christophe Pérignon"
+          ],
+          "presenter": ""
+        }
+      ]
+    },
+    {
+      "session_title": "Mergers & Acquisitions",
+      "chair": "Eric De Bodt",
+      "room": "Room 223JD",
+      "papers": [
+        {
+          "title": "When Does CFO Turnover Matter?",
+          "authors": [
+            "Jean-Gabriel Cousin"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Innovation Similarity and Post-Merger",
+          "authors": [
+            "Hongrui Feng"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "CEO Organizational Identification and",
+          "authors": [
+            "Junhong Yang"
+          ],
+          "presenter": ""
+        }
+      ]
+    },
+    {
+      "session_title": "Financial Econometrics",
+      "chair": "Gaëlle Le Fol",
+      "room": "Room 323JD",
+      "papers": [
+        {
+          "title": "LRISK: Systemic Liquidity Risk Floris Van Dijk",
+          "authors": [
+            "Floris Van Dijk"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Non-Fundamental Price Risk and",
+          "authors": [
+            "Ruichao Zhu"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "EGARCH-Conditioned Boltzmann Machines",
+          "authors": [
+            "Benoît Vaucher"
+          ],
+          "presenter": ""
+        }
+      ]
+    },
+    {
+      "session_title": "Asset Pricing 2",
+      "chair": "Jean-François Boulier",
+      "room": "Room 104JD",
+      "papers": [
+        {
+          "title": "Art Market Returns and Macro-Financial",
+          "authors": [
+            "Marc Joets"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "The Search-based Investor Recognition",
+          "authors": [
+            "Jiaquan Yao"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Are Classic Cars Financial Assets? Jean-Philippe",
+          "authors": [
+            "Jean-Philippe Weisskopf (EHL Hospitality Business School, Weisskopf"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Preference Revelation When",
+          "authors": [
+            "Weidong Tian (University of North Carolina, United States)"
+          ],
+          "presenter": ""
+        }
+      ]
+    },
+    {
+      "session_title": "Market Microstructure",
+      "chair": "Jean-François Gajewski",
+      "room": "Room 106JD",
+      "papers": [
+        {
+          "title": "Investor behavior in the pre-opening:",
+          "authors": [
+            "Giuliano Antonio Curatola"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Retail Order Flow Segmentation, Price",
+          "authors": [
+            "Benjamin Clapham"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "The Welfare Implication of",
+          "authors": [
+            "Wen Chen"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Swaminathan Limits to Arbitrage in",
+          "authors": [
+            "Swaminathan Balasubramaniam (Neoma Business School, am"
+          ],
+          "presenter": ""
+        }
+      ]
+    },
+    {
+      "session_title": "Behavioral Finance 3",
+      "chair": "Patrick Roger",
+      "room": "Room 108JD",
+      "papers": [
+        {
+          "title": "Long Distance Matters: The Disappearing",
+          "authors": [
+            "Ran Tao"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Market Reactions to Complex Tim Loughran",
+          "authors": [
+            "Tim Loughran"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Do Cryptocurrency Investors",
+          "authors": [
+            "Hossein Jahanshahloo"
+          ],
+          "presenter": ""
+        }
+      ]
+    },
+    {
+      "session_title": "Corporate Governance 1",
+      "chair": "Ivana Vitanova",
+      "room": "Room 109JD",
+      "papers": [
+        {
+          "title": "Will Dual class shares or control explain Hubert De La",
+          "authors": [
+            "Hubert De La Bruslerie"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Connected Shareholders at the",
+          "authors": [
+            "Shan Zhao"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Understanding Governance Incidents in",
+          "authors": [
+            "Enrico Onali"
+          ],
+          "presenter": ""
+        }
+      ]
+    },
+    {
+      "session_title": "Corporate Finance 3",
+      "chair": "Jean-Gabriel Cousin",
+      "room": "Room 223JD",
+      "papers": [
+        {
+          "title": "Downsizing in Business Groups:",
+          "authors": [
+            "Nico Dewaelheyns"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Managerial Beliefs and Agency Conflicts Dardan Gashi",
+          "authors": [
+            "Hamid"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "The Rise of Red Equity",
+          "authors": [
+            "Hamid Boustanifar"
+          ],
+          "presenter": ""
+        }
+      ]
+    },
+    {
+      "session_title": "Corporate Finance 4",
+      "chair": "Joël Petey",
+      "room": "Room 104JD",
+      "papers": [
+        {
+          "title": "Experience as Social Capital: Evidence from",
+          "authors": [
+            "Yue Xu"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Warned by the WARN Act?",
+          "authors": [
+            "Yixian Li"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "When Real Estate Transaction",
+          "authors": [
+            "Mikael Petitjean (Université Catholique de Louvain - LIDAM"
+          ],
+          "presenter": ""
+        }
+      ]
+    },
+    {
+      "session_title": "Corporate Governance 2",
+      "chair": "Zhao Shan",
+      "room": "Room 106JD",
+      "papers": [
+        {
+          "title": "Do shareholders prioritize maximizing",
+          "authors": [
+            "Magnus Blomkvist Jay Cai"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Director Influence",
+          "authors": [
+            "Louis De Mesnard Tu Nguyen"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Why do Publicly Listed",
+          "authors": [
+            "Magnus Blomkvist"
+          ],
+          "presenter": ""
+        }
+      ]
+    },
+    {
+      "session_title": "Climate Finance 3",
+      "chair": "Souad Lajili",
+      "room": "Room 108JD",
+      "papers": [
+        {
+          "title": "Environmental Disclosures in",
+          "authors": [
+            "Xingtan Xingtan Zhang (Cheung Kong Graduate School of Business, Zhang"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Optimal Dividend Policy under",
+          "authors": [
+            "Moussa Diakho"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "In Search of the Causal Greenium Rodenkirchen",
+          "authors": [
+            "Patrick Weiss"
+          ],
+          "presenter": ""
+        }
+      ]
+    },
+    {
+      "session_title": "Asset Pricing 3",
+      "chair": "Pascal François",
+      "room": "Room 109JD",
+      "papers": [
+        {
+          "title": "The  Elusive CAPM: Idiosyncratic News and",
+          "authors": [
+            "Adam Upenieks"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "The Golden CAPM",
+          "authors": [
+            "Stici Constantin Stici (Institut de l'analyse financière, Université Alexander"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "The Price of Political Partisanship",
+          "authors": [
+            "David Kolade Oke"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Innovation and Firm Performance: Evidence",
+          "authors": [
+            "Radu Burlacu"
+          ],
+          "presenter": ""
+        }
+      ]
+    },
+    {
+      "session_title": "Banking 3",
+      "chair": "Mathieu Gomes",
+      "room": "Room 223JD",
+      "papers": [
+        {
+          "title": "The  Price of Silence: Local Newspaper",
+          "authors": [
+            "Tran Huynh"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Two Levers, One Goal: The",
+          "authors": [
+            "Daniel Taylor"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Bank Earnings Management",
+          "authors": [
+            "Eunice Cudjoe"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Monetary Policy: Risk-Return Tradeoffs",
+          "authors": [
+            "Prarthna Kaurani John Cotter"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Local Political Uncertainty",
+          "authors": [
+            "Yong Kyu Gam"
+          ],
+          "presenter": ""
+        }
+      ]
+    },
+    {
+      "session_title": "Ownership Structure",
+      "chair": "Yves Mard",
+      "room": "Room 104JD",
+      "papers": [
+        {
+          "title": "When Experience Hurts: Generational Family",
+          "authors": [
+            "Adam Elage"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Family Control and Carbon Footprints: Randriamoria",
+          "authors": [
+            "Dusan Isakov"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Private Equity and",
+          "authors": [
+            "Walid Faris (Université Paris Dauphine - PSL, DRM-Finance, Walid Faris"
+          ],
+          "presenter": ""
+        }
+      ]
+    },
+    {
+      "session_title": "Entrepreunarial Finance",
+      "chair": "François Aubert",
+      "room": "Room 106JD",
+      "papers": [
+        {
+          "title": "Cleantech funding puzzle: Did the 2011",
+          "authors": [
+            "Robert Rieg"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "One's Company, Two's a Crowd:",
+          "authors": [
+            "Laurent Vilanova"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Silicon Valley Unchained",
+          "authors": [
+            "Aurélie Sannajust"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Entrepreneurial Overoptimism",
+          "authors": [
+            "Anaïs Hamelin"
+          ],
+          "presenter": ""
+        }
+      ]
+    },
+    {
+      "session_title": "Climate Finance 4",
+      "chair": "Yves Rannou",
+      "room": "Room 108JD",
+      "papers": [
+        {
+          "title": "Can Biodiversity Green Bonds Be Issued at Lower Cost? An Investigation",
+          "authors": [
+            "Jesper Beverdam"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Biodiversity Bonds Institutional Ownership and",
+          "authors": [
+            "Antonija"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Underpricing of Corporate Green Bonds",
+          "authors": [
+            "Novak"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Can corporate incentives deliver",
+          "authors": [
+            "Borui Qiu"
+          ],
+          "presenter": ""
+        }
+      ]
+    },
+    {
+      "session_title": "Macro Finance",
+      "chair": "Benjamin Williams-Rambaud",
+      "room": "Room 110JD",
+      "papers": [
+        {
+          "title": "Equilibrium Real Interest Rate: A Preference-Based Rate with Habit and Hamid Babaei",
+          "authors": [
+            "Hamid Babaei"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "Can Aggregate Earnings",
+          "authors": [
+            "Hsuan Ethan Chiang"
+          ],
+          "presenter": ""
+        },
+        {
+          "title": "European Firms' Investments",
+          "authors": [
+            "Roland Bouillot"
+          ],
+          "presenter": ""
+        }
+      ]
+    }
+  ],
+  "participants": [
+    {
+      "name": "Adam Elage",
+      "institution": "ACCE et Kedge Business School, France",
+      "is_presenter": true,
+      "papers": [
+        "When Experience Hurts: Generational Family"
+      ]
+    },
+    {
+      "name": "Adam Upenieks",
+      "institution": "University of Calgary, Canada",
+      "is_presenter": true,
+      "papers": [
+        "The  Elusive CAPM: Idiosyncratic News and"
+      ]
+    },
+    {
+      "name": "Adam Zaremba",
+      "institution": "MBS School of Business, France",
+      "is_presenter": true,
+      "papers": [
+        "A Unified Framework for Anomalies"
+      ]
+    },
+    {
+      "name": "Alexandre Groh",
+      "institution": "Aix-Marseilles Université, France",
+      "is_presenter": true,
+      "papers": [
+        "Private Capital Markets as a"
+      ]
+    },
+    {
+      "name": "Amal Aouadi",
+      "institution": "Université de Lille - LUMEN, France",
+      "is_presenter": true,
+      "papers": [
+        "ESG performance disparity and financial"
+      ]
+    },
+    {
+      "name": "Anaïs Hamelin",
+      "institution": "Université de Strasbourg - LaRGE, France",
+      "is_presenter": true,
+      "papers": [
+        "Entrepreneurial Overoptimism"
+      ]
+    },
+    {
+      "name": "Antje Mahayni",
+      "institution": "University of Duisburg-Essen, Germany",
+      "is_presenter": true,
+      "papers": [
+        "ESG Ratings - Impact of data"
+      ]
+    },
+    {
+      "name": "Antonija",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Biodiversity Bonds Institutional Ownership and"
+      ]
+    },
+    {
+      "name": "Aurore Burietz",
+      "institution": "IESEG School of Management, France",
+      "is_presenter": true,
+      "papers": [
+        "Hold-up in Syndicated Lending:"
+      ]
+    },
+    {
+      "name": "Aurélie Sannajust",
+      "institution": "KEDGE Business School, France",
+      "is_presenter": true,
+      "papers": [
+        "Silicon Valley Unchained"
+      ]
+    },
+    {
+      "name": "Benjamin Clapham",
+      "institution": "Goethe University, Germany",
+      "is_presenter": true,
+      "papers": [
+        "Retail Order Flow Segmentation, Price"
+      ]
+    },
+    {
+      "name": "Benoît Vaucher",
+      "institution": "Scientific Portfolio an EDHEC venture, France",
+      "is_presenter": true,
+      "papers": [
+        "EGARCH-Conditioned Boltzmann Machines"
+      ]
+    },
+    {
+      "name": "Bo Hu",
+      "institution": "George Mason University, United States",
+      "is_presenter": true,
+      "papers": [
+        "Magnet Effect of Position Limits"
+      ]
+    },
+    {
+      "name": "Borui Qiu",
+      "institution": "EM Lyon Business School - Coactis, France",
+      "is_presenter": true,
+      "papers": [
+        "Can corporate incentives deliver"
+      ]
+    },
+    {
+      "name": "Charles Parry",
+      "institution": "University of Cambridge, United Kingdom",
+      "is_presenter": true,
+      "papers": [
+        "Local stock markets"
+      ]
+    },
+    {
+      "name": "Christian Haddad",
+      "institution": "Excelia Business School, France",
+      "is_presenter": true,
+      "papers": [
+        "How does democracy explain"
+      ]
+    },
+    {
+      "name": "Christophe Boucher",
+      "institution": "Université Paris Nanterre - EconomiX, France",
+      "is_presenter": true,
+      "papers": [
+        "Arbitraging Greening and Market Neutrality"
+      ]
+    },
+    {
+      "name": "Christophe Pérignon",
+      "institution": "HEC Paris, France",
+      "is_presenter": true,
+      "papers": [
+        "Persistent Anomalies and"
+      ]
+    },
+    {
+      "name": "Clément Clément Toussaint (Université Paris 1 Panthéon-Sorbonne, Toussaint",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Are Transition and Physical"
+      ]
+    },
+    {
+      "name": "Dang",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "for Climate Technology: A Large Language"
+      ]
+    },
+    {
+      "name": "Daniel Taylor",
+      "institution": "IESEG School Of Management, France",
+      "is_presenter": true,
+      "papers": [
+        "Two Levers, One Goal: The"
+      ]
+    },
+    {
+      "name": "David Kolade Oke",
+      "institution": "Université Grenoble Alpes-CERAG, France",
+      "is_presenter": true,
+      "papers": [
+        "The Price of Political Partisanship"
+      ]
+    },
+    {
+      "name": "Dusan Isakov",
+      "institution": "University of Fribourg, Switzerland",
+      "is_presenter": true,
+      "papers": [
+        "Family Control and Carbon Footprints: Randriamoria"
+      ]
+    },
+    {
+      "name": "Elie Afolabi",
+      "institution": "Université Bourgogne Europe, France",
+      "is_presenter": true,
+      "papers": [
+        "Context-Dependent Memory and Disagreement: Evidence from"
+      ]
+    },
+    {
+      "name": "Ellapulli V. Vasudevan",
+      "institution": "Indian Institute of Management Ahmedabad, India",
+      "is_presenter": true,
+      "papers": [
+        "Round trip trades,"
+      ]
+    },
+    {
+      "name": "Enrico Onali",
+      "institution": "University of Bristol, United Kingdom",
+      "is_presenter": true,
+      "papers": [
+        "Understanding Governance Incidents in"
+      ]
+    },
+    {
+      "name": "Erwan Le Saout",
+      "institution": "Université Paris 1 Panthéon Sorbonne, France",
+      "is_presenter": true,
+      "papers": [
+        "Traded-Coordinate Diagnostics"
+      ]
+    },
+    {
+      "name": "Eunice Cudjoe",
+      "institution": "EDHEC Business School, France",
+      "is_presenter": true,
+      "papers": [
+        "Bank Earnings Management"
+      ]
+    },
+    {
+      "name": "Fabrice Hervé",
+      "institution": "Université Bourgogne Europe, France",
+      "is_presenter": true,
+      "papers": [
+        "Doing Good While Doing Bad?",
+        "When investing feels right:"
+      ]
+    },
+    {
+      "name": "Faouzi Souissi",
+      "institution": "Université de Perpignan Via Domitia - Louise Schraverus CDEDYS, France",
+      "is_presenter": true,
+      "papers": [
+        "Early or Forced? The Determinants of"
+      ]
+    },
+    {
+      "name": "Floris Van Dijk",
+      "institution": "Banque de France, France",
+      "is_presenter": true,
+      "papers": [
+        "LRISK: Systemic Liquidity Risk Floris Van Dijk"
+      ]
+    },
+    {
+      "name": "François Aubert",
+      "institution": "Université Clermont Auvergne - CleRMa, France",
+      "is_presenter": true,
+      "papers": [
+        "Properties of Financial Analysts' Earnings Carl Botchwey"
+      ]
+    },
+    {
+      "name": "Giuliano Antonio Curatola",
+      "institution": "University of Siena - Department of Economics and Statistics,  Italy",
+      "is_presenter": true,
+      "papers": [
+        "Investor behavior in the pre-opening:"
+      ]
+    },
+    {
+      "name": "Gulten Mero",
+      "institution": "CY Cergy Paris Université - Thema, France",
+      "is_presenter": true,
+      "papers": [
+        "Factor Model Selection Using the ICAPM"
+      ]
+    },
+    {
+      "name": "Hamid",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Managerial Beliefs and Agency Conflicts Dardan Gashi"
+      ]
+    },
+    {
+      "name": "Hamid Babaei",
+      "institution": "IESEG School Of Management, France",
+      "is_presenter": true,
+      "papers": [
+        "Equilibrium Real Interest Rate: A Preference-Based Rate with Habit and Hamid Babaei"
+      ]
+    },
+    {
+      "name": "Hamid Boustanifar",
+      "institution": "EDHEC, France",
+      "is_presenter": true,
+      "papers": [
+        "The Rise of Red Equity"
+      ]
+    },
+    {
+      "name": "Hanwen Sun",
+      "institution": "University of Bath, United Kingdom",
+      "is_presenter": true,
+      "papers": [
+        "Competition and Carbon Emissions"
+      ]
+    },
+    {
+      "name": "Hava Orkut",
+      "institution": "Université de Strasbourg - LaRGE, France",
+      "is_presenter": true,
+      "papers": [
+        "Building the Future Together:"
+      ]
+    },
+    {
+      "name": "Hongcheng Xu",
+      "institution": "University of Oxford, United Kingdom",
+      "is_presenter": true,
+      "papers": [
+        "Passive Flows, Index Rebalancing, and Price Impact: Evidence Hongcheng Xu"
+      ]
+    },
+    {
+      "name": "Hongrui Feng",
+      "institution": "Bocconi University, Italy",
+      "is_presenter": true,
+      "papers": [
+        "Innovation Similarity and Post-Merger"
+      ]
+    },
+    {
+      "name": "Hossein Jahanshahloo",
+      "institution": "Alliance Manchester Business School, The University of Manchester, United Kingdom",
+      "is_presenter": true,
+      "papers": [
+        "Do Cryptocurrency Investors"
+      ]
+    },
+    {
+      "name": "Hsuan Ethan Chiang",
+      "institution": "University of Liverpool, United Kingdom",
+      "is_presenter": true,
+      "papers": [
+        "Can Aggregate Earnings"
+      ]
+    },
+    {
+      "name": "Hubert De La Bruslerie",
+      "institution": "IAE Paris - Sorbonne Business School, France",
+      "is_presenter": true,
+      "papers": [
+        "Will Dual class shares or control explain Hubert De La"
+      ]
+    },
+    {
+      "name": "Hugo Chouinard",
+      "institution": "Université Laval, Canada",
+      "is_presenter": true,
+      "papers": [
+        "The Role of Inaction Regret"
+      ]
+    },
+    {
+      "name": "Ines Chaieb",
+      "institution": "University of Geneva and Swiss Finance Institute, Switzerland",
+      "is_presenter": true,
+      "papers": [
+        "How is Inflation Priced in Global Markets ? Novdeep Smag"
+      ]
+    },
+    {
+      "name": "Isabelle Girerd-Potin",
+      "institution": "Université Grenoble Alpes - CERAG, France",
+      "is_presenter": true,
+      "papers": [
+        "Have Covid-19 state-guaranteed loans"
+      ]
+    },
+    {
+      "name": "Jamil Jaballah",
+      "institution": "Grenoble Alpine Business School, France",
+      "is_presenter": true,
+      "papers": [
+        "Sustainable Bonds &"
+      ]
+    },
+    {
+      "name": "Jan Schnitzler",
+      "institution": "Grenoble Ecole de Management, France",
+      "is_presenter": true,
+      "papers": [
+        "Underpricing and crowding out: An analysis of the composition of the Jan Schnitzler"
+      ]
+    },
+    {
+      "name": "Jaroslav Horvath",
+      "institution": "University of New Hampshire, United States",
+      "is_presenter": true,
+      "papers": [
+        "Geopolitical Risk and the U.S. Stock Market:"
+      ]
+    },
+    {
+      "name": "Jean-Gabriel Cousin",
+      "institution": "Université Nord Lille - LUMEN, France",
+      "is_presenter": true,
+      "papers": [
+        "When Does CFO Turnover Matter?"
+      ]
+    },
+    {
+      "name": "Jean-Luc Prigent",
+      "institution": "CY Cergy Paris Université - Thema, France",
+      "is_presenter": true,
+      "papers": [
+        "Sustainable Portfolio Management"
+      ]
+    },
+    {
+      "name": "Jean-Philippe Weisskopf (EHL Hospitality Business School, Weisskopf",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Are Classic Cars Financial Assets? Jean-Philippe"
+      ]
+    },
+    {
+      "name": "Jesper Beverdam",
+      "institution": "University of Groningen, Netherlands",
+      "is_presenter": true,
+      "papers": [
+        "Can Biodiversity Green Bonds Be Issued at Lower Cost? An Investigation"
+      ]
+    },
+    {
+      "name": "Jiaquan Yao",
+      "institution": "Jinan University, China",
+      "is_presenter": true,
+      "papers": [
+        "The Search-based Investor Recognition"
+      ]
+    },
+    {
+      "name": "Jiayi Zhu",
+      "institution": "Boston University, United States",
+      "is_presenter": true,
+      "papers": [
+        "The Shades of Investment Factors"
+      ]
+    },
+    {
+      "name": "Jinran Wang Lausanne, Faculté des Hautes Etudes Commerciales (HEC Lausanne)",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Blended Finance and Carbon Tax"
+      ]
+    },
+    {
+      "name": "Joshua Barratt",
+      "institution": "Barratt Consulting, Germany",
+      "is_presenter": true,
+      "papers": [
+        "(Every) 15 seconds to alpha:"
+      ]
+    },
+    {
+      "name": "Joël Petey",
+      "institution": "Université de Strasbourg - LaRGE, France",
+      "is_presenter": true,
+      "papers": [
+        "Liquidity transfer through trade credit: The"
+      ]
+    },
+    {
+      "name": "Jules Tapin",
+      "institution": "Banque de France (at the time of contribution",
+      "is_presenter": true,
+      "papers": [
+        "The Impact of Floods"
+      ]
+    },
+    {
+      "name": "Julien Cadot",
+      "institution": "Ferrandi Paris, France",
+      "is_presenter": true,
+      "papers": [
+        "Cooperative Finance:"
+      ]
+    },
+    {
+      "name": "Junhong Yang",
+      "institution": "Sheffield University Management School, United Kingdom",
+      "is_presenter": true,
+      "papers": [
+        "CEO Organizational Identification and"
+      ]
+    },
+    {
+      "name": "Jérémy Leymarie",
+      "institution": "Clermont School of Business - CleRMa, France",
+      "is_presenter": true,
+      "papers": [
+        "Joint Backtesting Procedure"
+      ]
+    },
+    {
+      "name": "Ketian Guan",
+      "institution": "Brandeis University, United States",
+      "is_presenter": true,
+      "papers": [
+        "Heterogenous Ex-Dividend Pricing:"
+      ]
+    },
+    {
+      "name": "Laurent Vilanova",
+      "institution": "Université Lumière Lyon 2, France",
+      "is_presenter": true,
+      "papers": [
+        "One's Company, Two's a Crowd:"
+      ]
+    },
+    {
+      "name": "Laurent Weil",
+      "institution": "Université de Strasbourg - LaRGE, France",
+      "is_presenter": true,
+      "papers": [
+        "Tales that Cost:"
+      ]
+    },
+    {
+      "name": "Lennart Sperling",
+      "institution": "University of Hagen, Germany",
+      "is_presenter": true,
+      "papers": [
+        "The Impact of Early Option Exercise"
+      ]
+    },
+    {
+      "name": "Louis De Mesnard Tu Nguyen",
+      "institution": "University of Waterloo, Canada",
+      "is_presenter": true,
+      "papers": [
+        "Director Influence"
+      ]
+    },
+    {
+      "name": "Louise Schraverus",
+      "institution": "Université de Namur - CeReFiM, Belgium",
+      "is_presenter": true,
+      "papers": [
+        "Are SWF official mandate informative ?"
+      ]
+    },
+    {
+      "name": "Magali Aubert",
+      "institution": "UMR MoISA - Montpellier Interdisciplinary center on Sustainable Agri-food systems, France",
+      "is_presenter": true,
+      "papers": [
+        "Multidimensional Sustainability and"
+      ]
+    },
+    {
+      "name": "Magnus Blomkvist",
+      "institution": "EDHEC Business School, France",
+      "is_presenter": true,
+      "papers": [
+        "Why do Publicly Listed"
+      ]
+    },
+    {
+      "name": "Magnus Blomkvist Jay Cai",
+      "institution": "Drexel University, United States",
+      "is_presenter": true,
+      "papers": [
+        "Do shareholders prioritize maximizing"
+      ]
+    },
+    {
+      "name": "Mahdi Sojoudi",
+      "institution": "Grenoble Ecole de Management, France",
+      "is_presenter": true,
+      "papers": [
+        "Green Bonds Spread; Its Sojoudi Mahdi"
+      ]
+    },
+    {
+      "name": "Marc Joets",
+      "institution": "IESEG School of Management, France",
+      "is_presenter": true,
+      "papers": [
+        "Art Market Returns and Macro-Financial"
+      ]
+    },
+    {
+      "name": "Marius Savatier",
+      "institution": "Dauphine-PSL, France",
+      "is_presenter": true,
+      "papers": [
+        "Inconsistency in the Equity"
+      ]
+    },
+    {
+      "name": "Mikael Petitjean (Université Catholique de Louvain - LIDAM",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "When Real Estate Transaction"
+      ]
+    },
+    {
+      "name": "Moussa Diakho",
+      "institution": "Université de Rennes - CREM, France",
+      "is_presenter": true,
+      "papers": [
+        "Optimal Dividend Policy under"
+      ]
+    },
+    {
+      "name": "Nguyet Anh Truong",
+      "institution": "ESCP Business School, France",
+      "is_presenter": true,
+      "papers": [
+        "The Effects of Banking Consolidation on"
+      ]
+    },
+    {
+      "name": "Nico Dewaelheyns",
+      "institution": "KU Leuven,  Belgium",
+      "is_presenter": true,
+      "papers": [
+        "Downsizing in Business Groups:"
+      ]
+    },
+    {
+      "name": "Novak",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Underpricing of Corporate Green Bonds"
+      ]
+    },
+    {
+      "name": "Olga Kolokolova",
+      "institution": "Lancaster University, United Kingdom",
+      "is_presenter": true,
+      "papers": [
+        "Save The Date: Analyst/Investor Days as a"
+      ]
+    },
+    {
+      "name": "Olivier Le Courtois",
+      "institution": "EMLYON Business School, France",
+      "is_presenter": true,
+      "papers": [
+        "On the Insurance of Environmental Risks:"
+      ]
+    },
+    {
+      "name": "Pascal Francois",
+      "institution": "HEC Montréal, Canada",
+      "is_presenter": true,
+      "papers": [
+        "Package Restructuring"
+      ]
+    },
+    {
+      "name": "Patrick Roger",
+      "institution": "Université de Strasbourg - LaRGE, France",
+      "is_presenter": true,
+      "papers": [
+        "Does the gender gap in"
+      ]
+    },
+    {
+      "name": "Patrick Weiss",
+      "institution": "Vienna University of Economics and Business, Austria",
+      "is_presenter": true,
+      "papers": [
+        "In Search of the Causal Greenium Rodenkirchen"
+      ]
+    },
+    {
+      "name": "Prarthna Kaurani John Cotter",
+      "institution": "University College Dublin, Ireland",
+      "is_presenter": true,
+      "papers": [
+        "Monetary Policy: Risk-Return Tradeoffs"
+      ]
+    },
+    {
+      "name": "Radu Burlacu",
+      "institution": "Université Grenoble Alpes - CERAG, France",
+      "is_presenter": true,
+      "papers": [
+        "Does Carbon Transparency Pay Off?",
+        "Innovation and Firm Performance: Evidence"
+      ]
+    },
+    {
+      "name": "Ran Tao",
+      "institution": "University of Bristol, United Kingdom",
+      "is_presenter": true,
+      "papers": [
+        "Long Distance Matters: The Disappearing"
+      ]
+    },
+    {
+      "name": "Riadh Ben Jelili",
+      "institution": "Université de Bretagne Sud - LEGO, France",
+      "is_presenter": true,
+      "papers": [
+        "The Economics of Sustainability Jean-Laurent",
+        "Managing Credibility in Green Bond Markets"
+      ]
+    },
+    {
+      "name": "Robert Rieg",
+      "institution": "Hochschule Aalen, Fakultät Wirtschaftswissenschaften, Germany",
+      "is_presenter": true,
+      "papers": [
+        "Cleantech funding puzzle: Did the 2011"
+      ]
+    },
+    {
+      "name": "Roland Bouillot",
+      "institution": "Maastricht University, Netherland and UCLouvain, Belgium",
+      "is_presenter": true,
+      "papers": [
+        "European Firms' Investments"
+      ]
+    },
+    {
+      "name": "Rudi Vander Vennet",
+      "institution": "Universiteit Gent, Belgium",
+      "is_presenter": true,
+      "papers": [
+        "Effectiveness of a Soft LTV Limit"
+      ]
+    },
+    {
+      "name": "Ruichao Zhu",
+      "institution": "NEOMA Business School, France",
+      "is_presenter": true,
+      "papers": [
+        "Non-Fundamental Price Risk and"
+      ]
+    },
+    {
+      "name": "Ruichen Wang",
+      "institution": "Université de Toulouse 1 Capitole, France",
+      "is_presenter": true,
+      "papers": [
+        "Climate Regulatory Risk and Ruichen Wang"
+      ]
+    },
+    {
+      "name": "Sandra Kendo",
+      "institution": "Université Catholique de Lille, France",
+      "is_presenter": true,
+      "papers": [
+        "ESG Uncertainty Risk and Financial Stability:"
+      ]
+    },
+    {
+      "name": "Sanghyun Kim",
+      "institution": "Wilfrid Laurier University, United States",
+      "is_presenter": true,
+      "papers": [
+        "Will AI Replace or Enhance Human Intelligence in Asset Management? Vikram Nanda"
+      ]
+    },
+    {
+      "name": "Saqib Aziz",
+      "institution": "Rennes School of Business, France",
+      "is_presenter": true,
+      "papers": [
+        "Does ownership structure"
+      ]
+    },
+    {
+      "name": "Selim Mankaï",
+      "institution": "Université de Rouen Normandie, France",
+      "is_presenter": true,
+      "papers": [
+        "Fair Value Research between"
+      ]
+    },
+    {
+      "name": "Serdar Ozgur",
+      "institution": "University of Marmara, Turkey",
+      "is_presenter": true,
+      "papers": [
+        "Assessing Liquidity at Risk in Turkish Banks: A Copula-Driven Monte Carlo Serdar Ozgur"
+      ]
+    },
+    {
+      "name": "Serge Darolles",
+      "institution": "Université Paris  Dauphine - PSL, France",
+      "is_presenter": true,
+      "papers": [
+        "Doing  well to doing good?"
+      ]
+    },
+    {
+      "name": "Serges Darolles",
+      "institution": "Université Paris Dauphine - PSL, DRM- Finance, France",
+      "is_presenter": true,
+      "papers": [
+        "In Search of Value"
+      ]
+    },
+    {
+      "name": "Serigne Serigne Ndiaye (Université de Strasbourg - LaRGE, France) Ndiaye",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Born Here, Grown Elsewhere:"
+      ]
+    },
+    {
+      "name": "Shan Zhao",
+      "institution": "CY Cergy Paris Université - Thema, France",
+      "is_presenter": true,
+      "papers": [
+        "Connected Shareholders at the"
+      ]
+    },
+    {
+      "name": "Stici Constantin Stici (Institut de l'analyse financière, Université Alexander",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "The Golden CAPM"
+      ]
+    },
+    {
+      "name": "Swaminathan Balasubramaniam (Neoma Business School, am",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Swaminathan Limits to Arbitrage in"
+      ]
+    },
+    {
+      "name": "Syrine Ayachi",
+      "institution": "University of Namur, Belgium",
+      "is_presenter": true,
+      "papers": [
+        "Firm-Level Determinants of"
+      ]
+    },
+    {
+      "name": "Tim Loughran",
+      "institution": "University of Notre Dame, United States",
+      "is_presenter": true,
+      "papers": [
+        "Market Reactions to Complex Tim Loughran"
+      ]
+    },
+    {
+      "name": "Tom Lehmann",
+      "institution": "Deutsche Bundesbank, Germany",
+      "is_presenter": true,
+      "papers": [
+        "Banks' pass-through and Competition"
+      ]
+    },
+    {
+      "name": "Tran Huynh",
+      "institution": "Durham University, United Kingdom",
+      "is_presenter": true,
+      "papers": [
+        "The  Price of Silence: Local Newspaper"
+      ]
+    },
+    {
+      "name": "Valenzuela Marcela",
+      "institution": "School of Management, Pontificia Universidad Catholica de Chile, Chile",
+      "is_presenter": true,
+      "papers": [
+        "Effects of Information Overload on Financial"
+      ]
+    },
+    {
+      "name": "Van Quoc Thinh Nguyen",
+      "institution": "University of Sydney, Australia",
+      "is_presenter": true,
+      "papers": [
+        "Option Return Co-movements Thinh Nguyen"
+      ]
+    },
+    {
+      "name": "Vivien Lefebvre",
+      "institution": "Université de Strasbourg - LaRGE, France",
+      "is_presenter": true,
+      "papers": [
+        "When Sales Fall, Working Capital Stays:"
+      ]
+    },
+    {
+      "name": "Walid Faris (Université Paris Dauphine - PSL, DRM-Finance, Walid Faris",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Private Equity and"
+      ]
+    },
+    {
+      "name": "Weidong Tian (University of North Carolina, United States)",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Preference Revelation When"
+      ]
+    },
+    {
+      "name": "Wen Chen",
+      "institution": "Texas Tech University, United States",
+      "is_presenter": true,
+      "papers": [
+        "The Welfare Implication of"
+      ]
+    },
+    {
+      "name": "Xingtan Xingtan Zhang (Cheung Kong Graduate School of Business, Zhang",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Environmental Disclosures in"
+      ]
+    },
+    {
+      "name": "Yixian Li",
+      "institution": "Xiamen University, China",
+      "is_presenter": true,
+      "papers": [
+        "Warned by the WARN Act?"
+      ]
+    },
+    {
+      "name": "Yong Kyu Gam",
+      "institution": "University College Dublin, Ireland",
+      "is_presenter": true,
+      "papers": [
+        "Local Political Uncertainty"
+      ]
+    },
+    {
+      "name": "Yongjun Ma Yongjun Ma (Lingnan College Sun Yat-sen University, China)",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Structural Monetary Policy,"
+      ]
+    },
+    {
+      "name": "Yue Xu",
+      "institution": "Durham University, United Kingdom",
+      "is_presenter": true,
+      "papers": [
+        "Experience as Social Capital: Evidence from"
+      ]
+    },
+    {
+      "name": "Yujing Gong",
+      "institution": "University of Liverpool, United Kingdom",
+      "is_presenter": true,
+      "papers": [
+        "AI-Enabled Risk Assessment and"
+      ]
+    },
+    {
+      "name": "Zexun Chen",
+      "institution": "University of Edinburgh, United Kingdom",
+      "is_presenter": true,
+      "papers": [
+        "Bridging Structured Knowledge and Data:"
+      ]
+    },
+    {
+      "name": "Zuzana Fungacova",
+      "institution": "Bank of Finland, Finland",
+      "is_presenter": true,
+      "papers": [
+        "Investment under Fire: Firm-Level Evidence from the War in Ukraine Axelle  Heyert"
+      ]
+    },
+    {
+      "name": "investisseurs institutionnels",
+      "institution": "Af2i",
+      "is_presenter": true,
+      "papers": [
+        "From Market Indices to Wealth Indices:"
+      ]
+    }
+  ]
+}

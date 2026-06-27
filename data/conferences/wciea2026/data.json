@@ -1,0 +1,519 @@
+{
+  "conference": {
+    "name": "21st World Congress of the International Economic Association",
+    "short_name": "WCIEA 2026",
+    "year": 2026,
+    "start_date": "2026-06-22",
+    "end_date": "2026-06-26",
+    "location": "Belgrade, Serbia",
+    "extras": {
+      "extras": {
+        "edition": "21st World Congress",
+        "venue": "Sava Center",
+        "city": "Belgrade",
+        "country": "Serbia",
+        "website": "https://ieawc2026.org/",
+        "program_url": "https://ieawc2026.org/wp-content/uploads/2026/06/IEA-WC-2026-Programme-v11062026-v1.pdf",
+        "organizer": "International Economic Association (IEA) and Serbian Association of Economists (SAE)",
+        "description": "The 21st IEA World Congress brings together economists from all over the world to discuss their research and policy issues. Theme: Contrasting World Visions: Globalism v Nationalism, Multilateralism v Bilateralism, and Democracy v Autocracy.",
+        "extras": {
+          "theme": "Contrasting World Visions: Globalism v Nationalism, Multilateralism v Bilateralism, and Democracy v Autocracy",
+          "president": "Elhanan Helpman (Harvard University)",
+          "president_elect": "Eric Maskin (Harvard University)",
+          "program_chair": "Eric Maskin (Harvard University)",
+          "local_host": "Aleksandar Vlahovic, President of Serbian Association of Economists",
+          "key_dates": {
+            "submission_opens": "2025-07-01",
+            "submission_closes": "2025-11-15",
+            "notification": "2025-12-15",
+            "early_registration": "2025-11-01 to 2026-02-28",
+            "late_registration": "2026-03-01 to 2026-05-15"
+          },
+          "expected_participants": "800+",
+          "expected_papers": "400+"
+        }
+      }
+    }
+  },
+  "scrape_metadata": {
+    "scraped_at": "2026-06-13T07:56:37Z",
+    "source_url": "https://ieawc2026.org/",
+    "program_url": "https://ieawc2026.org/wp-content/uploads/2026/06/IEA-WC-2026-Programme-v11062026-v1.pdf",
+    "script_name": "scrape_wciea.py",
+    "program_available": true,
+    "program_type": "pdf",
+    "notes": "Full program available in PDF (26MB). Keynote/plenary sessions extracted. Contributed sessions are numerous with parallel tracks - see PDF for full detail.",
+    "errors": [
+      "Contributed academic sessions not fully parsed from PDF due to complex multi-column layout"
+    ]
+  },
+  "sessions": [
+    {
+      "session_title": "Plenary: Jean Tirole Keynote",
+      "date": "2026-06-22",
+      "time": "10:40 - 11:40",
+      "room": "Main Congress Hall",
+      "papers": [
+        {
+          "title": "Keynote Lecture by Jean Tirole",
+          "authors": [
+            "Jean Tirole"
+          ],
+          "presenter": "Jean Tirole"
+        }
+      ]
+    },
+    {
+      "session_title": "Plenary: Esther Duflo Keynote",
+      "date": "2026-06-22",
+      "time": "14:00 - 15:00",
+      "room": "Main Congress Hall",
+      "papers": [
+        {
+          "title": "Keynote Lecture by Esther Duflo",
+          "authors": [
+            "Esther Duflo"
+          ],
+          "presenter": "Esther Duflo"
+        }
+      ]
+    },
+    {
+      "session_title": "Plenary: Torsten Persson Keynote",
+      "date": "2026-06-23",
+      "time": "10:30 - 11:30",
+      "room": "Main Congress Hall",
+      "papers": [
+        {
+          "title": "Keynote Lecture by Torsten Persson",
+          "authors": [
+            "Torsten Persson"
+          ],
+          "presenter": "Torsten Persson"
+        }
+      ]
+    },
+    {
+      "session_title": "Plenary: Elhanan Helpman Keynote",
+      "date": "2026-06-23",
+      "time": "14:00 - 15:00",
+      "room": "Main Congress Hall",
+      "papers": [
+        {
+          "title": "Keynote Lecture by Elhanan Helpman",
+          "authors": [
+            "Elhanan Helpman"
+          ],
+          "presenter": "Elhanan Helpman"
+        }
+      ]
+    },
+    {
+      "session_title": "Plenary: Oleg Itskhoki Keynote",
+      "date": "2026-06-25",
+      "time": "10:30 - 11:30",
+      "room": "Main Congress Hall",
+      "papers": [
+        {
+          "title": "Keynote Lecture by Oleg Itskhoki",
+          "authors": [
+            "Oleg Itskhoki"
+          ],
+          "presenter": "Oleg Itskhoki"
+        }
+      ]
+    },
+    {
+      "session_title": "Plenary: Hélène Rey Keynote",
+      "date": "2026-06-26",
+      "time": "14:00 - 15:00",
+      "room": "Main Congress Hall",
+      "papers": [
+        {
+          "title": "Keynote Lecture by Hélène Rey",
+          "authors": [
+            "Hélène Rey"
+          ],
+          "presenter": "Hélène Rey"
+        }
+      ]
+    },
+    {
+      "session_title": "Panel: The New Global Economic Order (NEO)",
+      "date": "2026-06-24",
+      "time": "10:30 - 11:30",
+      "room": "Main Congress Hall",
+      "papers": [
+        {
+          "title": "The New Global Economic Order (NEO)",
+          "authors": [
+            "Jayati Ghosh",
+            "Dani Rodrik",
+            "Lili Yan Ing",
+            "Justin Yifu Lin",
+            "Lorenzo Caliendo"
+          ],
+          "presenter": ""
+        }
+      ]
+    },
+    {
+      "session_title": "Panel: The Future of US-China Relations",
+      "date": "2026-06-24",
+      "time": "16:45 - 17:45",
+      "room": "Main Congress Hall",
+      "papers": [
+        {
+          "title": "The Future of US-China Relations",
+          "authors": [
+            "Chenggang Xu",
+            "Moritz Schularick",
+            "David Weinstein",
+            "David Yang",
+            "David Daokui Li"
+          ],
+          "presenter": ""
+        }
+      ]
+    },
+    {
+      "session_title": "Panel: Trade and Industrial Policy in a Changing Geopolitical Environment",
+      "date": "2026-06-25",
+      "time": "14:00 - 15:00",
+      "room": "Main Congress Hall",
+      "papers": [
+        {
+          "title": "Trade and Industrial Policy in a Changing Geopolitical Environment",
+          "authors": [
+            "Arnaud Costinot",
+            "Gene Grossman",
+            "Ralph Ossa",
+            "Andres Rodriguez Clare"
+          ],
+          "presenter": ""
+        }
+      ]
+    },
+    {
+      "session_title": "Invited Session: Understanding the Fertility Decline",
+      "date": "2026-06-22",
+      "time": "15:15 - 16:15",
+      "room": "MR",
+      "papers": [
+        {
+          "title": "Understanding the Fertility Decline",
+          "authors": [
+            "Raquel Fernandez",
+            "Michele Tertilt",
+            "Nezih Guner"
+          ],
+          "presenter": "Raquel Fernandez"
+        }
+      ]
+    },
+    {
+      "session_title": "Invited Session: Gender, Misallocation, and Global Development",
+      "chair": "Michelle Petersen Rendall",
+      "date": "2026-06-22",
+      "time": "15:15 - 16:15",
+      "room": "MR32",
+      "papers": [
+        {
+          "title": "The Global Gender Distortions Index (GGDI)",
+          "authors": [
+            "Charles Gottlieb"
+          ],
+          "presenter": "Charles Gottlieb"
+        }
+      ]
+    },
+    {
+      "session_title": "Invited Session: Gender in the Labor Market",
+      "chair": "Alexandra Spitz-Oener",
+      "date": "2026-06-22",
+      "time": "15:15 - 16:15",
+      "room": "MR34",
+      "papers": [
+        {
+          "title": "The Exclusion of Women from Economics Research: Trends, Determinants, and Implications",
+          "authors": [
+            "Melanie Wasserman"
+          ],
+          "presenter": "Melanie Wasserman"
+        },
+        {
+          "title": "Equality for Granted: What Happens when Discrimination in Academia Becomes Salient",
+          "authors": [
+            "Lena Hensvig"
+          ],
+          "presenter": "Lena Hensvig"
+        }
+      ]
+    },
+    {
+      "session_title": "Invited Session: Is an Inequality Revolution Underway in New Keynesian Macroeconomics?",
+      "date": "2026-06-22",
+      "time": "15:15 - 16:15",
+      "room": "MR35",
+      "papers": [
+        {
+          "title": "Is an Inequality Revolution Underway in New Keynesian Macroeconomics?",
+          "authors": [
+            "Wendy Carlin",
+            "Jordi Gali",
+            "Ben Moll",
+            "Amalia Repele"
+          ],
+          "presenter": ""
+        }
+      ]
+    },
+    {
+      "session_title": "Invited Session: The Past, Present, and Future of the Penn World Table",
+      "chair": "Omar Licandro",
+      "date": "2026-06-24",
+      "time": "12:00 - 13:00",
+      "room": "MR11",
+      "papers": [
+        {
+          "title": "Towards Measuring Purchasing Power Parity Across OECD Regions",
+          "authors": [
+            "Juergen Amann"
+          ],
+          "presenter": "Juergen Amann"
+        },
+        {
+          "title": "Measuring Cross-Country GDPs from a Welfare Perspective",
+          "authors": [
+            "Juan Ignacio Vizcaino",
+            "Marko Rissanen"
+          ],
+          "presenter": "Juan Ignacio Vizcaino"
+        }
+      ]
+    },
+    {
+      "session_title": "Invited Session: Sovereign Debt and Risk",
+      "chair": "David Kohn",
+      "date": "2026-06-24",
+      "time": "12:00 - 13:00",
+      "room": "MR32",
+      "papers": [
+        {
+          "title": "The Drivers of Bond Government Issuances in Emerging and Low Income Economies",
+          "authors": [
+            "Ugo Panizza"
+          ],
+          "presenter": "Ugo Panizza"
+        },
+        {
+          "title": "The Perils of Bilateral Sovereign Debt",
+          "authors": [
+            "Francisco Roldán"
+          ],
+          "presenter": "Francisco Roldán"
+        }
+      ]
+    },
+    {
+      "session_title": "Invited Panel: Rethinking Global Inequality",
+      "date": "2026-06-23",
+      "time": "15:15 - 16:15",
+      "room": "Main Congress Hall",
+      "papers": [
+        {
+          "title": "Rethinking Global Inequality: Technology, Power, Public Policy",
+          "authors": [
+            "Clement Bohr",
+            "Jayati Ghosh"
+          ],
+          "presenter": ""
+        }
+      ]
+    },
+    {
+      "session_title": "Invited Session: Globalization Crossroads",
+      "chair": "Kalina Manova",
+      "date": "2026-06-23",
+      "time": "15:15 - 16:15",
+      "room": "MR11",
+      "papers": [
+        {
+          "title": "Deep Integration and Trade: UK Firms in the Wake of Brexit",
+          "authors": [
+            "Kalina Manova"
+          ],
+          "presenter": "Kalina Manova"
+        },
+        {
+          "title": "Plastic Turkey: International Impacts of China's Waste Import Ban",
+          "authors": [
+            "Banu Demir"
+          ],
+          "presenter": "Banu Demir"
+        }
+      ]
+    }
+  ],
+  "participants": [
+    {
+      "name": "Jean Tirole",
+      "institution": "Toulouse School of Economics",
+      "is_presenter": true,
+      "papers": [
+        "Keynote Lecture by Jean Tirole"
+      ]
+    },
+    {
+      "name": "Esther Duflo",
+      "institution": "MIT",
+      "is_presenter": true,
+      "papers": [
+        "Keynote Lecture by Esther Duflo"
+      ]
+    },
+    {
+      "name": "Torsten Persson",
+      "institution": "Stockholm University and LSE",
+      "is_presenter": true,
+      "papers": [
+        "Keynote Lecture by Torsten Persson"
+      ]
+    },
+    {
+      "name": "Elhanan Helpman",
+      "institution": "Harvard University",
+      "is_presenter": true,
+      "papers": [
+        "Keynote Lecture by Elhanan Helpman"
+      ]
+    },
+    {
+      "name": "Oleg Itskhoki",
+      "institution": "Harvard University",
+      "is_presenter": true,
+      "papers": [
+        "Keynote Lecture by Oleg Itskhoki"
+      ]
+    },
+    {
+      "name": "Hélène Rey",
+      "institution": "London Business School",
+      "is_presenter": true,
+      "papers": [
+        "Keynote Lecture by Hélène Rey"
+      ]
+    },
+    {
+      "name": "Eric Maskin",
+      "institution": "Harvard University",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Jayati Ghosh",
+      "institution": "UMass Amherst",
+      "is_presenter": true,
+      "papers": [
+        "The New Global Economic Order (NEO)"
+      ]
+    },
+    {
+      "name": "Dani Rodrik",
+      "institution": "Harvard University",
+      "is_presenter": true,
+      "papers": [
+        "The New Global Economic Order (NEO)"
+      ]
+    },
+    {
+      "name": "Justin Yifu Lin",
+      "institution": "Peking University",
+      "is_presenter": true,
+      "papers": [
+        "The New Global Economic Order (NEO)"
+      ]
+    },
+    {
+      "name": "Lorenzo Caliendo",
+      "institution": "Yale",
+      "is_presenter": false,
+      "papers": [
+        "The New Global Economic Order (NEO)",
+        "Trade and Industrial Policy in a Changing Geopolitical Environment"
+      ]
+    },
+    {
+      "name": "Arnaud Costinot",
+      "institution": "MIT",
+      "is_presenter": true,
+      "papers": [
+        "Trade and Industrial Policy in a Changing Geopolitical Environment"
+      ]
+    },
+    {
+      "name": "Gene Grossman",
+      "institution": "Princeton",
+      "is_presenter": true,
+      "papers": [
+        "Trade and Industrial Policy in a Changing Geopolitical Environment"
+      ]
+    },
+    {
+      "name": "Ralph Ossa",
+      "institution": "University of Zurich",
+      "is_presenter": true,
+      "papers": [
+        "Trade and Industrial Policy in a Changing Geopolitical Environment"
+      ]
+    },
+    {
+      "name": "Raquel Fernandez",
+      "institution": "NYU",
+      "is_presenter": true,
+      "papers": [
+        "Understanding the Fertility Decline"
+      ]
+    },
+    {
+      "name": "Charles Gottlieb",
+      "institution": "Université Aix-Marseille and University of Geneva",
+      "is_presenter": true,
+      "papers": [
+        "The Global Gender Distortions Index (GGDI)"
+      ]
+    },
+    {
+      "name": "Melanie Wasserman",
+      "institution": "UCLA Anderson School of Management",
+      "is_presenter": true,
+      "papers": [
+        "The Exclusion of Women from Economics Research: Trends, Determinants, and Implications"
+      ]
+    },
+    {
+      "name": "Wendy Carlin",
+      "institution": "UCL",
+      "is_presenter": true,
+      "papers": [
+        "Is an Inequality Revolution Underway in New Keynesian Macroeconomics?"
+      ]
+    },
+    {
+      "name": "Ugo Panizza",
+      "institution": "Geneva Graduate Institute",
+      "is_presenter": true,
+      "papers": [
+        "The Drivers of Bond Government Issuances in Emerging and Low Income Economies"
+      ]
+    },
+    {
+      "name": "Kalina Manova",
+      "institution": "UCL",
+      "is_presenter": true,
+      "papers": [
+        "Deep Integration and Trade: UK Firms in the Wake of Brexit"
+      ]
+    }
+  ]
+}

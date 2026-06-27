@@ -1,0 +1,19 @@
+{
+  "conference": {
+    "name": "ECB Annual Research Conference",
+    "short_name": "ECBARC",
+    "year": 2026,
+    "start_date": "2026-09-21",
+    "end_date": "2026-09-22",
+    "location": "Frankfurt, Germany"
+  },
+  "scrape_metadata": {
+    "scraped_at": "2026-06-13T17:47:33.010166",
+    "source_url": "https://www.ecb.europa.eu/pub/conferences/ecbforum/html/index.en.html",
+    "program_available": false,
+    "program_type": "web",
+    "errors": []
+  },
+  "sessions": [],
+  "participants": []
+}

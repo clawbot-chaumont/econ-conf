@@ -1,0 +1,19 @@
+{
+  "conference": {
+    "name": "Symposium on Money Banking and Finance (GDRE)",
+    "short_name": "GDRE",
+    "year": 2026,
+    "start_date": "2026-06-22",
+    "end_date": "2026-06-23",
+    "location": "France"
+  },
+  "scrape_metadata": {
+    "scraped_at": "2026-06-13T17:47:57.892644",
+    "source_url": "https://gdre2026.sciencesconf.org",
+    "program_available": false,
+    "program_type": "web",
+    "errors": []
+  },
+  "sessions": [],
+  "participants": []
+}

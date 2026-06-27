@@ -1,0 +1,1067 @@
+{
+  "conference": {
+    "name": "Financial Risks International Forum (RFILB)",
+    "short_name": "RFILB",
+    "year": 2026,
+    "start_date": "2026-03-30",
+    "end_date": "2026-03-31",
+    "location": "Paris, France"
+  },
+  "scrape_metadata": {
+    "scraped_at": "2026-06-13T17:00:00",
+    "source_url": "https://www.risks-forum.org/PROGRAM",
+    "program_available": true,
+    "program_type": "web",
+    "errors": []
+  },
+  "sessions": [
+    {
+      "session_title": "Plenary Session I - Measuring Geopolitical Risk using AI",
+      "chair": "Dorothée ROUZET, French Treasury",
+      "date": "2026-03-30",
+      "papers": [
+        {
+          "title": "Measuring Geopolitical Risk using Artificial Intelligence",
+          "authors": [
+            "Matteo IACOVIELLO"
+          ],
+          "presenter": "Matteo IACOVIELLO"
+        }
+      ]
+    },
+    {
+      "session_title": "Welcome Address",
+      "chair": "Marie BRIERE, Institut Louis Bachelier",
+      "date": "2026-03-30",
+      "papers": []
+    },
+    {
+      "session_title": "Session 1: SYSTEMIC RISK, GEOPOLITICAL RISK AND STRESS TEST",
+      "chair": "Christophe HURLIN, Université d'Orléans",
+      "date": "2026-03-30",
+      "papers": [
+        {
+          "title": "Complex Organizations, Leverage and Interest Rates",
+          "authors": [
+            "Giovanna NICODANO",
+            "Luca REGIS"
+          ],
+          "presenter": "Giovanna NICODANO"
+        },
+        {
+          "title": "Joint Backtesting Procedure for Systemic Risk Measures",
+          "authors": [
+            "Yujian CHEN",
+            "Jérémy LEYMARIE"
+          ],
+          "presenter": "Yujian CHEN"
+        },
+        {
+          "title": "Vulnerability and Contagion in the US Equity Mutual Funds",
+          "authors": [
+            "Huyen NGUYEN"
+          ],
+          "presenter": "Huyen NGUYEN"
+        },
+        {
+          "title": "Stress Testing Credit Portfolios under Geopolitical Risk",
+          "authors": [
+            "Yoann PULL",
+            "Quentin LAJAUNIE"
+          ],
+          "presenter": "Yoann PULL"
+        }
+      ]
+    },
+    {
+      "session_title": "Session 2: CLIMATE RISK",
+      "chair": "Bertrand VILLENEUVE, Université Paris-Dauphine PSL",
+      "date": "2026-03-30",
+      "papers": [
+        {
+          "title": "Beyond Green Claims: The Market Value of Credibility in Sustainability-Linked Bonds",
+          "authors": [
+            "Suwan (Cheng) LONG",
+            "Imtiaz UL HAQC"
+          ],
+          "presenter": "Suwan (Cheng) LONG"
+        },
+        {
+          "title": "Sovereign Green Bonds: a Catalyst for Sustainable Debt Market Development?",
+          "authors": [
+            "Gong CHENG"
+          ],
+          "presenter": "Gong CHENG"
+        },
+        {
+          "title": "Quantifying Climate Risk Premia",
+          "authors": [
+            "Fangyuan ZHANG",
+            "Lionel MELIN"
+          ],
+          "presenter": "Fangyuan ZHANG"
+        }
+      ]
+    },
+    {
+      "session_title": "Session 3: LIQUIDITY RISK AND ORDER EXECUTION- AMPHITEATHRE DES ENGRENAGES",
+      "chair": "Mathieu ROSENBAUM, Université Paris Dauphine- PSL",
+      "date": "2026-03-30",
+      "papers": [
+        {
+          "title": "A Unified Theory for Volume, Impact, and Volatility",
+          "authors": [
+            "Youssef OUAZZANI CHAHDI"
+          ],
+          "presenter": "Youssef OUAZZANI CHAHDI"
+        },
+        {
+          "title": "Optimal Execution on Uniswap v2/v3 Under Transient Price Impact",
+          "authors": [
+            "Bastien BAUDE",
+            "Ioane MUNI TOKE"
+          ],
+          "presenter": "Bastien BAUDE"
+        },
+        {
+          "title": "Trading with Market Resistance and Concave Price Impact",
+          "authors": [
+            "Nathan DE CARVALHO",
+            "Grégoire SZYMANSKI"
+          ],
+          "presenter": "Nathan DE CARVALHO"
+        },
+        {
+          "title": "Optimal Execution under Liquidity Uncertainty",
+          "authors": [
+            "Yadh HAFSI",
+            "Sergio PULIDO"
+          ],
+          "presenter": "Yadh HAFSI"
+        }
+      ]
+    },
+    {
+      "session_title": "Session 4: BUBBLES AND SYSTEMIC RISKS",
+      "chair": "Jean, Michel ZAKOIAN,CREST",
+      "date": "2026-03-30",
+      "papers": [
+        {
+          "title": "Prediction of Bubbles in Presence of Stable Aggregates Moving Averages",
+          "authors": [
+            "Arthur THOMAS",
+            "Sébastien FRIES"
+          ],
+          "presenter": "Arthur THOMAS"
+        },
+        {
+          "title": "Tail-Aware Density Forecasting of Locally Explosive Time Series: A Neural Network Approach",
+          "authors": [
+            "Elena DUMITRESCU",
+            "Arthur THOMAS"
+          ],
+          "presenter": "Elena DUMITRESCU"
+        },
+        {
+          "title": "Systemic Robustness: a Mean-Field Particle System Approach",
+          "authors": [
+            "Gaoyue GUO",
+            "Yuming Paul ZHANG"
+          ],
+          "presenter": "Gaoyue GUO"
+        }
+      ]
+    },
+    {
+      "session_title": "Session 5: DEFI/FINTECH-  LE LOUNGE",
+      "chair": "Olivier GUEANT, Université Paris Cité",
+      "date": "2026-03-30",
+      "papers": [
+        {
+          "title": "Leveraged Positions on Decentralised Lending Platforms",
+          "authors": [
+            "Vincent DANOS",
+            "Hamza EL KHALLOUFI"
+          ],
+          "presenter": "Vincent DANOS"
+        },
+        {
+          "title": "Delegated Control, Agency Conflicts and Endogenous Governance Cycles in Token-Based Platforms",
+          "authors": [
+            "Michel FABI",
+            "Romain ROSSELLO"
+          ],
+          "presenter": "Michel FABI"
+        },
+        {
+          "title": "Cross-Exchange Liquidity Dynamics: Decentralized and Centralized Crypto Platforms During the US Banking Crisis",
+          "authors": [
+            "Daniel FINNAN",
+            "Iryna VERYZHENKO"
+          ],
+          "presenter": "Daniel FINNAN"
+        }
+      ]
+    },
+    {
+      "session_title": "Session 6: CYBER RISK AND FRAUD",
+      "chair": "Olivier FLICHE, ACPR",
+      "date": "2026-03-30",
+      "papers": [
+        {
+          "title": "A Stochastic SIR Model for Cyber Contagion: Application to Granular Growth of Firms and to Insurance Portfolio",
+          "authors": [
+            "Lionel SOPGOUI"
+          ],
+          "presenter": "Lionel SOPGOUI"
+        },
+        {
+          "title": "Forecast Relative Error Decomposition with an Application to Cyber Risk",
+          "authors": [
+            "Quinlan LEE",
+            "Christian GOURIEROUX"
+          ],
+          "presenter": "Quinlan LEE"
+        },
+        {
+          "title": "Leveraging Self-Supervised Learning for Fraud Detection in Tabular Data",
+          "authors": [
+            "José Lucas DE MELO COSTA",
+            "Bich-Liên DOAN"
+          ],
+          "presenter": "José Lucas DE MELO COSTA"
+        }
+      ]
+    },
+    {
+      "session_title": "Session 7: ROBO-ADVICE- SALON D'HONNEUR",
+      "chair": "Catherine CASAMATTA, Toulouse School of Management and Toulouse School of Economics",
+      "date": "2026-03-31",
+      "papers": [
+        {
+          "title": "Algorithmic Transparency and Portfolio Choices: Field Evidence",
+          "authors": [
+            "Béatrice BOULU-RESHEF",
+            "Alexis DIRER"
+          ],
+          "presenter": "Béatrice BOULU-RESHEF"
+        },
+        {
+          "title": "Financial Advice Behavior: Humans versus AI",
+          "authors": [
+            "Roman MATKOVSKYY",
+            "Ylva BAECKSTRÖM"
+          ],
+          "presenter": "Roman MATKOVSKYY"
+        },
+        {
+          "title": "Multi-Asset Portfolios with Active and Passive Funds - a Robust Optimization Framework",
+          "authors": [
+            "Romain PERCHET"
+          ],
+          "presenter": "Romain PERCHET"
+        }
+      ]
+    },
+    {
+      "session_title": "Session 8: CLIMATE RISK",
+      "chair": "Peter TANKOV, CREST",
+      "date": "2026-03-31",
+      "papers": [
+        {
+          "title": "The Anatomy of Decarbonizing firms",
+          "authors": [
+            "Thomas GIROUX",
+            "Borui QIU"
+          ],
+          "presenter": "Thomas GIROUX"
+        },
+        {
+          "title": "Credit Worthiness and Portfolio Stress Testing in a Hotter World Transitioning to Net Zero",
+          "authors": [
+            "Gabriel OREGGIONI,Toivo MILLER",
+            ",David STYLE"
+          ],
+          "presenter": "Gabriel OREGGIONI,Toivo MILLER"
+        },
+        {
+          "title": "Strategic Asset Allocation Under Global Warming",
+          "authors": [
+            "Yujun HUANG"
+          ],
+          "presenter": "Yujun HUANG"
+        },
+        {
+          "title": "A Framework for Structuring a Blended Finance Fund",
+          "authors": [
+            "Thierry RONCALLI"
+          ],
+          "presenter": "Thierry RONCALLI"
+        }
+      ]
+    },
+    {
+      "session_title": "Session 9: ASSET PRICING",
+      "chair": "Elise GOURIER, ESSEC",
+      "date": "2026-03-31",
+      "papers": [
+        {
+          "title": "In Search of Seasonality in Intraday and Overnight Option Returns",
+          "authors": [
+            "Mathis MOERKE",
+            "Florian WEIGERT"
+          ],
+          "presenter": "Mathis MOERKE"
+        },
+        {
+          "title": "Belief Skewness in the Stock Market",
+          "authors": [
+            "Paul KAREHNKE",
+            "Arthur BEDDOCK"
+          ],
+          "presenter": "Paul KAREHNKE"
+        },
+        {
+          "title": "A Causal Approach To Forecasting Central Bank Decisions",
+          "authors": [
+            "Mathis GUENET"
+          ],
+          "presenter": "Mathis GUENET"
+        },
+        {
+          "title": "Traded-Coordinate Diagnostics for Hedging Feedback",
+          "authors": [
+            "Mohammed AHNOUCH",
+            "Erwan LESAOUT"
+          ],
+          "presenter": "Mohammed AHNOUCH"
+        }
+      ]
+    },
+    {
+      "session_title": "Session 10: LIQUIDITY RISK",
+      "chair": "Olivier David ZERBIB, CREST",
+      "date": "2026-03-31",
+      "papers": [
+        {
+          "title": "Instant Liquidity, Latent Risk",
+          "authors": [
+            "Lionel MELIN",
+            "Florent ROUXELIN"
+          ],
+          "presenter": "Lionel MELIN"
+        },
+        {
+          "title": "LRISK: Systemic Liquidity Risk in Mutual Funds",
+          "authors": [
+            "Tristan JOURDE,Martin SAILLARD and Floris VAN DIJK"
+          ],
+          "presenter": "Tristan JOURDE,Martin SAILLARD and Floris VAN DIJK"
+        },
+        {
+          "title": "Liquid Factor Models",
+          "authors": [
+            "Dale ROSENTHAL"
+          ],
+          "presenter": "Dale ROSENTHAL"
+        }
+      ]
+    },
+    {
+      "session_title": "Session 11: HIGH DIMENSIONAL RISKS",
+      "chair": "Stéphane CREPEY, Université Paris Cité",
+      "date": "2026-03-31",
+      "papers": [
+        {
+          "title": "Higher-Order Moment Shrinkage for Risk Assessment",
+          "authors": [
+            "Paul RUELLOUX",
+            "Damien CHALLET"
+          ],
+          "presenter": "Paul RUELLOUX"
+        },
+        {
+          "title": "Physics-Informed Singular-Value Learning for Cross-Covariances Forecasting in Financial Markets",
+          "authors": [
+            "Efstratios MANOLAKIS",
+            "Rosario N. MANTEGNA"
+          ],
+          "presenter": "Efstratios MANOLAKIS"
+        },
+        {
+          "title": "The Recalibration Conundrum: Hedging Valuation Adjustment for Callable Claims",
+          "authors": [
+            "Stéphane CREPEY",
+            "Dounia ESSAKET"
+          ],
+          "presenter": "Stéphane CREPEY"
+        }
+      ]
+    },
+    {
+      "session_title": "Session 12: PORTFOLIO OPTIMIZATION-  AMPHITEATRE DES ENGRENAGES",
+      "chair": "Eric BOUYE, World Bank",
+      "date": "2026-03-31",
+      "papers": [
+        {
+          "title": "End-to-End Large Portfolio Optimization for Variance Minimization with Neural Networks through Covariance Cleaning",
+          "authors": [
+            "Christian BONGIORNO",
+            "Rosario NUNZIO MANTEGNA"
+          ],
+          "presenter": "Christian BONGIORNO"
+        },
+        {
+          "title": "Risk Factor, Risk Premium and Black-Litterman Model",
+          "authors": [
+            "Natasha ABOU RJAILY",
+            "Jiali XU"
+          ],
+          "presenter": "Natasha ABOU RJAILY"
+        }
+      ]
+    },
+    {
+      "session_title": "Poster Session",
+      "date": "2026-03-30",
+      "papers": [
+        {
+          "title": "E-TRENDS: Enhanced LSTM Trend Forecasting for Equities",
+          "authors": [
+            "Harris BUCHANAN"
+          ],
+          "presenter": "Harris BUCHANAN"
+        },
+        {
+          "title": "Revisiting the Structure of Trend Premia: When Diversification Hides Redundancy",
+          "authors": [
+            "Alban ETIENNE"
+          ],
+          "presenter": "Alban ETIENNE"
+        },
+        {
+          "title": "Industry-Level Sentiment and Stock Returns",
+          "authors": [
+            "Thi Thuy Trang TRUONG"
+          ],
+          "presenter": "Thi Thuy Trang TRUONG"
+        },
+        {
+          "title": "Retirement Accumulation Strategies with Real Assets and Inflation Risk",
+          "authors": [
+            "Thierry RONCALLI"
+          ],
+          "presenter": "Thierry RONCALLI"
+        },
+        {
+          "title": "Lifting the Double Hidden Risk: Toward a Self-Organizing Review of Climate Physical Risks Financial Impact Models",
+          "authors": [
+            "Paul VIGNERON"
+          ],
+          "presenter": "Paul VIGNERON"
+        }
+      ]
+    },
+    {
+      "session_title": "Plenary Session II - Climate Risk and US Systemic Stability",
+      "chair": "Laurent CLERC, Banque de France",
+      "date": "2026-03-31",
+      "papers": [
+        {
+          "title": "How Climate Risk Shapes US Systemic Stability Through Syndicated Lendings",
+          "authors": [
+            "Monica BILLIO"
+          ],
+          "presenter": "Monica BILLIO"
+        }
+      ]
+    },
+    {
+      "session_title": "Plenary Session III - AI and the Integrity of Knowledge",
+      "chair": "Marie-Anne BARBAT LAYANI, AMF",
+      "date": "2026-03-31",
+      "papers": [
+        {
+          "title": "AI and the Integrity of Knowledge",
+          "authors": [
+            "Markus LEIPPOLD"
+          ],
+          "presenter": "Markus LEIPPOLD"
+        }
+      ]
+    }
+  ],
+  "participants": [
+    {
+      "name": ",David STYLE",
+      "institution": "",
+      "is_presenter": false,
+      "papers": [
+        "Credit Worthiness and Portfolio Stress Testing in a Hotter World Transitioning to Net Zero"
+      ]
+    },
+    {
+      "name": "Alban ETIENNE",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Revisiting the Structure of Trend Premia: When Diversification Hides Redundancy"
+      ]
+    },
+    {
+      "name": "Alexis DIRER",
+      "institution": "",
+      "is_presenter": false,
+      "papers": [
+        "Algorithmic Transparency and Portfolio Choices: Field Evidence"
+      ]
+    },
+    {
+      "name": "Arthur BEDDOCK",
+      "institution": "",
+      "is_presenter": false,
+      "papers": [
+        "Belief Skewness in the Stock Market"
+      ]
+    },
+    {
+      "name": "Arthur THOMAS",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Prediction of Bubbles in Presence of Stable Aggregates Moving Averages",
+        "Tail-Aware Density Forecasting of Locally Explosive Time Series: A Neural Network Approach"
+      ]
+    },
+    {
+      "name": "Bastien BAUDE",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Optimal Execution on Uniswap v2/v3 Under Transient Price Impact"
+      ]
+    },
+    {
+      "name": "Bich-Liên DOAN",
+      "institution": "",
+      "is_presenter": false,
+      "papers": [
+        "Leveraging Self-Supervised Learning for Fraud Detection in Tabular Data"
+      ]
+    },
+    {
+      "name": "Borui QIU",
+      "institution": "",
+      "is_presenter": false,
+      "papers": [
+        "The Anatomy of Decarbonizing firms"
+      ]
+    },
+    {
+      "name": "Béatrice BOULU-RESHEF",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Algorithmic Transparency and Portfolio Choices: Field Evidence"
+      ]
+    },
+    {
+      "name": "Christian BONGIORNO",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "End-to-End Large Portfolio Optimization for Variance Minimization with Neural Networks through Covariance Cleaning"
+      ]
+    },
+    {
+      "name": "Christian GOURIEROUX",
+      "institution": "",
+      "is_presenter": false,
+      "papers": [
+        "Forecast Relative Error Decomposition with an Application to Cyber Risk"
+      ]
+    },
+    {
+      "name": "Dale ROSENTHAL",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Liquid Factor Models"
+      ]
+    },
+    {
+      "name": "Damien CHALLET",
+      "institution": "",
+      "is_presenter": false,
+      "papers": [
+        "Higher-Order Moment Shrinkage for Risk Assessment"
+      ]
+    },
+    {
+      "name": "Daniel FINNAN",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Cross-Exchange Liquidity Dynamics: Decentralized and Centralized Crypto Platforms During the US Banking Crisis"
+      ]
+    },
+    {
+      "name": "Dounia ESSAKET",
+      "institution": "",
+      "is_presenter": false,
+      "papers": [
+        "The Recalibration Conundrum: Hedging Valuation Adjustment for Callable Claims"
+      ]
+    },
+    {
+      "name": "Efstratios MANOLAKIS",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Physics-Informed Singular-Value Learning for Cross-Covariances Forecasting in Financial Markets"
+      ]
+    },
+    {
+      "name": "Elena DUMITRESCU",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Tail-Aware Density Forecasting of Locally Explosive Time Series: A Neural Network Approach"
+      ]
+    },
+    {
+      "name": "Erwan LESAOUT",
+      "institution": "",
+      "is_presenter": false,
+      "papers": [
+        "Traded-Coordinate Diagnostics for Hedging Feedback"
+      ]
+    },
+    {
+      "name": "Fangyuan ZHANG",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Quantifying Climate Risk Premia"
+      ]
+    },
+    {
+      "name": "Florent ROUXELIN",
+      "institution": "",
+      "is_presenter": false,
+      "papers": [
+        "Instant Liquidity, Latent Risk"
+      ]
+    },
+    {
+      "name": "Florian WEIGERT",
+      "institution": "",
+      "is_presenter": false,
+      "papers": [
+        "In Search of Seasonality in Intraday and Overnight Option Returns"
+      ]
+    },
+    {
+      "name": "Gabriel OREGGIONI,Toivo MILLER",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Credit Worthiness and Portfolio Stress Testing in a Hotter World Transitioning to Net Zero"
+      ]
+    },
+    {
+      "name": "Gaoyue GUO",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Systemic Robustness: a Mean-Field Particle System Approach"
+      ]
+    },
+    {
+      "name": "Giovanna NICODANO",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Complex Organizations, Leverage and Interest Rates"
+      ]
+    },
+    {
+      "name": "Gong CHENG",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Sovereign Green Bonds: a Catalyst for Sustainable Debt Market Development?"
+      ]
+    },
+    {
+      "name": "Grégoire SZYMANSKI",
+      "institution": "",
+      "is_presenter": false,
+      "papers": [
+        "Trading with Market Resistance and Concave Price Impact"
+      ]
+    },
+    {
+      "name": "Hamza EL KHALLOUFI",
+      "institution": "",
+      "is_presenter": false,
+      "papers": [
+        "Leveraged Positions on Decentralised Lending Platforms"
+      ]
+    },
+    {
+      "name": "Harris BUCHANAN",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "E-TRENDS: Enhanced LSTM Trend Forecasting for Equities"
+      ]
+    },
+    {
+      "name": "Huyen NGUYEN",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Vulnerability and Contagion in the US Equity Mutual Funds"
+      ]
+    },
+    {
+      "name": "Imtiaz UL HAQC",
+      "institution": "",
+      "is_presenter": false,
+      "papers": [
+        "Beyond Green Claims: The Market Value of Credibility in Sustainability-Linked Bonds"
+      ]
+    },
+    {
+      "name": "Ioane MUNI TOKE",
+      "institution": "",
+      "is_presenter": false,
+      "papers": [
+        "Optimal Execution on Uniswap v2/v3 Under Transient Price Impact"
+      ]
+    },
+    {
+      "name": "Iryna VERYZHENKO",
+      "institution": "",
+      "is_presenter": false,
+      "papers": [
+        "Cross-Exchange Liquidity Dynamics: Decentralized and Centralized Crypto Platforms During the US Banking Crisis"
+      ]
+    },
+    {
+      "name": "Jiali XU",
+      "institution": "",
+      "is_presenter": false,
+      "papers": [
+        "Risk Factor, Risk Premium and Black-Litterman Model"
+      ]
+    },
+    {
+      "name": "José Lucas DE MELO COSTA",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Leveraging Self-Supervised Learning for Fraud Detection in Tabular Data"
+      ]
+    },
+    {
+      "name": "Jérémy LEYMARIE",
+      "institution": "",
+      "is_presenter": false,
+      "papers": [
+        "Joint Backtesting Procedure for Systemic Risk Measures"
+      ]
+    },
+    {
+      "name": "Lionel MELIN",
+      "institution": "",
+      "is_presenter": false,
+      "papers": [
+        "Quantifying Climate Risk Premia",
+        "Instant Liquidity, Latent Risk"
+      ]
+    },
+    {
+      "name": "Lionel SOPGOUI",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "A Stochastic SIR Model for Cyber Contagion: Application to Granular Growth of Firms and to Insurance Portfolio"
+      ]
+    },
+    {
+      "name": "Luca REGIS",
+      "institution": "",
+      "is_presenter": false,
+      "papers": [
+        "Complex Organizations, Leverage and Interest Rates"
+      ]
+    },
+    {
+      "name": "Mathis GUENET",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "A Causal Approach To Forecasting Central Bank Decisions"
+      ]
+    },
+    {
+      "name": "Mathis MOERKE",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "In Search of Seasonality in Intraday and Overnight Option Returns"
+      ]
+    },
+    {
+      "name": "Michel FABI",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Delegated Control, Agency Conflicts and Endogenous Governance Cycles in Token-Based Platforms"
+      ]
+    },
+    {
+      "name": "Mohammed AHNOUCH",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Traded-Coordinate Diagnostics for Hedging Feedback"
+      ]
+    },
+    {
+      "name": "Natasha ABOU RJAILY",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Risk Factor, Risk Premium and Black-Litterman Model"
+      ]
+    },
+    {
+      "name": "Nathan DE CARVALHO",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Trading with Market Resistance and Concave Price Impact"
+      ]
+    },
+    {
+      "name": "Paul KAREHNKE",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Belief Skewness in the Stock Market"
+      ]
+    },
+    {
+      "name": "Paul RUELLOUX",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Higher-Order Moment Shrinkage for Risk Assessment"
+      ]
+    },
+    {
+      "name": "Paul VIGNERON",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Lifting the Double Hidden Risk: Toward a Self-Organizing Review of Climate Physical Risks Financial Impact Models"
+      ]
+    },
+    {
+      "name": "Quentin LAJAUNIE",
+      "institution": "",
+      "is_presenter": false,
+      "papers": [
+        "Stress Testing Credit Portfolios under Geopolitical Risk"
+      ]
+    },
+    {
+      "name": "Quinlan LEE",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Forecast Relative Error Decomposition with an Application to Cyber Risk"
+      ]
+    },
+    {
+      "name": "Romain PERCHET",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Multi-Asset Portfolios with Active and Passive Funds - a Robust Optimization Framework"
+      ]
+    },
+    {
+      "name": "Romain ROSSELLO",
+      "institution": "",
+      "is_presenter": false,
+      "papers": [
+        "Delegated Control, Agency Conflicts and Endogenous Governance Cycles in Token-Based Platforms"
+      ]
+    },
+    {
+      "name": "Roman MATKOVSKYY",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Financial Advice Behavior: Humans versus AI"
+      ]
+    },
+    {
+      "name": "Rosario N. MANTEGNA",
+      "institution": "",
+      "is_presenter": false,
+      "papers": [
+        "Physics-Informed Singular-Value Learning for Cross-Covariances Forecasting in Financial Markets"
+      ]
+    },
+    {
+      "name": "Rosario NUNZIO MANTEGNA",
+      "institution": "",
+      "is_presenter": false,
+      "papers": [
+        "End-to-End Large Portfolio Optimization for Variance Minimization with Neural Networks through Covariance Cleaning"
+      ]
+    },
+    {
+      "name": "Sergio PULIDO",
+      "institution": "",
+      "is_presenter": false,
+      "papers": [
+        "Optimal Execution under Liquidity Uncertainty"
+      ]
+    },
+    {
+      "name": "Stéphane CREPEY",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "The Recalibration Conundrum: Hedging Valuation Adjustment for Callable Claims"
+      ]
+    },
+    {
+      "name": "Suwan (Cheng) LONG",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Beyond Green Claims: The Market Value of Credibility in Sustainability-Linked Bonds"
+      ]
+    },
+    {
+      "name": "Sébastien FRIES",
+      "institution": "",
+      "is_presenter": false,
+      "papers": [
+        "Prediction of Bubbles in Presence of Stable Aggregates Moving Averages"
+      ]
+    },
+    {
+      "name": "Thi Thuy Trang TRUONG",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Industry-Level Sentiment and Stock Returns"
+      ]
+    },
+    {
+      "name": "Thierry RONCALLI",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "A Framework for Structuring a Blended Finance Fund",
+        "Retirement Accumulation Strategies with Real Assets and Inflation Risk"
+      ]
+    },
+    {
+      "name": "Thomas GIROUX",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "The Anatomy of Decarbonizing firms"
+      ]
+    },
+    {
+      "name": "Tristan JOURDE,Martin SAILLARD and Floris VAN DIJK",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "LRISK: Systemic Liquidity Risk in Mutual Funds"
+      ]
+    },
+    {
+      "name": "Vincent DANOS",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Leveraged Positions on Decentralised Lending Platforms"
+      ]
+    },
+    {
+      "name": "Yadh HAFSI",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Optimal Execution under Liquidity Uncertainty"
+      ]
+    },
+    {
+      "name": "Ylva BAECKSTRÖM",
+      "institution": "",
+      "is_presenter": false,
+      "papers": [
+        "Financial Advice Behavior: Humans versus AI"
+      ]
+    },
+    {
+      "name": "Yoann PULL",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Stress Testing Credit Portfolios under Geopolitical Risk"
+      ]
+    },
+    {
+      "name": "Youssef OUAZZANI CHAHDI",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "A Unified Theory for Volume, Impact, and Volatility"
+      ]
+    },
+    {
+      "name": "Yujian CHEN",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Joint Backtesting Procedure for Systemic Risk Measures"
+      ]
+    },
+    {
+      "name": "Yujun HUANG",
+      "institution": "",
+      "is_presenter": true,
+      "papers": [
+        "Strategic Asset Allocation Under Global Warming"
+      ]
+    },
+    {
+      "name": "Yuming Paul ZHANG",
+      "institution": "",
+      "is_presenter": false,
+      "papers": [
+        "Systemic Robustness: a Mean-Field Particle System Approach"
+      ]
+    },
+    {
+      "name": "Matteo IACOVIELLO",
+      "institution": "Federal Reserve Board",
+      "is_presenter": true,
+      "papers": [
+        "Measuring Geopolitical Risk using Artificial Intelligence"
+      ]
+    }
+  ]
+}

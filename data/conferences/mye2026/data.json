@@ -1,0 +1,2193 @@
+{
+  "conference": {
+    "name": "EAYE Annual Meeting (formerly Spring Meeting of Young Economists)",
+    "short_name": "MYE 2026",
+    "year": 2026,
+    "start_date": "2026-05-18",
+    "end_date": "2026-05-20",
+    "location": "Bilbao, Spain",
+    "extras": {
+      "extras": {
+        "former_name": "Spring Meeting of Young Economists (SMYE)",
+        "host": "University of the Basque Country",
+        "venue": "Bizkaia Aretoa",
+        "keynote_speakers": [
+          {
+            "name": "Manuel Arellano",
+            "institution": "CEMFI"
+          },
+          {
+            "name": "Giacomo Ponzetto",
+            "institution": "CREI and Universitat Pompeu Fabra"
+          }
+        ],
+        "organizer": "European Association of Young Economists (EAYE)"
+      }
+    }
+  },
+  "scrape_metadata": {
+    "scraped_at": "2026-06-13",
+    "source_url": "https://www.uik.eus/sites/default/files/programa/2717-es-e51-program-eaye-2026-v11052026-redcido.pdf",
+    "program_available": true,
+    "program_type": "pdf",
+    "notes": "46 sessions, 119 papers, 119 participants",
+    "errors": []
+  },
+  "sessions": [
+    {
+      "session_title": "Parallel Session 1: Oteiza — Labour: Family and the Labor Market",
+      "date": "2026-05-18",
+      "time": "9:00 - 10:30",
+      "room": "Oteiza (1st Floor)",
+      "papers": [
+        {
+          "title": "Co-Parenting and Careers after Divorce",
+          "authors": [
+            "Katarina Kuske"
+          ],
+          "presenter": "Katarina Kuske"
+        },
+        {
+          "title": "The Geography of Jobs and Couple Migration",
+          "authors": [
+            "Olatz Román"
+          ],
+          "presenter": "Olatz Román"
+        },
+        {
+          "title": "Child Penalties and Childhood Disability",
+          "authors": [
+            "Sofía Sierra Vásquez"
+          ],
+          "presenter": "Sofía Sierra Vásquez"
+        }
+      ]
+    },
+    {
+      "session_title": "Parallel Session 1: Etxepare — Theory: Choices and Menus",
+      "date": "2026-05-18",
+      "time": "9:00 - 10:30",
+      "room": "Etxepare (1st Floor)",
+      "papers": [
+        {
+          "title": "The Luce Model, Regularity, and Choice Overload",
+          "authors": [
+            "Daniele Caliari"
+          ],
+          "presenter": "Daniele Caliari"
+        },
+        {
+          "title": "Choice by Contextual Associations",
+          "authors": [
+            "Andrea Salvanti"
+          ],
+          "presenter": "Andrea Salvanti"
+        },
+        {
+          "title": "Product Line Design with Frictions",
+          "authors": [
+            "Nicolás Pastrian Contador"
+          ],
+          "presenter": "Nicolás Pastrian Contador"
+        }
+      ]
+    },
+    {
+      "session_title": "Parallel Session 1: Arriaga — International Economics: Trade, Services, and Firm Boundaries",
+      "date": "2026-05-18",
+      "time": "9:00 - 10:30",
+      "room": "Arriaga (2nd Floor)",
+      "papers": [
+        {
+          "title": "Economies of Scope and the Profitability of Diversification: Evidence from French Manufacturing",
+          "authors": [
+            "Haiming Wu"
+          ],
+          "presenter": "Haiming Wu"
+        },
+        {
+          "title": "Trade in Services under Regulatory Barriers: Evidence from UK Banking",
+          "authors": [
+            "Shania Bhalotia"
+          ],
+          "presenter": "Shania Bhalotia"
+        },
+        {
+          "title": "Trade and Firm-Level Adjustments to Geopolitical Shifts: Evidence from Armenia",
+          "authors": [
+            "Mushegh Tovmasyan"
+          ],
+          "presenter": "Mushegh Tovmasyan"
+        }
+      ]
+    },
+    {
+      "session_title": "Parallel Session 1: Laboa — Econometrics: Causal Inference",
+      "date": "2026-05-18",
+      "time": "9:00 - 10:30",
+      "room": "Laboa (2nd Floor)",
+      "papers": [
+        {
+          "title": "Making Event Study Plots Honest: A Functional Data Approach to Causal Inference",
+          "authors": [
+            "Chencheng Fang"
+          ],
+          "presenter": "Chencheng Fang"
+        },
+        {
+          "title": "Waiting for Balance: Covariate-Adaptive Randomization in Sequential Experiments",
+          "authors": [
+            "Pedro Vergara Merino"
+          ],
+          "presenter": "Pedro Vergara Merino"
+        },
+        {
+          "title": "Estimating the Intensive Margin Effect in Panel Data Settings",
+          "authors": [
+            "Javier Viviens"
+          ],
+          "presenter": "Javier Viviens"
+        }
+      ]
+    },
+    {
+      "session_title": "Parallel Session 2: Oteiza — Labour: Labor Market Adjustments",
+      "date": "2026-05-18",
+      "time": "10:50 - 12:20",
+      "room": "Oteiza (1st Floor)",
+      "papers": [
+        {
+          "title": "Labor Market Dynamics after Cost-of-Living Shocks",
+          "authors": [
+            "Yannick Reichlin"
+          ],
+          "presenter": "Yannick Reichlin"
+        },
+        {
+          "title": "Displacement or Complementarity? The Labor Market Impact of Generative AI",
+          "authors": [
+            "Saleh Zakerinia"
+          ],
+          "presenter": "Saleh Zakerinia"
+        },
+        {
+          "title": "The Economic Impact of Advance Child Support: Financial Well-being, Labor Supply, and Consumption of Single- Parent Households",
+          "authors": [
+            "Elena Ziege"
+          ],
+          "presenter": "Elena Ziege"
+        }
+      ]
+    },
+    {
+      "session_title": "Parallel Session 2: Etxepare — Theory: Recommendations and Persuasion",
+      "date": "2026-05-18",
+      "time": "10:50 - 12:20",
+      "room": "Etxepare (1st Floor)",
+      "papers": [
+        {
+          "title": "Influence Motivated Communication",
+          "authors": [
+            "Konuray Mutluer"
+          ],
+          "presenter": "Konuray Mutluer"
+        },
+        {
+          "title": "Recommender systems and efficient social learning",
+          "authors": [
+            "Ivan Conjeaud"
+          ],
+          "presenter": "Ivan Conjeaud"
+        },
+        {
+          "title": "The Recommendation Principle in Information Design",
+          "authors": [
+            "Giacomo Rubbini"
+          ],
+          "presenter": "Giacomo Rubbini"
+        }
+      ]
+    },
+    {
+      "session_title": "Parallel Session 2: Arriaga — International Economics: War, Trade, and Supply Chains",
+      "date": "2026-05-18",
+      "time": "10:50 - 12:20",
+      "room": "Arriaga (2nd Floor)",
+      "papers": [
+        {
+          "title": "Beyond Cheap Supplies: Risk and Competition in Global Sourcing",
+          "authors": [
+            "Tao Wang"
+          ],
+          "presenter": "Tao Wang"
+        },
+        {
+          "title": "The Economic Consequences of War",
+          "authors": [
+            "Joao Monteiro"
+          ],
+          "presenter": "Joao Monteiro"
+        },
+        {
+          "title": "Tariffs across the supply chain",
+          "authors": [
+            "Nicolò Gnocato"
+          ],
+          "presenter": "Nicolò Gnocato"
+        }
+      ]
+    },
+    {
+      "session_title": "Parallel Session 2: Laboa — Econometrics: Time Series",
+      "date": "2026-05-18",
+      "time": "10:50 - 12:20",
+      "room": "Laboa (2nd Floor)",
+      "papers": [
+        {
+          "title": "Supervised Detrending",
+          "authors": [
+            "Anne Valder"
+          ],
+          "presenter": "Anne Valder"
+        },
+        {
+          "title": "Mean and Variance Regimes in Threshold VARs: Revisiting Regime-dependent Fiscal Multipliers",
+          "authors": [
+            "Valeria Gargiulo"
+          ],
+          "presenter": "Valeria Gargiulo"
+        }
+      ]
+    },
+    {
+      "session_title": "Parallel Session 3: Oteiza — Labour: Wages and Work Organization",
+      "date": "2026-05-18",
+      "time": "13:20 - 14:50",
+      "room": "Oteiza (1st Floor)",
+      "papers": [
+        {
+          "title": "The Asymmetric Effect of Wage Floors: A Natural Experiment with a Rising and Falling Minimum Wage",
+          "authors": [
+            "Jon Piqueras"
+          ],
+          "presenter": "Jon Piqueras"
+        },
+        {
+          "title": "When specialization becomes repetition: The division of labor and routinization of work",
+          "authors": [
+            "Peter Njekwa Ryberg"
+          ],
+          "presenter": "Peter Njekwa Ryberg"
+        },
+        {
+          "title": "Career ladders and the skill structure of the labour market",
+          "authors": [
+            "Paul David Boll"
+          ],
+          "presenter": "Paul David Boll"
+        }
+      ]
+    },
+    {
+      "session_title": "Parallel Session 3: Etxepare — Theory: Information In Groups",
+      "date": "2026-05-18",
+      "time": "13:20 - 14:50",
+      "room": "Etxepare (1st Floor)",
+      "papers": [
+        {
+          "title": "Coarse Agents and Intergroup Phenomena",
+          "authors": [
+            "Giacomo Weber"
+          ],
+          "presenter": "Giacomo Weber"
+        },
+        {
+          "title": "Misperceived Social Norms: A Unified Framework",
+          "authors": [
+            "Raquel Lorenzo"
+          ],
+          "presenter": "Raquel Lorenzo"
+        },
+        {
+          "title": "(Mis-)Perceptions of Politically Motivated Reasoning",
+          "authors": [
+            "Guy Yanay"
+          ],
+          "presenter": "Guy Yanay"
+        }
+      ]
+    },
+    {
+      "session_title": "Parallel Session 3: Arriaga — Macroeconomics: Banking, Credit, and Monetary Transmission",
+      "date": "2026-05-18",
+      "time": "13:20 - 14:50",
+      "room": "Arriaga (2nd Floor)",
+      "papers": [
+        {
+          "title": "Bridging the Gap: How Banks’ Maturity Mismatch Shapes Monetary Policy Transmission",
+          "authors": [
+            "Serkan Kocabas"
+          ],
+          "presenter": "Serkan Kocabas"
+        },
+        {
+          "title": "The Heterogeneous Bank Lending Channel of Monetary Policy",
+          "authors": [
+            "Salomon Garcia Villegas"
+          ],
+          "presenter": "Salomon Garcia Villegas"
+        },
+        {
+          "title": "Bankruptcy Resolution and the Macroeconomics of Cash Flow Based Lending",
+          "authors": [
+            "Barnabás Székely"
+          ],
+          "presenter": "Barnabás Székely"
+        }
+      ]
+    },
+    {
+      "session_title": "Parallel Session 3: Laboa — Econometrics: Microeconometrics",
+      "date": "2026-05-18",
+      "time": "13:20 - 14:50",
+      "room": "Laboa (2nd Floor)",
+      "papers": [
+        {
+          "title": "What to Fix and What to Estimate in Structural Economic Models",
+          "authors": [
+            "Joan Alegre Canton"
+          ],
+          "presenter": "Joan Alegre Canton"
+        },
+        {
+          "title": "Estimation uncertainty in repeated finite populations",
+          "authors": [
+            "Víctor Sancibrián"
+          ],
+          "presenter": "Víctor Sancibrián"
+        },
+        {
+          "title": "Beyond Memorylessness: Truncation-Adjusted Weibull Duration Models",
+          "authors": [
+            "Tobias Jansen"
+          ],
+          "presenter": "Tobias Jansen"
+        }
+      ]
+    },
+    {
+      "session_title": "Parallel Session 4: Oteiza — Labour: Gender Gaps",
+      "date": "2026-05-18",
+      "time": "15:10 - 16:40",
+      "room": "Oteiza (1st Floor)",
+      "papers": [
+        {
+          "title": "Working From Home and Sorting of Female and Male Workers",
+          "authors": [
+            "Chiara Bernardi"
+          ],
+          "presenter": "Chiara Bernardi"
+        },
+        {
+          "title": "Retirement after divorce: A life-cycle model of pensions, divorce and retirement",
+          "authors": [
+            "Annasofie Olesen"
+          ],
+          "presenter": "Annasofie Olesen"
+        },
+        {
+          "title": "Gender Wage Disparities and Job Mobility: Evidence from the Technology Industry",
+          "authors": [
+            "Noa Barnir"
+          ],
+          "presenter": "Noa Barnir"
+        }
+      ]
+    },
+    {
+      "session_title": "Parallel Session 4: Etxepare — Theory: Uncertainty in Games",
+      "date": "2026-05-18",
+      "time": "15:10 - 16:40",
+      "room": "Etxepare (1st Floor)",
+      "papers": [
+        {
+          "title": "Free Play Equilibrium Targeted Recruitment Over the Business Cycle",
+          "authors": [
+            "Amit Dekel"
+          ],
+          "presenter": "Amit Dekel"
+        },
+        {
+          "title": "Ambiguity in Games - Information and Communication",
+          "authors": [
+            "Francesco Conti"
+          ],
+          "presenter": "Francesco Conti"
+        },
+        {
+          "title": "Bargaining Power and Market Tightness: A Microfoundation for Generalised Nash Bargaining",
+          "authors": [
+            "Tuna Dökmeci"
+          ],
+          "presenter": "Tuna Dökmeci"
+        }
+      ]
+    },
+    {
+      "session_title": "Parallel Session 4: Arriaga — Macroeconomics: Business Cycles, Recessions, and Inequality",
+      "date": "2026-05-18",
+      "time": "15:10 - 16:40",
+      "room": "Arriaga (2nd Floor)",
+      "papers": [
+        {
+          "title": "Not-So-Cleansing Recessions",
+          "authors": [
+            "Igli Bajo"
+          ],
+          "presenter": "Igli Bajo"
+        },
+        {
+          "title": "Young Households during the GFC - Wealth Dynamics and Long- term Inequality",
+          "authors": [
+            "Gustavo García Bernal"
+          ],
+          "presenter": "Gustavo García Bernal"
+        }
+      ]
+    },
+    {
+      "session_title": "Parallel Session 4: Laboa — Political Economy: Culture, religion, and politics",
+      "date": "2026-05-18",
+      "time": "15:10 - 16:40",
+      "room": "Laboa (2nd Floor)",
+      "papers": [
+        {
+          "title": "Formal Jobs and the Cultural Right",
+          "authors": [
+            "Antonio León"
+          ],
+          "presenter": "Antonio León"
+        },
+        {
+          "title": "The Hand of God at the Ballot Box: Religious Polling Places and Electoral Outcomes",
+          "authors": [
+            "Teresa Esteban Casanelles"
+          ],
+          "presenter": "Teresa Esteban Casanelles"
+        }
+      ]
+    },
+    {
+      "session_title": "Parallel Session 5: Elhuyar — Public: Taxation Political Economy: Information, Norms, and Political Knowledge",
+      "date": "2026-05-19",
+      "time": "9:00 - 10:30",
+      "room": "Elhuyar (Ground Floor)",
+      "papers": [
+        {
+          "title": "Political Competition and Tax Expenditures: A Machine Learning Approach to 121 years of U.S. Laws",
+          "authors": [
+            "Jesús Rodriguez"
+          ],
+          "presenter": "Jesús Rodriguez"
+        },
+        {
+          "title": "Turbulence in Taxation: A Study on Tax Avoidance with Private Jets",
+          "authors": [
+            "Düzgün Dilsiz"
+          ],
+          "presenter": "Düzgün Dilsiz"
+        }
+      ]
+    },
+    {
+      "session_title": "Parallel Session 5: Oteiza",
+      "date": "2026-05-19",
+      "time": "9:00 - 10:30",
+      "room": "Oteiza (1st Floor)",
+      "papers": [
+        {
+          "title": "How to Silence Researchers? Evidence from Illiberal Policies in Hungary",
+          "authors": [
+            "Luc Paluskiewicz"
+          ],
+          "presenter": "Luc Paluskiewicz"
+        },
+        {
+          "title": "Indirect Effects of Repression: Evidence from Academic Dismissals in Turkey",
+          "authors": [
+            "Ezgi Kurt"
+          ],
+          "presenter": "Ezgi Kurt"
+        }
+      ]
+    },
+    {
+      "session_title": "Parallel Session 5: Etxepare — Environmental: Climate Risk, Adaptation, and Policy",
+      "date": "2026-05-19",
+      "time": "9:00 - 10:30",
+      "room": "Etxepare (1st Floor)",
+      "papers": [
+        {
+          "title": "Shifting Seasons: Agricultural Adaptation and Resilience in Africa",
+          "authors": [
+            "Iván Jomin Kim Taveras"
+          ],
+          "presenter": "Iván Jomin Kim Taveras"
+        },
+        {
+          "title": "Social Learning, Limited Scale: Pesticide Use Reduction under France’s DEPHY Program",
+          "authors": [
+            "Marc Yeterian"
+          ],
+          "presenter": "Marc Yeterian"
+        }
+      ]
+    },
+    {
+      "session_title": "Parallel Session 5: Arriaga — Macroeconomics: Innovation, Firms, and Growth",
+      "date": "2026-05-19",
+      "time": "9:00 - 10:30",
+      "room": "Arriaga (2nd Floor)",
+      "papers": [
+        {
+          "title": "Market Power when Ideas get Harder to Find: A Theory of Directed Innovation",
+          "authors": [
+            "Julian Schärer"
+          ],
+          "presenter": "Julian Schärer"
+        },
+        {
+          "title": "Learning and Selection in Venture Capital Financing, and the Firm Life Cycle",
+          "authors": [
+            "Fernando Riveiro Formoso"
+          ],
+          "presenter": "Fernando Riveiro Formoso"
+        },
+        {
+          "title": "Intermediates- specific Technological Progress, Structural Change, and Growth",
+          "authors": [
+            "Davide Marco Difino"
+          ],
+          "presenter": "Davide Marco Difino"
+        }
+      ]
+    },
+    {
+      "session_title": "Parallel Session 5: Laboa — Labour: Youth in the Labour Market",
+      "date": "2026-05-19",
+      "time": "9:00 - 10:30",
+      "room": "Laboa (2nd Floor)",
+      "papers": [
+        {
+          "title": "Labour Market Effects of Declining Teen Employment",
+          "authors": [
+            "Afonso Câmara Leme"
+          ],
+          "presenter": "Afonso Câmara Leme"
+        },
+        {
+          "title": "Escaping Temporary Traps: Evidence for Young and Adult Workers",
+          "authors": [
+            "Henry Redondo Gomez"
+          ],
+          "presenter": "Henry Redondo Gomez"
+        }
+      ]
+    },
+    {
+      "session_title": "Parallel Session 6: Elhuyar — Development: Institutions, Corruption, and Market Access",
+      "date": "2026-05-19",
+      "time": "10:50 - 12:20",
+      "room": "Elhuyar (Ground Floor)",
+      "papers": [
+        {
+          "title": "Beliefs, Reputation, and Barriers to Entry in Online Labor Markets",
+          "authors": [
+            "Ruoxuan Wu"
+          ],
+          "presenter": "Ruoxuan Wu"
+        },
+        {
+          "title": "Can Competition Reduce Corruption?",
+          "authors": [
+            "Muhammad Haseeb"
+          ],
+          "presenter": "Muhammad Haseeb"
+        },
+        {
+          "title": "Education Policy and the Quality of Public Servants",
+          "authors": [
+            "Juan Pal"
+          ],
+          "presenter": "Juan Pal"
+        }
+      ]
+    },
+    {
+      "session_title": "Parallel Session 6: Oteiza — Experimental: Narratives & Polarization",
+      "date": "2026-05-19",
+      "time": "10:50 - 12:20",
+      "room": "Oteiza (1st Floor)",
+      "papers": [
+        {
+          "title": "How digital media markets amplify news sentiment",
+          "authors": [
+            "Lara Berger"
+          ],
+          "presenter": "Lara Berger"
+        },
+        {
+          "title": "Narratives and Memories of a Past Conflict and Their Present-Day Political Consequences: Evidence from Spain",
+          "authors": [
+            "Cristina Figueroa Sisniega"
+          ],
+          "presenter": "Cristina Figueroa Sisniega"
+        },
+        {
+          "title": "Divided we act: The role of social sanctions in a polarized world",
+          "authors": [
+            "Anna Hochleitner"
+          ],
+          "presenter": "Anna Hochleitner"
+        }
+      ]
+    },
+    {
+      "session_title": "Parallel Session 6: Etxepare — Political Economy: Culture and immigrants",
+      "date": "2026-05-19",
+      "time": "10:50 - 12:20",
+      "room": "Etxepare (1st Floor)",
+      "papers": [
+        {
+          "title": "The Cultural Assimilation of Individualism and Preferences for Redistribution",
+          "authors": [
+            "Olle Hammar"
+          ],
+          "presenter": "Olle Hammar"
+        },
+        {
+          "title": "Harsh Rhetoric and Cultural Identity: Backlash Effects of Denmark's Ghetto Plan",
+          "authors": [
+            "Teresa Freitas Monteiro"
+          ],
+          "presenter": "Teresa Freitas Monteiro"
+        },
+        {
+          "title": "The Cultural Premium: How Cultural Origin, Economic Contributions and Value Alignment Shape Immigration Attitudes",
+          "authors": [
+            "Elaheh Fatemipour"
+          ],
+          "presenter": "Elaheh Fatemipour"
+        }
+      ]
+    },
+    {
+      "session_title": "Parallel Session 6: Arriaga — Labour: Working conditions",
+      "date": "2026-05-19",
+      "time": "10:50 - 12:20",
+      "room": "Arriaga (2nd Floor)",
+      "papers": [
+        {
+          "title": "Well-being Salience in Corporate Disclosures and Employee Mental Health",
+          "authors": [
+            "Riccardo Di Francesco"
+          ],
+          "presenter": "Riccardo Di Francesco"
+        },
+        {
+          "title": "Count Your Losses: Reference Dependence across Intertemporal and Uncompensated Labor Supply",
+          "authors": [
+            "Michele Cantarella"
+          ],
+          "presenter": "Michele Cantarella"
+        },
+        {
+          "title": "Violation and Enforcement of Workplace Regulations: Evidence from Mexican Firm Inspections",
+          "authors": [
+            "Agustina Colonna"
+          ],
+          "presenter": "Agustina Colonna"
+        }
+      ]
+    },
+    {
+      "session_title": "Parallel Session 6: Laboa — Macroeconomics: Expectations, Beliefs, and Macroeconomic Behavior",
+      "date": "2026-05-19",
+      "time": "10:50 - 12:20",
+      "room": "Laboa (2nd Floor)",
+      "papers": [
+        {
+          "title": "The Demand for Economic Narratives",
+          "authors": [
+            "Philipp Heil"
+          ],
+          "presenter": "Philipp Heil"
+        },
+        {
+          "title": "Households’ Inflation Expectations and Consumption in New Keynesian Models: A Negative Real Income Channel",
+          "authors": [
+            "Frantisek Masek"
+          ],
+          "presenter": "Frantisek Masek"
+        },
+        {
+          "title": "Marginal Propensities to Consume with Finite-Planning Horizons",
+          "authors": [
+            "Ilisa Goenka"
+          ],
+          "presenter": "Ilisa Goenka"
+        }
+      ]
+    },
+    {
+      "session_title": "Parallel Session 7: Elhuyar — Public: Bias in law enforcement and crime deterrence policies",
+      "date": "2026-05-19",
+      "time": "13:20 - 14:50",
+      "room": "Elhuyar (Ground Floor)",
+      "papers": [
+        {
+          "title": "Racial Discrimination Against Crime Victims: Evidence from Investigations of Violent Crime",
+          "authors": [
+            "Luca Rizzotti"
+          ],
+          "presenter": "Luca Rizzotti"
+        },
+        {
+          "title": "Firearms laws and violence against women",
+          "authors": [
+            "Alyvia McTague"
+          ],
+          "presenter": "Alyvia McTague"
+        }
+      ]
+    },
+    {
+      "session_title": "Parallel Session 7: Oteiza — Experimental: Bounded Rationality in Games",
+      "date": "2026-05-19",
+      "time": "13:20 - 14:50",
+      "room": "Oteiza (1st Floor)",
+      "papers": [
+        {
+          "title": "Magic Mirror on the Wall, Who Is the Smartest One of All?",
+          "authors": [
+            "Johannes Hoelzemann"
+          ],
+          "presenter": "Johannes Hoelzemann"
+        }
+      ]
+    },
+    {
+      "session_title": "Parallel Session 7: Etxepare — Political Economy: Social media and news outlets",
+      "date": "2026-05-19",
+      "time": "13:20 - 14:50",
+      "room": "Etxepare (1st Floor)",
+      "papers": [
+        {
+          "title": "Can hate speech be banned online? The effects of shutting down toxic forums on Reddit",
+          "authors": [
+            "Adam Di Lizia"
+          ],
+          "presenter": "Adam Di Lizia"
+        },
+        {
+          "title": "Off-Path Beliefs Social Media Toxicity and Mental Health: Experimental Evidence",
+          "authors": [
+            "Francesco Capozza"
+          ],
+          "presenter": "Francesco Capozza"
+        },
+        {
+          "title": "AI Images, Labels and News Demand.",
+          "authors": [
+            "Eleonora Alabrese"
+          ],
+          "presenter": "Eleonora Alabrese"
+        }
+      ]
+    },
+    {
+      "session_title": "Parallel Session 7: Arriaga — Macroeconomics: Gender, Households, and Labor Supply",
+      "date": "2026-05-19",
+      "time": "13:20 - 14:50",
+      "room": "Arriaga (2nd Floor)",
+      "papers": [
+        {
+          "title": "Daddy's Home? Paternity Leave and Labour Market Outcomes",
+          "authors": [
+            "Jenny Peters"
+          ],
+          "presenter": "Jenny Peters"
+        },
+        {
+          "title": "Informality, Children and Female Occupational Choice",
+          "authors": [
+            "Adilya Abdrazakova"
+          ],
+          "presenter": "Adilya Abdrazakova"
+        },
+        {
+          "title": "Misreading the Biological Clock: Beliefs, Career and Fertility Decisions",
+          "authors": [
+            "Lidia Cruces De Sousa"
+          ],
+          "presenter": "Lidia Cruces De Sousa"
+        }
+      ]
+    },
+    {
+      "session_title": "Parallel Session 7: Laboa — Development: Labor Markets and Economic Development",
+      "date": "2026-05-19",
+      "time": "13:20 - 14:50",
+      "room": "Laboa (2nd Floor)",
+      "papers": [
+        {
+          "title": "Occupational Variety and Economic Development",
+          "authors": [
+            "Anton Heil"
+          ],
+          "presenter": "Anton Heil"
+        },
+        {
+          "title": "The Unintended Consequences of Place-Based Industrial Policies: Evidence from Colombia",
+          "authors": [
+            "Laura Contreras Portela"
+          ],
+          "presenter": "Laura Contreras Portela"
+        },
+        {
+          "title": "Plurilingualism and Brain Drain: Unexpected Consequences of Access to Foreign TV",
+          "authors": [
+            "Damiano Argan"
+          ],
+          "presenter": "Damiano Argan"
+        }
+      ]
+    },
+    {
+      "session_title": "Parallel Session 8: Elhuyar — Political Economy: Political Accountability, Policy Making and Media",
+      "date": "2026-05-19",
+      "time": "15:10 - 16:40",
+      "room": "Elhuyar (Ground Floor)",
+      "papers": [
+        {
+          "title": "Government by Discussion: Deliberation, Media, and Policy- Making",
+          "authors": [
+            "Priyama Majumdar"
+          ],
+          "presenter": "Priyama Majumdar"
+        },
+        {
+          "title": "Strategic Drones Exposing Implicit Bias: Intersectionality Reveals Hidden Stereotypes",
+          "authors": [
+            "Jaime Marques- Pereira"
+          ],
+          "presenter": "Jaime Marques- Pereira"
+        },
+        {
+          "title": "News Norms Gender- Stereotypes in Task Choice: An Experimental Investigation of Taste-Based vs. Statistical Self- Stereotyping",
+          "authors": [
+            "Timm Gries"
+          ],
+          "presenter": "Timm Gries"
+        }
+      ]
+    },
+    {
+      "session_title": "Parallel Session 8: Oteiza — Experimental: Stereotypes & Gender",
+      "date": "2026-05-19",
+      "time": "15:10 - 16:40",
+      "room": "Oteiza (1st Floor)",
+      "papers": [
+        {
+          "title": "Motivated memory and favoritism",
+          "authors": [
+            "Charlotte Cordes"
+          ],
+          "presenter": "Charlotte Cordes"
+        }
+      ]
+    },
+    {
+      "session_title": "Parallel Session 8: Etxepare — Urban: Skills, Sorting, and Spatial Inequality",
+      "date": "2026-05-19",
+      "time": "15:10 - 16:40",
+      "room": "Etxepare (1st Floor)",
+      "papers": [
+        {
+          "title": "Regional Occupations, Local Rents and Worker Mobility",
+          "authors": [
+            "Johannes Weber"
+          ],
+          "presenter": "Johannes Weber"
+        },
+        {
+          "title": "Occupational Change, Skill Sorting and the Urban Wage Premium",
+          "authors": [
+            "Katja Gehr"
+          ],
+          "presenter": "Katja Gehr"
+        },
+        {
+          "title": "Multidimensional skills and spatial sorting",
+          "authors": [
+            "Pablo Warnes"
+          ],
+          "presenter": "Pablo Warnes"
+        }
+      ]
+    },
+    {
+      "session_title": "Parallel Session 8: Arriaga — Macroeconomics: Labor Markets, Mobility, and Career Dynamics",
+      "date": "2026-05-19",
+      "time": "15:10 - 16:40",
+      "room": "Arriaga (2nd Floor)",
+      "papers": [
+        {
+          "title": "Career Mobility in Dual Labor Markets",
+          "authors": [
+            "Ismael Gálvez Iniesta"
+          ],
+          "presenter": "Ismael Gálvez Iniesta"
+        },
+        {
+          "title": "Disappearing Stepping Stones: Technological Change and Career Paths",
+          "authors": [
+            "Daniil Kashkarov"
+          ],
+          "presenter": "Daniil Kashkarov"
+        },
+        {
+          "title": "Social Security and Life-Cycle Variation in the Cost of Job Loss",
+          "authors": [
+            "Frank Leenders"
+          ],
+          "presenter": "Frank Leenders"
+        }
+      ]
+    },
+    {
+      "session_title": "Parallel Session 8: Laboa — Development: Natural Resources, Conflict, and Development",
+      "date": "2026-05-19",
+      "time": "15:10 - 16:40",
+      "room": "Laboa (2nd Floor)",
+      "papers": [
+        {
+          "title": "Beggar Thy Neighbor? Illicit Gold Trade and Conflict in the African Great Lakes Region",
+          "authors": [
+            "Diego Malo Rico"
+          ],
+          "presenter": "Diego Malo Rico"
+        },
+        {
+          "title": "Deforestation without Development? The Agricultural Resource Curse",
+          "authors": [
+            "Kilian Kamkar"
+          ],
+          "presenter": "Kilian Kamkar"
+        },
+        {
+          "title": "Can International Initiatives Promote Peace? Diamond Certification and Armed Conflicts in Africa",
+          "authors": [
+            "Andreas Link"
+          ],
+          "presenter": "Andreas Link"
+        }
+      ]
+    },
+    {
+      "session_title": "Parallel Session 9: Elhuyar — Economic History: Institutions and Ideas",
+      "date": "2026-05-20",
+      "time": "9:00 - 10:30",
+      "room": "Elhuyar (Ground Floor)",
+      "papers": [
+        {
+          "title": "Coffeehouses and the Rise of Science",
+          "authors": [
+            "Monir Bounadi"
+          ],
+          "presenter": "Monir Bounadi"
+        },
+        {
+          "title": "The Market for Stories: How Market Consolidation Shaped Narratives in US History Textbooks",
+          "authors": [
+            "Vitalia Eliseeva"
+          ],
+          "presenter": "Vitalia Eliseeva"
+        }
+      ]
+    },
+    {
+      "session_title": "Parallel Session 9: Oteiza — Education: Education Policy",
+      "date": "2026-05-20",
+      "time": "9:00 - 10:30",
+      "room": "Oteiza (1st Floor)",
+      "papers": [
+        {
+          "title": "Less is More? The Education and Earnings Effects of Shorter University Degrees",
+          "authors": [
+            "Emma Scandolo"
+          ],
+          "presenter": "Emma Scandolo"
+        },
+        {
+          "title": "Teacher Mobility to High-Cost Urban Areas",
+          "authors": [
+            "Ricardo Colaço"
+          ],
+          "presenter": "Ricardo Colaço"
+        }
+      ]
+    },
+    {
+      "session_title": "Parallel Session 9: Etxepare — Theory: Incentives and Contracting in Principal–Agent Models",
+      "date": "2026-05-20",
+      "time": "9:00 - 10:30",
+      "room": "Etxepare (1st Floor)",
+      "papers": [
+        {
+          "title": "Providing Certainty Urbanization, slums and growth",
+          "authors": [
+            "Andrew Choi"
+          ],
+          "presenter": "Andrew Choi"
+        },
+        {
+          "title": "Trust with Evidence Minimum Wages, Inequality, and the Informal Sector",
+          "authors": [
+            "Amirreza Ahmadzadeh"
+          ],
+          "presenter": "Amirreza Ahmadzadeh"
+        },
+        {
+          "title": "Screening in a Priority-Based Assignment Problem",
+          "authors": [
+            "Allen Bueno Magsino"
+          ],
+          "presenter": "Allen Bueno Magsino"
+        }
+      ]
+    },
+    {
+      "session_title": "Parallel Session 9: Arriaga — Macroeconomics: Structural Change, Development, and Urbanization",
+      "date": "2026-05-20",
+      "time": "9:00 - 10:30",
+      "room": "Arriaga (2nd Floor)",
+      "papers": [
+        {
+          "title": "The Evolution of TFP in Spain and Italy",
+          "authors": [
+            "Luis Perez"
+          ],
+          "presenter": "Luis Perez"
+        }
+      ]
+    },
+    {
+      "session_title": "Parallel Session 9: Laboa — Public: Crime and Incarceration",
+      "date": "2026-05-20",
+      "time": "9:00 - 10:30",
+      "room": "Laboa (2nd Floor)",
+      "papers": [
+        {
+          "title": "Standing in Prisoners’ Shoes: A Randomized Trial on How Incarceration Shapes Criminal Justice Preferences",
+          "authors": [
+            "Aljosha Henkel"
+          ],
+          "presenter": "Aljosha Henkel"
+        },
+        {
+          "title": "Prison, Probation, and the Community",
+          "authors": [
+            "Samuel Kang"
+          ],
+          "presenter": "Samuel Kang"
+        },
+        {
+          "title": "Undocumented Immigration & Crime in the United States: A Micro- Level Analysis",
+          "authors": [
+            "William LeRoy"
+          ],
+          "presenter": "William LeRoy"
+        }
+      ]
+    },
+    {
+      "session_title": "Parallel Session 10: Elhuyar — Economic History: Gender and Democracy",
+      "date": "2026-05-20",
+      "time": "10:50 - 12:20",
+      "room": "Elhuyar (Ground Floor)",
+      "papers": [
+        {
+          "title": "Can Democracy Leave a Trace? Evidence from the 1815–1860 Franco- Piedmontese Border",
+          "authors": [
+            "Antoine Boucher"
+          ],
+          "presenter": "Antoine Boucher"
+        },
+        {
+          "title": "Sorting across a Century of High Skilled Women and Men: Evidence from the Rise of Modern Health Care",
+          "authors": [
+            "Frederik Plesner Lyngse"
+          ],
+          "presenter": "Frederik Plesner Lyngse"
+        }
+      ]
+    },
+    {
+      "session_title": "Parallel Session 10: Oteiza — Education: School Environment and Human Capital Fomation",
+      "date": "2026-05-20",
+      "time": "10:50 - 12:20",
+      "room": "Oteiza (1st Floor)",
+      "papers": [
+        {
+          "title": "A Rotten Apple: Peer Effects of Criminal Exposure in Schools",
+          "authors": [
+            "Hikaru Kawarazaki"
+          ],
+          "presenter": "Hikaru Kawarazaki"
+        },
+        {
+          "title": "Expectation Formation and Educational Investment: Evidence from Labor Market Shocks",
+          "authors": [
+            "Moritz Mendel"
+          ],
+          "presenter": "Moritz Mendel"
+        }
+      ]
+    },
+    {
+      "session_title": "Parallel Session 10: Etxepare — Theory: Optimization and Learning",
+      "date": "2026-05-20",
+      "time": "10:50 - 12:20",
+      "room": "Etxepare (1st Floor)",
+      "papers": [
+        {
+          "title": "Continuity, Convexity, Centrality: Axiomatizing and Comparing Location Indices",
+          "authors": [
+            "Stefania Merone"
+          ],
+          "presenter": "Stefania Merone"
+        },
+        {
+          "title": "Coarse Q-learning in Decision-Making: Indifference vs. Indeterminacy vs. Instability",
+          "authors": [
+            "Aviman Satpathy"
+          ],
+          "presenter": "Aviman Satpathy"
+        },
+        {
+          "title": "The Economics of Convex Function Intervals",
+          "authors": [
+            "Victor Augias"
+          ],
+          "presenter": "Victor Augias"
+        }
+      ]
+    },
+    {
+      "session_title": "Parallel Session 10: Arriaga — Public: Fertility Macroeconomics: Risk and Heterogeneity in Macroeconomics",
+      "date": "2026-05-20",
+      "time": "10:50 - 12:20",
+      "room": "Arriaga (2nd Floor)",
+      "papers": [
+        {
+          "title": "The Serial Monogamist and the Involuntary Celibate: How Divorce Shapes the Gender Gap in Childlessness",
+          "authors": [
+            "Adrien Vallette"
+          ],
+          "presenter": "Adrien Vallette"
+        },
+        {
+          "title": "Delaying Fertility, Advancing Careers: The Lasting Consequences of Growing Up with a Safety Net",
+          "authors": [
+            "Matias Giaccobasso"
+          ],
+          "presenter": "Matias Giaccobasso"
+        },
+        {
+          "title": "Maternity Leave Extensions and Gender Gaps: Evidence from an Online Job Platform",
+          "authors": [
+            "Miao Yu"
+          ],
+          "presenter": "Miao Yu"
+        }
+      ]
+    },
+    {
+      "session_title": "Parallel Session 10: Laboa",
+      "date": "2026-05-20",
+      "time": "10:50 - 12:20",
+      "room": "Laboa (2nd Floor)",
+      "papers": [
+        {
+          "title": "Disaster Risk and Wealth Inequality",
+          "authors": [
+            "Maximilian Weiß"
+          ],
+          "presenter": "Maximilian Weiß"
+        },
+        {
+          "title": "Dangerous Liaisons? Debt Supply and Convenience Yield Spillovers in the Euro Area",
+          "authors": [
+            "Cristian Arcidiacono"
+          ],
+          "presenter": "Cristian Arcidiacono"
+        }
+      ]
+    }
+  ],
+  "participants": [
+    {
+      "name": "Katarina Kuske",
+      "institution": "Bocconi University",
+      "is_presenter": true,
+      "papers": [
+        "Co-Parenting and Careers after Divorce"
+      ]
+    },
+    {
+      "name": "Olatz Román",
+      "institution": "University of  Mannheim",
+      "is_presenter": true,
+      "papers": [
+        "The Geography of Jobs and Couple Migration"
+      ]
+    },
+    {
+      "name": "Sofía Sierra Vásquez",
+      "institution": "University of St. Gallen",
+      "is_presenter": true,
+      "papers": [
+        "Child Penalties and Childhood Disability"
+      ]
+    },
+    {
+      "name": "Daniele Caliari",
+      "institution": "Berlin Social Science  Center",
+      "is_presenter": true,
+      "papers": [
+        "The Luce Model, Regularity, and Choice Overload"
+      ]
+    },
+    {
+      "name": "Andrea Salvanti",
+      "institution": "University Pompeu  Fabra",
+      "is_presenter": true,
+      "papers": [
+        "Choice by Contextual Associations"
+      ]
+    },
+    {
+      "name": "Nicolás Pastrian Contador",
+      "institution": "Universidad de  O'Higgins",
+      "is_presenter": true,
+      "papers": [
+        "Product Line Design with Frictions"
+      ]
+    },
+    {
+      "name": "Haiming Wu",
+      "institution": "University College  London",
+      "is_presenter": true,
+      "papers": [
+        "Economies of Scope and the Profitability of Diversification: Evidence from French Manufacturing"
+      ]
+    },
+    {
+      "name": "Shania Bhalotia",
+      "institution": "London School of  Economics",
+      "is_presenter": true,
+      "papers": [
+        "Trade in Services under Regulatory Barriers: Evidence from UK Banking"
+      ]
+    },
+    {
+      "name": "Mushegh Tovmasyan",
+      "institution": "University Paris-Saclay",
+      "is_presenter": true,
+      "papers": [
+        "Trade and Firm-Level Adjustments to Geopolitical Shifts: Evidence from Armenia"
+      ]
+    },
+    {
+      "name": "Chencheng Fang",
+      "institution": "University of Bonn",
+      "is_presenter": true,
+      "papers": [
+        "Making Event Study Plots Honest: A Functional Data Approach to Causal Inference"
+      ]
+    },
+    {
+      "name": "Pedro Vergara Merino",
+      "institution": "CREST - IP Paris",
+      "is_presenter": true,
+      "papers": [
+        "Waiting for Balance: Covariate-Adaptive Randomization in Sequential Experiments"
+      ]
+    },
+    {
+      "name": "Javier Viviens",
+      "institution": "European University  Institute",
+      "is_presenter": true,
+      "papers": [
+        "Estimating the Intensive Margin Effect in Panel Data Settings"
+      ]
+    },
+    {
+      "name": "Yannick Reichlin",
+      "institution": "Bocconi University",
+      "is_presenter": true,
+      "papers": [
+        "Labor Market Dynamics after Cost-of-Living Shocks"
+      ]
+    },
+    {
+      "name": "Saleh Zakerinia",
+      "institution": "Halle Institute for  Economic Research  (IWH",
+      "is_presenter": true,
+      "papers": [
+        "Displacement or Complementarity? The Labor Market Impact of Generative AI"
+      ]
+    },
+    {
+      "name": "Elena Ziege",
+      "institution": "Federal Institute for  Population Research",
+      "is_presenter": true,
+      "papers": [
+        "The Economic Impact of Advance Child Support: Financial Well-being, Labor Supply, and Consumption of Single- Parent Households"
+      ]
+    },
+    {
+      "name": "Konuray Mutluer",
+      "institution": "CERGE-EI",
+      "is_presenter": true,
+      "papers": [
+        "Influence Motivated Communication"
+      ]
+    },
+    {
+      "name": "Ivan Conjeaud",
+      "institution": "Paris School of  Economics",
+      "is_presenter": true,
+      "papers": [
+        "Recommender systems and efficient social learning"
+      ]
+    },
+    {
+      "name": "Giacomo Rubbini",
+      "institution": "University of Bologna",
+      "is_presenter": true,
+      "papers": [
+        "The Recommendation Principle in Information Design"
+      ]
+    },
+    {
+      "name": "Tao Wang",
+      "institution": "CEMFI",
+      "is_presenter": true,
+      "papers": [
+        "Beyond Cheap Supplies: Risk and Competition in Global Sourcing"
+      ]
+    },
+    {
+      "name": "Joao Monteiro",
+      "institution": "EIEF",
+      "is_presenter": true,
+      "papers": [
+        "The Economic Consequences of War"
+      ]
+    },
+    {
+      "name": "Nicolò Gnocato",
+      "institution": "European Central Bank",
+      "is_presenter": true,
+      "papers": [
+        "Tariffs across the supply chain"
+      ]
+    },
+    {
+      "name": "Anne Valder",
+      "institution": "WU Vienna University of  Economics and  Business",
+      "is_presenter": true,
+      "papers": [
+        "Supervised Detrending"
+      ]
+    },
+    {
+      "name": "Valeria Gargiulo",
+      "institution": "Universitat Pompeu  Fabra",
+      "is_presenter": true,
+      "papers": [
+        "Mean and Variance Regimes in Threshold VARs: Revisiting Regime-dependent Fiscal Multipliers"
+      ]
+    },
+    {
+      "name": "Jon Piqueras",
+      "institution": "Universidad Carlos III  de Madrid",
+      "is_presenter": true,
+      "papers": [
+        "The Asymmetric Effect of Wage Floors: A Natural Experiment with a Rising and Falling Minimum Wage"
+      ]
+    },
+    {
+      "name": "Peter Njekwa Ryberg",
+      "institution": "Jönköping International  Business School",
+      "is_presenter": true,
+      "papers": [
+        "When specialization becomes repetition: The division of labor and routinization of work"
+      ]
+    },
+    {
+      "name": "Paul David Boll",
+      "institution": "University of Warwick",
+      "is_presenter": true,
+      "papers": [
+        "Career ladders and the skill structure of the labour market"
+      ]
+    },
+    {
+      "name": "Giacomo Weber",
+      "institution": "Bocconi University",
+      "is_presenter": true,
+      "papers": [
+        "Coarse Agents and Intergroup Phenomena"
+      ]
+    },
+    {
+      "name": "Raquel Lorenzo",
+      "institution": "Universitat Pompeu  Fabra",
+      "is_presenter": true,
+      "papers": [
+        "Misperceived Social Norms: A Unified Framework"
+      ]
+    },
+    {
+      "name": "Guy Yanay",
+      "institution": "Hebrew University of  Jerusalem",
+      "is_presenter": true,
+      "papers": [
+        "(Mis-)Perceptions of Politically Motivated Reasoning"
+      ]
+    },
+    {
+      "name": "Serkan Kocabas",
+      "institution": "Universidad Carlos III  de Madrid",
+      "is_presenter": true,
+      "papers": [
+        "Bridging the Gap: How Banks’ Maturity Mismatch Shapes Monetary Policy Transmission"
+      ]
+    },
+    {
+      "name": "Salomon Garcia Villegas",
+      "institution": "CUNEF Universidad",
+      "is_presenter": true,
+      "papers": [
+        "The Heterogeneous Bank Lending Channel of Monetary Policy"
+      ]
+    },
+    {
+      "name": "Barnabás Székely",
+      "institution": "Goethe University,  Frankfurt",
+      "is_presenter": true,
+      "papers": [
+        "Bankruptcy Resolution and the Macroeconomics of Cash Flow Based Lending"
+      ]
+    },
+    {
+      "name": "Joan Alegre Canton",
+      "institution": "Universidad Carlos III de  Madrid",
+      "is_presenter": true,
+      "papers": [
+        "What to Fix and What to Estimate in Structural Economic Models"
+      ]
+    },
+    {
+      "name": "Víctor Sancibrián",
+      "institution": "Bocconi University",
+      "is_presenter": true,
+      "papers": [
+        "Estimation uncertainty in repeated finite populations"
+      ]
+    },
+    {
+      "name": "Tobias Jansen",
+      "institution": "University  of Cologne",
+      "is_presenter": true,
+      "papers": [
+        "Beyond Memorylessness: Truncation-Adjusted Weibull Duration Models"
+      ]
+    },
+    {
+      "name": "Chiara Bernardi",
+      "institution": "Queen Mary University  of London",
+      "is_presenter": true,
+      "papers": [
+        "Working From Home and Sorting of Female and Male Workers"
+      ]
+    },
+    {
+      "name": "Annasofie Olesen",
+      "institution": "University of  Copenhagen",
+      "is_presenter": true,
+      "papers": [
+        "Retirement after divorce: A life-cycle model of pensions, divorce and retirement"
+      ]
+    },
+    {
+      "name": "Noa Barnir",
+      "institution": "Tel Aviv Univesity",
+      "is_presenter": true,
+      "papers": [
+        "Gender Wage Disparities and Job Mobility: Evidence from the Technology Industry"
+      ]
+    },
+    {
+      "name": "Amit Dekel",
+      "institution": "Aix-Marseille School of  Economics",
+      "is_presenter": true,
+      "papers": [
+        "Free Play Equilibrium Targeted Recruitment Over the Business Cycle"
+      ]
+    },
+    {
+      "name": "Francesco Conti",
+      "institution": "The University of Texas  at Austin",
+      "is_presenter": true,
+      "papers": [
+        "Ambiguity in Games - Information and Communication"
+      ]
+    },
+    {
+      "name": "Tuna Dökmeci",
+      "institution": "European University  Intitute",
+      "is_presenter": true,
+      "papers": [
+        "Bargaining Power and Market Tightness: A Microfoundation for Generalised Nash Bargaining"
+      ]
+    },
+    {
+      "name": "Igli Bajo",
+      "institution": "University of Zurich",
+      "is_presenter": true,
+      "papers": [
+        "Not-So-Cleansing Recessions"
+      ]
+    },
+    {
+      "name": "Gustavo García Bernal",
+      "institution": "Sciences Po",
+      "is_presenter": true,
+      "papers": [
+        "Young Households during the GFC - Wealth Dynamics and Long- term Inequality"
+      ]
+    },
+    {
+      "name": "Antonio León",
+      "institution": "Bocconi University",
+      "is_presenter": true,
+      "papers": [
+        "Formal Jobs and the Cultural Right"
+      ]
+    },
+    {
+      "name": "Teresa Esteban Casanelles",
+      "institution": "King's College London",
+      "is_presenter": true,
+      "papers": [
+        "The Hand of God at the Ballot Box: Religious Polling Places and Electoral Outcomes"
+      ]
+    },
+    {
+      "name": "Jesús Rodriguez",
+      "institution": "University of  Nottingham",
+      "is_presenter": true,
+      "papers": [
+        "Political Competition and Tax Expenditures: A Machine Learning Approach to 121 years of U.S. Laws"
+      ]
+    },
+    {
+      "name": "Düzgün Dilsiz",
+      "institution": "University of Basel",
+      "is_presenter": true,
+      "papers": [
+        "Turbulence in Taxation: A Study on Tax Avoidance with Private Jets"
+      ]
+    },
+    {
+      "name": "Luc Paluskiewicz",
+      "institution": "PSE, Collège de  France",
+      "is_presenter": true,
+      "papers": [
+        "How to Silence Researchers? Evidence from Illiberal Policies in Hungary"
+      ]
+    },
+    {
+      "name": "Ezgi Kurt",
+      "institution": "QMUL",
+      "is_presenter": true,
+      "papers": [
+        "Indirect Effects of Repression: Evidence from Academic Dismissals in Turkey"
+      ]
+    },
+    {
+      "name": "Iván Jomin Kim Taveras",
+      "institution": "Bocconi University",
+      "is_presenter": true,
+      "papers": [
+        "Shifting Seasons: Agricultural Adaptation and Resilience in Africa"
+      ]
+    },
+    {
+      "name": "Marc Yeterian",
+      "institution": "SLU",
+      "is_presenter": true,
+      "papers": [
+        "Social Learning, Limited Scale: Pesticide Use Reduction under France’s DEPHY Program"
+      ]
+    },
+    {
+      "name": "Julian Schärer",
+      "institution": "University of St.  Gallen",
+      "is_presenter": true,
+      "papers": [
+        "Market Power when Ideas get Harder to Find: A Theory of Directed Innovation"
+      ]
+    },
+    {
+      "name": "Fernando Riveiro Formoso",
+      "institution": "Universitat de les  Illes Balears",
+      "is_presenter": true,
+      "papers": [
+        "Learning and Selection in Venture Capital Financing, and the Firm Life Cycle"
+      ]
+    },
+    {
+      "name": "Davide Marco Difino",
+      "institution": "Goethe University  Frankfurt",
+      "is_presenter": true,
+      "papers": [
+        "Intermediates- specific Technological Progress, Structural Change, and Growth"
+      ]
+    },
+    {
+      "name": "Afonso Câmara Leme",
+      "institution": "Aix-Marseille  School of  Economics",
+      "is_presenter": true,
+      "papers": [
+        "Labour Market Effects of Declining Teen Employment"
+      ]
+    },
+    {
+      "name": "Henry Redondo Gomez",
+      "institution": "Universidad de  Alicante",
+      "is_presenter": true,
+      "papers": [
+        "Escaping Temporary Traps: Evidence for Young and Adult Workers"
+      ]
+    },
+    {
+      "name": "Ruoxuan Wu",
+      "institution": "University of  Chicago",
+      "is_presenter": true,
+      "papers": [
+        "Beliefs, Reputation, and Barriers to Entry in Online Labor Markets"
+      ]
+    },
+    {
+      "name": "Muhammad Haseeb",
+      "institution": "University of  Bristol",
+      "is_presenter": true,
+      "papers": [
+        "Can Competition Reduce Corruption?"
+      ]
+    },
+    {
+      "name": "Juan Pal",
+      "institution": "Toulouse School of  Economics",
+      "is_presenter": true,
+      "papers": [
+        "Education Policy and the Quality of Public Servants"
+      ]
+    },
+    {
+      "name": "Lara Berger",
+      "institution": "University of  Cologne",
+      "is_presenter": true,
+      "papers": [
+        "How digital media markets amplify news sentiment"
+      ]
+    },
+    {
+      "name": "Cristina Figueroa Sisniega",
+      "institution": "University of  Amsterdam",
+      "is_presenter": true,
+      "papers": [
+        "Narratives and Memories of a Past Conflict and Their Present-Day Political Consequences: Evidence from Spain"
+      ]
+    },
+    {
+      "name": "Anna Hochleitner",
+      "institution": "Norwegian School  of Economics",
+      "is_presenter": true,
+      "papers": [
+        "Divided we act: The role of social sanctions in a polarized world"
+      ]
+    },
+    {
+      "name": "Olle Hammar",
+      "institution": "Linnaeus  University",
+      "is_presenter": true,
+      "papers": [
+        "The Cultural Assimilation of Individualism and Preferences for Redistribution"
+      ]
+    },
+    {
+      "name": "Teresa Freitas Monteiro",
+      "institution": "CERGE- EI",
+      "is_presenter": true,
+      "papers": [
+        "Harsh Rhetoric and Cultural Identity: Backlash Effects of Denmark's Ghetto Plan"
+      ]
+    },
+    {
+      "name": "Elaheh Fatemipour",
+      "institution": "University of  Warwick",
+      "is_presenter": true,
+      "papers": [
+        "The Cultural Premium: How Cultural Origin, Economic Contributions and Value Alignment Shape Immigration Attitudes"
+      ]
+    },
+    {
+      "name": "Riccardo Di Francesco",
+      "institution": "University of  Southern Denmark",
+      "is_presenter": true,
+      "papers": [
+        "Well-being Salience in Corporate Disclosures and Employee Mental Health"
+      ]
+    },
+    {
+      "name": "Michele Cantarella",
+      "institution": "Technical  University of  Denmark",
+      "is_presenter": true,
+      "papers": [
+        "Count Your Losses: Reference Dependence across Intertemporal and Uncompensated Labor Supply"
+      ]
+    },
+    {
+      "name": "Agustina Colonna",
+      "institution": "University of  Zurich",
+      "is_presenter": true,
+      "papers": [
+        "Violation and Enforcement of Workplace Regulations: Evidence from Mexican Firm Inspections"
+      ]
+    },
+    {
+      "name": "Philipp Heil",
+      "institution": "HEC Paris",
+      "is_presenter": true,
+      "papers": [
+        "The Demand for Economic Narratives"
+      ]
+    },
+    {
+      "name": "Frantisek Masek",
+      "institution": "Czech National  Bank",
+      "is_presenter": true,
+      "papers": [
+        "Households’ Inflation Expectations and Consumption in New Keynesian Models: A Negative Real Income Channel"
+      ]
+    },
+    {
+      "name": "Ilisa Goenka",
+      "institution": "CERGE-EI",
+      "is_presenter": true,
+      "papers": [
+        "Marginal Propensities to Consume with Finite-Planning Horizons"
+      ]
+    },
+    {
+      "name": "Luca Rizzotti",
+      "institution": "Institute for Fiscal  Studies",
+      "is_presenter": true,
+      "papers": [
+        "Racial Discrimination Against Crime Victims: Evidence from Investigations of Violent Crime"
+      ]
+    },
+    {
+      "name": "Alyvia McTague",
+      "institution": "Universitat de  Barcelona",
+      "is_presenter": true,
+      "papers": [
+        "Firearms laws and violence against women"
+      ]
+    },
+    {
+      "name": "Johannes Hoelzemann",
+      "institution": "U Vienna",
+      "is_presenter": true,
+      "papers": [
+        "Magic Mirror on the Wall, Who Is the Smartest One of All?"
+      ]
+    },
+    {
+      "name": "Adam Di Lizia",
+      "institution": "University of  Warwick",
+      "is_presenter": true,
+      "papers": [
+        "Can hate speech be banned online? The effects of shutting down toxic forums on Reddit"
+      ]
+    },
+    {
+      "name": "Francesco Capozza",
+      "institution": "University of  Barcelona and IEB",
+      "is_presenter": true,
+      "papers": [
+        "Off-Path Beliefs Social Media Toxicity and Mental Health: Experimental Evidence"
+      ]
+    },
+    {
+      "name": "Eleonora Alabrese",
+      "institution": "University of Bath",
+      "is_presenter": true,
+      "papers": [
+        "AI Images, Labels and News Demand."
+      ]
+    },
+    {
+      "name": "Jenny Peters",
+      "institution": "The University of  Edinburgh",
+      "is_presenter": true,
+      "papers": [
+        "Daddy's Home? Paternity Leave and Labour Market Outcomes"
+      ]
+    },
+    {
+      "name": "Adilya Abdrazakova",
+      "institution": "Universidad de  Alicante",
+      "is_presenter": true,
+      "papers": [
+        "Informality, Children and Female Occupational Choice"
+      ]
+    },
+    {
+      "name": "Lidia Cruces De Sousa",
+      "institution": "Goethe  University  Frankfurt",
+      "is_presenter": true,
+      "papers": [
+        "Misreading the Biological Clock: Beliefs, Career and Fertility Decisions"
+      ]
+    },
+    {
+      "name": "Anton Heil",
+      "institution": "London School of  Economics",
+      "is_presenter": true,
+      "papers": [
+        "Occupational Variety and Economic Development"
+      ]
+    },
+    {
+      "name": "Laura Contreras Portela",
+      "institution": "Aix-Marseille  School of  Economics",
+      "is_presenter": true,
+      "papers": [
+        "The Unintended Consequences of Place-Based Industrial Policies: Evidence from Colombia"
+      ]
+    },
+    {
+      "name": "Damiano Argan",
+      "institution": "Bocconi University",
+      "is_presenter": true,
+      "papers": [
+        "Plurilingualism and Brain Drain: Unexpected Consequences of Access to Foreign TV"
+      ]
+    },
+    {
+      "name": "Priyama Majumdar",
+      "institution": "University of  Warwick",
+      "is_presenter": true,
+      "papers": [
+        "Government by Discussion: Deliberation, Media, and Policy- Making"
+      ]
+    },
+    {
+      "name": "Jaime Marques- Pereira",
+      "institution": "Lancaster  University",
+      "is_presenter": true,
+      "papers": [
+        "Strategic Drones Exposing Implicit Bias: Intersectionality Reveals Hidden Stereotypes"
+      ]
+    },
+    {
+      "name": "Timm Gries",
+      "institution": "Bocconi University",
+      "is_presenter": true,
+      "papers": [
+        "News Norms Gender- Stereotypes in Task Choice: An Experimental Investigation of Taste-Based vs. Statistical Self- Stereotyping"
+      ]
+    },
+    {
+      "name": "Charlotte Cordes",
+      "institution": "Ludwig- Maximilians- Universität  München",
+      "is_presenter": true,
+      "papers": [
+        "Motivated memory and favoritism"
+      ]
+    },
+    {
+      "name": "Johannes Weber",
+      "institution": "University of Bonn",
+      "is_presenter": true,
+      "papers": [
+        "Regional Occupations, Local Rents and Worker Mobility"
+      ]
+    },
+    {
+      "name": "Katja Gehr",
+      "institution": "University of  Wuerzburg",
+      "is_presenter": true,
+      "papers": [
+        "Occupational Change, Skill Sorting and the Urban Wage Premium"
+      ]
+    },
+    {
+      "name": "Pablo Warnes",
+      "institution": "Aalto University",
+      "is_presenter": true,
+      "papers": [
+        "Multidimensional skills and spatial sorting"
+      ]
+    },
+    {
+      "name": "Ismael Gálvez Iniesta",
+      "institution": "Universitat de les  Illes Balears",
+      "is_presenter": true,
+      "papers": [
+        "Career Mobility in Dual Labor Markets"
+      ]
+    },
+    {
+      "name": "Daniil Kashkarov",
+      "institution": "Universidad Carlos  III de Madrid",
+      "is_presenter": true,
+      "papers": [
+        "Disappearing Stepping Stones: Technological Change and Career Paths"
+      ]
+    },
+    {
+      "name": "Frank Leenders",
+      "institution": "Universidad Carlos  III de Madrid",
+      "is_presenter": true,
+      "papers": [
+        "Social Security and Life-Cycle Variation in the Cost of Job Loss"
+      ]
+    },
+    {
+      "name": "Diego Malo Rico",
+      "institution": "Universidad de  Navarra",
+      "is_presenter": true,
+      "papers": [
+        "Beggar Thy Neighbor? Illicit Gold Trade and Conflict in the African Great Lakes Region"
+      ]
+    },
+    {
+      "name": "Kilian Kamkar",
+      "institution": "University of  Cambridge",
+      "is_presenter": true,
+      "papers": [
+        "Deforestation without Development? The Agricultural Resource Curse"
+      ]
+    },
+    {
+      "name": "Andreas Link",
+      "institution": "University of  Erlangen- Nuremberg",
+      "is_presenter": true,
+      "papers": [
+        "Can International Initiatives Promote Peace? Diamond Certification and Armed Conflicts in Africa"
+      ]
+    },
+    {
+      "name": "Monir Bounadi",
+      "institution": "Stockholm  University",
+      "is_presenter": true,
+      "papers": [
+        "Coffeehouses and the Rise of Science"
+      ]
+    },
+    {
+      "name": "Vitalia Eliseeva",
+      "institution": "Paris School of  Economics",
+      "is_presenter": true,
+      "papers": [
+        "The Market for Stories: How Market Consolidation Shaped Narratives in US History Textbooks"
+      ]
+    },
+    {
+      "name": "Emma Scandolo",
+      "institution": "University College  London",
+      "is_presenter": true,
+      "papers": [
+        "Less is More? The Education and Earnings Effects of Shorter University Degrees"
+      ]
+    },
+    {
+      "name": "Ricardo Colaço",
+      "institution": "Nova School of  Business and  Economics",
+      "is_presenter": true,
+      "papers": [
+        "Teacher Mobility to High-Cost Urban Areas"
+      ]
+    },
+    {
+      "name": "Andrew Choi",
+      "institution": "University of  Michigan",
+      "is_presenter": true,
+      "papers": [
+        "Providing Certainty Urbanization, slums and growth"
+      ]
+    },
+    {
+      "name": "Amirreza Ahmadzadeh",
+      "institution": "Toulouse School of  Economics",
+      "is_presenter": true,
+      "papers": [
+        "Trust with Evidence Minimum Wages, Inequality, and the Informal Sector"
+      ]
+    },
+    {
+      "name": "Allen Bueno Magsino",
+      "institution": "European  University Institute",
+      "is_presenter": true,
+      "papers": [
+        "Screening in a Priority-Based Assignment Problem"
+      ]
+    },
+    {
+      "name": "Luis Perez",
+      "institution": "Southern  Methodist  University",
+      "is_presenter": true,
+      "papers": [
+        "The Evolution of TFP in Spain and Italy"
+      ]
+    },
+    {
+      "name": "Aljosha Henkel",
+      "institution": "ETH Zürich",
+      "is_presenter": true,
+      "papers": [
+        "Standing in Prisoners’ Shoes: A Randomized Trial on How Incarceration Shapes Criminal Justice Preferences"
+      ]
+    },
+    {
+      "name": "Samuel Kang",
+      "institution": "University of St.  Gallen",
+      "is_presenter": true,
+      "papers": [
+        "Prison, Probation, and the Community"
+      ]
+    },
+    {
+      "name": "William LeRoy",
+      "institution": "Faculty of Law,  Charles University  in Prague",
+      "is_presenter": true,
+      "papers": [
+        "Undocumented Immigration & Crime in the United States: A Micro- Level Analysis"
+      ]
+    },
+    {
+      "name": "Antoine Boucher",
+      "institution": "Aix-Marseille  School of  Economics",
+      "is_presenter": true,
+      "papers": [
+        "Can Democracy Leave a Trace? Evidence from the 1815–1860 Franco- Piedmontese Border"
+      ]
+    },
+    {
+      "name": "Frederik Plesner Lyngse",
+      "institution": "University of  Copenhagen",
+      "is_presenter": true,
+      "papers": [
+        "Sorting across a Century of High Skilled Women and Men: Evidence from the Rise of Modern Health Care"
+      ]
+    },
+    {
+      "name": "Hikaru Kawarazaki",
+      "institution": "Institute for Fiscal  Studies",
+      "is_presenter": true,
+      "papers": [
+        "A Rotten Apple: Peer Effects of Criminal Exposure in Schools"
+      ]
+    },
+    {
+      "name": "Moritz Mendel",
+      "institution": "Aalto University",
+      "is_presenter": true,
+      "papers": [
+        "Expectation Formation and Educational Investment: Evidence from Labor Market Shocks"
+      ]
+    },
+    {
+      "name": "Stefania Merone",
+      "institution": "University of  Oxford",
+      "is_presenter": true,
+      "papers": [
+        "Continuity, Convexity, Centrality: Axiomatizing and Comparing Location Indices"
+      ]
+    },
+    {
+      "name": "Aviman Satpathy",
+      "institution": "Paris School of  Economics",
+      "is_presenter": true,
+      "papers": [
+        "Coarse Q-learning in Decision-Making: Indifference vs. Indeterminacy vs. Instability"
+      ]
+    },
+    {
+      "name": "Victor Augias",
+      "institution": "University of Bonn",
+      "is_presenter": true,
+      "papers": [
+        "The Economics of Convex Function Intervals"
+      ]
+    },
+    {
+      "name": "Adrien Vallette",
+      "institution": "CREST - Institut  Polytechnique de  Paris",
+      "is_presenter": true,
+      "papers": [
+        "The Serial Monogamist and the Involuntary Celibate: How Divorce Shapes the Gender Gap in Childlessness"
+      ]
+    },
+    {
+      "name": "Matias Giaccobasso",
+      "institution": "VATT Institute for  Economic  Research",
+      "is_presenter": true,
+      "papers": [
+        "Delaying Fertility, Advancing Careers: The Lasting Consequences of Growing Up with a Safety Net"
+      ]
+    },
+    {
+      "name": "Miao Yu",
+      "institution": "Peking  University ， National School of  Development",
+      "is_presenter": true,
+      "papers": [
+        "Maternity Leave Extensions and Gender Gaps: Evidence from an Online Job Platform"
+      ]
+    },
+    {
+      "name": "Maximilian Weiß",
+      "institution": "University  Tuebingen",
+      "is_presenter": true,
+      "papers": [
+        "Disaster Risk and Wealth Inequality"
+      ]
+    },
+    {
+      "name": "Cristian Arcidiacono",
+      "institution": "University of Bern",
+      "is_presenter": true,
+      "papers": [
+        "Dangerous Liaisons? Debt Supply and Convenience Yield Spillovers in the Euro Area"
+      ]
+    }
+  ]
+}

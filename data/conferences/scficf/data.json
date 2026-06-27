@@ -1,0 +1,345 @@
+{
+  "conference": {
+    "name": "8th Summer Conference on Financial Intermediation and Corporate Finance",
+    "short_name": "SCFICF",
+    "year": 2026,
+    "start_date": "2026-06-29",
+    "end_date": "2026-07-01",
+    "location": "International",
+    "extras": {
+      "extras": {
+        "website": "https://summerfinconf.wixsite.com/mysite",
+        "program_url": "https://fffba7fb-132b-4a16-acf0-2f7622399059.filesusr.com/ugd/4b4d08_788e1dec7eaf4c239ad7be95b37206e4.pdf"
+      }
+    }
+  },
+  "scrape_metadata": {
+    "scraped_at": "2026-06-12T09:00:00",
+    "source_url": "https://summerfinconf.wixsite.com/mysite",
+    "program_available": true,
+    "program_type": "web",
+    "errors": []
+  },
+  "sessions": [
+    {
+      "session_title": "Session 1 (Monday)",
+      "chair": "Sotirios Kokas",
+      "date": "2026-06-29",
+      "time": "13:20",
+      "papers": [
+        {
+          "title": "Reaching for Beta",
+          "authors": [],
+          "presenter": "Emanuel Mönch"
+        },
+        {
+          "title": "Stabilization vs. Growth",
+          "authors": [],
+          "presenter": "Pascal Paul"
+        },
+        {
+          "title": "Earnings Information Spillovers and Depositor Contagion",
+          "authors": [],
+          "presenter": "Benda Yin"
+        }
+      ]
+    },
+    {
+      "session_title": "Session 2 (Monday)",
+      "chair": "Sotirios Kokas",
+      "date": "2026-06-29",
+      "time": "15:40",
+      "papers": [
+        {
+          "title": "Entrepreneurship on a Safety Net: Evidence from the World's Largest Cash Transfer Program",
+          "authors": [],
+          "presenter": "Spyridon Lagaras"
+        },
+        {
+          "title": "Wholesale Funding Crises since 1800",
+          "authors": [],
+          "presenter": "Rustam Jamilov"
+        },
+        {
+          "title": "The Role of Culture in Economics and Finance",
+          "authors": [],
+          "presenter": "Paola Sapienza"
+        }
+      ]
+    },
+    {
+      "session_title": "Session 3 (Tuesday)",
+      "chair": "George Hondroyannis",
+      "date": "2026-06-30",
+      "time": "11:30",
+      "papers": [
+        {
+          "title": "Supervisory-Driven Credit Reallocation",
+          "authors": [],
+          "presenter": "Saverio Stentella"
+        },
+        {
+          "title": "Market-Priced Savings, Bank Deposit Market Power, and Monetary Policy Transmission",
+          "authors": [],
+          "presenter": "Glenn Schepens"
+        },
+        {
+          "title": "Perils of Cross-Selling: How Lack of Diversification between Deposit and Loan Clients Can Engender Bank Fragility",
+          "authors": [],
+          "presenter": "Karolis Liaudinskas"
+        }
+      ]
+    },
+    {
+      "session_title": "Session 4 (Tuesday)",
+      "chair": "Hiona Balfoussia",
+      "date": "2026-06-30",
+      "time": "14:30",
+      "papers": [
+        {
+          "title": "Estimating the Impact of Loan Supply Shocks",
+          "authors": [],
+          "presenter": "Alejandro Casado"
+        },
+        {
+          "title": "Banking on Nonbanks",
+          "authors": [],
+          "presenter": "Bruno Albuquerque"
+        },
+        {
+          "title": "Banks, Venture Capitalists and Low Innovation Traps",
+          "authors": [],
+          "presenter": "Javier Suarez"
+        }
+      ]
+    },
+    {
+      "session_title": "Session 5 (Wednesday)",
+      "chair": "Maria Iosifidi",
+      "date": "2026-07-01",
+      "time": "9:00",
+      "papers": [
+        {
+          "title": "Algorithmic Pricing and Bank Lending",
+          "authors": [],
+          "presenter": "Enrico Sette"
+        },
+        {
+          "title": "How do Lenders Manage Collateral Value Uncertainty?",
+          "authors": [],
+          "presenter": "Gianmarco Ruzzier"
+        },
+        {
+          "title": "Bank to Non-Bank Lending and the Reallocation of Credit",
+          "authors": [],
+          "presenter": "Caterina Mendicino"
+        }
+      ]
+    },
+    {
+      "session_title": "Session 6 (Wednesday)",
+      "chair": "Sofia Anyfantaki",
+      "date": "2026-07-01",
+      "time": "11:20",
+      "papers": [
+        {
+          "title": "Does Distance Still Matter? Evidence from 30 Years of Mortgage Lending",
+          "authors": [],
+          "presenter": "Joao Monteiro"
+        },
+        {
+          "title": "Who Benefits from Remote Work?",
+          "authors": [],
+          "presenter": "Elena Simintzi"
+        },
+        {
+          "title": "Nimble banks",
+          "authors": [],
+          "presenter": "Wolf Wagner"
+        }
+      ]
+    }
+  ],
+  "participants": [
+    {
+      "name": "Sotirios Kokas",
+      "institution": "Essex Business School",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Emanuel Mönch",
+      "institution": "Frankfurt School of Finance & Management",
+      "is_presenter": true,
+      "papers": []
+    },
+    {
+      "name": "Melina Papoutsi",
+      "institution": "European Central Bank",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Pascal Paul",
+      "institution": "Federal Reserve Bank of San Francisco",
+      "is_presenter": true,
+      "papers": []
+    },
+    {
+      "name": "Javier Suarez",
+      "institution": "Center For Monetary And Financial Studies (CEMFI)",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Benda Yin",
+      "institution": "Hong Kong University of Science and Technology",
+      "is_presenter": true,
+      "papers": []
+    },
+    {
+      "name": "Karolis Liaudinskas",
+      "institution": "Norges Bank",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Spyridon Lagaras",
+      "institution": "University Of Illinois At Urbana Champaign",
+      "is_presenter": true,
+      "papers": []
+    },
+    {
+      "name": "Joao Monteiro",
+      "institution": "Einaudi Institute for Economics and Finance (EIEF)",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Rustam Jamilov",
+      "institution": "University of Oxford, All Souls College",
+      "is_presenter": true,
+      "papers": []
+    },
+    {
+      "name": "Bruno Albuquerque",
+      "institution": "International Monetary Fund",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Paola Sapienza",
+      "institution": "Kellogg School of Management",
+      "is_presenter": true,
+      "papers": []
+    },
+    {
+      "name": "George Hondroyannis",
+      "institution": "Bank of Greece",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Saverio Stentella",
+      "institution": "Univeristy of Roma Tre",
+      "is_presenter": true,
+      "papers": []
+    },
+    {
+      "name": "Björn Imbierowicz",
+      "institution": "Deutsche Bundesbank",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Glenn Schepens",
+      "institution": "European Central Bank",
+      "is_presenter": true,
+      "papers": []
+    },
+    {
+      "name": "Hiona Balfoussia",
+      "institution": "Bank of Greece",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Alejandro Casado",
+      "institution": "Banco De España",
+      "is_presenter": true,
+      "papers": []
+    },
+    {
+      "name": "Christian Kubitza",
+      "institution": "European Central Bank",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Enrico Sette",
+      "institution": "European Central Bank",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Alexandros Vardoulakis",
+      "institution": "Federal Reserve Board",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Maria Iosifidi",
+      "institution": "Montpellier Business School",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Wolf Wagner",
+      "institution": "Erasmus University Rotterdam",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Gianmarco Ruzzier",
+      "institution": "Banco De España",
+      "is_presenter": true,
+      "papers": []
+    },
+    {
+      "name": "Caterina Mendicino",
+      "institution": "European Central Bank",
+      "is_presenter": true,
+      "papers": []
+    },
+    {
+      "name": "Sofia Anyfantaki",
+      "institution": "European Central Bank",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Elena Simintzi",
+      "institution": "University of North Carolina at Chapel Hill",
+      "is_presenter": true,
+      "papers": []
+    },
+    {
+      "name": "Manthos Delis",
+      "institution": "Audencia Business School",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Iftekhar Hasan",
+      "institution": "Fordham University & Bank of Finland",
+      "is_presenter": false,
+      "papers": []
+    },
+    {
+      "name": "Dennis Philip",
+      "institution": "Durham University Business School",
+      "is_presenter": false,
+      "papers": []
+    }
+  ]
+}
