@@ -12,6 +12,7 @@ One-command entry point to run the full pipeline:
   python run.py --full-all                # Full pipeline for all
   python run.py --normalize               # Run institution normalization
   python run.py --upload                  # Build + upload JSON to Drive
+  python run.py --push                    # Push data to Supabase
   python run.py --status                  # Show coverage stats
 """
 
@@ -21,6 +22,8 @@ import os
 import sys
 import subprocess
 from datetime import datetime
+
+from econ_conf.utils.sync_supabase import main as push_to_supabase
 
 PROJECT_DIR = os.path.dirname(os.path.abspath(__file__))
 SCRIPTS_DIR = os.path.join(PROJECT_DIR, 'scripts')
@@ -309,6 +312,7 @@ def main():
     parser.add_argument('--full-all', action='store_true', help='Full pipeline for all')
     parser.add_argument('--normalize', action='store_true', help='Run institution normalization')
     parser.add_argument('--upload', action='store_true', help='Upload JSON to Drive')
+    parser.add_argument('--push', action='store_true', help='Push data to Supabase')
     parser.add_argument('--status', action='store_true', help='Show coverage stats')
     
     args = parser.parse_args()
@@ -335,6 +339,9 @@ def main():
     if args.upload:
         build_json()
         upload_json()
+    
+    if args.push:
+        push_to_supabase()
     
     if args.full:
         scrape_conference(args.full)

@@ -40,9 +40,12 @@ process-all:
 full:
 	python run.py --full $(KEY)
 
-# Full pipeline for all conferences
-full-all:
-	python run.py --full-all
+# Push to Supabase
+push:
+	python run.py --push
+
+# Full pipeline + Supabase
+full-sync: full-all push
 
 # Install package in development mode
 install:
